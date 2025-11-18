@@ -1,0 +1,12 @@
+﻿KPI,Valor,Categoria,Formato
+Total Registros,3145.0,Volumen,Entero
+Países Únicos,7.0,Geografía,Entero
+Ciudades Únicas,36.0,Geografía,Entero
+Salario Promedio,24547.33691818507,Compensación,Moneda
+Salario Mediano,18300.0,Compensación,Moneda
+Salario Máximo,124323.0,Compensación,Moneda
+Clusters Identificados,5.0,Análisis ML,Entero
+Precisión Modelo ML,0.71,Análisis ML,Porcentaje
+Registros empleos_tech,1502.0,Fuentes,Entero
+Registros inversiones_tech,241.0,Fuentes,Entero
+Registros perfiles_habilidades,1402.0,Fuentes,Entero

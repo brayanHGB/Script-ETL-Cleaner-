@@ -1,0 +1,1503 @@
+id_oferta,empresa,ciudad,país,cargo,lenguaje,framework,nivel_seniority,salario_anual_usd,modalidad,fecha_publicación,fecha_publicación_year,fecha_publicación_month,fecha_publicación_quarter,source
+JOB-100001,Lambda Solutions,Cartagena,Colombia,ML Engineer,R,Spark,Junior,12.034,Remoto,2024-05-11,2024.0,5.0,2.0,jobs
+JOB-100002,GreenBit,Valparaiso,Chile,DevOps Engineer,Java,React,Junior,18602.0,Remoto,,,,,jobs
+JOB-100003,QuantumWare,Lima,Perú,Data Scientist,C#,Django,Senior,25324.0,Presencial,,,,,jobs
+JOB-100004,IA Factory,???,México,Data Analyst,TypeScript,Laravel,Senior,26740.0,Remoto,,,,,jobs
+JOB-100005,RocketSoft,Rosario,Argentina,MLOps Engineer,Swift,.NET,Mid,17633.0,Híbrido,,,,,jobs
+JOB-100006,NeoTech,Córdoba,Argentina,Data Analyst,TypeScript,Angular,Senior,28008.0,Presencial,,,,,jobs
+JOB-100007,IA Factory,Bucaramanga,Colombia,Fullstack Developer,JavaScript,FastAPI,Mid,11998.0,Presencial,,,,,jobs
+JOB-100008,RocketSoft,Seattle,USA,BI Developer,Kotlin,Flask,Junior,55996.0,Remoto,,,,,jobs
+JOB-100009,QuantumWare,San Francisco,USA,MLOps Engineer,PHP,Django,Mid,109.501,Remoto,,,,,jobs
+JOB-100010,NeoTech,Puebla,México,DevOps Engineer,R,FastAPI,Junior,15697.0,Remoto,,,,,jobs
+JOB-100011,Vertex AI,???,Colombia,MLOps Engineer,R,React,Junior,8699.0,Remoto,,,,,jobs
+JOB-100012,IA Factory,Rosario,Argentina,Frontend Developer,Go,Django,Junior,15588.0,Remoto,,,,,jobs
+JOB-100013,QuantumWare,Rosario,Argentina,DevOps Engineer,R,.NET,Junior,17.212,Remoto,,,,,jobs
+JOB-100014,Lambda Solutions,Santiago,Chile,BI Developer,Python,Flask,Junior,19215.0,Presencial,,,,,jobs
+JOB-100015,QuantumWare,Valparaíso,Chile,ML Engineer,Scala,Angular,Mid,24089.0,Híbrido,,,,,jobs
+JOB-100016,CloudForge,Seattle,USA,ML Engineer,Java,Node.js,Senior,104007.0,Presencial,,,,,jobs
+JOB-100017,Vertex AI,New York,USA,ML Engineer,Swift,Django,Senior,,Presencial,,,,,jobs
+JOB-100018,NeoTech,Barcelona,España,Cybersecurity Analyst,Swift,Vue,Mid,38.706,Remoto,,,,,jobs
+JOB-100019,RocketSoft,Cordoba,Argentina,Fullstack Developer,Python,Django,Mid,20823.0,Híbrido,,,,,jobs
+JOB-100020,Vertex AI,Buenos Aires,Argentina,Data Analyst,C#,Flask,Junior,12336.0,Presencial,,,,,jobs
+JOB-100021,Vertex AI,Rosario,Argentina,MLOps Engineer,Java,Spark,Junior,19.961,Remoto,,,,,jobs
+JOB-100022,QuantumWare,Guadalajara,México,Cloud Architect,R,Flask,Senior,25783.0,Remoto,,,,,jobs
+JOB-100023,DevOpsLab,San Francisco,USA,BI Developer,TypeScript,FastAPI,Senior,,Remoto,,,,,jobs
+JOB-100024,DevOpsLab,San Francisco,USA,DevOps Engineer,C#,React,Junior,99131.0,Presencial,,,,,jobs
+JOB-100025,DevOpsLab,Concepción,Chile,Data Scientist,PHP,FastAPI,Senior,34761.0,Presencial,,,,,jobs
+JOB-100026,IA Factory,Puebla,México,BI Developer,Python,Spring,Junior,11266.0,Presencial,,,,,jobs
+JOB-100027,RocketSoft,Monterrey,México,Data Analyst,Swift,Django,Junior,13524.0,Presencial,,,,,jobs
+JOB-100028,CloudForge,CONCEPCIÓN,Chile,Cloud Architect,PHP,Laravel,Senior,22986.0,Híbrido,,,,,jobs
+JOB-100029,NeoTech,Puebla,México,Data Engineer,Swift,Angular,Senior,29.166,Híbrido,,,,,jobs
+JOB-100030,NeoTech,New York,USA,DevOps Engineer,Java,React,Senior,124.691,Presencial,,,,,jobs
+JOB-100031,DevOpsLab,Buenos Aires,Argentina,Cloud Architect,C#,Flask,Mid,17772.0,Remoto,,,,,jobs
+JOB-100032,SoftSmart,New York,USA,Fullstack Developer,PHP,Flask,Senior,,Híbrido,,,,,jobs
+JOB-100033,BluePixel,Bogotá,Colombia,Cybersecurity Analyst,Java,Flask,Junior,7222.0,Remoto,2023-08-07,2023.0,8.0,3.0,jobs
+JOB-100034,Atlas Systems,Valparaíso,Chile,DevOps Engineer,JavaScript,Vue,Senior,37811.0,Híbrido,,,,,jobs
+JOB-100035,CloudForge,arequipa,Perú,Frontend Developer,Python,Spark,Junior,9940.0,Remoto,,,,,jobs
+JOB-100036,Lambda Solutions,CDMX,México,Cybersecurity Analyst,R,Angular,Senior,22.697,Remoto,,,,,jobs
+JOB-100037,SoftSmart,Lima,Perú,Frontend Developer,Scala,Angular,Senior,20648.0,Híbrido,,,,,jobs
+JOB-100038,CodeWorks,Puebla,México,Data Scientist,Python,Vue,Senior,30726.0,Remoto,,,,,jobs
+JOB-100039,QuantumWare,San Francisco,USA,Cybersecurity Analyst,Go,React,Junior,96134.0,Híbrido,,,,,jobs
+JOB-100040,DataNova,CDMX,México,Data Analyst,Scala,Angular,Mid,17110.0,Presencial,,,,,jobs
+JOB-100041,BluePixel,SEATTLE,USA,Data Scientist,Kotlin,Spring,Junior,85584.0,Híbrido,,,,,jobs
+JOB-100042,BluePixel,SEATTLE,USA,Backend Developer,PHP,Spring,Junior,73948.0,Presencial,2025-05-09,2025.0,5.0,2.0,jobs
+JOB-100043,DataNova,Rosario,Argentina,Data Analyst,Go,Flask,Junior,17.363,Híbrido,,,,,jobs
+JOB-100044,DevOpsLab,???,España,MLOps Engineer,TypeScript,.NET,Mid,33.708,Presencial,2025-10-08,2025.0,10.0,4.0,jobs
+JOB-100045,GreenBit,Cusco,Perú,Data Engineer,Swift,Spring,Senior,18.742,Presencial,2025-11-04,2025.0,11.0,4.0,jobs
+JOB-100046,CodeWorks,Córdoba,Argentina,ML Engineer,Scala,Node.js,Junior,11672.0,Presencial,,,,,jobs
+JOB-100047,DataNova,Bucaramanga,Colombia,Cloud Architect,Java,Vue,Senior,17765.0,Híbrido,,,,,jobs
+JOB-100048,SoftSmart,???,Perú,Backend Developer,Scala,FastAPI,Mid,24.068,Híbrido,2022-06-04,2022.0,6.0,2.0,jobs
+JOB-100049,DevOpsLab,Valencia,España,Fullstack Developer,Go,Spark,Senior,55349.0,Remoto,,,,,jobs
+JOB-100050,CyberShield,Miami,USA,Data Engineer,C#,Spark,Mid,87524.0,Híbrido,,,,,jobs
+JOB-100051,CloudForge,Cartagena,Colombia,Cloud Architect,Python,Angular,Mid,15441.0,Híbrido,2024-03-03,2024.0,3.0,1.0,jobs
+JOB-100052,SoftSmart,Valencia,España,Data Analyst,TypeScript,Flask,Junior,31482.0,Presencial,,,,,jobs
+JOB-100053,Vertex AI,Medellín,Colombia,Backend Developer,Kotlin,FastAPI,Mid,12182.0,Presencial,,,,,jobs
+JOB-100054,DevOpsLab,CALI,Colombia,DevOps Engineer,PHP,.NET,Mid,12454.0,Híbrido,2022-03-09,2022.0,3.0,1.0,jobs
+JOB-100055,BluePixel,Rosario,Argentina,Frontend Developer,PHP,Flask,Mid,19.602,Híbrido,,,,,jobs
+JOB-100056,BluePixel,Rosario,Argentina,MLOps Engineer,JavaScript,React,Mid,19071.0,Híbrido,,,,,jobs
+JOB-100057,SoftSmart,Córdoba,Argentina,Data Engineer,Java,,Senior,21.973,Presencial,,,,,jobs
+JOB-100058,DevOpsLab,Austin,USA,ML Engineer,Kotlin,.NET,Mid,102148.0,Híbrido,2025-05-09,2025.0,5.0,2.0,jobs
+JOB-100059,QuantumWare,Unknown,Colombia,Data Analyst,JavaScript,Spark,Junior,9463.0,Presencial,,,,,jobs
+JOB-100060,Orion Cloud,CDMX,México,DevOps Engineer,JavaScript,Vue,Junior,16977.0,Remoto,,,,,jobs
+JOB-100061,SoftSmart,Barcelona,España,Data Scientist,R,.NET,Mid,35897.0,Remoto,,,,,jobs
+JOB-100062,Vertex AI,barcelona,España,ML Engineer,Scala,Vue,Senior,37987.0,Híbrido,,,,,jobs
+JOB-100063,BluePixel,Sevilla,España,Data Scientist,JavaScript,Django,Mid,37432.0,Remoto,,,,,jobs
+JOB-100064,Orion Cloud,Guadalajara,México,Cloud Architect,C#,Flask,Junior,18.071,Presencial,,,,,jobs
+JOB-100065,CodeWorks,Bucaramanga,Colombia,Data Scientist,JavaScript,React,Senior,15833.0,Presencial,,,,,jobs
+JOB-100066,CyberShield,Santiago,Chile,Data Analyst,Java,Angular,Senior,30328.0,Presencial,,,,,jobs
+JOB-100067,Orion Cloud,rosario,Argentina,Frontend Developer,PHP,Spark,Junior,13.135,Remoto,,,,,jobs
+JOB-100068,SoftSmart,Cali,Colombia,Cloud Architect,Scala,Spark,Mid,10.109,Híbrido,,,,,jobs
+JOB-100069,Lambda Solutions,BUENOS AIRES,Argentina,Data Engineer,R,Node.js,Senior,26739.0,Presencial,,,,,jobs
+JOB-100070,SoftSmart,Monterrey,México,Frontend Developer,C#,React,Mid,14814.0,Remoto,,,,,jobs
+JOB-100071,NeoTech,Santiago,Chile,Cloud Architect,R,Spark,Junior,24492.0,Remoto,,,,,jobs
+JOB-100072,CodeWorks,New York,USA,ML Engineer,R,FastAPI,Senior,,Híbrido,,,,,jobs
+JOB-100073,Orion Cloud,Córdoba,Argentina,Data Scientist,Go,Spark,Senior,28.456,Remoto,,,,,jobs
+JOB-100074,CloudForge,Lima,Perú,Fullstack Developer,R,Flask,Senior,30636.0,Híbrido,,,,,jobs
+JOB-100075,SoftSmart,Austin,USA,Fullstack Developer,Swift,FastAPI,Junior,93137.0,Remoto,,,,,jobs
+JOB-100076,QuantumWare,Bogotá,Colombia,Data Scientist,R,Django,Mid,11617.0,Presencial,,,,,jobs
+JOB-100077,CodeWorks,Bucaramanga,Colombia,Frontend Developer,PHP,Angular,Mid,12597.0,Remoto,,,,,jobs
+JOB-100078,Orion Cloud,???,México,DevOps Engineer,Go,.NET,Mid,19984.0,Híbrido,2022-06-11,2022.0,6.0,2.0,jobs
+JOB-100079,Lambda Solutions,Santiago,Chile,Cloud Architect,PHP,Laravel,Junior,19421.0,Remoto,,,,,jobs
+JOB-100080,RocketSoft,Buenos Aires,Argentina,Cybersecurity Analyst,Swift,Node.js,Junior,11.732,Presencial,,,,,jobs
+JOB-100081,RocketSoft,Puebla,México,Data Engineer,Kotlin,Spring,Junior,15814.0,Presencial,,,,,jobs
+JOB-100082,BluePixel,Austin,USA,Frontend Developer,Go,Laravel,Mid,107744.0,Híbrido,,,,,jobs
+JOB-100083,DevOpsLab,Barranquilla,Colombia,Frontend Developer,TypeScript,React,Mid,12747.0,Presencial,,,,,jobs
+JOB-100084,CyberShield,Barranquilla,Colombia,MLOps Engineer,Kotlin,Django,Junior,8270.0,Híbrido,,,,,jobs
+JOB-100085,NeoTech,Cusco,Perú,Data Analyst,Python,React,Senior,24459.0,Híbrido,,,,,jobs
+JOB-100086,Atlas Systems,Concepción,Chile,MLOps Engineer,Python,Flask,Senior,31.898,Remoto,,,,,jobs
+JOB-100087,SoftSmart,Barcelona,España,Frontend Developer,Python,Laravel,Senior,50.808,Híbrido,,,,,jobs
+JOB-100088,BluePixel,Valparaíso,Chile,Data Analyst,C#,Django,Mid,29863.0,Híbrido,,,,,jobs
+JOB-100089,CloudForge,Seattle,USA,MLOps Engineer,JavaScript,.NET,Senior,,Híbrido,,,,,jobs
+JOB-100090,Vertex AI,Barcelona,España,DevOps Engineer,R,Django,Mid,41815.0,Remoto,,,,,jobs
+JOB-100091,GreenBit,Seattle,USA,Data Analyst,Java,.NET,Senior,,Remoto,,,,,jobs
+JOB-100092,QuantumWare,BARCELONA,España,Data Analyst,TypeScript,Laravel,Mid,41856.0,Remoto,2024-03-12,2024.0,3.0,1.0,jobs
+JOB-100093,CyberShield,CDMX,México,DevOps Engineer,Kotlin,React,Mid,17.966,Híbrido,,,,,jobs
+JOB-100094,IA Factory,Santiago,Chile,MLOps Engineer,C#,Laravel,Mid,24716.0,Presencial,,,,,jobs
+JOB-100095,IA Factory,Guadalajara,México,DevOps Engineer,PHP,Flask,Junior,12.944,Presencial,,,,,jobs
+JOB-100096,Orion Cloud,Córdoba,Argentina,Cybersecurity Analyst,Scala,Angular,Senior,27765.0,Híbrido,,,,,jobs
+JOB-100097,Orion Cloud,Cordoba,Argentina,ML Engineer,Python,Django,Senior,37491.0,Híbrido,,,,,jobs
+JOB-100098,CloudForge,Barranquilla,Colombia,ML Engineer,PHP,.NET,Mid,13.564,Remoto,,,,,jobs
+JOB-100099,Lambda Solutions,Cusco,Perú,Data Engineer,Swift,Flask,Junior,13.661,Remoto,,,,,jobs
+JOB-100100,RocketSoft,CDMX,México,Frontend Developer,JavaScript,Spark,Senior,23416.0,Remoto,,,,,jobs
+JOB-100101,Orion Cloud,Monterrey,México,ML Engineer,Go,Vue,Mid,15.665,Híbrido,,,,,jobs
+JOB-100102,QuantumWare,SEATTLE,USA,ML Engineer,Scala,Angular,Senior,,Remoto,,,,,jobs
+JOB-100103,Vertex AI,Madrid,España,Cloud Architect,Swift,,Senior,56324.0,Presencial,,,,,jobs
+JOB-100104,Vertex AI,Lima,Perú,BI Developer,JavaScript,Node.js,Mid,14103.0,Presencial,,,,,jobs
+JOB-100105,Atlas Systems,New York,USA,Frontend Developer,Scala,Laravel,Senior,,Remoto,,,,,jobs
+JOB-100106,Vertex AI,Concepción,Chile,Data Scientist,JavaScript,FastAPI,Junior,18291.0,Remoto,,,,,jobs
+JOB-100107,Vertex AI,MIAMI,USA,Cybersecurity Analyst,C#,.NET,Senior,161.463,Presencial,,,,,jobs
+JOB-100108,NeoTech,???,Colombia,Data Engineer,JavaScript,FastAPI,Junior,9825.0,Híbrido,,,,,jobs
+JOB-100109,CodeWorks,Sevilla,España,MLOps Engineer,Swift,Node.js,Senior,66.907,Remoto,,,,,jobs
+JOB-100110,DataNova,Bogota,Colombia,DevOps Engineer,JavaScript,React,Junior,8940.0,Presencial,2023-08-02,2023.0,8.0,3.0,jobs
+JOB-100111,GreenBit,Cali,Colombia,BI Developer,JavaScript,Vue,Mid,11481.0,Presencial,,,,,jobs
+JOB-100112,GreenBit,Sevilla,España,Data Engineer,Kotlin,Flask,Senior,55.592,Híbrido,,,,,jobs
+JOB-100113,Atlas Systems,Unknown,Chile,Data Engineer,Python,Angular,Senior,40.543,Híbrido,2025-07-08,2025.0,7.0,3.0,jobs
+JOB-100114,DataNova,Unknown,México,ML Engineer,Go,React,Senior,27339.0,Remoto,,,,,jobs
+JOB-100115,QuantumWare,Unknown,Argentina,MLOps Engineer,Scala,Vue,Mid,16299.0,Híbrido,,,,,jobs
+JOB-100116,QuantumWare,Guadalajara,México,BI Developer,TypeScript,Flask,Senior,25891.0,Remoto,,,,,jobs
+JOB-100117,DevOpsLab,CDMX,México,Data Engineer,Python,Django,Junior,14.448,Remoto,,,,,jobs
+JOB-100118,CloudForge,Guadalajara,México,Data Engineer,R,Flask,Junior,13473.0,Presencial,,,,,jobs
+JOB-100119,DevOpsLab,Austin,USA,Data Analyst,Scala,React,Mid,85.764,Híbrido,,,,,jobs
+JOB-100120,Vertex AI,Arequipa,Perú,Fullstack Developer,TypeScript,Vue,Mid,22718.0,Híbrido,,,,,jobs
+JOB-100121,CyberShield,Santiago,Chile,Fullstack Developer,Kotlin,Django,Senior,32950.0,Presencial,2023-12-08,2023.0,12.0,4.0,jobs
+JOB-100122,SoftSmart,Buenos Aires,Argentina,Frontend Developer,Python,Django,Mid,17462.0,Híbrido,,,,,jobs
+JOB-100123,Atlas Systems,Barcelona,España,BI Developer,JavaScript,Angular,Junior,33305.0,Presencial,,,,,jobs
+JOB-100124,CyberShield,Córdoba,Argentina,MLOps Engineer,PHP,Node.js,Junior,16313.0,Híbrido,,,,,jobs
+JOB-100125,BluePixel,Puebla,México,Frontend Developer,R,Vue,Senior,24913.0,Híbrido,,,,,jobs
+JOB-100126,Lambda Solutions,Concepción,Chile,Cybersecurity Analyst,JavaScript,FastAPI,Senior,39.101,Híbrido,2023-11-06,2023.0,11.0,4.0,jobs
+JOB-100127,Orion Cloud,Unknown,USA,MLOps Engineer,C#,Vue,Junior,81570.0,Presencial,,,,,jobs
+JOB-100128,Vertex AI,???,USA,ML Engineer,C#,Node.js,Junior,80.128,Remoto,,,,,jobs
+JOB-100129,DevOpsLab,CDMX,México,Frontend Developer,Go,.NET,Mid,20603.0,Híbrido,,,,,jobs
+JOB-100130,DataNova,Valencia,España,DevOps Engineer,R,React,Senior,55.463,Híbrido,,,,,jobs
+JOB-100131,NeoTech,Sevilla,España,DevOps Engineer,TypeScript,Laravel,Senior,48276.0,Presencial,,,,,jobs
+JOB-100132,Lambda Solutions,Puebla,México,Frontend Developer,Scala,Flask,Mid,17021.0,Híbrido,,,,,jobs
+JOB-100133,GreenBit,Valencia,España,Cybersecurity Analyst,Scala,Spark,Junior,28024.0,Híbrido,,,,,jobs
+JOB-100134,SoftSmart,Cartagena,Colombia,ML Engineer,C#,Vue,Mid,12377.0,Presencial,,,,,jobs
+JOB-100135,Vertex AI,Buenos Aires,Argentina,Cybersecurity Analyst,PHP,.NET,Senior,23472.0,Híbrido,,,,,jobs
+JOB-100136,Vertex AI,Córdoba,Argentina,MLOps Engineer,Python,Angular,Mid,14502.0,Híbrido,,,,,jobs
+JOB-100137,CyberShield,Puebla,México,Backend Developer,Go,.NET,Senior,25533.0,Remoto,,,,,jobs
+JOB-100138,NeoTech,Arequipa,Perú,ML Engineer,PHP,Spark,Senior,20147.0,Presencial,,,,,jobs
+JOB-100139,RocketSoft,Rosario,Argentina,Fullstack Developer,C#,Angular,Senior,19.801,Presencial,,,,,jobs
+JOB-100140,Atlas Systems,Seattle,USA,Fullstack Developer,C#,Spark,Mid,100319.0,Presencial,,,,,jobs
+JOB-100141,QuantumWare,Lima,Perú,Data Scientist,Java,Laravel,Mid,16080.0,Presencial,,,,,jobs
+JOB-100142,SoftSmart,Santiago,Chile,Data Analyst,Scala,Angular,Mid,26860.0,Remoto,,,,,jobs
+JOB-100143,SoftSmart,Madrid,España,DevOps Engineer,Swift,Spring,Senior,48963.0,Remoto,2024-09-10,2024.0,9.0,3.0,jobs
+JOB-100144,Orion Cloud,seattle,USA,MLOps Engineer,Java,Vue,Junior,63209.0,Híbrido,,,,,jobs
+JOB-100145,DevOpsLab,CDMX,México,Data Engineer,Kotlin,React,Mid,14642.0,Híbrido,,,,,jobs
+JOB-100146,Orion Cloud,Medellín,Colombia,Fullstack Developer,R,.NET,Senior,15502.0,Remoto,,,,,jobs
+JOB-100147,Lambda Solutions,???,Perú,Data Analyst,Swift,FastAPI,Mid,17261.0,Híbrido,2025-04-07,2025.0,4.0,2.0,jobs
+JOB-100148,Vertex AI,Lima,Perú,Fullstack Developer,Kotlin,Vue,Senior,22087.0,Híbrido,,,,,jobs
+JOB-100149,BluePixel,Valparaíso,Chile,Fullstack Developer,Kotlin,.NET,Mid,23945.0,Remoto,,,,,jobs
+JOB-100150,Lambda Solutions,Concepción,Chile,Backend Developer,PHP,Angular,Junior,15391.0,Híbrido,,,,,jobs
+JOB-100151,CodeWorks,Medellín,Colombia,DevOps Engineer,Go,Flask,Junior,9620.0,Presencial,,,,,jobs
+JOB-100152,QuantumWare,???,España,BI Developer,JavaScript,Spark,Senior,38.886,Presencial,,,,,jobs
+JOB-100153,IA Factory,Cali,Colombia,Data Scientist,R,Flask,Senior,16311.0,Híbrido,,,,,jobs
+JOB-100154,IA Factory,Rosario,Argentina,DevOps Engineer,Python,Node.js,Junior,17673.0,Híbrido,,,,,jobs
+JOB-100155,GreenBit,Bucaramanga,Colombia,BI Developer,R,FastAPI,Junior,11.172,Híbrido,,,,,jobs
+JOB-100156,RocketSoft,???,Argentina,Backend Developer,JavaScript,Spark,Junior,20114.0,Remoto,,,,,jobs
+JOB-100157,DevOpsLab,Santiago,Chile,Cloud Architect,Python,Angular,Senior,26829.0,Remoto,,,,,jobs
+JOB-100158,CloudForge,Córdoba,Argentina,Frontend Developer,Scala,Vue,Senior,31.186,Remoto,,,,,jobs
+JOB-100159,CloudForge,Santiago,Chile,DevOps Engineer,Go,Angular,Senior,41332.0,Presencial,,,,,jobs
+JOB-100160,Orion Cloud,Lima,Perú,Cloud Architect,Scala,Spring,Junior,16518.0,Presencial,,,,,jobs
+JOB-100161,Orion Cloud,New York,USA,Frontend Developer,TypeScript,Node.js,Mid,81757.0,Presencial,2022-01-02,2022.0,1.0,1.0,jobs
+JOB-100162,BluePixel,Rosario,Argentina,BI Developer,R,React,Mid,21235.0,Híbrido,,,,,jobs
+JOB-100163,Atlas Systems,San Francisco,USA,DevOps Engineer,JavaScript,Laravel,Junior,97204.0,Híbrido,,,,,jobs
+JOB-100164,CloudForge,Guadalajara,México,Cybersecurity Analyst,Swift,FastAPI,Mid,13957.0,Presencial,,,,,jobs
+JOB-100165,Atlas Systems,Santiago,Chile,BI Developer,Python,.NET,Mid,26786.0,Remoto,,,,,jobs
+JOB-100166,Atlas Systems,santiago,Chile,Cybersecurity Analyst,PHP,FastAPI,Senior,40839.0,Remoto,,,,,jobs
+JOB-100167,Vertex AI,Barranquilla,Colombia,DevOps Engineer,Swift,Spring,Junior,8596.0,Híbrido,,,,,jobs
+JOB-100168,DevOpsLab,Miami,USA,Fullstack Developer,TypeScript,Django,Mid,103307.0,Remoto,,,,,jobs
+JOB-100169,SoftSmart,Rosario,Argentina,Frontend Developer,Go,.NET,Junior,13429.0,Híbrido,,,,,jobs
+JOB-100170,IA Factory,Cartagena,Colombia,DevOps Engineer,Java,Django,Junior,8430.0,Híbrido,,,,,jobs
+JOB-100171,CloudForge,Madrid,España,Frontend Developer,PHP,Laravel,Junior,26674.0,Remoto,2024-07-07,2024.0,7.0,3.0,jobs
+JOB-100172,NeoTech,Austin,USA,Data Engineer,C#,Spring,Junior,78192.0,Remoto,,,,,jobs
+JOB-100173,RocketSoft,Lima,Perú,Data Scientist,Java,Spring,Mid,17754.0,Presencial,,,,,jobs
+JOB-100174,CyberShield,Buenos Aires,Argentina,Cloud Architect,PHP,Node.js,Mid,22862.0,Remoto,,,,,jobs
+JOB-100175,DataNova,Lima,Perú,Cloud Architect,C#,Django,Junior,12368.0,Híbrido,,,,,jobs
+JOB-100176,QuantumWare,Austin,USA,Data Scientist,Scala,Flask,Mid,93.129,Remoto,,,,,jobs
+JOB-100177,NeoTech,Rosario,Argentina,Data Engineer,Python,Spring,Senior,32036.0,Remoto,,,,,jobs
+JOB-100178,DevOpsLab,San Francisco,USA,Data Scientist,Go,Laravel,Mid,102.991,Híbrido,,,,,jobs
+JOB-100179,CodeWorks,córdoba,Argentina,MLOps Engineer,Scala,React,Senior,,Híbrido,,,,,jobs
+JOB-100180,NeoTech,CDMX,México,Data Analyst,R,Angular,Mid,19796.0,Remoto,,,,,jobs
+JOB-100181,Lambda Solutions,Cusco,Perú,Cybersecurity Analyst,JavaScript,FastAPI,Junior,13366.0,Híbrido,,,,,jobs
+JOB-100182,IA Factory,Barcelona,España,ML Engineer,JavaScript,Vue,Junior,32157.0,Remoto,,,,,jobs
+JOB-100183,IA Factory,Barcelona,España,Backend Developer,JavaScript,Laravel,Senior,55599.0,Remoto,,,,,jobs
+JOB-100184,CodeWorks,Cusco,Perú,Cybersecurity Analyst,PHP,Node.js,Mid,21292.0,Remoto,,,,,jobs
+JOB-100185,RocketSoft,???,México,ML Engineer,Scala,Angular,Junior,14651.0,Híbrido,,,,,jobs
+JOB-100186,Orion Cloud,Barcelona,España,Cybersecurity Analyst,Java,Flask,Mid,27433.0,Presencial,,,,,jobs
+JOB-100187,CyberShield,Cartagena,Colombia,Data Engineer,Kotlin,FastAPI,Senior,13347.0,Remoto,,,,,jobs
+JOB-100188,IA Factory,???,Chile,ML Engineer,Java,Angular,Mid,27.741,Presencial,,,,,jobs
+JOB-100189,Orion Cloud,New York,USA,Cybersecurity Analyst,C#,FastAPI,Junior,73055.0,Híbrido,,,,,jobs
+JOB-100190,Atlas Systems,Guadalajara,México,Data Analyst,Java,Flask,Mid,21072.0,Presencial,,,,,jobs
+JOB-100191,IA Factory,Rosario,Argentina,Data Scientist,Scala,.NET,Senior,29148.0,Híbrido,,,,,jobs
+JOB-100192,NeoTech,Arequipa,Perú,Fullstack Developer,R,Laravel,Mid,15977.0,Híbrido,,,,,jobs
+JOB-100193,Vertex AI,cali,Colombia,Backend Developer,R,Spark,Senior,19527.0,Remoto,,,,,jobs
+JOB-100194,DataNova,Arequipa,Perú,Backend Developer,JavaScript,.NET,Mid,15820.0,Remoto,,,,,jobs
+JOB-100195,Atlas Systems,Cali,Colombia,MLOps Engineer,Swift,Django,Senior,11627.0,Híbrido,,,,,jobs
+JOB-100196,BluePixel,Cartagena,Colombia,Fullstack Developer,Scala,Spring,Junior,12571.0,Remoto,,,,,jobs
+JOB-100197,DevOpsLab,San Francisco,USA,Frontend Developer,R,,Mid,67771.0,Híbrido,2025-03-06,2025.0,3.0,1.0,jobs
+JOB-100198,SoftSmart,Miami,USA,Cybersecurity Analyst,PHP,FastAPI,Senior,,Remoto,,,,,jobs
+JOB-100199,QuantumWare,Guadalajara,México,BI Developer,R,Django,Mid,20534.0,Híbrido,,,,,jobs
+JOB-100200,SoftSmart,Santiago,Chile,Frontend Developer,Python,Django,Junior,20441.0,Híbrido,,,,,jobs
+JOB-100201,Orion Cloud,Barcelona,España,Fullstack Developer,Java,Vue,Junior,22723.0,Remoto,,,,,jobs
+JOB-100202,Atlas Systems,Cusco,Perú,Cybersecurity Analyst,Java,FastAPI,Mid,20740.0,Híbrido,,,,,jobs
+JOB-100203,CyberShield,Córdoba,Argentina,Cloud Architect,R,Laravel,Junior,12540.0,Híbrido,,,,,jobs
+JOB-100204,Vertex AI,Concepción,Chile,Frontend Developer,PHP,.NET,Senior,27945.0,Remoto,,,,,jobs
+JOB-100205,IA Factory,Valparaíso,Chile,Cybersecurity Analyst,Go,Spring,Mid,23643.0,Híbrido,,,,,jobs
+JOB-100206,SoftSmart,Miami,USA,DevOps Engineer,Python,Django,Junior,84988.0,Presencial,,,,,jobs
+JOB-100207,GreenBit,Concepción,Chile,DevOps Engineer,Kotlin,Node.js,Junior,20.9,Presencial,,,,,jobs
+JOB-100208,Vertex AI,Santiago,Chile,Cybersecurity Analyst,R,Spark,Senior,39256.0,Híbrido,,,,,jobs
+JOB-100209,Lambda Solutions,Austin,USA,Data Engineer,Swift,Flask,Junior,70.942,Híbrido,,,,,jobs
+JOB-100210,BluePixel,Barcelona,España,Data Engineer,PHP,Vue,Mid,37.018,Presencial,,,,,jobs
+JOB-100211,CyberShield,Madrid,España,Fullstack Developer,TypeScript,Spark,Senior,44125.0,Remoto,,,,,jobs
+JOB-100212,QuantumWare,Medellin,Colombia,Data Analyst,TypeScript,Django,Senior,16001.0,Presencial,,,,,jobs
+JOB-100213,GreenBit,Concepción,Chile,BI Developer,Java,Spring,Junior,21779.0,Remoto,,,,,jobs
+JOB-100214,GreenBit,Cusco,Perú,Data Scientist,Scala,Django,Senior,24.066,Híbrido,,,,,jobs
+JOB-100215,CyberShield,Rosario,Argentina,BI Developer,Java,Node.js,Junior,,Remoto,,,,,jobs
+JOB-100216,NeoTech,Santiago,Chile,Backend Developer,C#,Django,Junior,18280.0,Híbrido,,,,,jobs
+JOB-100217,RocketSoft,Barcelona,España,Data Analyst,C#,Spark,Mid,34623.0,Presencial,,,,,jobs
+JOB-100218,NeoTech,BUENOS AIRES,Argentina,Data Analyst,JavaScript,Spring,Mid,20.117,Híbrido,,,,,jobs
+JOB-100219,QuantumWare,Barranquilla,Colombia,Fullstack Developer,R,Spark,Junior,9.319,Presencial,,,,,jobs
+JOB-100220,BluePixel,New York,USA,Fullstack Developer,C#,.NET,Junior,82.753,Remoto,,,,,jobs
+JOB-100221,DevOpsLab,Monterrey,México,Cybersecurity Analyst,Kotlin,FastAPI,Junior,14785.0,Híbrido,2025-12-07,2025.0,12.0,4.0,jobs
+JOB-100222,RocketSoft,Barcelona,España,Cybersecurity Analyst,C#,React,Mid,47919.0,Presencial,,,,,jobs
+JOB-100223,QuantumWare,Lima,Perú,BI Developer,Swift,React,Junior,13.925,Presencial,,,,,jobs
+JOB-100224,DevOpsLab,bucaramanga,Colombia,Frontend Developer,Python,.NET,Senior,16.227,Híbrido,,,,,jobs
+JOB-100225,Vertex AI,VALENCIA,España,Cybersecurity Analyst,Go,React,Junior,25657.0,Remoto,,,,,jobs
+JOB-100226,Orion Cloud,CDMX,México,MLOps Engineer,Scala,Spring,Mid,18061.0,Híbrido,,,,,jobs
+JOB-100227,QuantumWare,New York,USA,Fullstack Developer,Scala,Flask,Junior,83784.0,Presencial,,,,,jobs
+JOB-100228,IA Factory,ROSARIO,Argentina,DevOps Engineer,C#,Angular,Junior,14223.0,Presencial,,,,,jobs
+JOB-100229,NeoTech,Rosario,Argentina,BI Developer,Kotlin,Vue,Mid,19850.0,Remoto,,,,,jobs
+JOB-100230,CodeWorks,AREQUIPA,Perú,Backend Developer,Scala,Flask,Junior,,Presencial,,,,,jobs
+JOB-100231,QuantumWare,Santiago,Chile,Data Engineer,TypeScript,React,Mid,24524.0,Híbrido,,,,,jobs
+JOB-100232,SoftSmart,???,Argentina,DevOps Engineer,Scala,Vue,Junior,14754.0,Presencial,,,,,jobs
+JOB-100233,NeoTech,Monterrey,México,Cybersecurity Analyst,Go,React,Junior,16.501,Remoto,,,,,jobs
+JOB-100234,RocketSoft,CDMX,México,MLOps Engineer,Kotlin,React,Senior,25566.0,Remoto,,,,,jobs
+JOB-100235,DevOpsLab,Monterrey,México,Data Engineer,JavaScript,Laravel,Senior,26699.0,Presencial,,,,,jobs
+JOB-100236,DevOpsLab,Bucaramanga,Colombia,BI Developer,Kotlin,.NET,Junior,11.286,Híbrido,,,,,jobs
+JOB-100237,Atlas Systems,Seattle,USA,Frontend Developer,C#,Flask,Senior,,Híbrido,,,,,jobs
+JOB-100238,BluePixel,Barranquilla,Colombia,ML Engineer,Swift,Flask,Junior,9.1,Remoto,,,,,jobs
+JOB-100239,RocketSoft,New York,USA,DevOps Engineer,Kotlin,React,Senior,122517.0,Presencial,,,,,jobs
+JOB-100240,CloudForge,Lima,Perú,ML Engineer,Python,Django,Mid,18.767,Presencial,2024-12-12,2024.0,12.0,4.0,jobs
+JOB-100241,BluePixel,Monterrey,México,Data Engineer,TypeScript,Node.js,Mid,17641.0,Remoto,,,,,jobs
+JOB-100242,Atlas Systems,Concepción,Chile,Backend Developer,Python,Django,Junior,14300.0,Remoto,,,,,jobs
+JOB-100243,IA Factory,Medellín,Colombia,Frontend Developer,TypeScript,Laravel,Senior,20.013,Remoto,,,,,jobs
+JOB-100244,CodeWorks,Valencia,España,Cloud Architect,Kotlin,React,Junior,30488.0,Presencial,,,,,jobs
+JOB-100245,CodeWorks,Buenos Aires,Argentina,Cybersecurity Analyst,R,Node.js,Junior,17767.0,Presencial,,,,,jobs
+JOB-100246,Orion Cloud,PUEBLA,México,BI Developer,Scala,Node.js,Senior,20766.0,Presencial,,,,,jobs
+JOB-100247,DevOpsLab,Lima,Perú,DevOps Engineer,TypeScript,,Junior,17182.0,Presencial,,,,,jobs
+JOB-100248,GreenBit,Monterrey,México,Fullstack Developer,Kotlin,Spark,Senior,22976.0,Remoto,,,,,jobs
+JOB-100249,DevOpsLab,Valparaíso,Chile,MLOps Engineer,TypeScript,Node.js,Senior,34434.0,Presencial,,,,,jobs
+JOB-100250,NeoTech,Medellín,Colombia,ML Engineer,C#,Vue,Senior,13268.0,Presencial,,,,,jobs
+JOB-100251,Atlas Systems,Buenos Aires,Argentina,Data Engineer,Kotlin,React,Senior,27298.0,Presencial,,,,,jobs
+JOB-100252,CloudForge,Concepción,Chile,Cloud Architect,JavaScript,Vue,Senior,33793.0,Presencial,,,,,jobs
+JOB-100253,QuantumWare,Buenos Aires,Argentina,Cybersecurity Analyst,JavaScript,React,Senior,27.221,Remoto,2024-08-04,2024.0,8.0,3.0,jobs
+JOB-100254,CodeWorks,New York,USA,Data Scientist,TypeScript,React,Mid,101248.0,Remoto,,,,,jobs
+JOB-100255,Vertex AI,Madrid,España,ML Engineer,PHP,Node.js,Senior,53681.0,Remoto,,,,,jobs
+JOB-100256,CodeWorks,Valparaíso,Chile,BI Developer,PHP,Flask,Mid,28659.0,Remoto,,,,,jobs
+JOB-100257,SoftSmart,Buenos Aires,Argentina,Data Engineer,Kotlin,Django,Senior,26.033,Remoto,,,,,jobs
+JOB-100258,BluePixel,Valparaíso,Chile,MLOps Engineer,Scala,.NET,Junior,17011.0,Híbrido,,,,,jobs
+JOB-100259,DevOpsLab,Lima,Perú,Cloud Architect,Swift,FastAPI,Junior,14358.0,Presencial,,,,,jobs
+JOB-100260,IA Factory,Cusco,Perú,Data Engineer,Kotlin,.NET,Junior,15757.0,Híbrido,,,,,jobs
+JOB-100261,DevOpsLab,Monterrey,México,BI Developer,TypeScript,Django,Junior,17088.0,Presencial,,,,,jobs
+JOB-100262,Lambda Solutions,San Francisco,USA,Data Scientist,PHP,Laravel,Mid,,Presencial,2022-03-04,2022.0,3.0,1.0,jobs
+JOB-100263,DevOpsLab,Valparaíso,Chile,Frontend Developer,R,Angular,Junior,14703.0,Presencial,,,,,jobs
+JOB-100264,GreenBit,Austin,USA,MLOps Engineer,TypeScript,Spark,Junior,80298.0,Remoto,,,,,jobs
+JOB-100265,Lambda Solutions,Monterrey,México,Data Engineer,PHP,Vue,Senior,30720.0,Híbrido,,,,,jobs
+JOB-100266,RocketSoft,San Francisco,USA,Cybersecurity Analyst,PHP,React,Junior,76713.0,Presencial,,,,,jobs
+JOB-100267,BluePixel,Austin,USA,ML Engineer,TypeScript,Flask,Junior,70117.0,Remoto,,,,,jobs
+JOB-100268,BluePixel,Cusco,Perú,BI Developer,PHP,FastAPI,Mid,18834.0,Híbrido,,,,,jobs
+JOB-100269,Atlas Systems,San Francisco,USA,Cybersecurity Analyst,Python,,Senior,,Remoto,,,,,jobs
+JOB-100270,BluePixel,CDMX,México,Cybersecurity Analyst,Scala,Flask,Junior,15780.0,Remoto,,,,,jobs
+JOB-100271,DataNova,Bucaramanga,Colombia,Backend Developer,Go,Vue,Senior,16767.0,Remoto,,,,,jobs
+JOB-100272,DataNova,Valencia,España,MLOps Engineer,Kotlin,.NET,Senior,64316.0,Remoto,,,,,jobs
+JOB-100273,QuantumWare,Miami,USA,Frontend Developer,Kotlin,Django,Junior,81.694,Remoto,,,,,jobs
+JOB-100274,DataNova,Lima,Perú,ML Engineer,C#,Spring,Senior,22463.0,Híbrido,2023-06-12,2023.0,6.0,2.0,jobs
+JOB-100275,Lambda Solutions,Buenos Aires,Argentina,Backend Developer,TypeScript,Angular,Senior,30539.0,Presencial,,,,,jobs
+JOB-100276,Vertex AI,New York,USA,Cybersecurity Analyst,Swift,Angular,Junior,86670.0,Presencial,,,,,jobs
+JOB-100277,NeoTech,CDMX,México,DevOps Engineer,Java,Django,Senior,23051.0,Remoto,2025-11-02,2025.0,11.0,4.0,jobs
+JOB-100278,Vertex AI,Lima,Perú,Data Engineer,JavaScript,Spring,Senior,23590.0,Presencial,,,,,jobs
+JOB-100279,RocketSoft,Buenos Aires,Argentina,Backend Developer,Scala,Node.js,Mid,13.084,Remoto,,,,,jobs
+JOB-100280,QuantumWare,Valparaíso,Chile,MLOps Engineer,PHP,Django,Junior,22.71,Presencial,2025-08-07,2025.0,8.0,3.0,jobs
+JOB-100281,DataNova,San Francisco,USA,Frontend Developer,R,React,Junior,69299.0,Presencial,,,,,jobs
+JOB-100282,RocketSoft,Arequipa,Perú,Backend Developer,TypeScript,,Mid,12269.0,Híbrido,,,,,jobs
+JOB-100283,RocketSoft,Concepción,Chile,Backend Developer,JavaScript,Node.js,Senior,25713.0,Presencial,,,,,jobs
+JOB-100284,Vertex AI,Lima,Perú,Data Scientist,Kotlin,Spring,Mid,17.398,Presencial,,,,,jobs
+JOB-100285,DataNova,valencia,España,ML Engineer,Go,Spring,Senior,59.27,Híbrido,,,,,jobs
+JOB-100286,Lambda Solutions,Cartagea,Colombia,MLOps Engineer,Scala,.NET,Mid,11.839,Presencial,,,,,jobs
+JOB-100287,NeoTech,Bogotá,Colombia,BI Developer,R,Flask,Senior,17988.0,Remoto,,,,,jobs
+JOB-100288,DevOpsLab,Guadalajara,México,Cybersecurity Analyst,R,Django,Junior,12020.0,Presencial,,,,,jobs
+JOB-100289,CloudForge,Cali,Colombia,Fullstack Developer,C#,React,Senior,13419.0,Híbrido,,,,,jobs
+JOB-100290,SoftSmart,???,USA,Cybersecurity Analyst,Python,.NET,Senior,,Remoto,,,,,jobs
+JOB-100291,Lambda Solutions,Córdoba,Argentina,Data Engineer,R,Angular,Mid,21476.0,Remoto,,,,,jobs
+JOB-100292,DevOpsLab,Valparaíso,Chile,MLOps Engineer,Python,React,Senior,34.839,Remoto,,,,,jobs
+JOB-100293,CodeWorks,Valparaíso,Chile,Data Engineer,Python,.NET,Senior,41730.0,Presencial,,,,,jobs
+JOB-100294,DataNova,Unknown,USA,Cloud Architect,Scala,FastAPI,Senior,114023.0,Remoto,,,,,jobs
+JOB-100295,CloudForge,Valencia,España,DevOps Engineer,Swift,Angular,Senior,49846.0,Presencial,,,,,jobs
+JOB-100296,RocketSoft,rosario,Argentina,Data Engineer,PHP,Vue,Senior,32310.0,Remoto,,,,,jobs
+JOB-100297,IA Factory,???,México,Fullstack Developer,C#,Spark,Junior,18369.0,Remoto,,,,,jobs
+JOB-100298,GreenBit,SEATTLE,USA,Data Analyst,R,Spring,Senior,,Presencial,,,,,jobs
+JOB-100299,CloudForge,Madrid,España,Frontend Developer,R,Angular,Mid,47.573,Presencial,,,,,jobs
+JOB-100300,DevOpsLab,Monterrey,México,Fullstack Developer,Kotlin,Vue,Senior,,Híbrido,2022-06-02,2022.0,6.0,2.0,jobs
+JOB-100301,Atlas Systems,Valencia,España,Data Scientist,TypeScript,Spring,Mid,39.879,Remoto,,,,,jobs
+JOB-100302,RocketSoft,Arequipa,Perú,Data Analyst,C#,Spring,Mid,17530.0,Remoto,,,,,jobs
+JOB-100303,BluePixel,Arequipa,Perú,DevOps Engineer,R,Spark,Senior,19196.0,Presencial,,,,,jobs
+JOB-100304,Vertex AI,Lima,Perú,Data Analyst,Scala,React,Mid,18696.0,Híbrido,,,,,jobs
+JOB-100305,DataNova,Rosario,Argentina,Data Analyst,TypeScript,Laravel,Mid,22798.0,Híbrido,,,,,jobs
+JOB-100306,RocketSoft,Guadalajara,México,ML Engineer,Swift,Django,Senior,24639.0,Presencial,,,,,jobs
+JOB-100307,Orion Cloud,Santiago,Chile,Data Analyst,Java,React,Junior,19.788,Remoto,,,,,jobs
+JOB-100308,SoftSmart,Concepción,Chile,Data Engineer,PHP,FastAPI,Junior,24178.0,Híbrido,,,,,jobs
+JOB-100309,SoftSmart,Miami,USA,Cybersecurity Analyst,Python,Spring,Senior,108068.0,Híbrido,,,,,jobs
+JOB-100310,GreenBit,Puebla,México,MLOps Engineer,Python,Angular,Mid,13.956,Híbrido,,,,,jobs
+JOB-100311,Vertex AI,Santiago,Chile,Cloud Architect,Scala,FastAPI,Senior,31566.0,Remoto,,,,,jobs
+JOB-100312,DataNova,arequipa,Perú,Cybersecurity Analyst,Java,.NET,Senior,20676.0,Híbrido,,,,,jobs
+JOB-100313,Orion Cloud,Medellín,Colombia,DevOps Engineer,Kotlin,React,Junior,11538.0,Remoto,,,,,jobs
+JOB-100314,RocketSoft,Lima,Perú,ML Engineer,Python,Vue,Senior,26.37,Remoto,,,,,jobs
+JOB-100315,SoftSmart,CDMX,México,Cybersecurity Analyst,Java,FastAPI,Junior,12533.0,Remoto,,,,,jobs
+JOB-100316,Orion Cloud,Barcelona,España,MLOps Engineer,R,Spring,Junior,27597.0,Híbrido,,,,,jobs
+JOB-100317,DevOpsLab,???,Perú,Frontend Developer,Go,Node.js,Senior,36014.0,Remoto,,,,,jobs
+JOB-100318,DevOpsLab,Concepción,Chile,MLOps Engineer,Go,React,Senior,31797.0,Remoto,,,,,jobs
+JOB-100319,QuantumWare,Barcelona,España,Data Analyst,Python,,Junior,26.925,Híbrido,,,,,jobs
+JOB-100320,RocketSoft,Arequipa,Perú,Data Analyst,C#,FastAPI,Mid,18821.0,Remoto,,,,,jobs
+JOB-100321,NeoTech,Santiago,Chile,BI Developer,Go,Django,Senior,,Remoto,,,,,jobs
+JOB-100322,Lambda Solutions,AUSTIN,USA,Fullstack Developer,Kotlin,FastAPI,Junior,78.527,Remoto,,,,,jobs
+JOB-100323,CyberShield,Bogota,Colombia,ML Engineer,TypeScript,.NET,Mid,10364.0,Remoto,,,,,jobs
+JOB-100324,Vertex AI,Monterrey,México,Data Analyst,PHP,Spark,Senior,20818.0,Híbrido,,,,,jobs
+JOB-100325,Atlas Systems,Puebla,México,Data Analyst,Java,React,Junior,15.687,Híbrido,,,,,jobs
+JOB-100326,CodeWorks,Seattle,USA,Cybersecurity Analyst,Go,Node.js,Junior,75382.0,Remoto,,,,,jobs
+JOB-100327,DataNova,Santiago,Chile,Data Analyst,Python,FastAPI,Senior,26382.0,Remoto,,,,,jobs
+JOB-100328,DataNova,Cali,Colombia,DevOps Engineer,R,Laravel,Senior,19750.0,Remoto,,,,,jobs
+JOB-100329,CodeWorks,???,Colombia,Backend Developer,Java,Laravel,Mid,13.395,Remoto,,,,,jobs
+JOB-100330,Orion Cloud,córdoba,Argentina,BI Developer,JavaScript,Django,Mid,19.277,Remoto,,,,,jobs
+JOB-100331,Vertex AI,Valencia,España,ML Engineer,C#,React,Junior,29213.0,Remoto,,,,,jobs
+JOB-100332,Lambda Solutions,CDMX,México,Data Analyst,TypeScript,Spark,Junior,14899.0,Remoto,,,,,jobs
+JOB-100333,RocketSoft,Cusco,Perú,MLOps Engineer,Kotlin,Spring,Mid,16145.0,Presencial,2024-12-08,2024.0,12.0,4.0,jobs
+JOB-100334,BluePixel,MADRID,España,Data Engineer,TypeScript,Vue,Senior,42440.0,Remoto,2023-07-05,2023.0,7.0,3.0,jobs
+JOB-100335,NeoTech,Barranquilla,Colombia,Cloud Architect,TypeScript,Spark,Senior,17612.0,Presencial,,,,,jobs
+JOB-100336,QuantumWare,Arequipa,Perú,Data Analyst,C#,Spark,Senior,19760.0,Híbrido,,,,,jobs
+JOB-100337,DataNova,Valparaíso,Chile,Data Analyst,Kotlin,.NET,Mid,26465.0,Presencial,,,,,jobs
+JOB-100338,Orion Cloud,Cali,Colombia,BI Developer,Python,Angular,Mid,9.405,Híbrido,,,,,jobs
+JOB-100339,CodeWorks,San Francisco,USA,DevOps Engineer,JavaScript,.NET,Mid,93586.0,Híbrido,,,,,jobs
+JOB-100340,Lambda Solutions,rosario,Argentina,Cybersecurity Analyst,TypeScript,React,Junior,15674.0,Remoto,,,,,jobs
+JOB-100341,Atlas Systems,Concepción,Chile,Data Engineer,PHP,Spark,Junior,25.347,Remoto,,,,,jobs
+JOB-100342,Lambda Solutions,Seattle,USA,Cloud Architect,Go,Angular,Mid,79832.0,Presencial,,,,,jobs
+JOB-100343,DataNova,Córdoba,Argentina,Data Scientist,Scala,Flask,Senior,22.057,Presencial,,,,,jobs
+JOB-100344,Lambda Solutions,Guadalajara,México,Cloud Architect,JavaScript,Django,Mid,16255.0,Híbrido,,,,,jobs
+JOB-100345,NeoTech,Valparaíso,Chile,Frontend Developer,Swift,Django,Mid,20786.0,Híbrido,,,,,jobs
+JOB-100346,RocketSoft,???,México,Data Scientist,Swift,Node.js,Junior,13126.0,Presencial,,,,,jobs
+JOB-100347,BluePixel,SEATTLE,USA,DevOps Engineer,PHP,Spring,Mid,100996.0,Híbrido,,,,,jobs
+JOB-100348,Vertex AI,New York,USA,DevOps Engineer,PHP,.NET,Mid,106000.0,Híbrido,,,,,jobs
+JOB-100349,Lambda Solutions,Rosario,Argentina,Data Scientist,JavaScript,Angular,Senior,34970.0,Remoto,,,,,jobs
+JOB-100350,QuantumWare,Seattle,USA,Cybersecurity Analyst,Go,Spark,Junior,67601.0,Presencial,,,,,jobs
+JOB-100351,Vertex AI,Cartagena,Colombia,Frontend Developer,C#,Flask,Senior,23.449,Presencial,,,,,jobs
+JOB-100352,IA Factory,Rosario,Argentina,Data Engineer,Scala,Flask,Mid,25946.0,Híbrido,,,,,jobs
+JOB-100353,IA Factory,Valparaíso,Chile,Data Engineer,JavaScript,Vue,Senior,33931.0,Remoto,,,,,jobs
+JOB-100354,GreenBit,Barcelona,España,Data Analyst,Swift,Django,Senior,34914.0,Remoto,,,,,jobs
+JOB-100355,DevOpsLab,Santiago,Chile,ML Engineer,C#,Spark,Junior,19750.0,Presencial,,,,,jobs
+JOB-100356,DevOpsLab,Madrid,España,MLOps Engineer,R,Laravel,Mid,38413.0,Presencial,,,,,jobs
+JOB-100357,Vertex AI,Bucaramanga,Colombia,MLOps Engineer,TypeScript,Flask,Mid,,Híbrido,,,,,jobs
+JOB-100358,DevOpsLab,Rosario,Argentina,Cloud Architect,Go,Vue,Junior,16.177,Remoto,,,,,jobs
+JOB-100359,NeoTech,Unknown,Chile,Frontend Developer,Scala,Node.js,Mid,24249.0,Remoto,,,,,jobs
+JOB-100360,IA Factory,New York,USA,Data Scientist,Swift,Angular,Mid,83803.0,Presencial,,,,,jobs
+JOB-100361,GreenBit,Valparaíso,Chile,Backend Developer,Scala,Django,Mid,27349.0,Remoto,,,,,jobs
+JOB-100362,GreenBit,Monterrey,México,Cloud Architect,Scala,Laravel,Mid,20714.0,Híbrido,,,,,jobs
+JOB-100363,CloudForge,Lima,Perú,Data Engineer,Swift,Django,Mid,16687.0,Híbrido,,,,,jobs
+JOB-100364,DataNova,San Francisco,USA,Data Engineer,TypeScript,Django,Junior,78616.0,Presencial,,,,,jobs
+JOB-100365,Lambda Solutions,Barcelona,España,Fullstack Developer,Go,Flask,Junior,27414.0,Remoto,,,,,jobs
+JOB-100366,DevOpsLab,Austin,USA,Fullstack Developer,Kotlin,FastAPI,Junior,67032.0,Remoto,,,,,jobs
+JOB-100367,SoftSmart,Monterrey,México,Fullstack Developer,Go,Spark,Junior,14571.0,Presencial,,,,,jobs
+JOB-100368,GreenBit,Puebla,México,ML Engineer,JavaScript,Django,Junior,15530.0,Híbrido,,,,,jobs
+JOB-100369,CloudForge,Córdoba,Argentina,Fullstack Developer,PHP,Laravel,Senior,25634.0,Remoto,,,,,jobs
+JOB-100370,QuantumWare,Puebla,México,Data Analyst,Java,Laravel,Junior,9618.0,Remoto,,,,,jobs
+JOB-100371,IA Factory,Puebla,México,DevOps Engineer,Scala,Spark,Senior,27414.0,Presencial,,,,,jobs
+JOB-100372,QuantumWare,Rosario,Argentina,Data Analyst,C#,React,Junior,12168.0,Presencial,,,,,jobs
+JOB-100373,SoftSmart,Buenos Aires,Argentina,Data Scientist,Python,FastAPI,Junior,16292.0,Presencial,,,,,jobs
+JOB-100374,DevOpsLab,cusco,Perú,Cloud Architect,Python,FastAPI,Junior,18.242,Presencial,,,,,jobs
+JOB-100375,QuantumWare,Madrid,España,Data Scientist,Java,Django,Senior,53065.0,Presencial,,,,,jobs
+JOB-100376,DataNova,Cusco,Perú,Cybersecurity Analyst,C#,Django,Junior,11830.0,Remoto,2022-08-09,2022.0,8.0,3.0,jobs
+JOB-100377,CyberShield,new york,USA,BI Developer,Java,Vue,Senior,103849.0,Remoto,,,,,jobs
+JOB-100378,BluePixel,Valparaíso,Chile,Frontend Developer,JavaScript,FastAPI,Senior,41.144,Remoto,,,,,jobs
+JOB-100379,SoftSmart,Concepción,Chile,Cybersecurity Analyst,R,FastAPI,Mid,24936.0,Remoto,,,,,jobs
+JOB-100380,DevOpsLab,Seattle,USA,DevOps Engineer,Python,Spring,Senior,143.767,Híbrido,,,,,jobs
+JOB-100381,QuantumWare,Sevilla,España,Data Analyst,JavaScript,FastAPI,Junior,34623.0,Híbrido,,,,,jobs
+JOB-100382,DataNova,arequipa,Perú,Fullstack Developer,C#,Vue,Mid,17.867,Híbrido,2022-12-06,2022.0,12.0,4.0,jobs
+JOB-100383,Lambda Solutions,Cartagena,Colombia,DevOps Engineer,Scala,Node.js,Mid,11444.0,Remoto,,,,,jobs
+JOB-100384,NeoTech,Barcelona,España,DevOps Engineer,Swift,Spark,Junior,26080.0,Presencial,,,,,jobs
+JOB-100385,IA Factory,Monterrey,México,BI Developer,Kotlin,Laravel,Senior,13.548,Híbrido,,,,,jobs
+JOB-100386,SoftSmart,Barcelona,España,MLOps Engineer,Go,Laravel,Senior,41.086,Presencial,,,,,jobs
+JOB-100387,CloudForge,Medellín,Colombia,Cybersecurity Analyst,Python,Flask,Mid,11874.0,Presencial,,,,,jobs
+JOB-100388,Orion Cloud,Córdoba,Argentina,ML Engineer,Java,Angular,Mid,19474.0,Híbrido,,,,,jobs
+JOB-100389,SoftSmart,Lima,Perú,Data Scientist,R,React,Junior,15271.0,Híbrido,,,,,jobs
+JOB-100390,CloudForge,Valparaíso,Chile,Data Analyst,JavaScript,Spark,Senior,34.334,Remoto,,,,,jobs
+JOB-100391,CodeWorks,Concepción,Chile,DevOps Engineer,Go,Spark,Junior,20478.0,Híbrido,,,,,jobs
+JOB-100392,DevOpsLab,Guadalajara,México,Fullstack Developer,PHP,Vue,Senior,28177.0,Híbrido,,,,,jobs
+JOB-100393,CyberShield,lima,Perú,Backend Developer,JavaScript,Angular,Mid,15610.0,Remoto,,,,,jobs
+JOB-100394,RocketSoft,Sevilla,España,Frontend Developer,Python,Django,Junior,29090.0,Híbrido,,,,,jobs
+JOB-100395,CyberShield,Buenos Aires,Argentina,Data Analyst,Kotlin,Vue,Senior,21249.0,Híbrido,,,,,jobs
+JOB-100396,CodeWorks,Seattle,USA,Data Analyst,C#,Flask,Mid,108863.0,Presencial,,,,,jobs
+JOB-100397,RocketSoft,Arequipa,Perú,Data Engineer,C#,Laravel,Senior,25345.0,Presencial,,,,,jobs
+JOB-100398,Lambda Solutions,Seattle,USA,Backend Developer,Java,Flask,Mid,101979.0,Presencial,,,,,jobs
+JOB-100399,Lambda Solutions,???,Perú,Data Analyst,C#,Angular,Senior,31.03,Híbrido,,,,,jobs
+JOB-100400,DataNova,Unknown,España,MLOps Engineer,Scala,Vue,Junior,35322.0,Presencial,,,,,jobs
+JOB-100401,DevOpsLab,Arequipa,Perú,MLOps Engineer,PHP,Spring,Mid,17837.0,Presencial,,,,,jobs
+JOB-100402,DataNova,CDMX,México,BI Developer,Kotlin,Flask,Mid,20126.0,Remoto,,,,,jobs
+JOB-100403,CloudForge,Cali,Colombia,DevOps Engineer,Python,Spark,Junior,7538.0,Remoto,,,,,jobs
+JOB-100404,RocketSoft,Puebla,México,MLOps Engineer,C#,Laravel,Junior,15.337,Híbrido,,,,,jobs
+JOB-100405,IA Factory,Cartagena,Colombia,Fullstack Developer,R,Spark,Senior,17150.0,Remoto,2022-01-01,2022.0,1.0,1.0,jobs
+JOB-100406,Atlas Systems,Concepción,Chile,BI Developer,Kotlin,FastAPI,Senior,26504.0,Remoto,,,,,jobs
+JOB-100407,GreenBit,Valparaíso,Chile,ML Engineer,JavaScript,Vue,Junior,24.011,Remoto,,,,,jobs
+JOB-100408,Orion Cloud,Guadalajara,México,DevOps Engineer,Go,Laravel,Senior,22.538,Presencial,,,,,jobs
+JOB-100409,CyberShield,Lima,Perú,Data Scientist,Go,Flask,Mid,19844.0,Remoto,,,,,jobs
+JOB-100410,CyberShield,Concepción,Chile,Cloud Architect,C#,FastAPI,Senior,32795.0,Presencial,,,,,jobs
+JOB-100411,Atlas Systems,San Francisco,USA,BI Developer,R,Spring,Senior,,Presencial,,,,,jobs
+JOB-100412,RocketSoft,Córdoba,Argentina,Backend Developer,Scala,Node.js,Junior,19149.0,Híbrido,,,,,jobs
+JOB-100413,CloudForge,Guadalajara,México,Backend Developer,Swift,.NET,Mid,15758.0,Híbrido,,,,,jobs
+JOB-100414,DevOpsLab,Bogotá,Colombia,Backend Developer,Scala,React,Mid,9245.0,Presencial,,,,,jobs
+JOB-100415,Orion Cloud,Seattle,USA,Fullstack Developer,TypeScript,Vue,Mid,93127.0,Presencial,2022-06-02,2022.0,6.0,2.0,jobs
+JOB-100416,CyberShield,Guadalajara,México,MLOps Engineer,Go,Vue,Senior,28.408,Híbrido,,,,,jobs
+JOB-100417,CloudForge,Medellín,Colombia,BI Developer,Kotlin,Spark,Senior,15.864,Presencial,,,,,jobs
+JOB-100418,DataNova,???,México,ML Engineer,Java,React,Junior,13.074,Remoto,,,,,jobs
+JOB-100419,CloudForge,Cartagena,Colombia,Backend Developer,JavaScript,FastAPI,Mid,12878.0,Híbrido,,,,,jobs
+JOB-100420,CloudForge,CARTAGENA,Colombia,Frontend Developer,JavaScript,Angular,Junior,7000.0,Remoto,,,,,jobs
+JOB-100421,DevOpsLab,Lima,Perú,Backend Developer,TypeScript,Vue,Junior,12964.0,Híbrido,,,,,jobs
+JOB-100422,CloudForge,Guadalajara,México,Cloud Architect,Java,Flask,Senior,19969.0,Híbrido,,,,,jobs
+JOB-100423,RocketSoft,???,México,BI Developer,R,Spring,Junior,15036.0,Híbrido,,,,,jobs
+JOB-100424,Lambda Solutions,MADRID,España,Data Engineer,Python,Django,Junior,27042.0,Remoto,,,,,jobs
+JOB-100425,IA Factory,Guadalajara,México,Backend Developer,Go,Spark,Mid,14989.0,Híbrido,,,,,jobs
+JOB-100426,BluePixel,New York,USA,Data Scientist,TypeScript,Node.js,Junior,71966.0,Remoto,,,,,jobs
+JOB-100427,SoftSmart,Valparaíso,Chile,Fullstack Developer,Java,Vue,Senior,27.29,Presencial,,,,,jobs
+JOB-100428,CloudForge,Cali,Colombia,BI Developer,R,.NET,Mid,11976.0,Híbrido,,,,,jobs
+JOB-100429,GreenBit,Cusco,Perú,Data Engineer,PHP,Vue,Mid,16157.0,Remoto,,,,,jobs
+JOB-100430,Atlas Systems,Barranquilla,Colombia,ML Engineer,Python,Vue,Junior,9056.0,Híbrido,,,,,jobs
+JOB-100431,Lambda Solutions,???,Argentina,DevOps Engineer,Swift,Flask,Junior,14278.0,Remoto,,,,,jobs
+JOB-100432,DevOpsLab,puebla,México,Cybersecurity Analyst,Java,Flask,Mid,20463.0,Híbrido,,,,,jobs
+JOB-100433,NeoTech,Seattle,USA,Cloud Architect,Swift,Flask,Junior,74759.0,Presencial,,,,,jobs
+JOB-100434,SoftSmart,Cartagena,Colombia,Data Engineer,JavaScript,React,Mid,12944.0,Remoto,,,,,jobs
+JOB-100435,DevOpsLab,Valencia,España,BI Developer,PHP,Node.js,Junior,32587.0,Remoto,2022-01-01,2022.0,1.0,1.0,jobs
+JOB-100436,DataNova,San Francisco,USA,Frontend Developer,TypeScript,Django,Junior,66809.0,Híbrido,,,,,jobs
+JOB-100437,QuantumWare,Bucaramanga,Colombia,DevOps Engineer,Go,Flask,Junior,10420.0,Presencial,,,,,jobs
+JOB-100438,BluePixel,Córdoba,Argentina,Frontend Developer,Swift,Spark,Mid,21047.0,Remoto,,,,,jobs
+JOB-100439,CodeWorks,Cusco,Perú,Fullstack Developer,JavaScript,Node.js,Junior,15077.0,Presencial,,,,,jobs
+JOB-100440,Orion Cloud,CDMX,México,Data Engineer,C#,Node.js,Mid,16923.0,Remoto,,,,,jobs
+JOB-100441,CloudForge,Sevilla,España,Cloud Architect,Python,React,Mid,35566.0,Híbrido,,,,,jobs
+JOB-100442,Vertex AI,Cartagena,Colombia,Data Engineer,Go,Node.js,Senior,18.779,Híbrido,,,,,jobs
+JOB-100443,NeoTech,New York,USA,Backend Developer,C#,Node.js,Senior,176.53,Híbrido,,,,,jobs
+JOB-100444,DevOpsLab,Miami,USA,DevOps Engineer,Java,Spring,Senior,116438.0,Remoto,,,,,jobs
+JOB-100445,GreenBit,BARRANQUILLA,Colombia,ML Engineer,R,Spark,Senior,18146.0,Híbrido,,,,,jobs
+JOB-100446,DataNova,Cusco,Perú,MLOps Engineer,JavaScript,Laravel,Mid,17011.0,Remoto,,,,,jobs
+JOB-100447,Vertex AI,Cartagena,Colombia,Data Scientist,Python,React,Senior,18777.0,Presencial,2024-05-08,2024.0,5.0,2.0,jobs
+JOB-100448,DevOpsLab,Buenos Aires,Argentina,ML Engineer,Scala,FastAPI,Junior,17051.0,Presencial,,,,,jobs
+JOB-100449,Orion Cloud,Barcelona,España,Data Scientist,Java,Django,Mid,44042.0,Presencial,2023-08-06,2023.0,8.0,3.0,jobs
+JOB-100450,IA Factory,Concepción,Chile,Backend Developer,TypeScript,Spring,Junior,11615.0,Presencial,2025-01-05,2025.0,1.0,1.0,jobs
+JOB-100451,GreenBit,Buenos Aires,Argentina,Cybersecurity Analyst,Python,FastAPI,Junior,14.557,Remoto,,,,,jobs
+JOB-100452,SoftSmart,Guadalajara,México,Cybersecurity Analyst,PHP,.NET,Senior,21464.0,Híbrido,,,,,jobs
+JOB-100453,IA Factory,Guadalajara,México,MLOps Engineer,C#,FastAPI,Junior,14166.0,Presencial,,,,,jobs
+JOB-100454,Orion Cloud,Rosario,Argentina,BI Developer,Kotlin,FastAPI,Mid,17828.0,Presencial,,,,,jobs
+JOB-100455,Vertex AI,Cali,Colombia,Data Engineer,R,Flask,Mid,10846.0,Híbrido,,,,,jobs
+JOB-100456,DataNova,Sevilla,España,Data Scientist,Kotlin,Node.js,Senior,58641.0,Remoto,,,,,jobs
+JOB-100457,DevOpsLab,Arequipa,Perú,MLOps Engineer,PHP,Spark,Mid,23135.0,Híbrido,,,,,jobs
+JOB-100458,BluePixel,Seattle,USA,Data Analyst,JavaScript,Django,Senior,76664.0,Híbrido,,,,,jobs
+JOB-100459,Lambda Solutions,Seattle,USA,MLOps Engineer,Kotlin,Flask,Mid,90.576,Remoto,,,,,jobs
+JOB-100460,DataNova,puebla,México,Frontend Developer,PHP,Angular,Mid,18.842,Remoto,2022-02-05,2022.0,2.0,1.0,jobs
+JOB-100461,NeoTech,Bucaramanga,Colombia,Backend Developer,Python,.NET,Mid,12008.0,Remoto,,,,,jobs
+JOB-100462,DevOpsLab,Rosario,Argentina,DevOps Engineer,C#,Django,Senior,26550.0,Presencial,2023-03-01,2023.0,3.0,1.0,jobs
+JOB-100463,CodeWorks,Bogotá,Colombia,Data Analyst,Python,Spring,Junior,7.651,Remoto,2024-06-08,2024.0,6.0,2.0,jobs
+JOB-100464,SoftSmart,New York,USA,BI Developer,PHP,Spark,Junior,65253.0,Híbrido,,,,,jobs
+JOB-100465,NeoTech,guadalajara,México,Cloud Architect,Python,Spark,Senior,27940.0,Híbrido,,,,,jobs
+JOB-100466,CodeWorks,Córdoba,Argentina,Cloud Architect,Swift,Laravel,Junior,18581.0,Presencial,,,,,jobs
+JOB-100467,DevOpsLab,Madrid,España,Cloud Architect,JavaScript,.NET,Junior,30840.0,Híbrido,,,,,jobs
+JOB-100468,GreenBit,Monterrey,México,Fullstack Developer,Kotlin,Laravel,Senior,22039.0,Híbrido,,,,,jobs
+JOB-100469,Lambda Solutions,Cusco,Perú,Fullstack Developer,Scala,Vue,Mid,18258.0,Híbrido,,,,,jobs
+JOB-100470,CodeWorks,Córdoba,Argentina,ML Engineer,R,Flask,Senior,26991.0,Presencial,,,,,jobs
+JOB-100471,DevOpsLab,Valparaíso,Chile,Data Analyst,R,Angular,Junior,21.636,Remoto,,,,,jobs
+JOB-100472,RocketSoft,Valencia,España,Data Engineer,Go,React,Junior,30939.0,Remoto,,,,,jobs
+JOB-100473,Atlas Systems,Sevilla,España,Cloud Architect,Scala,Node.js,Mid,34.455,Presencial,,,,,jobs
+JOB-100474,DevOpsLab,Miami,USA,Fullstack Developer,Scala,.NET,Junior,78173.0,Remoto,,,,,jobs
+JOB-100475,CodeWorks,Madrid,España,Backend Developer,Kotlin,Laravel,Mid,31277.0,Presencial,,,,,jobs
+JOB-100476,CyberShield,san francisco,USA,MLOps Engineer,JavaScript,Vue,Mid,106685.0,Híbrido,,,,,jobs
+JOB-100477,CodeWorks,Lima,Perú,Backend Developer,JavaScript,Laravel,Mid,21192.0,Remoto,,,,,jobs
+JOB-100478,Lambda Solutions,Sevilla,España,MLOps Engineer,Python,.NET,Junior,25026.0,Híbrido,,,,,jobs
+JOB-100479,QuantumWare,Córdoba,Argentina,ML Engineer,JavaScript,FastAPI,Mid,21.263,Presencial,,,,,jobs
+JOB-100480,CyberShield,Rosario,Argentina,Fullstack Developer,R,Flask,Junior,13620.0,Híbrido,,,,,jobs
+JOB-100481,DataNova,Seattle,USA,Fullstack Developer,C#,FastAPI,Junior,88217.0,Híbrido,,,,,jobs
+JOB-100482,IA Factory,Austin,USA,Fullstack Developer,C#,Laravel,Junior,86306.0,Presencial,,,,,jobs
+JOB-100483,SoftSmart,concepción,Chile,Cybersecurity Analyst,Java,React,Senior,33791.0,Presencial,,,,,jobs
+JOB-100484,SoftSmart,New York,USA,MLOps Engineer,TypeScript,Spark,Junior,87342.0,Híbrido,,,,,jobs
+JOB-100485,Vertex AI,cartagena,Colombia,Data Engineer,TypeScript,Vue,Junior,8979.0,Remoto,,,,,jobs
+JOB-100486,Atlas Systems,Córdoba,Argentina,BI Developer,Swift,Node.js,Senior,,Remoto,,,,,jobs
+JOB-100487,Atlas Systems,Cusco,Perú,Cybersecurity Analyst,JavaScript,.NET,Mid,16.464,Remoto,,,,,jobs
+JOB-100488,Vertex AI,miami,USA,Cybersecurity Analyst,JavaScript,Node.js,Mid,92992.0,Remoto,,,,,jobs
+JOB-100489,CyberShield,Santiago,Chile,ML Engineer,Go,Vue,Senior,33302.0,Híbrido,,,,,jobs
+JOB-100490,NeoTech,Monterrey,México,DevOps Engineer,JavaScript,React,Junior,14733.0,Híbrido,,,,,jobs
+JOB-100491,RocketSoft,Rosario,Argentina,Data Scientist,C#,Spark,Junior,14.523,Presencial,2023-06-01,2023.0,6.0,2.0,jobs
+JOB-100492,CloudForge,Barranquilla,Colombia,Fullstack Developer,Java,Node.js,Senior,18727.0,Presencial,2024-04-07,2024.0,4.0,2.0,jobs
+JOB-100493,IA Factory,Sevilla,España,Frontend Developer,R,Node.js,Junior,35055.0,Híbrido,2022-08-09,2022.0,8.0,3.0,jobs
+JOB-100494,CodeWorks,Bogotá,Colombia,Frontend Developer,Swift,Django,Mid,11107.0,Presencial,2024-08-04,2024.0,8.0,3.0,jobs
+JOB-100495,SoftSmart,Medellín,Colombia,DevOps Engineer,Go,Spark,Mid,9.431,Presencial,,,,,jobs
+JOB-100496,GreenBit,???,USA,Data Analyst,Swift,Spark,Mid,105.315,Presencial,2023-08-11,2023.0,8.0,3.0,jobs
+JOB-100497,GreenBit,bogotá,Colombia,Data Engineer,R,Flask,Junior,11239.0,Híbrido,,,,,jobs
+JOB-100498,RocketSoft,Rosario,Argentina,Frontend Developer,C#,Flask,Senior,27.314,Remoto,,,,,jobs
+JOB-100499,CloudForge,Madrid,España,Cloud Architect,R,Spring,Senior,42933.0,Presencial,,,,,jobs
+JOB-100500,NeoTech,AUSTIN,USA,Data Scientist,C#,Laravel,Senior,,Híbrido,,,,,jobs
+JOB-100501,Orion Cloud,Concepción,Chile,ML Engineer,Python,Spring,Junior,24574.0,Presencial,,,,,jobs
+JOB-100502,CyberShield,MEDELLÍN,Colombia,DevOps Engineer,Java,Spark,Junior,7000.0,Remoto,,,,,jobs
+JOB-100503,Orion Cloud,???,USA,MLOps Engineer,TypeScript,Vue,Junior,81448.0,Híbrido,,,,,jobs
+JOB-100504,NeoTech,CDMX,México,BI Developer,Go,,Senior,24014.0,Remoto,,,,,jobs
+JOB-100505,Orion Cloud,Sevilla,España,Fullstack Developer,Swift,FastAPI,Junior,26498.0,Híbrido,,,,,jobs
+JOB-100506,SoftSmart,Seattle,USA,Data Engineer,Kotlin,Node.js,Senior,,Presencial,2025-01-09,2025.0,1.0,1.0,jobs
+JOB-100507,GreenBit,New York,USA,MLOps Engineer,Scala,Angular,Senior,107.088,Híbrido,,,,,jobs
+JOB-100508,BluePixel,Bucaramanga,Colombia,Backend Developer,PHP,Node.js,Mid,12.534,Híbrido,,,,,jobs
+JOB-100509,RocketSoft,Arequipa,Perú,Data Scientist,JavaScript,Node.js,Mid,21545.0,Híbrido,2022-12-11,2022.0,12.0,4.0,jobs
+JOB-100510,Vertex AI,New York,USA,Frontend Developer,Python,Spark,Junior,78.014,Híbrido,,,,,jobs
+JOB-100511,Vertex AI,Rosario,Argentina,Cybersecurity Analyst,Java,Flask,Mid,17.371,Remoto,,,,,jobs
+JOB-100512,DataNova,San Francisco,USA,Data Engineer,PHP,Flask,Mid,69644.0,Remoto,2022-11-02,2022.0,11.0,4.0,jobs
+JOB-100513,SoftSmart,Concepción,Chile,Data Engineer,C#,React,Mid,20192.0,Remoto,,,,,jobs
+JOB-100514,CloudForge,Puebla,México,Cybersecurity Analyst,Kotlin,Flask,Junior,10.422,Híbrido,2022-01-02,2022.0,1.0,1.0,jobs
+JOB-100515,QuantumWare,???,USA,Backend Developer,Scala,.NET,Junior,94235.0,Remoto,,,,,jobs
+JOB-100516,RocketSoft,Cordoba,Argentina,Cloud Architect,Python,Django,Senior,26952.0,Remoto,,,,,jobs
+JOB-100517,QuantumWare,Buenos Aires,Argentina,ML Engineer,Java,Angular,Senior,23.61,Presencial,,,,,jobs
+JOB-100518,CloudForge,Unknown,Argentina,ML Engineer,PHP,Django,Mid,16.105,Presencial,,,,,jobs
+JOB-100519,RocketSoft,Guadalajara,México,Data Analyst,PHP,Angular,Senior,21165.0,Híbrido,,,,,jobs
+JOB-100520,CloudForge,???,España,BI Developer,PHP,Flask,Mid,36085.0,Remoto,,,,,jobs
+JOB-100521,Vertex AI,Barcelona,España,Backend Developer,R,Django,Junior,24551.0,Híbrido,,,,,jobs
+JOB-100522,Orion Cloud,Buenos Aires,Argentina,ML Engineer,PHP,Django,Junior,20023.0,Presencial,,,,,jobs
+JOB-100523,RocketSoft,Barcelona,España,Backend Developer,Swift,Spring,Junior,26991.0,Presencial,,,,,jobs
+JOB-100524,IA Factory,Concepción,Chile,MLOps Engineer,Swift,Node.js,Mid,22.065,Presencial,,,,,jobs
+JOB-100525,BluePixel,Concepción,Chile,Frontend Developer,Scala,React,Senior,36615.0,Presencial,,,,,jobs
+JOB-100526,Vertex AI,Lima,Perú,Cloud Architect,Kotlin,,Junior,17533.0,Remoto,,,,,jobs
+JOB-100527,DevOpsLab,Bogotá,Colombia,Frontend Developer,Java,Spring,Senior,20136.0,Híbrido,,,,,jobs
+JOB-100528,IA Factory,SANTIAGO,Chile,Backend Developer,PHP,Spark,Mid,23170.0,Remoto,,,,,jobs
+JOB-100529,CyberShield,Austin,USA,Data Scientist,JavaScript,Angular,Senior,,Remoto,,,,,jobs
+JOB-100530,DataNova,Bucaramanga,Colombia,Data Scientist,Go,React,Mid,12268.0,Híbrido,,,,,jobs
+JOB-100531,Orion Cloud,Unknown,España,Backend Developer,C#,Angular,Mid,41.02,Híbrido,2022-04-04,2022.0,4.0,2.0,jobs
+JOB-100532,Orion Cloud,???,Chile,Fullstack Developer,Kotlin,Vue,Mid,25958.0,Presencial,,,,,jobs
+JOB-100533,Vertex AI,Santiago,Chile,Cloud Architect,Scala,.NET,Junior,17168.0,Híbrido,2024-03-11,2024.0,3.0,1.0,jobs
+JOB-100534,SoftSmart,Lima,Perú,MLOps Engineer,C#,Node.js,Senior,20436.0,Presencial,,,,,jobs
+JOB-100535,SoftSmart,San Francisco,USA,Fullstack Developer,R,Django,Mid,97503.0,Presencial,,,,,jobs
+JOB-100536,CyberShield,Cusco,Perú,MLOps Engineer,R,FastAPI,Mid,14804.0,Remoto,,,,,jobs
+JOB-100537,DevOpsLab,córdoba,Argentina,Fullstack Developer,C#,Spark,Mid,24.089,Presencial,,,,,jobs
+JOB-100538,SoftSmart,lima,Perú,Cloud Architect,Scala,Vue,Mid,18107.0,Híbrido,,,,,jobs
+JOB-100539,SoftSmart,Santiago,Chile,Frontend Developer,Scala,Laravel,Junior,16921.0,Remoto,,,,,jobs
+JOB-100540,IA Factory,Concepción,Chile,Data Engineer,Go,Spring,Mid,23793.0,Presencial,,,,,jobs
+JOB-100541,CloudForge,Buenos Aires,Argentina,Frontend Developer,Go,Flask,Mid,18478.0,Híbrido,,,,,jobs
+JOB-100542,GreenBit,New York,USA,Data Analyst,C#,Django,Junior,74503.0,Remoto,2023-07-04,2023.0,7.0,3.0,jobs
+JOB-100543,Lambda Solutions,Buenos Aires,Argentina,DevOps Engineer,R,Spark,Senior,31972.0,Presencial,,,,,jobs
+JOB-100544,RocketSoft,CDMX,México,Frontend Developer,JavaScript,.NET,Mid,14.1,Presencial,,,,,jobs
+JOB-100545,Vertex AI,Sevilla,España,DevOps Engineer,Python,Django,Mid,27354.0,Híbrido,,,,,jobs
+JOB-100546,SoftSmart,Bucaramanga,Colombia,ML Engineer,Scala,.NET,Senior,17651.0,Híbrido,,,,,jobs
+JOB-100547,DevOpsLab,Cali,Colombia,Data Scientist,Scala,Flask,Mid,11680.0,Remoto,,,,,jobs
+JOB-100548,BluePixel,Rosario,Argentina,Data Scientist,PHP,Spring,Senior,28685.0,Remoto,,,,,jobs
+JOB-100549,Orion Cloud,Buenos Aires,Argentina,DevOps Engineer,Java,.NET,Junior,17066.0,Híbrido,,,,,jobs
+JOB-100550,CodeWorks,Puebla,México,MLOps Engineer,Kotlin,Angular,Junior,14008.0,Híbrido,2022-09-11,2022.0,9.0,3.0,jobs
+JOB-100551,Atlas Systems,Buenos Aires,Argentina,Backend Developer,Java,Vue,Junior,17919.0,Presencial,,,,,jobs
+JOB-100552,CloudForge,Concepción,Chile,Data Analyst,Java,.NET,Mid,21.651,Híbrido,,,,,jobs
+JOB-100553,DataNova,Bogotá,Colombia,ML Engineer,Swift,React,Senior,16962.0,Remoto,,,,,jobs
+JOB-100554,NeoTech,Cartagena,Colombia,Fullstack Developer,Python,Laravel,Senior,14706.0,Híbrido,,,,,jobs
+JOB-100555,CyberShield,Monterrey,México,DevOps Engineer,Java,Laravel,Senior,20.928,Remoto,,,,,jobs
+JOB-100556,Orion Cloud,Miami,USA,BI Developer,PHP,Angular,Senior,,Híbrido,,,,,jobs
+JOB-100557,Lambda Solutions,Austin,USA,Cybersecurity Analyst,Swift,Angular,Senior,,Híbrido,2025-03-05,2025.0,3.0,1.0,jobs
+JOB-100558,Orion Cloud,Concepcion,Chile,Frontend Developer,TypeScript,React,Junior,14174.0,Remoto,,,,,jobs
+JOB-100559,IA Factory,???,Argentina,Fullstack Developer,Go,Laravel,Junior,13.307,Remoto,,,,,jobs
+JOB-100560,GreenBit,???,España,Data Scientist,C#,.NET,Mid,39664.0,Presencial,,,,,jobs
+JOB-100561,QuantumWare,Monterrey,México,Cybersecurity Analyst,R,React,Mid,20889.0,Remoto,,,,,jobs
+JOB-100562,CloudForge,Arequipa,Perú,Data Engineer,Swift,Spring,Mid,16201.0,Híbrido,,,,,jobs
+JOB-100563,IA Factory,Medellín,Colombia,Cybersecurity Analyst,Scala,Spring,Junior,9335.0,Híbrido,,,,,jobs
+JOB-100564,DevOpsLab,Arequipa,Perú,Data Engineer,Swift,React,Mid,14183.0,Remoto,,,,,jobs
+JOB-100565,NeoTech,Cusco,Perú,DevOps Engineer,Kotlin,Django,Mid,24779.0,Remoto,,,,,jobs
+JOB-100566,DataNova,Rosario,Argentina,BI Developer,Java,FastAPI,Senior,29995.0,Remoto,,,,,jobs
+JOB-100567,CodeWorks,???,Perú,Fullstack Developer,TypeScript,Django,Junior,16332.0,Presencial,,,,,jobs
+JOB-100568,DevOpsLab,???,Argentina,Cybersecurity Analyst,Kotlin,Angular,Mid,21974.0,Presencial,,,,,jobs
+JOB-100569,SoftSmart,Cartagena,Colombia,Frontend Developer,TypeScript,Spark,Mid,13679.0,Remoto,,,,,jobs
+JOB-100570,Atlas Systems,Córdoba,Argentina,MLOps Engineer,Go,.NET,Senior,30553.0,Remoto,,,,,jobs
+JOB-100571,NeoTech,Guadalajara,México,Data Engineer,Scala,,Senior,23932.0,Presencial,,,,,jobs
+JOB-100572,Orion Cloud,Lima,Perú,Cloud Architect,Python,Spark,Junior,16.007,Remoto,,,,,jobs
+JOB-100573,RocketSoft,Buenos Aires,Argentina,Data Engineer,R,Vue,Junior,16189.0,Presencial,,,,,jobs
+JOB-100574,RocketSoft,Santiago,Chile,DevOps Engineer,R,Django,Senior,41807.0,Remoto,,,,,jobs
+JOB-100575,DataNova,Sevilla,España,Data Analyst,Python,.NET,Mid,33.807,Presencial,,,,,jobs
+JOB-100576,QuantumWare,Barranquilla,Colombia,MLOps Engineer,Go,.NET,Senior,15436.0,Remoto,,,,,jobs
+JOB-100577,CyberShield,Unknown,Colombia,Cloud Architect,R,Vue,Senior,18466.0,Híbrido,,,,,jobs
+JOB-100578,Atlas Systems,Miami,USA,MLOps Engineer,Python,FastAPI,Junior,90587.0,Híbrido,,,,,jobs
+JOB-100579,NeoTech,Barranquilla,Colombia,BI Developer,R,Laravel,Senior,17165.0,Presencial,,,,,jobs
+JOB-100580,CodeWorks,Monterrey,México,Data Engineer,Go,Spark,Junior,12860.0,Remoto,2022-05-03,2022.0,5.0,2.0,jobs
+JOB-100581,NeoTech,Valencia,España,Data Engineer,R,React,Senior,52250.0,Remoto,,,,,jobs
+JOB-100582,QuantumWare,Cusco,Perú,Fullstack Developer,JavaScript,FastAPI,Junior,13323.0,Híbrido,,,,,jobs
+JOB-100583,CodeWorks,Cusco,Perú,Data Analyst,JavaScript,Django,Mid,23.121,Híbrido,,,,,jobs
+JOB-100584,DevOpsLab,Barranquilla,Colombia,Frontend Developer,Swift,Django,Senior,19064.0,Híbrido,2022-05-09,2022.0,5.0,2.0,jobs
+JOB-100585,DevOpsLab,arequipa,Perú,Frontend Developer,C#,Django,Junior,17131.0,Híbrido,,,,,jobs
+JOB-100586,DevOpsLab,Barcelona,España,ML Engineer,PHP,Spark,Mid,39.718,Híbrido,,,,,jobs
+JOB-100587,Vertex AI,LIMA,Perú,ML Engineer,C#,Django,Senior,23.101,Remoto,,,,,jobs
+JOB-100588,BluePixel,Buenos Aires,Argentina,MLOps Engineer,Kotlin,Vue,Junior,18.815,Remoto,,,,,jobs
+JOB-100589,DataNova,Guadalajara,México,Data Analyst,Scala,.NET,Junior,17.972,Híbrido,,,,,jobs
+JOB-100590,QuantumWare,Arequipa,Perú,Fullstack Developer,C#,React,Senior,27399.0,Presencial,2024-12-01,2024.0,12.0,4.0,jobs
+JOB-100591,CloudForge,MADRID,España,Frontend Developer,R,Angular,Mid,37861.0,Híbrido,2023-02-08,2023.0,2.0,1.0,jobs
+JOB-100592,RocketSoft,Barranquilla,Colombia,Frontend Developer,R,Laravel,Junior,11156.0,Híbrido,,,,,jobs
+JOB-100593,CyberShield,Valparaíso,Chile,Backend Developer,Swift,Spark,Junior,18886.0,Híbrido,,,,,jobs
+JOB-100594,CyberShield,Barcelona,España,Cybersecurity Analyst,Scala,Flask,Mid,42357.0,Híbrido,,,,,jobs
+JOB-100595,BluePixel,Guadalajara,México,BI Developer,Kotlin,Laravel,Senior,22510.0,Híbrido,,,,,jobs
+JOB-100596,RocketSoft,Unknown,Argentina,Fullstack Developer,C#,.NET,Junior,13671.0,Remoto,,,,,jobs
+JOB-100597,SoftSmart,Sevilla,España,DevOps Engineer,PHP,Laravel,Senior,57.72,Híbrido,2022-09-08,2022.0,9.0,3.0,jobs
+JOB-100598,CyberShield,Miami,USA,BI Developer,Kotlin,.NET,Senior,,Remoto,,,,,jobs
+JOB-100599,QuantumWare,Rosario,Argentina,Fullstack Developer,Kotlin,FastAPI,Junior,20570.0,Remoto,,,,,jobs
+JOB-100600,CloudForge,Rosario,Argentina,Backend Developer,C#,FastAPI,Mid,19159.0,Remoto,,,,,jobs
+JOB-100601,CloudForge,Austin,USA,DevOps Engineer,JavaScript,Vue,Senior,,Híbrido,,,,,jobs
+JOB-100602,CodeWorks,Cusco,Perú,Data Analyst,Kotlin,Node.js,Junior,11937.0,Híbrido,2024-01-07,2024.0,1.0,1.0,jobs
+JOB-100603,Orion Cloud,San Francisco,USA,ML Engineer,JavaScript,FastAPI,Senior,95707.0,Presencial,,,,,jobs
+JOB-100604,Vertex AI,Madrid,España,MLOps Engineer,Go,Vue,Junior,22.279,Remoto,,,,,jobs
+JOB-100605,Orion Cloud,Austin,USA,Data Engineer,R,Spark,Senior,,Híbrido,,,,,jobs
+JOB-100606,RocketSoft,Lima,Perú,BI Developer,PHP,.NET,Junior,11858.0,Presencial,,,,,jobs
+JOB-100607,Lambda Solutions,Concepción,Chile,Cloud Architect,C#,.NET,Senior,40915.0,Remoto,,,,,jobs
+JOB-100608,DataNova,Barcelona,España,Data Engineer,Go,Angular,Senior,64549.0,Presencial,2025-02-07,2025.0,2.0,1.0,jobs
+JOB-100609,RocketSoft,CÓRDOBA,Argentina,BI Developer,JavaScript,React,Mid,19.143,Híbrido,,,,,jobs
+JOB-100610,BluePixel,Cali,Colombia,Data Analyst,PHP,Laravel,Junior,11988.0,Híbrido,,,,,jobs
+JOB-100611,BluePixel,new york,USA,Data Engineer,Scala,Vue,Mid,98237.0,Híbrido,,,,,jobs
+JOB-100612,Lambda Solutions,Cartagena,Colombia,Data Scientist,Scala,Angular,Mid,14.024,Remoto,,,,,jobs
+JOB-100613,Vertex AI,Córdoba,Argentina,Fullstack Developer,Java,Vue,Junior,15458.0,Híbrido,,,,,jobs
+JOB-100614,CodeWorks,Santiago,Chile,Fullstack Developer,R,Laravel,Mid,28596.0,Remoto,,,,,jobs
+JOB-100615,CyberShield,???,México,Backend Developer,C#,React,Junior,12362.0,Híbrido,,,,,jobs
+JOB-100616,CodeWorks,Rosario,Argentina,Backend Developer,Scala,Spark,Junior,17.494,Remoto,,,,,jobs
+JOB-100617,Vertex AI,Santiago,Chile,Data Analyst,Kotlin,Spring,Senior,32589.0,Presencial,,,,,jobs
+JOB-100618,DevOpsLab,Buenos Aires,Argentina,Frontend Developer,C#,Laravel,Mid,19.608,Híbrido,,,,,jobs
+JOB-100619,RocketSoft,Santiago,Chile,Cloud Architect,C#,React,Senior,38316.0,Presencial,,,,,jobs
+JOB-100620,DevOpsLab,Valencia,España,Data Analyst,C#,Vue,Senior,54578.0,Híbrido,,,,,jobs
+JOB-100621,QuantumWare,Miami,USA,Cloud Architect,Kotlin,Angular,Mid,93940.0,Híbrido,,,,,jobs
+JOB-100622,Vertex AI,Madrid,España,MLOps Engineer,TypeScript,.NET,Junior,33.718,Presencial,,,,,jobs
+JOB-100623,RocketSoft,New York,USA,Cloud Architect,TypeScript,Spark,Mid,106.445,Presencial,,,,,jobs
+JOB-100624,SoftSmart,Bucaramanga,Colombia,Data Engineer,C#,React,Junior,7605.0,Remoto,,,,,jobs
+JOB-100625,DataNova,Barranquilla,Colombia,DevOps Engineer,R,Django,Senior,18208.0,Híbrido,,,,,jobs
+JOB-100626,IA Factory,Valparaíso,Chile,ML Engineer,Swift,.NET,Junior,22013.0,Remoto,,,,,jobs
+JOB-100627,Vertex AI,Santiago,Chile,BI Developer,Java,Vue,Senior,31053.0,Remoto,,,,,jobs
+JOB-100628,Lambda Solutions,CDMX,México,Backend Developer,Java,Django,Mid,19041.0,Híbrido,2025-06-09,2025.0,6.0,2.0,jobs
+JOB-100629,BluePixel,Concepción,Chile,Data Engineer,Scala,React,Junior,16027.0,Remoto,,,,,jobs
+JOB-100630,SoftSmart,Bogotá,Colombia,Fullstack Developer,Java,React,Mid,14590.0,Presencial,2024-01-12,2024.0,1.0,1.0,jobs
+JOB-100631,CodeWorks,Rosario,Argentina,MLOps Engineer,Go,Laravel,Junior,15429.0,Remoto,,,,,jobs
+JOB-100632,CloudForge,Miami,USA,DevOps Engineer,C#,Vue,Senior,,Híbrido,,,,,jobs
+JOB-100633,CloudForge,Barranquilla,Colombia,Cloud Architect,Python,Node.js,Senior,19.817,Presencial,,,,,jobs
+JOB-100634,DataNova,Valencia,España,ML Engineer,Python,Angular,Mid,37186.0,Presencial,,,,,jobs
+JOB-100635,RocketSoft,Monterrey,México,Cloud Architect,R,Flask,Junior,15693.0,Presencial,,,,,jobs
+JOB-100636,GreenBit,Arequipa,Perú,Data Engineer,C#,Flask,Senior,21240.0,Presencial,,,,,jobs
+JOB-100637,DataNova,Madrid,España,DevOps Engineer,R,React,Senior,48.653,Híbrido,,,,,jobs
+JOB-100638,IA Factory,Cali,Colombia,Data Engineer,Swift,Node.js,Senior,13291.0,Remoto,,,,,jobs
+JOB-100639,IA Factory,Buenos Aires,Argentina,MLOps Engineer,Swift,Node.js,Junior,15500.0,Remoto,,,,,jobs
+JOB-100640,Atlas Systems,ROSARIO,Argentina,Frontend Developer,TypeScript,Spark,Mid,23093.0,Presencial,,,,,jobs
+JOB-100641,IA Factory,MONTERREY,México,BI Developer,C#,FastAPI,Junior,14.882,Híbrido,,,,,jobs
+JOB-100642,Vertex AI,Monterrey,México,Data Scientist,R,Spark,Mid,20387.0,Híbrido,2022-04-10,2022.0,4.0,2.0,jobs
+JOB-100643,Vertex AI,???,Chile,Data Engineer,Kotlin,Vue,Senior,29.612,Híbrido,,,,,jobs
+JOB-100644,GreenBit,CDMX,México,ML Engineer,Java,Angular,Junior,12492.0,Híbrido,2025-10-05,2025.0,10.0,4.0,jobs
+JOB-100645,Atlas Systems,Madrid,España,Fullstack Developer,Scala,Django,Senior,49484.0,Remoto,,,,,jobs
+JOB-100646,CloudForge,Puebla,México,MLOps Engineer,TypeScript,.NET,Junior,15636.0,Híbrido,,,,,jobs
+JOB-100647,CyberShield,New York,USA,DevOps Engineer,Scala,Node.js,Senior,,Híbrido,,,,,jobs
+JOB-100648,NeoTech,Miami,USA,Data Scientist,Java,Laravel,Mid,94782.0,Híbrido,2023-06-07,2023.0,6.0,2.0,jobs
+JOB-100649,BluePixel,CDMX,México,ML Engineer,TypeScript,Flask,Senior,27553.0,Presencial,2024-02-09,2024.0,2.0,1.0,jobs
+JOB-100650,GreenBit,NEW YORK,USA,BI Developer,Kotlin,Spring,Junior,74274.0,Remoto,,,,,jobs
+JOB-100651,DevOpsLab,Barcelona,España,Frontend Developer,Go,Flask,Senior,53028.0,Presencial,,,,,jobs
+JOB-100652,DevOpsLab,Guadalajara,México,Cloud Architect,JavaScript,FastAPI,Mid,21523.0,Presencial,,,,,jobs
+JOB-100653,CloudForge,Cusco,Perú,Cybersecurity Analyst,PHP,Laravel,Mid,16.417,Presencial,,,,,jobs
+JOB-100654,Lambda Solutions,Bogotá,Colombia,Fullstack Developer,R,Django,Senior,17.26,Híbrido,,,,,jobs
+JOB-100655,Atlas Systems,San Francisco,USA,Data Engineer,Java,Node.js,Mid,117970.0,Híbrido,,,,,jobs
+JOB-100656,Lambda Solutions,New York,USA,Data Engineer,Swift,Flask,Senior,,Presencial,,,,,jobs
+JOB-100657,DevOpsLab,Barcelona,España,Data Analyst,Go,Spark,Junior,33621.0,Remoto,,,,,jobs
+JOB-100658,IA Factory,guadalajara,México,DevOps Engineer,Swift,Vue,Junior,13089.0,Presencial,,,,,jobs
+JOB-100659,CodeWorks,Rosario,Argentina,Backend Developer,Python,,Junior,20695.0,Remoto,,,,,jobs
+JOB-100660,Atlas Systems,Miami,USA,Data Scientist,C#,Spark,Mid,62942.0,Remoto,,,,,jobs
+JOB-100661,Orion Cloud,Valparaíso,Chile,ML Engineer,TypeScript,Laravel,Senior,29.044,Presencial,,,,,jobs
+JOB-100662,RocketSoft,Bucaramanga,Colombia,Data Engineer,R,Node.js,Senior,14144.0,Híbrido,,,,,jobs
+JOB-100663,Lambda Solutions,Madrid,España,Backend Developer,Go,Spark,Mid,47232.0,Presencial,,,,,jobs
+JOB-100664,SoftSmart,Valparaíso,Chile,DevOps Engineer,Java,.NET,Junior,21057.0,Presencial,2023-04-03,2023.0,4.0,2.0,jobs
+JOB-100665,NeoTech,New York,USA,Fullstack Developer,Python,.NET,Mid,91261.0,Híbrido,,,,,jobs
+JOB-100666,BluePixel,Puebla,México,Data Engineer,TypeScript,Spark,Senior,20354.0,Híbrido,,,,,jobs
+JOB-100667,Lambda Solutions,Cusco,Perú,ML Engineer,Scala,Vue,Junior,15186.0,Remoto,,,,,jobs
+JOB-100668,CyberShield,Seattle,USA,Fullstack Developer,Python,Laravel,Mid,96624.0,Híbrido,,,,,jobs
+JOB-100669,DevOpsLab,Rosario,Argentina,ML Engineer,Python,Laravel,Junior,14.336,Remoto,,,,,jobs
+JOB-100670,SoftSmart,Miami,USA,DevOps Engineer,Swift,Angular,Mid,73.745,Híbrido,,,,,jobs
+JOB-100671,QuantumWare,Buenos Aires,Argentina,BI Developer,Go,Django,Mid,16691.0,Remoto,,,,,jobs
+JOB-100672,NeoTech,Cartagena,Colombia,Cybersecurity Analyst,Swift,Spark,Mid,12.384,Presencial,,,,,jobs
+JOB-100673,CloudForge,Monterrey,México,Data Engineer,Kotlin,FastAPI,Junior,15071.0,Presencial,,,,,jobs
+JOB-100674,SoftSmart,Cusco,Perú,Data Analyst,Python,Vue,Senior,25476.0,Híbrido,,,,,jobs
+JOB-100675,BluePixel,Bucaramanga,Colombia,DevOps Engineer,C#,Django,Senior,16418.0,Híbrido,,,,,jobs
+JOB-100676,DataNova,Barranquilla,Colombia,BI Developer,PHP,Node.js,Junior,7053.0,Presencial,,,,,jobs
+JOB-100677,CloudForge,CDMX,México,MLOps Engineer,C#,Flask,Junior,14505.0,Híbrido,,,,,jobs
+JOB-100678,IA Factory,Córdoba,Argentina,DevOps Engineer,Kotlin,Spring,Mid,16902.0,Presencial,,,,,jobs
+JOB-100679,RocketSoft,Arequipa,Perú,Data Analyst,Java,React,Senior,25357.0,Presencial,,,,,jobs
+JOB-100680,RocketSoft,Arequipa,Perú,DevOps Engineer,Scala,,Senior,26957.0,Híbrido,,,,,jobs
+JOB-100681,IA Factory,???,España,Fullstack Developer,PHP,React,Senior,47807.0,Híbrido,,,,,jobs
+JOB-100682,DevOpsLab,Bogotá,Colombia,Backend Developer,C#,Node.js,Mid,10.158,Remoto,,,,,jobs
+JOB-100683,CloudForge,CDMX,México,BI Developer,Python,Vue,Mid,20682.0,Remoto,,,,,jobs
+JOB-100684,SoftSmart,Valparaíso,Chile,Fullstack Developer,Scala,Laravel,Junior,21.055,Remoto,,,,,jobs
+JOB-100685,BluePixel,Arequipa,Perú,Data Scientist,TypeScript,Flask,Junior,13024.0,Presencial,,,,,jobs
+JOB-100686,DataNova,???,Chile,MLOps Engineer,TypeScript,FastAPI,Junior,10999.0,Presencial,,,,,jobs
+JOB-100687,Atlas Systems,Austin,USA,Cybersecurity Analyst,Kotlin,Django,Mid,94299.0,Híbrido,,,,,jobs
+JOB-100688,RocketSoft,Buenos Aires,Argentina,Data Analyst,Java,Angular,Junior,17509.0,Híbrido,,,,,jobs
+JOB-100689,DataNova,Cusco,Perú,Data Engineer,Swift,.NET,Senior,29439.0,Remoto,,,,,jobs
+JOB-100690,Lambda Solutions,Rosario,Argentina,Fullstack Developer,R,Django,Mid,17966.0,Remoto,,,,,jobs
+JOB-100691,Lambda Solutions,Unknown,México,DevOps Engineer,C#,FastAPI,Senior,22769.0,Presencial,2024-05-03,2024.0,5.0,2.0,jobs
+JOB-100692,QuantumWare,Miami,USA,Data Analyst,Java,Flask,Junior,70950.0,Presencial,,,,,jobs
+JOB-100693,DevOpsLab,Valparaíso,Chile,BI Developer,Swift,React,Senior,39399.0,Híbrido,,,,,jobs
+JOB-100694,IA Factory,cali,Colombia,Cloud Architect,Go,Vue,Mid,9885.0,Híbrido,,,,,jobs
+JOB-100695,DevOpsLab,Barcelona,España,Data Analyst,Java,React,Senior,52299.0,Híbrido,,,,,jobs
+JOB-100696,Vertex AI,Arequipa,Perú,DevOps Engineer,C#,FastAPI,Junior,,Remoto,,,,,jobs
+JOB-100697,Lambda Solutions,Sevilla,España,ML Engineer,Python,Vue,Mid,39530.0,Remoto,,,,,jobs
+JOB-100698,RocketSoft,santiago,Chile,ML Engineer,Java,Vue,Mid,19169.0,Presencial,,,,,jobs
+JOB-100699,QuantumWare,Monterrey,México,Cybersecurity Analyst,Java,Spark,Junior,15.212,Remoto,,,,,jobs
+JOB-100700,QuantumWare,Santiago,Chile,Frontend Developer,C#,Angular,Mid,23.137,Híbrido,,,,,jobs
+JOB-100701,IA Factory,Barcelona,España,ML Engineer,JavaScript,Angular,Junior,29378.0,Híbrido,,,,,jobs
+JOB-100702,IA Factory,Austin,USA,ML Engineer,R,Flask,Mid,102.491,Remoto,,,,,jobs
+JOB-100703,CyberShield,Cali,Colombia,BI Developer,TypeScript,Laravel,Junior,11247.0,Híbrido,,,,,jobs
+JOB-100704,QuantumWare,Cusco,Perú,BI Developer,R,Vue,Senior,18.785,Híbrido,,,,,jobs
+JOB-100705,QuantumWare,CDMX,México,Cloud Architect,C#,.NET,Mid,20709.0,Híbrido,,,,,jobs
+JOB-100706,GreenBit,Madrid,España,Data Engineer,Go,Spark,Mid,41.181,Presencial,,,,,jobs
+JOB-100707,BluePixel,Bogotá,Colombia,Frontend Developer,Java,FastAPI,Mid,11469.0,Híbrido,,,,,jobs
+JOB-100708,Lambda Solutions,Bucaramanga,Colombia,DevOps Engineer,TypeScript,Spring,Mid,14527.0,Híbrido,,,,,jobs
+JOB-100709,Lambda Solutions,lima,Perú,Data Engineer,R,FastAPI,Senior,25913.0,Híbrido,,,,,jobs
+JOB-100710,DevOpsLab,Santiago,Chile,BI Developer,Kotlin,Laravel,Senior,41790.0,Híbrido,,,,,jobs
+JOB-100711,CloudForge,Sevilla,España,Data Engineer,Go,Node.js,Mid,34621.0,Remoto,,,,,jobs
+JOB-100712,Atlas Systems,Puebla,México,ML Engineer,Kotlin,Vue,Junior,12527.0,Híbrido,,,,,jobs
+JOB-100713,CyberShield,Buenos Aires,Argentina,Data Analyst,PHP,FastAPI,Junior,18939.0,Híbrido,2023-12-06,2023.0,12.0,4.0,jobs
+JOB-100714,DevOpsLab,Rosario,Argentina,Data Scientist,JavaScript,React,Senior,37.089,Híbrido,,,,,jobs
+JOB-100715,Atlas Systems,Unknown,USA,Data Engineer,C#,Vue,Senior,,Híbrido,,,,,jobs
+JOB-100716,DevOpsLab,puebla,México,BI Developer,Swift,Laravel,Mid,20406.0,Presencial,,,,,jobs
+JOB-100717,CodeWorks,Córdoba,Argentina,Fullstack Developer,Kotlin,Flask,Junior,14862.0,Presencial,,,,,jobs
+JOB-100718,SoftSmart,Córdoba,Argentina,Cloud Architect,JavaScript,Flask,Mid,16024.0,Remoto,,,,,jobs
+JOB-100719,QuantumWare,Bogotá,Colombia,Data Scientist,TypeScript,FastAPI,Junior,9274.0,Remoto,2022-03-08,2022.0,3.0,1.0,jobs
+JOB-100720,Lambda Solutions,???,Chile,Data Analyst,Scala,Flask,Mid,30626.0,Remoto,,,,,jobs
+JOB-100721,CyberShield,Cali,Colombia,Cloud Architect,TypeScript,FastAPI,Mid,8.651,Híbrido,,,,,jobs
+JOB-100722,Atlas Systems,Austin,USA,BI Developer,Scala,Vue,Junior,70.353,Remoto,,,,,jobs
+JOB-100723,SoftSmart,CDMX,México,Data Engineer,JavaScript,Django,Senior,17963.0,Remoto,,,,,jobs
+JOB-100724,CyberShield,santiago,Chile,Data Analyst,PHP,React,Senior,35.568,Presencial,,,,,jobs
+JOB-100725,NeoTech,Madrid,España,ML Engineer,Scala,Django,Junior,34386.0,Presencial,,,,,jobs
+JOB-100726,CodeWorks,Buenos Aires,Argentina,BI Developer,C#,Flask,Senior,22780.0,Híbrido,,,,,jobs
+JOB-100727,GreenBit,valparaíso,Chile,ML Engineer,Python,Laravel,Mid,23464.0,Remoto,,,,,jobs
+JOB-100728,RocketSoft,Cali,Colombia,Cloud Architect,Scala,Flask,Mid,14386.0,Presencial,,,,,jobs
+JOB-100729,RocketSoft,Monterrey,México,Backend Developer,PHP,Node.js,Mid,17761.0,Remoto,,,,,jobs
+JOB-100730,DataNova,Valparaíso,Chile,Data Scientist,Scala,Angular,Mid,20352.0,Remoto,,,,,jobs
+JOB-100731,CloudForge,Medellín,Colombia,MLOps Engineer,Kotlin,Laravel,Junior,7704.0,Híbrido,,,,,jobs
+JOB-100732,GreenBit,New York,USA,Cloud Architect,Python,Vue,Mid,66291.0,Híbrido,,,,,jobs
+JOB-100733,SoftSmart,Valparaíso,Chile,Data Analyst,TypeScript,Django,Senior,39.059,Remoto,,,,,jobs
+JOB-100734,QuantumWare,Unknown,Chile,BI Developer,Java,Spark,Senior,31.082,Presencial,2022-06-02,2022.0,6.0,2.0,jobs
+JOB-100735,CyberShield,CDMX,México,MLOps Engineer,Java,Vue,Junior,16.669,Híbrido,,,,,jobs
+JOB-100736,Vertex AI,Cusco,Perú,Data Scientist,Java,Flask,Senior,28.477,Presencial,,,,,jobs
+JOB-100737,Lambda Solutions,cusco,Perú,ML Engineer,Kotlin,Django,Senior,22705.0,Remoto,,,,,jobs
+JOB-100738,RocketSoft,Barcelona,España,Data Analyst,PHP,Spring,Senior,48986.0,Híbrido,,,,,jobs
+JOB-100739,Orion Cloud,BARCELONA,España,BI Developer,Go,.NET,Mid,42.438,Híbrido,,,,,jobs
+JOB-100740,Atlas Systems,New York,USA,Cloud Architect,Python,Angular,Senior,,Remoto,,,,,jobs
+JOB-100741,GreenBit,Santiago,Chile,Cloud Architect,Scala,React,Senior,,Remoto,,,,,jobs
+JOB-100742,CyberShield,Puebla,México,BI Developer,Swift,FastAPI,Mid,13.552,Presencial,,,,,jobs
+JOB-100743,CloudForge,Lima,Perú,MLOps Engineer,PHP,Spring,Mid,20423.0,Presencial,,,,,jobs
+JOB-100744,NeoTech,Miami,USA,Frontend Developer,Python,.NET,Mid,82526.0,Presencial,,,,,jobs
+JOB-100745,Orion Cloud,Barcelona,España,Data Analyst,Python,Node.js,Junior,20051.0,Presencial,,,,,jobs
+JOB-100746,CodeWorks,Austin,USA,Fullstack Developer,Python,Laravel,Senior,120692.0,Remoto,,,,,jobs
+JOB-100747,CyberShield,Lima,Perú,Cloud Architect,C#,Node.js,Mid,19139.0,Remoto,,,,,jobs
+JOB-100748,GreenBit,Arequipa,Perú,Frontend Developer,TypeScript,Node.js,Senior,33127.0,Remoto,,,,,jobs
+JOB-100749,SoftSmart,Medellín,Colombia,Data Engineer,PHP,Vue,Mid,11.328,Remoto,,,,,jobs
+JOB-100750,Vertex AI,Rosario,Argentina,ML Engineer,PHP,React,Senior,22414.0,Híbrido,,,,,jobs
+JOB-100751,SoftSmart,Bogotá,Colombia,Frontend Developer,Kotlin,Vue,Junior,12657.0,Presencial,,,,,jobs
+JOB-100752,Vertex AI,Rosario,Argentina,Data Analyst,Swift,React,Senior,28672.0,Presencial,,,,,jobs
+JOB-100753,SoftSmart,Arequipa,Perú,ML Engineer,Swift,Vue,Junior,13835.0,Híbrido,,,,,jobs
+JOB-100754,DevOpsLab,Arequipa,Perú,Frontend Developer,Swift,.NET,Junior,12.075,Híbrido,,,,,jobs
+JOB-100755,SoftSmart,???,México,Data Engineer,JavaScript,Vue,Mid,15289.0,Híbrido,,,,,jobs
+JOB-100756,SoftSmart,Seattle,USA,Fullstack Developer,Swift,Vue,Junior,92856.0,Híbrido,,,,,jobs
+JOB-100757,Vertex AI,Buenos Aires,Argentina,Data Engineer,TypeScript,Spark,Mid,19187.0,Remoto,,,,,jobs
+JOB-100758,Lambda Solutions,Buenos Aires,Argentina,Backend Developer,C#,React,Junior,14709.0,Remoto,,,,,jobs
+JOB-100759,Orion Cloud,New York,USA,Data Engineer,Java,Node.js,Mid,87733.0,Híbrido,,,,,jobs
+JOB-100760,Atlas Systems,Barcelona,España,Data Scientist,C#,Spring,Junior,37549.0,Remoto,,,,,jobs
+JOB-100761,SoftSmart,Valparaíso,Chile,Fullstack Developer,Go,Laravel,Mid,22789.0,Presencial,,,,,jobs
+JOB-100762,CyberShield,Arequipa,Perú,Frontend Developer,R,Laravel,Senior,27574.0,Remoto,2022-02-06,2022.0,2.0,1.0,jobs
+JOB-100763,DevOpsLab,Puebla,México,Cybersecurity Analyst,PHP,Django,Junior,14.974,Híbrido,,,,,jobs
+JOB-100764,CodeWorks,???,Colombia,Backend Developer,C#,Spark,Junior,9.944,Presencial,,,,,jobs
+JOB-100765,RocketSoft,Rosario,Argentina,Fullstack Developer,R,Vue,Junior,13.894,Híbrido,,,,,jobs
+JOB-100766,IA Factory,Concepción,Chile,MLOps Engineer,R,Laravel,Junior,21975.0,Remoto,,,,,jobs
+JOB-100767,IA Factory,Concepción,Chile,Backend Developer,Scala,Laravel,Junior,,Remoto,,,,,jobs
+JOB-100768,CodeWorks,Barranquilla,Colombia,Backend Developer,Kotlin,Flask,Junior,9.524,Remoto,,,,,jobs
+JOB-100769,RocketSoft,Seattle,USA,BI Developer,Java,.NET,Senior,114651.0,Híbrido,,,,,jobs
+JOB-100770,CodeWorks,Lima,Perú,Data Analyst,JavaScript,Node.js,Senior,20318.0,Híbrido,,,,,jobs
+JOB-100771,SoftSmart,Santiago,Chile,Data Scientist,Python,React,Mid,25.715,Remoto,,,,,jobs
+JOB-100772,Vertex AI,Valparaíso,Chile,MLOps Engineer,R,Laravel,Junior,19.184,Presencial,,,,,jobs
+JOB-100773,IA Factory,Lima,Perú,Data Engineer,Java,FastAPI,Senior,24805.0,Híbrido,,,,,jobs
+JOB-100774,IA Factory,PUEBLA,México,Fullstack Developer,Kotlin,React,Mid,18031.0,Presencial,,,,,jobs
+JOB-100775,BluePixel,Buenos Aires,Argentina,Cloud Architect,R,Django,Mid,15573.0,Presencial,,,,,jobs
+JOB-100776,RocketSoft,Cusco,Perú,Data Scientist,C#,Node.js,Mid,20110.0,Remoto,,,,,jobs
+JOB-100777,DevOpsLab,Valencia,España,Data Analyst,Swift,Spring,Junior,31.468,Remoto,,,,,jobs
+JOB-100778,Orion Cloud,Bucaramanga,Colombia,Cybersecurity Analyst,C#,Laravel,Junior,9492.0,Presencial,,,,,jobs
+JOB-100779,IA Factory,CDMX,México,BI Developer,Swift,Spring,Mid,18.626,Remoto,,,,,jobs
+JOB-100780,Orion Cloud,New York,USA,Cybersecurity Analyst,Swift,Django,Senior,,Híbrido,,,,,jobs
+JOB-100781,DevOpsLab,Austin,USA,ML Engineer,Kotlin,Spring,Junior,76.609,Remoto,,,,,jobs
+JOB-100782,CodeWorks,MADRID,España,ML Engineer,C#,Angular,Junior,26.522,Remoto,,,,,jobs
+JOB-100783,Orion Cloud,Lima,Perú,Data Engineer,Java,FastAPI,Senior,29.608,Remoto,2025-03-03,2025.0,3.0,1.0,jobs
+JOB-100784,Lambda Solutions,Santiago,Chile,Data Analyst,C#,React,Mid,23375.0,Presencial,,,,,jobs
+JOB-100785,BluePixel,Sevilla,España,Cybersecurity Analyst,PHP,Spark,Junior,27091.0,Remoto,,,,,jobs
+JOB-100786,DataNova,Madrid,España,ML Engineer,Scala,Vue,Mid,29096.0,Presencial,,,,,jobs
+JOB-100787,DevOpsLab,Guadalajara,México,Frontend Developer,TypeScript,Angular,Mid,18021.0,Híbrido,,,,,jobs
+JOB-100788,DataNova,Valparaíso,Chile,Data Engineer,Scala,Flask,Senior,29.499,Presencial,,,,,jobs
+JOB-100789,RocketSoft,Barranquilla,Colombia,ML Engineer,Go,Angular,Senior,15491.0,Híbrido,,,,,jobs
+JOB-100790,SoftSmart,Puebla,México,Cloud Architect,R,Node.js,Senior,26898.0,Híbrido,2024-11-10,2024.0,11.0,4.0,jobs
+JOB-100791,Atlas Systems,Santiago,Chile,Data Engineer,Java,Vue,Senior,35174.0,Híbrido,,,,,jobs
+JOB-100792,Orion Cloud,Buenos Aires,Argentina,Data Scientist,Java,Angular,Mid,23048.0,Híbrido,,,,,jobs
+JOB-100793,GreenBit,Valparaíso,Chile,Fullstack Developer,Swift,FastAPI,Senior,36601.0,Remoto,,,,,jobs
+JOB-100794,CloudForge,Lima,Perú,Backend Developer,Swift,Spark,Senior,23673.0,Presencial,,,,,jobs
+JOB-100795,NeoTech,Arequipa,Perú,Data Engineer,PHP,React,Junior,13.687,Presencial,,,,,jobs
+JOB-100796,RocketSoft,Barranquilla,Colombia,Data Analyst,Python,Vue,Junior,8869.0,Presencial,,,,,jobs
+JOB-100797,Lambda Solutions,Valparaíso,Chile,Cybersecurity Analyst,TypeScript,,Senior,38393.0,Híbrido,,,,,jobs
+JOB-100798,CyberShield,Lima,Perú,ML Engineer,Scala,Laravel,Senior,25.281,Presencial,,,,,jobs
+JOB-100799,Atlas Systems,Buenos Aires,Argentina,BI Developer,TypeScript,.NET,Mid,18767.0,Híbrido,,,,,jobs
+JOB-100800,CyberShield,Valencia,España,Cybersecurity Analyst,Python,React,Junior,34252.0,Híbrido,,,,,jobs
+JOB-100801,NeoTech,Seattle,USA,Backend Developer,Swift,Django,Senior,,Remoto,,,,,jobs
+JOB-100802,DevOpsLab,Valparaíso,Chile,Data Analyst,Java,Laravel,Junior,18603.0,Remoto,,,,,jobs
+JOB-100803,CyberShield,???,Colombia,Fullstack Developer,C#,Spring,Senior,12988.0,Remoto,,,,,jobs
+JOB-100804,NeoTech,Cusco,Perú,DevOps Engineer,Kotlin,React,Mid,19181.0,Remoto,,,,,jobs
+JOB-100805,RocketSoft,San Francisco,USA,Data Engineer,Swift,Vue,Mid,98401.0,Híbrido,,,,,jobs
+JOB-100806,DevOpsLab,Concepción,Chile,Backend Developer,Swift,Vue,Senior,35269.0,Presencial,,,,,jobs
+JOB-100807,CodeWorks,Seattle,USA,MLOps Engineer,R,Flask,Senior,,Remoto,,,,,jobs
+JOB-100808,NeoTech,???,España,Data Engineer,Go,Node.js,Senior,46548.0,Híbrido,,,,,jobs
+JOB-100809,Lambda Solutions,Córdoba,Argentina,Data Engineer,JavaScript,FastAPI,Senior,27047.0,Presencial,,,,,jobs
+JOB-100810,Vertex AI,Medellín,Colombia,ML Engineer,PHP,Spring,Junior,9.933,Presencial,,,,,jobs
+JOB-100811,GreenBit,Cali,Colombia,Backend Developer,C#,Node.js,Senior,16477.0,Presencial,,,,,jobs
+JOB-100812,QuantumWare,SANTIAGO,Chile,ML Engineer,Python,Spark,Junior,19565.0,Híbrido,,,,,jobs
+JOB-100813,CloudForge,CDMX,México,Backend Developer,JavaScript,Spring,Junior,13.388,Presencial,,,,,jobs
+JOB-100814,IA Factory,Medellín,Colombia,Data Scientist,Java,Angular,Junior,10.088,Híbrido,,,,,jobs
+JOB-100815,DataNova,???,Colombia,Cybersecurity Analyst,Go,Node.js,Senior,17388.0,Remoto,2024-04-11,2024.0,4.0,2.0,jobs
+JOB-100816,SoftSmart,Madrid,España,Data Engineer,Java,Spring,Junior,26.969,Remoto,,,,,jobs
+JOB-100817,CodeWorks,Buenos Aires,Argentina,Cloud Architect,Scala,Node.js,Senior,31193.0,Híbrido,,,,,jobs
+JOB-100818,Orion Cloud,Córdoba,Argentina,Cloud Architect,Python,React,Senior,31323.0,Remoto,,,,,jobs
+JOB-100819,SoftSmart,CDMX,México,MLOps Engineer,Kotlin,React,Senior,28275.0,Híbrido,,,,,jobs
+JOB-100820,RocketSoft,Cartagea,Colombia,MLOps Engineer,Java,Node.js,Junior,9411.0,Híbrido,,,,,jobs
+JOB-100821,DevOpsLab,Guadalajara,México,ML Engineer,TypeScript,Laravel,Senior,24466.0,Presencial,,,,,jobs
+JOB-100822,BluePixel,???,Perú,MLOps Engineer,R,Flask,Mid,14870.0,Híbrido,,,,,jobs
+JOB-100823,CloudForge,Valencia,España,Data Analyst,Swift,Laravel,Junior,33.841,Remoto,,,,,jobs
+JOB-100824,Vertex AI,Madrid,España,Cybersecurity Analyst,JavaScript,.NET,Mid,25825.0,Remoto,,,,,jobs
+JOB-100825,IA Factory,Miami,USA,Data Analyst,Go,Laravel,Senior,,Remoto,,,,,jobs
+JOB-100826,CloudForge,Santiago,Chile,BI Developer,Kotlin,Node.js,Junior,18980.0,Presencial,,,,,jobs
+JOB-100827,CyberShield,New York,USA,Backend Developer,Swift,Vue,Mid,107201.0,Presencial,,,,,jobs
+JOB-100828,QuantumWare,Arequipa,Perú,Data Scientist,TypeScript,.NET,Junior,14398.0,Híbrido,,,,,jobs
+JOB-100829,DataNova,Unknown,Chile,DevOps Engineer,Python,React,Junior,17106.0,Remoto,,,,,jobs
+JOB-100830,CyberShield,Santiago,Chile,Data Scientist,Java,Flask,Mid,19649.0,Remoto,,,,,jobs
+JOB-100831,Lambda Solutions,Cartagena,Colombia,Fullstack Developer,JavaScript,Django,Junior,8550.0,Remoto,,,,,jobs
+JOB-100832,Atlas Systems,Córdoba,Argentina,ML Engineer,PHP,Spark,Mid,20319.0,Remoto,,,,,jobs
+JOB-100833,RocketSoft,Sevilla,España,Fullstack Developer,Swift,FastAPI,Senior,53639.0,Presencial,2023-01-10,2023.0,1.0,1.0,jobs
+JOB-100834,CodeWorks,Rosario,Argentina,DevOps Engineer,Scala,Node.js,Mid,19407.0,Híbrido,,,,,jobs
+JOB-100835,Vertex AI,Valparaíso,Chile,Backend Developer,Kotlin,Node.js,Mid,22433.0,Remoto,,,,,jobs
+JOB-100836,CloudForge,New York,USA,ML Engineer,R,Spring,Mid,92005.0,Remoto,,,,,jobs
+JOB-100837,Lambda Solutions,Córdoba,Argentina,Data Scientist,Swift,Laravel,Junior,18394.0,Híbrido,,,,,jobs
+JOB-100838,Lambda Solutions,Córdoba,Argentina,Data Engineer,JavaScript,React,Mid,16698.0,Híbrido,,,,,jobs
+JOB-100839,CyberShield,Unknown,Argentina,Cloud Architect,Scala,Laravel,Senior,28141.0,Presencial,2024-02-01,2024.0,2.0,1.0,jobs
+JOB-100840,CodeWorks,SAN FRANCISCO,USA,DevOps Engineer,C#,Angular,Mid,118.064,Híbrido,,,,,jobs
+JOB-100841,NeoTech,Medellín,Colombia,Data Analyst,Go,Spark,Mid,12997.0,Remoto,,,,,jobs
+JOB-100842,CyberShield,Cusco,Perú,Cloud Architect,C#,.NET,Senior,23476.0,Híbrido,,,,,jobs
+JOB-100843,RocketSoft,Valencia,España,Data Scientist,JavaScript,FastAPI,Junior,33414.0,Presencial,,,,,jobs
+JOB-100844,Lambda Solutions,Medellín,Colombia,MLOps Engineer,Python,Django,Mid,10646.0,Híbrido,,,,,jobs
+JOB-100845,SoftSmart,New York,USA,BI Developer,TypeScript,FastAPI,Mid,95100.0,Remoto,,,,,jobs
+JOB-100846,NeoTech,???,México,Data Engineer,Python,Laravel,Mid,22.195,Híbrido,,,,,jobs
+JOB-100847,CyberShield,Miami,USA,Frontend Developer,Kotlin,Angular,Mid,121991.0,Híbrido,,,,,jobs
+JOB-100848,Lambda Solutions,barcelona,España,Data Scientist,R,Angular,Senior,39565.0,Presencial,,,,,jobs
+JOB-100849,CloudForge,Lima,Perú,Data Engineer,PHP,Spark,Senior,27846.0,Híbrido,,,,,jobs
+JOB-100850,DevOpsLab,Bucaramanga,Colombia,Cybersecurity Analyst,Swift,Angular,Junior,12.406,Híbrido,,,,,jobs
+JOB-100851,DataNova,Guadalajara,México,Backend Developer,Swift,Angular,Senior,23138.0,Remoto,,,,,jobs
+JOB-100852,CloudForge,???,USA,DevOps Engineer,Scala,Vue,Senior,138.166,Remoto,,,,,jobs
+JOB-100853,CyberShield,Cusco,Perú,Fullstack Developer,Go,.NET,Senior,30897.0,Presencial,,,,,jobs
+JOB-100854,CodeWorks,Valencia,España,Data Engineer,PHP,Laravel,Senior,49269.0,Híbrido,,,,,jobs
+JOB-100855,Atlas Systems,sevilla,España,Frontend Developer,R,.NET,Senior,56807.0,Presencial,2022-12-07,2022.0,12.0,4.0,jobs
+JOB-100856,DataNova,Lima,Perú,Frontend Developer,R,Spark,Senior,24.976,Presencial,,,,,jobs
+JOB-100857,NeoTech,Guadalajara,México,Data Engineer,PHP,Spark,Junior,10241.0,Presencial,,,,,jobs
+JOB-100858,Atlas Systems,Sevilla,España,BI Developer,Scala,Flask,Mid,39972.0,Híbrido,,,,,jobs
+JOB-100859,DataNova,Rosario,Argentina,Cloud Architect,JavaScript,FastAPI,Senior,27226.0,Remoto,,,,,jobs
+JOB-100860,Lambda Solutions,Valparaíso,Chile,Data Scientist,Go,Angular,Mid,28480.0,Presencial,,,,,jobs
+JOB-100861,IA Factory,Buenos Aires,Argentina,DevOps Engineer,JavaScript,Node.js,Junior,21024.0,Presencial,,,,,jobs
+JOB-100862,DataNova,Guadalajara,México,Data Analyst,R,Angular,Mid,19846.0,Híbrido,,,,,jobs
+JOB-100863,DevOpsLab,San Francisco,USA,Cloud Architect,TypeScript,Spring,Junior,71811.0,Presencial,,,,,jobs
+JOB-100864,BluePixel,New York,USA,Data Scientist,Java,Angular,Mid,101414.0,Presencial,,,,,jobs
+JOB-100865,Lambda Solutions,Puebla,México,Backend Developer,R,Node.js,Junior,14835.0,Híbrido,,,,,jobs
+JOB-100866,CyberShield,Arequipa,Perú,DevOps Engineer,Go,.NET,Senior,29.066,Presencial,,,,,jobs
+JOB-100867,Lambda Solutions,CDMX,México,Cybersecurity Analyst,Go,Node.js,Junior,11292.0,Remoto,,,,,jobs
+JOB-100868,Lambda Solutions,Cusco,Perú,Cloud Architect,Java,Spring,Senior,20791.0,Híbrido,,,,,jobs
+JOB-100869,RocketSoft,Lima,Perú,MLOps Engineer,Kotlin,Node.js,Senior,17469.0,Remoto,,,,,jobs
+JOB-100870,GreenBit,Miami,USA,BI Developer,TypeScript,Django,Senior,,Remoto,,,,,jobs
+JOB-100871,Orion Cloud,Cusco,Perú,DevOps Engineer,TypeScript,Flask,Junior,14358.0,Presencial,,,,,jobs
+JOB-100872,Vertex AI,Barcelona,España,Cloud Architect,Kotlin,.NET,Mid,34351.0,Remoto,,,,,jobs
+JOB-100873,Lambda Solutions,Seattle,USA,Frontend Developer,TypeScript,Spark,Junior,67732.0,Híbrido,,,,,jobs
+JOB-100874,DataNova,Cusco,Perú,Cybersecurity Analyst,Java,Spark,Junior,13164.0,Híbrido,2024-04-07,2024.0,4.0,2.0,jobs
+JOB-100875,GreenBit,Buenos Aires,Argentina,Frontend Developer,PHP,Node.js,Junior,13773.0,Remoto,,,,,jobs
+JOB-100876,DevOpsLab,Cartagena,Colombia,DevOps Engineer,Kotlin,React,Mid,11421.0,Presencial,2025-04-08,2025.0,4.0,2.0,jobs
+JOB-100877,Vertex AI,???,Colombia,Data Engineer,TypeScript,Angular,Junior,8888.0,Híbrido,,,,,jobs
+JOB-100878,SoftSmart,Cartagena,Colombia,Data Engineer,Scala,.NET,Junior,11.601,Presencial,,,,,jobs
+JOB-100879,GreenBit,Puebla,México,BI Developer,TypeScript,.NET,Mid,18872.0,Presencial,,,,,jobs
+JOB-100880,DevOpsLab,New York,USA,Cloud Architect,C#,Angular,Junior,66668.0,Híbrido,,,,,jobs
+JOB-100881,IA Factory,Bucaramanga,Colombia,Cloud Architect,Go,Flask,Mid,10949.0,Híbrido,,,,,jobs
+JOB-100882,CyberShield,New York,USA,ML Engineer,Python,Node.js,Senior,,Presencial,,,,,jobs
+JOB-100883,CodeWorks,Rosario,Argentina,Data Analyst,PHP,Django,Senior,29900.0,Híbrido,,,,,jobs
+JOB-100884,Vertex AI,CDMX,México,Fullstack Developer,PHP,.NET,Mid,18796.0,Presencial,2024-04-09,2024.0,4.0,2.0,jobs
+JOB-100885,NeoTech,Guadalajara,México,Data Analyst,TypeScript,FastAPI,Senior,27924.0,Híbrido,,,,,jobs
+JOB-100886,Atlas Systems,Rosario,Argentina,DevOps Engineer,Kotlin,React,Senior,34661.0,Híbrido,,,,,jobs
+JOB-100887,BluePixel,Puebla,México,Cybersecurity Analyst,Kotlin,Laravel,Junior,11770.0,Presencial,,,,,jobs
+JOB-100888,CodeWorks,Cartagena,Colombia,Data Engineer,C#,FastAPI,Mid,10657.0,Remoto,,,,,jobs
+JOB-100889,RocketSoft,San Francisco,USA,Cloud Architect,R,Flask,Senior,98274.0,Híbrido,,,,,jobs
+JOB-100890,CodeWorks,Guadalajara,México,Cybersecurity Analyst,Scala,Laravel,Junior,15468.0,Remoto,,,,,jobs
+JOB-100891,CodeWorks,Sevilla,España,Data Analyst,PHP,Spring,Senior,50177.0,Remoto,2022-07-10,2022.0,7.0,3.0,jobs
+JOB-100892,Lambda Solutions,Cartagena,Colombia,Cloud Architect,PHP,FastAPI,Senior,15.106,Remoto,,,,,jobs
+JOB-100893,QuantumWare,Valencia,España,ML Engineer,Kotlin,Spring,Junior,26924.0,Remoto,,,,,jobs
+JOB-100894,DevOpsLab,Arequipa,Perú,BI Developer,Swift,Flask,Mid,19866.0,Remoto,,,,,jobs
+JOB-100895,CodeWorks,???,México,Frontend Developer,C#,Vue,Junior,14093.0,Remoto,,,,,jobs
+JOB-100896,Vertex AI,Valparaíso,Chile,Frontend Developer,Go,Spring,Mid,23010.0,Remoto,,,,,jobs
+JOB-100897,GreenBit,Barranquilla,Colombia,Data Analyst,PHP,Vue,Mid,14259.0,Presencial,,,,,jobs
+JOB-100898,QuantumWare,Cali,Colombia,ML Engineer,C#,Flask,Mid,10117.0,Híbrido,,,,,jobs
+JOB-100899,GreenBit,Valparaíso,Chile,Data Scientist,JavaScript,.NET,Senior,28362.0,Remoto,,,,,jobs
+JOB-100900,DevOpsLab,Madrid,España,MLOps Engineer,Go,Spring,Senior,73905.0,Híbrido,,,,,jobs
+JOB-100901,Orion Cloud,San Francisco,USA,Data Scientist,Go,FastAPI,Senior,125.663,Remoto,,,,,jobs
+JOB-100902,Vertex AI,Cusco,Perú,ML Engineer,R,Django,Mid,16532.0,Presencial,,,,,jobs
+JOB-100903,CodeWorks,Puebla,México,Data Engineer,Java,Spark,Mid,16035.0,Remoto,,,,,jobs
+JOB-100904,GreenBit,Seattle,USA,Data Engineer,Scala,Flask,Senior,,Remoto,,,,,jobs
+JOB-100905,RocketSoft,Medellín,Colombia,Cybersecurity Analyst,Java,Node.js,Senior,18.772,Remoto,,,,,jobs
+JOB-100906,QuantumWare,Rosario,Argentina,BI Developer,JavaScript,Laravel,Mid,,Híbrido,,,,,jobs
+JOB-100907,GreenBit,Valencia,España,Data Scientist,Java,Laravel,Mid,41101.0,Remoto,,,,,jobs
+JOB-100908,QuantumWare,Cali,Colombia,Fullstack Developer,C#,Node.js,Junior,9198.0,Híbrido,,,,,jobs
+JOB-100909,RocketSoft,Cali,Colombia,ML Engineer,R,Django,Senior,13.045,Remoto,,,,,jobs
+JOB-100910,GreenBit,Medellín,Colombia,Data Engineer,PHP,Node.js,Senior,17513.0,Remoto,,,,,jobs
+JOB-100911,DataNova,Santiago,Chile,Fullstack Developer,TypeScript,FastAPI,Junior,24556.0,Híbrido,,,,,jobs
+JOB-100912,DevOpsLab,???,España,Data Engineer,Scala,Laravel,Junior,35275.0,Remoto,,,,,jobs
+JOB-100913,CloudForge,Seattle,USA,Data Engineer,Scala,Spark,Mid,92602.0,Híbrido,,,,,jobs
+JOB-100914,DevOpsLab,Cartagena,Colombia,ML Engineer,JavaScript,Angular,Junior,10755.0,Híbrido,,,,,jobs
+JOB-100915,DataNova,CARTAGENA,Colombia,ML Engineer,Swift,,Junior,9044.0,Presencial,,,,,jobs
+JOB-100916,SoftSmart,Austin,USA,DevOps Engineer,PHP,FastAPI,Mid,94214.0,Remoto,,,,,jobs
+JOB-100917,GreenBit,Sevilla,España,MLOps Engineer,R,Laravel,Mid,30.964,Remoto,,,,,jobs
+JOB-100918,CloudForge,Puebla,México,DevOps Engineer,Java,React,Junior,13718.0,Remoto,,,,,jobs
+JOB-100919,Atlas Systems,???,Chile,Cloud Architect,R,Spring,Mid,25527.0,Híbrido,,,,,jobs
+JOB-100920,Atlas Systems,Monterrey,México,Data Engineer,Swift,Spring,Junior,14034.0,Remoto,,,,,jobs
+JOB-100921,Vertex AI,San Francisco,USA,Data Analyst,JavaScript,Spring,Junior,84777.0,Presencial,,,,,jobs
+JOB-100922,SoftSmart,CDMX,México,Data Engineer,PHP,Django,Mid,23085.0,Híbrido,,,,,jobs
+JOB-100923,NeoTech,Sevilla,España,Frontend Developer,JavaScript,.NET,Mid,45533.0,Remoto,,,,,jobs
+JOB-100924,CloudForge,Miami,USA,Frontend Developer,Kotlin,Spring,Mid,90654.0,Híbrido,,,,,jobs
+JOB-100925,IA Factory,Córdoba,Argentina,Frontend Developer,Scala,FastAPI,Mid,17806.0,Remoto,,,,,jobs
+JOB-100926,DataNova,buenos aires,Argentina,Frontend Developer,R,Laravel,Senior,25258.0,Remoto,,,,,jobs
+JOB-100927,Orion Cloud,Madrid,España,Frontend Developer,Kotlin,Spring,Mid,32426.0,Remoto,,,,,jobs
+JOB-100928,Vertex AI,Cartagea,Colombia,Data Engineer,Kotlin,Node.js,Junior,9.648,Híbrido,,,,,jobs
+JOB-100929,QuantumWare,Medellín,Colombia,Data Engineer,Java,FastAPI,Mid,12.758,Híbrido,,,,,jobs
+JOB-100930,DevOpsLab,Valencia,España,MLOps Engineer,Java,React,Mid,39043.0,Híbrido,,,,,jobs
+JOB-100931,Vertex AI,Puebla,México,Backend Developer,TypeScript,FastAPI,Mid,18522.0,Presencial,,,,,jobs
+JOB-100932,Orion Cloud,Valparaíso,Chile,Frontend Developer,PHP,Vue,Junior,20474.0,Presencial,2023-02-04,2023.0,2.0,1.0,jobs
+JOB-100933,DevOpsLab,Madrid,España,ML Engineer,Java,Spark,Senior,52146.0,Presencial,,,,,jobs
+JOB-100934,CyberShield,Barranquilla,Colombia,Data Engineer,Python,.NET,Mid,10.663,Presencial,,,,,jobs
+JOB-100935,SoftSmart,Buenos Aires,Argentina,Fullstack Developer,TypeScript,Spark,Mid,25173.0,Híbrido,,,,,jobs
+JOB-100936,QuantumWare,Barranquilla,Colombia,DevOps Engineer,Python,Flask,Junior,11.108,Presencial,,,,,jobs
+JOB-100937,CyberShield,Córdoba,Argentina,Data Engineer,Python,FastAPI,Junior,13820.0,Presencial,,,,,jobs
+JOB-100938,BluePixel,New York,USA,MLOps Engineer,C#,.NET,Junior,65680.0,Remoto,,,,,jobs
+JOB-100939,RocketSoft,Barranquilla,Colombia,ML Engineer,Python,Spark,Senior,15322.0,Remoto,,,,,jobs
+JOB-100940,RocketSoft,Barranquilla,Colombia,Cloud Architect,TypeScript,Spring,Senior,16883.0,Remoto,,,,,jobs
+JOB-100941,DevOpsLab,???,Argentina,Cybersecurity Analyst,Kotlin,Spark,Senior,33287.0,Remoto,,,,,jobs
+JOB-100942,CyberShield,Cusco,Perú,Cybersecurity Analyst,Python,Node.js,Junior,16592.0,Presencial,2022-12-07,2022.0,12.0,4.0,jobs
+JOB-100943,Orion Cloud,Lima,Perú,Data Analyst,Kotlin,Flask,Senior,29236.0,Híbrido,,,,,jobs
+JOB-100944,Orion Cloud,CDMX,México,Backend Developer,C#,FastAPI,Junior,16.749,Remoto,,,,,jobs
+JOB-100945,Atlas Systems,Barcelona,España,Cybersecurity Analyst,R,Django,Mid,44306.0,Híbrido,,,,,jobs
+JOB-100946,QuantumWare,Rosario,Argentina,Data Scientist,JavaScript,Angular,Senior,31094.0,Remoto,,,,,jobs
+JOB-100947,BluePixel,Seattle,USA,Frontend Developer,R,React,Junior,81181.0,Híbrido,,,,,jobs
+JOB-100948,NeoTech,Buenos Aires,Argentina,Fullstack Developer,PHP,Angular,Junior,15714.0,Presencial,,,,,jobs
+JOB-100949,QuantumWare,Valparaíso,Chile,DevOps Engineer,PHP,Node.js,Junior,14768.0,Presencial,,,,,jobs
+JOB-100950,GreenBit,Buenos Aires,Argentina,Cybersecurity Analyst,Kotlin,Spring,Mid,19612.0,Presencial,,,,,jobs
+JOB-100951,GreenBit,SEVILLA,España,Fullstack Developer,Swift,.NET,Senior,67579.0,Híbrido,,,,,jobs
+JOB-100952,Orion Cloud,madrid,España,Cloud Architect,Swift,FastAPI,Junior,27937.0,Presencial,,,,,jobs
+JOB-100953,Orion Cloud,Córdoba,Argentina,Cybersecurity Analyst,R,Node.js,Junior,14498.0,Híbrido,,,,,jobs
+JOB-100954,DataNova,Sevilla,España,Data Engineer,PHP,Vue,Mid,43799.0,Híbrido,,,,,jobs
+JOB-100955,NeoTech,Arequipa,Perú,Backend Developer,Go,Spark,Senior,25504.0,Remoto,,,,,jobs
+JOB-100956,IA Factory,???,Colombia,Data Engineer,Swift,Spring,Mid,11135.0,Híbrido,,,,,jobs
+JOB-100957,Vertex AI,ROSARIO,Argentina,Data Engineer,TypeScript,Spring,Junior,19.738,Remoto,,,,,jobs
+JOB-100958,IA Factory,Guadalajara,México,Cybersecurity Analyst,Scala,FastAPI,Junior,15748.0,Remoto,2025-11-02,2025.0,11.0,4.0,jobs
+JOB-100959,Lambda Solutions,seattle,USA,DevOps Engineer,Java,React,Senior,148.113,Remoto,,,,,jobs
+JOB-100960,NeoTech,Puebla,México,Data Scientist,Python,.NET,Senior,23065.0,Híbrido,,,,,jobs
+JOB-100961,DevOpsLab,Arequipa,Perú,Data Scientist,Java,Node.js,Mid,19.342,Híbrido,,,,,jobs
+JOB-100962,GreenBit,CDMX,México,Data Engineer,Go,.NET,Junior,15213.0,Presencial,,,,,jobs
+JOB-100963,DataNova,buenos aires,Argentina,Backend Developer,Swift,Laravel,Mid,22331.0,Remoto,2025-09-09,2025.0,9.0,3.0,jobs
+JOB-100964,GreenBit,Monterrey,México,Cloud Architect,Python,React,Senior,29543.0,Remoto,,,,,jobs
+JOB-100965,Atlas Systems,rosario,Argentina,DevOps Engineer,JavaScript,Flask,Mid,23.378,Híbrido,,,,,jobs
+JOB-100966,Orion Cloud,Sevilla,España,ML Engineer,Python,Spring,Senior,54560.0,Híbrido,2022-12-07,2022.0,12.0,4.0,jobs
+JOB-100967,SoftSmart,Barcelona,España,Frontend Developer,Go,Django,Senior,58702.0,Híbrido,2023-02-07,2023.0,2.0,1.0,jobs
+JOB-100968,CyberShield,San Francisco,USA,Backend Developer,R,Angular,Senior,110155.0,Híbrido,2024-10-05,2024.0,10.0,4.0,jobs
+JOB-100969,BluePixel,Sevilla,España,Data Engineer,Java,Flask,Senior,58336.0,Presencial,,,,,jobs
+JOB-100970,NeoTech,Madrid,España,Cloud Architect,TypeScript,Django,Mid,41900.0,Remoto,,,,,jobs
+JOB-100971,RocketSoft,Valparaiso,Chile,BI Developer,Scala,Angular,Mid,23541.0,Presencial,,,,,jobs
+JOB-100972,BluePixel,Bucaramanga,Colombia,DevOps Engineer,JavaScript,Laravel,Mid,10607.0,Presencial,,,,,jobs
+JOB-100973,DataNova,Buenos Aires,Argentina,BI Developer,R,Laravel,Senior,27753.0,Presencial,2025-10-06,2025.0,10.0,4.0,jobs
+JOB-100974,IA Factory,Concepción,Chile,BI Developer,PHP,Spring,Mid,20.449,Híbrido,,,,,jobs
+JOB-100975,QuantumWare,Cali,Colombia,BI Developer,JavaScript,React,Senior,17659.0,Presencial,,,,,jobs
+JOB-100976,Vertex AI,Austin,USA,Frontend Developer,TypeScript,Laravel,Senior,138.879,Híbrido,,,,,jobs
+JOB-100977,Orion Cloud,Bogotá,Colombia,Data Engineer,Python,Node.js,Senior,14409.0,Presencial,,,,,jobs
+JOB-100978,DataNova,cusco,Perú,Data Analyst,Python,Node.js,Mid,18128.0,Presencial,,,,,jobs
+JOB-100979,BluePixel,Concepción,Chile,Cloud Architect,Java,Django,Junior,23203.0,Híbrido,,,,,jobs
+JOB-100980,SoftSmart,Córdoba,Argentina,DevOps Engineer,Kotlin,Laravel,Mid,23187.0,Híbrido,,,,,jobs
+JOB-100981,CloudForge,Cartagea,Colombia,BI Developer,R,,Mid,13818.0,Híbrido,,,,,jobs
+JOB-100982,Orion Cloud,Cusco,Perú,Cybersecurity Analyst,PHP,Spark,Mid,17594.0,Híbrido,,,,,jobs
+JOB-100983,SoftSmart,Arequipa,Perú,BI Developer,R,Node.js,Junior,13.669,Presencial,,,,,jobs
+JOB-100984,GreenBit,Santiago,Chile,Data Scientist,C#,FastAPI,Mid,23534.0,Híbrido,,,,,jobs
+JOB-100985,RocketSoft,buenos aires,Argentina,Fullstack Developer,Java,Vue,Junior,17422.0,Híbrido,2024-12-07,2024.0,12.0,4.0,jobs
+JOB-100986,Lambda Solutions,Cartagea,Colombia,Fullstack Developer,Python,.NET,Senior,22726.0,Híbrido,,,,,jobs
+JOB-100987,GreenBit,Seattle,USA,Fullstack Developer,Scala,Node.js,Senior,,Remoto,,,,,jobs
+JOB-100988,CyberShield,Austin,USA,Data Analyst,Swift,Django,Junior,94077.0,Híbrido,,,,,jobs
+JOB-100989,RocketSoft,Cartagena,Colombia,Cybersecurity Analyst,Swift,Laravel,Mid,14.429,Remoto,,,,,jobs
+JOB-100990,CloudForge,Buenos Aires,Argentina,Frontend Developer,Python,Django,Senior,21226.0,Remoto,,,,,jobs
+JOB-100991,DataNova,Cartagena,Colombia,DevOps Engineer,Go,Spark,Senior,16294.0,Presencial,,,,,jobs
+JOB-100992,Vertex AI,Arequipa,Perú,Data Scientist,Scala,FastAPI,Junior,13465.0,Remoto,,,,,jobs
+JOB-100993,NeoTech,MONTERREY,México,Cloud Architect,PHP,Flask,Junior,17099.0,Presencial,,,,,jobs
+JOB-100994,CyberShield,Córdoba,Argentina,Backend Developer,Go,Node.js,Senior,35091.0,Remoto,,,,,jobs
+JOB-100995,DataNova,Concepción,Chile,Frontend Developer,Go,Django,Mid,22.51,Híbrido,,,,,jobs
+JOB-100996,Atlas Systems,Cartagena,Colombia,Cloud Architect,Scala,Vue,Senior,16897.0,Híbrido,2024-05-10,2024.0,5.0,2.0,jobs
+JOB-100997,BluePixel,Valparaíso,Chile,Fullstack Developer,Kotlin,Spark,Junior,21.671,Híbrido,,,,,jobs
+JOB-100998,RocketSoft,Barcelona,España,Cybersecurity Analyst,TypeScript,Flask,Junior,28.172,Remoto,,,,,jobs
+JOB-100999,GreenBit,Medellin,Colombia,Data Scientist,TypeScript,Flask,Senior,15216.0,Presencial,,,,,jobs
+JOB-101000,Lambda Solutions,Cusco,Perú,ML Engineer,Swift,Spark,Senior,22639.0,Híbrido,,,,,jobs
+JOB-101001,DataNova,CDMX,México,DevOps Engineer,C#,Angular,Mid,20389.0,Presencial,,,,,jobs
+JOB-101002,QuantumWare,Puebla,México,Cloud Architect,PHP,Django,Junior,12.436,Remoto,,,,,jobs
+JOB-101003,NeoTech,NEW YORK,USA,BI Developer,R,Laravel,Junior,88942.0,Presencial,,,,,jobs
+JOB-101004,DevOpsLab,Madrid,España,Data Scientist,Scala,Flask,Junior,30796.0,Presencial,,,,,jobs
+JOB-101005,GreenBit,SEVILLA,España,Cybersecurity Analyst,Swift,FastAPI,Senior,59198.0,Híbrido,,,,,jobs
+JOB-101006,IA Factory,Bucaramanga,Colombia,Backend Developer,Go,React,Junior,11824.0,Presencial,,,,,jobs
+JOB-101007,DevOpsLab,austin,USA,Fullstack Developer,C#,Node.js,Junior,68374.0,Híbrido,,,,,jobs
+JOB-101008,SoftSmart,Puebla,México,Backend Developer,Kotlin,Flask,Junior,,Presencial,,,,,jobs
+JOB-101009,Orion Cloud,???,USA,Frontend Developer,TypeScript,Spring,Senior,,Híbrido,,,,,jobs
+JOB-101010,DevOpsLab,Puebla,México,Cloud Architect,PHP,React,Junior,12171.0,Presencial,,,,,jobs
+JOB-101011,QuantumWare,Austin,USA,DevOps Engineer,Go,Spark,Senior,118435.0,Presencial,,,,,jobs
+JOB-101012,BluePixel,Concepción,Chile,Cloud Architect,Swift,FastAPI,Mid,24574.0,Híbrido,,,,,jobs
+JOB-101013,QuantumWare,Valencia,España,DevOps Engineer,Scala,React,Junior,31.115,Remoto,,,,,jobs
+JOB-101014,DevOpsLab,New York,USA,Data Scientist,Swift,FastAPI,Junior,61.825,Presencial,,,,,jobs
+JOB-101015,Orion Cloud,Cali,Colombia,Fullstack Developer,C#,Flask,Senior,15837.0,Remoto,,,,,jobs
+JOB-101016,Orion Cloud,Lima,Perú,MLOps Engineer,C#,Spark,Mid,19572.0,Presencial,,,,,jobs
+JOB-101017,Orion Cloud,Unknown,México,Backend Developer,Go,Spring,Mid,21626.0,Híbrido,,,,,jobs
+JOB-101018,GreenBit,Guadalajara,México,Data Engineer,PHP,FastAPI,Mid,12709.0,Híbrido,,,,,jobs
+JOB-101019,CyberShield,Austin,USA,ML Engineer,Swift,Laravel,Senior,,Híbrido,,,,,jobs
+JOB-101020,Lambda Solutions,Córdoba,Argentina,MLOps Engineer,JavaScript,Laravel,Mid,22639.0,Presencial,,,,,jobs
+JOB-101021,GreenBit,Barranquilla,Colombia,DevOps Engineer,TypeScript,FastAPI,Junior,8040.0,Remoto,,,,,jobs
+JOB-101022,GreenBit,Concepción,Chile,Backend Developer,C#,Django,Senior,27299.0,Híbrido,,,,,jobs
+JOB-101023,CloudForge,Valparaíso,Chile,Fullstack Developer,Python,Angular,Mid,26561.0,Presencial,,,,,jobs
+JOB-101024,QuantumWare,???,Perú,Frontend Developer,PHP,,Mid,16870.0,Presencial,,,,,jobs
+JOB-101025,CodeWorks,Santiago,Chile,Cybersecurity Analyst,Java,Flask,Mid,25.508,Remoto,,,,,jobs
+JOB-101026,Lambda Solutions,San Francisco,USA,Backend Developer,PHP,Angular,Mid,107229.0,Híbrido,,,,,jobs
+JOB-101027,IA Factory,Santiago,Chile,Cybersecurity Analyst,TypeScript,FastAPI,Mid,23609.0,Remoto,,,,,jobs
+JOB-101028,CodeWorks,Santiago,Chile,Data Analyst,PHP,Node.js,Mid,25606.0,Remoto,,,,,jobs
+JOB-101029,CloudForge,Medellín,Colombia,MLOps Engineer,Kotlin,.NET,Junior,10281.0,Remoto,,,,,jobs
+JOB-101030,Atlas Systems,Concepción,Chile,ML Engineer,Go,Angular,Mid,28322.0,Híbrido,,,,,jobs
+JOB-101031,Vertex AI,Cartagena,Colombia,Data Engineer,Scala,.NET,Junior,12.127,Híbrido,,,,,jobs
+JOB-101032,CloudForge,Valencia,España,Frontend Developer,TypeScript,Laravel,Mid,47.658,Híbrido,,,,,jobs
+JOB-101033,DataNova,???,México,Backend Developer,R,Vue,Mid,18648.0,Remoto,,,,,jobs
+JOB-101034,GreenBit,Buenos Aires,Argentina,Fullstack Developer,Swift,Angular,Senior,27012.0,Híbrido,,,,,jobs
+JOB-101035,CloudForge,Madrid,España,Cloud Architect,Go,React,Mid,51471.0,Remoto,,,,,jobs
+JOB-101036,CodeWorks,Arequipa,Perú,Data Scientist,TypeScript,React,Mid,19722.0,Presencial,,,,,jobs
+JOB-101037,Lambda Solutions,Guadalajara,México,Data Engineer,TypeScript,Spark,Senior,26808.0,Remoto,,,,,jobs
+JOB-101038,CyberShield,Cartagena,Colombia,Frontend Developer,PHP,Spring,Senior,14.038,Híbrido,,,,,jobs
+JOB-101039,QuantumWare,Barcelona,España,BI Developer,Swift,.NET,Senior,59.386,Presencial,,,,,jobs
+JOB-101040,DevOpsLab,arequipa,Perú,Cloud Architect,C#,React,Mid,15.912,Híbrido,,,,,jobs
+JOB-101041,BluePixel,Guadalajara,México,Frontend Developer,JavaScript,.NET,Senior,23478.0,Remoto,,,,,jobs
+JOB-101042,NeoTech,Austin,USA,Backend Developer,R,Spring,Senior,106497.0,Presencial,,,,,jobs
+JOB-101043,BluePixel,madrid,España,Cloud Architect,JavaScript,Django,Junior,28047.0,Presencial,,,,,jobs
+JOB-101044,IA Factory,Madrid,España,Data Scientist,PHP,Node.js,Senior,53696.0,Híbrido,,,,,jobs
+JOB-101045,RocketSoft,Puebla,México,Cybersecurity Analyst,Go,FastAPI,Junior,11176.0,Híbrido,,,,,jobs
+JOB-101046,Atlas Systems,Rosario,Argentina,Fullstack Developer,Swift,Spark,Junior,13863.0,Híbrido,,,,,jobs
+JOB-101047,DevOpsLab,Puebla,México,Data Scientist,C#,.NET,Senior,24907.0,Híbrido,,,,,jobs
+JOB-101048,Orion Cloud,San Francisco,USA,Frontend Developer,TypeScript,FastAPI,Junior,61678.0,Presencial,,,,,jobs
+JOB-101049,BluePixel,Santiago,Chile,Data Analyst,PHP,Node.js,Senior,28460.0,Híbrido,,,,,jobs
+JOB-101050,RocketSoft,Miami,USA,Data Analyst,Java,Spring,Junior,,Híbrido,,,,,jobs
+JOB-101051,SoftSmart,Arequipa,Perú,ML Engineer,C#,Spark,Junior,11376.0,Híbrido,,,,,jobs
+JOB-101052,CloudForge,San Francisco,USA,Data Analyst,Scala,Spring,Mid,103715.0,Remoto,,,,,jobs
+JOB-101053,Atlas Systems,Barcelona,España,Cybersecurity Analyst,TypeScript,.NET,Junior,25892.0,Presencial,,,,,jobs
+JOB-101054,Lambda Solutions,Cartagena,Colombia,ML Engineer,Python,Spark,Senior,18730.0,Híbrido,2025-01-09,2025.0,1.0,1.0,jobs
+JOB-101055,CodeWorks,Concepción,Chile,BI Developer,Python,Django,Mid,28.453,Presencial,,,,,jobs
+JOB-101056,DataNova,PUEBLA,México,Data Analyst,Swift,.NET,Junior,11824.0,Híbrido,,,,,jobs
+JOB-101057,SoftSmart,Córdoba,Argentina,Cloud Architect,Kotlin,Angular,Junior,16097.0,Híbrido,,,,,jobs
+JOB-101058,DataNova,Buenos Aires,Argentina,Cybersecurity Analyst,R,Flask,Mid,18570.0,Híbrido,,,,,jobs
+JOB-101059,DevOpsLab,Santiago,Chile,BI Developer,Swift,Django,Senior,29056.0,Híbrido,,,,,jobs
+JOB-101060,Lambda Solutions,Santiago,Chile,Backend Developer,JavaScript,.NET,Senior,33250.0,Remoto,2022-02-05,2022.0,2.0,1.0,jobs
+JOB-101061,Lambda Solutions,new york,USA,Frontend Developer,PHP,Django,Mid,91577.0,Híbrido,,,,,jobs
+JOB-101062,Lambda Solutions,???,Perú,ML Engineer,TypeScript,Angular,Junior,15929.0,Híbrido,,,,,jobs
+JOB-101063,Atlas Systems,Sevilla,España,Data Engineer,Scala,Django,Senior,61352.0,Remoto,,,,,jobs
+JOB-101064,CloudForge,New York,USA,MLOps Engineer,R,Django,Junior,63.505,Presencial,,,,,jobs
+JOB-101065,Atlas Systems,Puebla,México,Frontend Developer,PHP,Spark,Senior,,Presencial,2025-10-03,2025.0,10.0,4.0,jobs
+JOB-101066,NeoTech,Miami,USA,Frontend Developer,Python,Node.js,Senior,,Híbrido,,,,,jobs
+JOB-101067,QuantumWare,Bucaramanga,Colombia,Data Engineer,R,React,Mid,14112.0,Presencial,,,,,jobs
+JOB-101068,CodeWorks,Medellín,Colombia,Data Scientist,C#,.NET,Mid,7.618,Presencial,,,,,jobs
+JOB-101069,IA Factory,New York,USA,Backend Developer,PHP,FastAPI,Junior,90531.0,Híbrido,,,,,jobs
+JOB-101070,GreenBit,Guadalajara,México,BI Developer,Java,Spring,Senior,24567.0,Remoto,,,,,jobs
+JOB-101071,Atlas Systems,Córdoba,Argentina,MLOps Engineer,PHP,React,Mid,24584.0,Presencial,,,,,jobs
+JOB-101072,CyberShield,Madrid,España,ML Engineer,Scala,Flask,Junior,28473.0,Presencial,2025-04-05,2025.0,4.0,2.0,jobs
+JOB-101073,CloudForge,Valparaíso,Chile,Cybersecurity Analyst,Java,Vue,Mid,21.892,Híbrido,,,,,jobs
+JOB-101074,DataNova,Guadalajara,México,Backend Developer,Kotlin,Flask,Mid,18121.0,Remoto,,,,,jobs
+JOB-101075,CloudForge,austin,USA,Data Scientist,Python,Django,Junior,89.299,Presencial,,,,,jobs
+JOB-101076,BluePixel,Monterrey,México,Data Analyst,C#,Django,Junior,14466.0,Híbrido,,,,,jobs
+JOB-101077,CyberShield,Concepción,Chile,Data Engineer,R,Spring,Junior,12944.0,Remoto,,,,,jobs
+JOB-101078,RocketSoft,Concepción,Chile,Cybersecurity Analyst,Kotlin,Vue,Mid,27.559,Presencial,,,,,jobs
+JOB-101079,IA Factory,Seattle,USA,Backend Developer,Java,.NET,Senior,100960.0,Remoto,,,,,jobs
+JOB-101080,QuantumWare,Concepción,Chile,ML Engineer,Python,FastAPI,Mid,21338.0,Híbrido,,,,,jobs
+JOB-101081,Atlas Systems,valencia,España,Backend Developer,TypeScript,Node.js,Junior,25113.0,Remoto,2022-01-01,2022.0,1.0,1.0,jobs
+JOB-101082,DataNova,Buenos Aires,Argentina,Fullstack Developer,TypeScript,Spark,Junior,11597.0,Híbrido,2023-04-06,2023.0,4.0,2.0,jobs
+JOB-101083,Atlas Systems,CDMX,México,Backend Developer,Python,Angular,Mid,14623.0,Remoto,,,,,jobs
+JOB-101084,CodeWorks,Lima,Perú,Fullstack Developer,Go,React,Junior,12270.0,Remoto,,,,,jobs
+JOB-101085,Atlas Systems,Puebla,México,Data Engineer,C#,FastAPI,Junior,13079.0,Remoto,,,,,jobs
+JOB-101086,DataNova,Santiago,Chile,MLOps Engineer,Scala,Spark,Senior,34.72,Híbrido,,,,,jobs
+JOB-101087,QuantumWare,Santiago,Chile,Cloud Architect,Python,Flask,Senior,33246.0,Híbrido,,,,,jobs
+JOB-101088,QuantumWare,Cusco,Perú,DevOps Engineer,Java,Spring,Junior,11202.0,Presencial,2023-11-06,2023.0,11.0,4.0,jobs
+JOB-101089,CloudForge,Madrid,España,Data Engineer,R,React,Senior,51750.0,Híbrido,,,,,jobs
+JOB-101090,GreenBit,Monterrey,México,Backend Developer,JavaScript,Spring,Junior,16501.0,Presencial,,,,,jobs
+JOB-101091,Lambda Solutions,Córdoba,Argentina,Fullstack Developer,Swift,Flask,Junior,18275.0,Presencial,,,,,jobs
+JOB-101092,CodeWorks,San Francisco,USA,MLOps Engineer,TypeScript,Node.js,Mid,96918.0,Híbrido,,,,,jobs
+JOB-101093,CodeWorks,Arequipa,Perú,Cybersecurity Analyst,Java,FastAPI,Mid,19672.0,Híbrido,,,,,jobs
+JOB-101094,CloudForge,Cartagena,Colombia,ML Engineer,JavaScript,Django,Senior,19048.0,Remoto,,,,,jobs
+JOB-101095,DataNova,Medellín,Colombia,Fullstack Developer,Scala,.NET,Junior,11560.0,Remoto,,,,,jobs
+JOB-101096,NeoTech,Guadalajara,México,Backend Developer,Swift,React,Junior,18064.0,Presencial,2023-03-03,2023.0,3.0,1.0,jobs
+JOB-101097,GreenBit,Guadalajara,México,Data Scientist,C#,FastAPI,Senior,23989.0,Híbrido,,,,,jobs
+JOB-101098,Lambda Solutions,Valencia,España,Data Analyst,Kotlin,Django,Junior,29161.0,Remoto,,,,,jobs
+JOB-101099,GreenBit,San Francisco,USA,BI Developer,PHP,Vue,Junior,92789.0,Remoto,,,,,jobs
+JOB-101100,IA Factory,Sevilla,España,Backend Developer,Java,Vue,Mid,46898.0,Híbrido,,,,,jobs
+JOB-101101,IA Factory,austin,USA,Data Engineer,PHP,Node.js,Senior,,Presencial,,,,,jobs
+JOB-101102,CodeWorks,Guadalajara,México,Cloud Architect,C#,Spring,Junior,9337.0,Híbrido,,,,,jobs
+JOB-101103,Atlas Systems,Guadalajara,México,Backend Developer,Python,.NET,Junior,13925.0,Presencial,,,,,jobs
+JOB-101104,Atlas Systems,Lima,Perú,Backend Developer,PHP,FastAPI,Mid,9210.0,Remoto,,,,,jobs
+JOB-101105,SoftSmart,Valparaíso,Chile,Data Engineer,Swift,React,Junior,22189.0,Híbrido,,,,,jobs
+JOB-101106,QuantumWare,Cusco,Perú,Frontend Developer,PHP,Spark,Senior,25410.0,Híbrido,2023-09-06,2023.0,9.0,3.0,jobs
+JOB-101107,DataNova,Austin,USA,Frontend Developer,Java,Spring,Senior,,Presencial,,,,,jobs
+JOB-101108,Atlas Systems,Cusco,Perú,Fullstack Developer,Go,React,Senior,24679.0,Híbrido,,,,,jobs
+JOB-101109,DevOpsLab,CDMX,México,Frontend Developer,Go,Flask,Junior,17215.0,Presencial,2025-11-03,2025.0,11.0,4.0,jobs
+JOB-101110,DevOpsLab,Monterrey,México,Frontend Developer,Python,Laravel,Senior,24092.0,Híbrido,,,,,jobs
+JOB-101111,DataNova,CDMX,México,Frontend Developer,Scala,Angular,Senior,29105.0,Remoto,,,,,jobs
+JOB-101112,QuantumWare,Barcelona,España,MLOps Engineer,Kotlin,.NET,Senior,57617.0,Remoto,,,,,jobs
+JOB-101113,CyberShield,New York,USA,Cybersecurity Analyst,PHP,React,Mid,100.084,Remoto,,,,,jobs
+JOB-101114,CloudForge,Arequipa,Perú,Cybersecurity Analyst,Python,Angular,Junior,15.399,Presencial,,,,,jobs
+JOB-101115,BluePixel,Cusco,Perú,Data Scientist,Java,FastAPI,Junior,14.639,Híbrido,2023-03-02,2023.0,3.0,1.0,jobs
+JOB-101116,SoftSmart,Santiago,Chile,Data Analyst,Swift,React,Senior,29257.0,Remoto,,,,,jobs
+JOB-101117,DevOpsLab,Concepción,Chile,Cloud Architect,Java,Vue,Junior,22.148,Presencial,,,,,jobs
+JOB-101118,RocketSoft,Cali,Colombia,DevOps Engineer,Swift,Angular,Senior,18.597,Híbrido,2025-05-02,2025.0,5.0,2.0,jobs
+JOB-101119,Lambda Solutions,Santiago,Chile,Cloud Architect,Scala,Spark,Senior,34244.0,Remoto,,,,,jobs
+JOB-101120,CodeWorks,santiago,Chile,MLOps Engineer,PHP,Laravel,Junior,,Híbrido,,,,,jobs
+JOB-101121,DataNova,San Francisco,USA,BI Developer,R,React,Junior,86247.0,Híbrido,,,,,jobs
+JOB-101122,Lambda Solutions,Barcelona,España,Backend Developer,JavaScript,Vue,Senior,42.973,Remoto,,,,,jobs
+JOB-101123,Vertex AI,PUEBLA,México,Fullstack Developer,R,FastAPI,Senior,24662.0,Híbrido,,,,,jobs
+JOB-101124,QuantumWare,???,Colombia,Frontend Developer,Go,Spark,Senior,15683.0,Remoto,,,,,jobs
+JOB-101125,IA Factory,Barranquilla,Colombia,Cloud Architect,R,Angular,Mid,10370.0,Híbrido,,,,,jobs
+JOB-101126,DevOpsLab,Valparaíso,Chile,Cloud Architect,Kotlin,Laravel,Junior,20966.0,Remoto,2022-07-11,2022.0,7.0,3.0,jobs
+JOB-101127,RocketSoft,Arequipa,Perú,MLOps Engineer,Go,Django,Junior,12578.0,Remoto,2025-12-05,2025.0,12.0,4.0,jobs
+JOB-101128,Atlas Systems,Seattle,USA,Data Engineer,Java,Django,Mid,88810.0,Presencial,,,,,jobs
+JOB-101129,RocketSoft,Concepción,Chile,Data Scientist,C#,Node.js,Senior,36.288,Remoto,,,,,jobs
+JOB-101130,NeoTech,Valparaíso,Chile,Cloud Architect,R,Laravel,Junior,21049.0,Remoto,,,,,jobs
+JOB-101131,BluePixel,Puebla,México,Cybersecurity Analyst,Python,Laravel,Junior,15094.0,Híbrido,,,,,jobs
+JOB-101132,NeoTech,Córdoba,Argentina,MLOps Engineer,PHP,Laravel,Senior,37.382,Híbrido,,,,,jobs
+JOB-101133,BluePixel,Medellín,Colombia,MLOps Engineer,R,Vue,Senior,15.53,Híbrido,,,,,jobs
+JOB-101134,CyberShield,Lima,Perú,DevOps Engineer,Scala,Spring,Senior,26145.0,Presencial,,,,,jobs
+JOB-101135,DevOpsLab,???,Colombia,DevOps Engineer,PHP,Node.js,Junior,7.863,Híbrido,,,,,jobs
+JOB-101136,Lambda Solutions,Austin,USA,Frontend Developer,C#,Node.js,Junior,81487.0,Híbrido,,,,,jobs
+JOB-101137,BluePixel,Arequipa,Perú,Backend Developer,Kotlin,Django,Mid,21114.0,Híbrido,2025-04-05,2025.0,4.0,2.0,jobs
+JOB-101138,Orion Cloud,Unknown,Perú,Data Engineer,Scala,.NET,Junior,17021.0,Presencial,,,,,jobs
+JOB-101139,GreenBit,santiago,Chile,Data Engineer,Go,Flask,Mid,22615.0,Presencial,,,,,jobs
+JOB-101140,GreenBit,Buenos Aires,Argentina,Cybersecurity Analyst,Go,Spring,Junior,15329.0,Presencial,,,,,jobs
+JOB-101141,SoftSmart,Puebla,México,ML Engineer,PHP,Vue,Junior,17.126,Presencial,,,,,jobs
+JOB-101142,RocketSoft,Concepción,Chile,BI Developer,PHP,Laravel,Senior,34509.0,Presencial,,,,,jobs
+JOB-101143,NeoTech,Sevilla,España,Cybersecurity Analyst,PHP,Spring,Senior,60850.0,Remoto,,,,,jobs
+JOB-101144,DataNova,Valencia,España,Data Scientist,Scala,React,Senior,,Remoto,,,,,jobs
+JOB-101145,QuantumWare,Valencia,España,Data Analyst,TypeScript,Laravel,Junior,36.708,Remoto,,,,,jobs
+JOB-101146,GreenBit,Valparaíso,Chile,Data Scientist,Scala,Angular,Mid,,Híbrido,,,,,jobs
+JOB-101147,NeoTech,Cartagena,Colombia,BI Developer,Scala,Angular,Senior,17.969,Híbrido,,,,,jobs
+JOB-101148,Vertex AI,Bogotá,Colombia,Fullstack Developer,Go,Laravel,Senior,14787.0,Presencial,2024-07-10,2024.0,7.0,3.0,jobs
+JOB-101149,Lambda Solutions,Cusco,Perú,Data Analyst,Scala,FastAPI,Junior,14.055,Remoto,,,,,jobs
+JOB-101150,RocketSoft,Medellín,Colombia,Data Analyst,Swift,React,Senior,17181.0,Híbrido,,,,,jobs
+JOB-101151,Vertex AI,Santiago,Chile,Cloud Architect,Go,FastAPI,Junior,20.79,Remoto,,,,,jobs
+JOB-101152,BluePixel,Barcelona,España,Fullstack Developer,Scala,Django,Junior,29922.0,Remoto,,,,,jobs
+JOB-101153,Vertex AI,Medellín,Colombia,Data Analyst,Scala,Django,Junior,9.285,Híbrido,,,,,jobs
+JOB-101154,IA Factory,Bogotá,Colombia,Data Scientist,Swift,.NET,Senior,17284.0,Remoto,,,,,jobs
+JOB-101155,NeoTech,Valencia,España,Cybersecurity Analyst,Scala,Laravel,Mid,45954.0,Híbrido,,,,,jobs
+JOB-101156,DataNova,Puebla,México,Data Analyst,Java,Vue,Junior,10062.0,Híbrido,,,,,jobs
+JOB-101157,DataNova,New York,USA,Data Engineer,R,Spark,Senior,105631.0,Presencial,,,,,jobs
+JOB-101158,Orion Cloud,Rosario,Argentina,Data Scientist,C#,Node.js,Junior,12292.0,Híbrido,,,,,jobs
+JOB-101159,Atlas Systems,ROSARIO,Argentina,Cybersecurity Analyst,Java,React,Senior,25114.0,Presencial,,,,,jobs
+JOB-101160,BluePixel,Lima,Perú,Data Analyst,TypeScript,.NET,Senior,18621.0,Remoto,,,,,jobs
+JOB-101161,Orion Cloud,Cusco,Perú,Data Analyst,PHP,Spring,Senior,27290.0,Híbrido,,,,,jobs
+JOB-101162,Orion Cloud,GUADALAJARA,México,DevOps Engineer,Go,Angular,Senior,25561.0,Presencial,,,,,jobs
+JOB-101163,Vertex AI,Guadalajara,México,MLOps Engineer,Swift,Flask,Senior,24240.0,Remoto,,,,,jobs
+JOB-101164,Atlas Systems,Valencia,España,Cloud Architect,Python,FastAPI,Mid,34115.0,Remoto,,,,,jobs
+JOB-101165,NeoTech,Córdoba,Argentina,Cloud Architect,Swift,Spring,Mid,20470.0,Híbrido,,,,,jobs
+JOB-101166,Vertex AI,New York,USA,Backend Developer,Java,Vue,Junior,78032.0,Híbrido,,,,,jobs
+JOB-101167,NeoTech,Guadalajara,México,Cybersecurity Analyst,C#,React,Mid,18.891,Presencial,,,,,jobs
+JOB-101168,CodeWorks,Cusco,Perú,Fullstack Developer,Python,React,Senior,22444.0,Presencial,,,,,jobs
+JOB-101169,CodeWorks,medellín,Colombia,ML Engineer,C#,Angular,Senior,18436.0,Presencial,,,,,jobs
+JOB-101170,Vertex AI,???,Colombia,Data Engineer,R,Vue,Junior,7485.0,Híbrido,,,,,jobs
+JOB-101171,Orion Cloud,Córdoba,Argentina,MLOps Engineer,R,FastAPI,Senior,33247.0,Híbrido,,,,,jobs
+JOB-101172,DataNova,Madrid,España,Data Analyst,C#,.NET,Mid,20462.0,Presencial,,,,,jobs
+JOB-101173,Lambda Solutions,Lima,Perú,ML Engineer,JavaScript,Django,Mid,16397.0,Remoto,,,,,jobs
+JOB-101174,BluePixel,Cusco,Perú,MLOps Engineer,JavaScript,Node.js,Senior,20.655,Remoto,,,,,jobs
+JOB-101175,CloudForge,Austin,USA,Backend Developer,Swift,Angular,Junior,85003.0,Presencial,,,,,jobs
+JOB-101176,GreenBit,Cali,Colombia,Cloud Architect,Go,Angular,Mid,9326.0,Presencial,,,,,jobs
+JOB-101177,CodeWorks,Arequipa,Perú,Cloud Architect,Kotlin,Flask,Mid,22918.0,Híbrido,,,,,jobs
+JOB-101178,DevOpsLab,barcelona,España,Cybersecurity Analyst,PHP,React,Junior,23356.0,Remoto,,,,,jobs
+JOB-101179,Lambda Solutions,Arequipa,Perú,ML Engineer,Java,Angular,Junior,18781.0,Remoto,,,,,jobs
+JOB-101180,GreenBit,Barcelona,España,Data Analyst,Python,Spark,Junior,32.442,Remoto,,,,,jobs
+JOB-101181,IA Factory,Concepción,Chile,BI Developer,R,Node.js,Junior,20.092,Presencial,,,,,jobs
+JOB-101182,CyberShield,New York,USA,DevOps Engineer,C#,Flask,Senior,,Remoto,2024-03-06,2024.0,3.0,1.0,jobs
+JOB-101183,GreenBit,Córdoba,Argentina,ML Engineer,Python,.NET,Junior,21262.0,Remoto,,,,,jobs
+JOB-101184,RocketSoft,Bucaramanga,Colombia,DevOps Engineer,C#,Spark,Senior,19.05,Remoto,,,,,jobs
+JOB-101185,IA Factory,Buenos Aires,Argentina,DevOps Engineer,Kotlin,Spring,Junior,10639.0,Híbrido,,,,,jobs
+JOB-101186,Atlas Systems,Monterrey,México,Data Scientist,R,FastAPI,Senior,29714.0,Híbrido,,,,,jobs
+JOB-101187,IA Factory,bogotá,Colombia,Data Analyst,C#,Flask,Senior,17384.0,Híbrido,,,,,jobs
+JOB-101188,DevOpsLab,Arequipa,Perú,Cloud Architect,C#,Spring,Mid,13634.0,Presencial,,,,,jobs
+JOB-101189,Vertex AI,Guadalajara,México,Fullstack Developer,R,Vue,Senior,28074.0,Remoto,,,,,jobs
+JOB-101190,DataNova,Monterrey,México,DevOps Engineer,C#,Node.js,Mid,14730.0,Híbrido,,,,,jobs
+JOB-101191,DataNova,Valparaíso,Chile,Cybersecurity Analyst,Go,Angular,Senior,35951.0,Presencial,,,,,jobs
+JOB-101192,BluePixel,Buenos Aires,Argentina,Cloud Architect,Scala,Angular,Senior,28979.0,Híbrido,,,,,jobs
+JOB-101193,DataNova,Unknown,USA,MLOps Engineer,C#,Flask,Junior,68608.0,Presencial,2025-11-03,2025.0,11.0,4.0,jobs
+JOB-101194,Lambda Solutions,CDMX,México,Cloud Architect,PHP,.NET,Mid,19748.0,Presencial,,,,,jobs
+JOB-101195,CloudForge,Valparaíso,Chile,ML Engineer,Swift,Angular,Junior,16935.0,Híbrido,2023-02-02,2023.0,2.0,1.0,jobs
+JOB-101196,RocketSoft,Cordoba,Argentina,Frontend Developer,Python,Node.js,Senior,28802.0,Híbrido,,,,,jobs
+JOB-101197,CodeWorks,Buenos Aires,Argentina,MLOps Engineer,Go,Vue,Mid,18358.0,Remoto,,,,,jobs
+JOB-101198,Orion Cloud,Arequipa,Perú,Data Engineer,Go,Node.js,Mid,17506.0,Presencial,,,,,jobs
+JOB-101199,CloudForge,Cali,Colombia,Data Analyst,TypeScript,FastAPI,Junior,12.368,Híbrido,,,,,jobs
+JOB-101200,CyberShield,Lima,Perú,Data Analyst,C#,React,Senior,25623.0,Presencial,2022-06-12,2022.0,6.0,2.0,jobs
+JOB-101201,RocketSoft,Lima,Perú,Data Analyst,Java,Vue,Senior,21089.0,Híbrido,,,,,jobs
+JOB-101202,CodeWorks,Cartagena,Colombia,Data Analyst,C#,Vue,Senior,16.504,Híbrido,,,,,jobs
+JOB-101203,BluePixel,Barcelona,España,Data Scientist,Scala,React,Junior,26.892,Remoto,,,,,jobs
+JOB-101204,CloudForge,Bucaramanga,Colombia,Data Engineer,Java,Spring,Senior,16.866,Presencial,,,,,jobs
+JOB-101205,DevOpsLab,San Francisco,USA,Data Analyst,Python,.NET,Junior,77.845,Remoto,,,,,jobs
+JOB-101206,CodeWorks,Buenos Aires,Argentina,ML Engineer,C#,Vue,Mid,20254.0,Presencial,,,,,jobs
+JOB-101207,QuantumWare,Cusco,Perú,DevOps Engineer,Java,Angular,Senior,25516.0,Remoto,,,,,jobs
+JOB-101208,CloudForge,Guadalajara,México,Data Engineer,Kotlin,FastAPI,Mid,16529.0,Remoto,,,,,jobs
+JOB-101209,BluePixel,Santiago,Chile,Data Analyst,Scala,Django,Junior,21347.0,Presencial,,,,,jobs
+JOB-101210,NeoTech,Bogotá,Colombia,ML Engineer,TypeScript,Flask,Mid,13.903,Presencial,,,,,jobs
+JOB-101211,QuantumWare,New York,USA,Cloud Architect,TypeScript,Vue,Mid,,Remoto,,,,,jobs
+JOB-101212,QuantumWare,Valparaíso,Chile,Cloud Architect,JavaScript,Spring,Mid,24780.0,Presencial,,,,,jobs
+JOB-101213,SoftSmart,Barcelona,España,MLOps Engineer,R,Django,Mid,38.345,Presencial,,,,,jobs
+JOB-101214,Orion Cloud,Santiago,Chile,Fullstack Developer,Scala,.NET,Junior,23761.0,Híbrido,,,,,jobs
+JOB-101215,NeoTech,Arequipa,Perú,Cloud Architect,Kotlin,.NET,Senior,29279.0,Presencial,,,,,jobs
+JOB-101216,Vertex AI,lima,Perú,Cybersecurity Analyst,R,FastAPI,Mid,16028.0,Remoto,,,,,jobs
+JOB-101217,Orion Cloud,Medellín,Colombia,MLOps Engineer,R,React,Mid,12130.0,Presencial,,,,,jobs
+JOB-101218,CyberShield,Córdoba,Argentina,DevOps Engineer,Scala,Django,Mid,15.518,Presencial,,,,,jobs
+JOB-101219,NeoTech,Córdoba,Argentina,Cybersecurity Analyst,Python,Angular,Junior,13682.0,Remoto,,,,,jobs
+JOB-101220,SoftSmart,Valencia,España,Data Analyst,Go,FastAPI,Junior,30468.0,Presencial,,,,,jobs
+JOB-101221,CodeWorks,Miami,USA,MLOps Engineer,TypeScript,Spark,Mid,103976.0,Presencial,2024-12-11,2024.0,12.0,4.0,jobs
+JOB-101222,DataNova,Cusco,Perú,Frontend Developer,Kotlin,Laravel,Senior,28807.0,Híbrido,,,,,jobs
+JOB-101223,QuantumWare,Lima,Perú,Backend Developer,TypeScript,FastAPI,Mid,17.16,Remoto,,,,,jobs
+JOB-101224,DevOpsLab,Arequipa,Perú,Backend Developer,JavaScript,Laravel,Mid,14347.0,Híbrido,,,,,jobs
+JOB-101225,Atlas Systems,Rosario,Argentina,ML Engineer,Scala,React,Junior,16952.0,Remoto,,,,,jobs
+JOB-101226,DataNova,Arequipa,Perú,MLOps Engineer,C#,Angular,Junior,14026.0,Presencial,,,,,jobs
+JOB-101227,IA Factory,Madrid,España,Fullstack Developer,R,,Mid,40416.0,Remoto,,,,,jobs
+JOB-101228,QuantumWare,Barcelona,España,Data Engineer,Swift,Django,Mid,38912.0,Presencial,,,,,jobs
+JOB-101229,Atlas Systems,Barcelona,España,Cloud Architect,R,Spark,Junior,33663.0,Presencial,,,,,jobs
+JOB-101230,Vertex AI,Puebla,México,Fullstack Developer,Scala,Node.js,Senior,27674.0,Remoto,,,,,jobs
+JOB-101231,Vertex AI,Barranquilla,Colombia,BI Developer,JavaScript,Angular,Junior,10814.0,Híbrido,,,,,jobs
+JOB-101232,Orion Cloud,Concepción,Chile,MLOps Engineer,Kotlin,Node.js,Junior,18622.0,Remoto,,,,,jobs
+JOB-101233,CloudForge,Bucaramanga,Colombia,Cybersecurity Analyst,R,Node.js,Mid,13791.0,Presencial,2022-07-12,2022.0,7.0,3.0,jobs
+JOB-101234,Lambda Solutions,Córdoba,Argentina,BI Developer,C#,React,Junior,14792.0,Remoto,,,,,jobs
+JOB-101235,Atlas Systems,Seattle,USA,MLOps Engineer,Python,Spark,Junior,76968.0,Híbrido,,,,,jobs
+JOB-101236,QuantumWare,Buenos Aires,Argentina,Backend Developer,JavaScript,Django,Junior,20465.0,Híbrido,,,,,jobs
+JOB-101237,DataNova,valencia,España,MLOps Engineer,Python,Laravel,Senior,56047.0,Remoto,,,,,jobs
+JOB-101238,Orion Cloud,San Francisco,USA,MLOps Engineer,C#,Angular,Junior,62706.0,Presencial,,,,,jobs
+JOB-101239,QuantumWare,Unknown,Perú,BI Developer,Java,Laravel,Senior,30.833,Remoto,2024-01-09,2024.0,1.0,1.0,jobs
+JOB-101240,BluePixel,???,Chile,Data Scientist,Go,.NET,Senior,40250.0,Remoto,,,,,jobs
+JOB-101241,CodeWorks,Cusco,Perú,Data Scientist,R,Node.js,Senior,29510.0,Presencial,,,,,jobs
+JOB-101242,CloudForge,Concepción,Chile,Data Scientist,R,Node.js,Senior,36035.0,Remoto,,,,,jobs
+JOB-101243,IA Factory,New York,USA,Frontend Developer,R,Angular,Mid,99.927,Presencial,,,,,jobs
+JOB-101244,CyberShield,Barcelona,España,Cloud Architect,Scala,Laravel,Mid,36671.0,Presencial,,,,,jobs
+JOB-101245,RocketSoft,Rosario,Argentina,Data Scientist,JavaScript,Django,Mid,17900.0,Híbrido,,,,,jobs
+JOB-101246,DataNova,CUSCO,Perú,Data Analyst,Kotlin,React,Junior,17704.0,Presencial,,,,,jobs
+JOB-101247,BluePixel,Arequipa,Perú,Fullstack Developer,Kotlin,Django,Mid,,Presencial,,,,,jobs
+JOB-101248,Atlas Systems,Monterrey,México,Fullstack Developer,PHP,Flask,Mid,16702.0,Presencial,2022-02-05,2022.0,2.0,1.0,jobs
+JOB-101249,BluePixel,rosario,Argentina,Backend Developer,Python,Angular,Mid,18669.0,Híbrido,,,,,jobs
+JOB-101250,Orion Cloud,Puebla,México,Fullstack Developer,C#,Node.js,Senior,32.239,Presencial,,,,,jobs
+JOB-101251,NeoTech,???,Colombia,MLOps Engineer,C#,Laravel,Mid,13580.0,Remoto,,,,,jobs
+JOB-101252,BluePixel,Madrid,España,Cybersecurity Analyst,Kotlin,FastAPI,Mid,35902.0,Híbrido,2022-09-11,2022.0,9.0,3.0,jobs
+JOB-101253,IA Factory,CDMX,México,BI Developer,Scala,Django,Senior,25027.0,Híbrido,,,,,jobs
+JOB-101254,IA Factory,Concepción,Chile,Fullstack Developer,R,Spring,Senior,37679.0,Remoto,,,,,jobs
+JOB-101255,GreenBit,Monterrey,México,Data Engineer,Kotlin,Spring,Mid,20.371,Presencial,,,,,jobs
+JOB-101256,SoftSmart,Barcelona,España,BI Developer,Go,Vue,Junior,23.056,Remoto,,,,,jobs
+JOB-101257,Vertex AI,Puebla,México,Backend Developer,Kotlin,Django,Mid,20440.0,Presencial,,,,,jobs
+JOB-101258,DevOpsLab,Madrid,España,Data Scientist,Go,Node.js,Senior,51.46,Híbrido,,,,,jobs
+JOB-101259,Orion Cloud,Valparaíso,Chile,Data Analyst,Go,Laravel,Senior,31398.0,Híbrido,,,,,jobs
+JOB-101260,Atlas Systems,Córdoba,Argentina,Backend Developer,TypeScript,FastAPI,Senior,26360.0,Remoto,,,,,jobs
+JOB-101261,DevOpsLab,Rosario,Argentina,Frontend Developer,PHP,Laravel,Junior,17.9,Presencial,,,,,jobs
+JOB-101262,CodeWorks,Arequipa,Perú,Fullstack Developer,C#,React,Mid,22747.0,Remoto,,,,,jobs
+JOB-101263,DataNova,Córdoba,Argentina,Cybersecurity Analyst,PHP,Spring,Mid,20443.0,Presencial,,,,,jobs
+JOB-101264,IA Factory,Lima,Perú,ML Engineer,Swift,React,Senior,27.305,Remoto,,,,,jobs
+JOB-101265,Atlas Systems,Barranquilla,Colombia,ML Engineer,Scala,Spark,Junior,8427.0,Presencial,,,,,jobs
+JOB-101266,RocketSoft,Concepción,Chile,Fullstack Developer,PHP,Node.js,Junior,21474.0,Remoto,,,,,jobs
+JOB-101267,GreenBit,Medellin,Colombia,Data Analyst,Python,Laravel,Junior,10784.0,Híbrido,,,,,jobs
+JOB-101268,CodeWorks,???,Perú,Data Analyst,JavaScript,Angular,Senior,19575.0,Remoto,,,,,jobs
+JOB-101269,Lambda Solutions,Barcelona,España,Cloud Architect,Python,React,Mid,35076.0,Remoto,,,,,jobs
+JOB-101270,CloudForge,Buenos Aires,Argentina,Data Analyst,Scala,Spark,Mid,22372.0,Híbrido,,,,,jobs
+JOB-101271,Vertex AI,Santiago,Chile,Frontend Developer,R,Spring,Mid,18404.0,Remoto,,,,,jobs
+JOB-101272,CodeWorks,???,España,Frontend Developer,Kotlin,Node.js,Mid,35.868,Híbrido,,,,,jobs
+JOB-101273,SoftSmart,Cusco,Perú,Data Engineer,Swift,Angular,Junior,15697.0,Híbrido,,,,,jobs
+JOB-101274,QuantumWare,Buenos Aires,Argentina,BI Developer,Scala,FastAPI,Senior,20.899,Híbrido,,,,,jobs
+JOB-101275,RocketSoft,Monterrey,México,Cloud Architect,R,Vue,Senior,23700.0,Híbrido,,,,,jobs
+JOB-101276,IA Factory,Lima,Perú,ML Engineer,C#,Django,Junior,14518.0,Remoto,,,,,jobs
+JOB-101277,QuantumWare,San Francisco,USA,Cybersecurity Analyst,TypeScript,Spark,Junior,86.15,Híbrido,,,,,jobs
+JOB-101278,CloudForge,Rosario,Argentina,Cybersecurity Analyst,Go,React,Senior,22629.0,Híbrido,,,,,jobs
+JOB-101279,Atlas Systems,New York,USA,BI Developer,Swift,Spark,Mid,110810.0,Híbrido,,,,,jobs
+JOB-101280,Atlas Systems,Sevilla,España,DevOps Engineer,R,Node.js,Senior,55639.0,Remoto,,,,,jobs
+JOB-101281,CodeWorks,Barranquilla,Colombia,BI Developer,C#,Angular,Mid,14.154,Remoto,,,,,jobs
+JOB-101282,Atlas Systems,Rosario,Argentina,BI Developer,Kotlin,React,Junior,18791.0,Presencial,,,,,jobs
+JOB-101283,BluePixel,Arequipa,Perú,Data Analyst,C#,Angular,Mid,18920.0,Híbrido,,,,,jobs
+JOB-101284,Vertex AI,Bogotá,Colombia,BI Developer,Go,Angular,Junior,10299.0,Híbrido,,,,,jobs
+JOB-101285,DevOpsLab,Cusco,Perú,Cloud Architect,TypeScript,React,Junior,10642.0,Híbrido,,,,,jobs
+JOB-101286,DataNova,Concepción,Chile,Cloud Architect,JavaScript,Node.js,Mid,19.936,Híbrido,,,,,jobs
+JOB-101287,CloudForge,Puebla,México,Data Engineer,PHP,Django,Mid,15285.0,Remoto,2022-10-01,2022.0,10.0,4.0,jobs
+JOB-101288,CyberShield,New York,USA,ML Engineer,Go,.NET,Senior,126.057,Híbrido,,,,,jobs
+JOB-101289,SoftSmart,monterrey,México,Data Scientist,Swift,Flask,Junior,16415.0,Híbrido,,,,,jobs
+JOB-101290,DataNova,Austin,USA,Frontend Developer,TypeScript,React,Senior,97420.0,Híbrido,,,,,jobs
+JOB-101291,CloudForge,MEDELLÍN,Colombia,ML Engineer,JavaScript,Vue,Senior,15993.0,Presencial,,,,,jobs
+JOB-101292,DevOpsLab,???,Perú,DevOps Engineer,Python,Laravel,Junior,11546.0,Híbrido,,,,,jobs
+JOB-101293,DevOpsLab,Puebla,México,DevOps Engineer,Kotlin,Flask,Junior,11.035,Presencial,,,,,jobs
+JOB-101294,QuantumWare,New York,USA,DevOps Engineer,JavaScript,Laravel,Senior,,Híbrido,,,,,jobs
+JOB-101295,RocketSoft,Cusco,Perú,DevOps Engineer,Scala,Vue,Senior,25572.0,Remoto,,,,,jobs
+JOB-101296,GreenBit,Valparaiso,Chile,Backend Developer,Java,Laravel,Senior,43.584,Presencial,,,,,jobs
+JOB-101297,Atlas Systems,CDMX,México,Frontend Developer,R,,Junior,16957.0,Remoto,,,,,jobs
+JOB-101298,DataNova,AREQUIPA,Perú,Data Scientist,R,.NET,Junior,12409.0,Híbrido,,,,,jobs
+JOB-101299,CyberShield,Bogotá,Colombia,DevOps Engineer,Scala,Vue,Mid,8.661,Híbrido,,,,,jobs
+JOB-101300,DataNova,Monterrey,México,Data Analyst,C#,Django,Junior,18871.0,Remoto,,,,,jobs
+JOB-101301,NeoTech,Rosario,Argentina,Backend Developer,Scala,.NET,Mid,18784.0,Híbrido,,,,,jobs
+JOB-101302,QuantumWare,Lima,Perú,DevOps Engineer,Java,Spark,Junior,11927.0,Híbrido,,,,,jobs
+JOB-101303,SoftSmart,Valparaíso,Chile,Cloud Architect,R,Angular,Mid,27591.0,Presencial,,,,,jobs
+JOB-101304,DevOpsLab,Cartagena,Colombia,Cloud Architect,Scala,Spark,Senior,17143.0,Remoto,,,,,jobs
+JOB-101305,IA Factory,Córdoba,Argentina,BI Developer,Kotlin,Flask,Mid,17985.0,Presencial,,,,,jobs
+JOB-101306,QuantumWare,Guadalajara,México,Data Analyst,Go,Spring,Mid,17.066,Remoto,2024-10-05,2024.0,10.0,4.0,jobs
+JOB-101307,IA Factory,???,USA,Data Scientist,Java,Angular,Mid,97.298,Presencial,,,,,jobs
+JOB-101308,NeoTech,Monterrey,México,Data Engineer,Swift,Spark,Junior,14.559,Híbrido,,,,,jobs
+JOB-101309,Lambda Solutions,MADRID,España,DevOps Engineer,Kotlin,Django,Junior,,Presencial,,,,,jobs
+JOB-101310,CyberShield,???,España,Data Engineer,Swift,Laravel,Junior,28788.0,Remoto,,,,,jobs
+JOB-101311,QuantumWare,Valencia,España,Cybersecurity Analyst,PHP,Vue,Junior,28.835,Remoto,,,,,jobs
+JOB-101312,GreenBit,Córdoba,Argentina,DevOps Engineer,C#,Flask,Mid,21801.0,Híbrido,,,,,jobs
+JOB-101313,Orion Cloud,Buenos Aires,Argentina,Data Analyst,R,Spark,Senior,29.314,Híbrido,,,,,jobs
+JOB-101314,Orion Cloud,Rosario,Argentina,Fullstack Developer,Java,Spring,Junior,18626.0,Híbrido,,,,,jobs
+JOB-101315,SoftSmart,BOGOTÁ,Colombia,Fullstack Developer,Python,Node.js,Junior,9.24,Híbrido,,,,,jobs
+JOB-101316,BluePixel,Córdoba,Argentina,ML Engineer,Go,Laravel,Junior,15.763,Híbrido,,,,,jobs
+JOB-101317,DataNova,Buenos Aires,Argentina,DevOps Engineer,Scala,Spark,Junior,13.225,Presencial,,,,,jobs
+JOB-101318,IA Factory,Rosario,Argentina,Cybersecurity Analyst,JavaScript,React,Senior,34296.0,Híbrido,,,,,jobs
+JOB-101319,BluePixel,Sevilla,España,Data Engineer,JavaScript,Spring,Senior,42077.0,Híbrido,2024-02-08,2024.0,2.0,1.0,jobs
+JOB-101320,QuantumWare,Cartagena,Colombia,BI Developer,TypeScript,React,Senior,17309.0,Presencial,,,,,jobs
+JOB-101321,NeoTech,Austin,USA,Fullstack Developer,C#,FastAPI,Junior,65831.0,Híbrido,,,,,jobs
+JOB-101322,Atlas Systems,Rosario,Argentina,Data Analyst,C#,.NET,Mid,21012.0,Remoto,,,,,jobs
+JOB-101323,DataNova,???,USA,Data Analyst,R,Spring,Mid,105607.0,Híbrido,2024-10-11,2024.0,10.0,4.0,jobs
+JOB-101324,Orion Cloud,Bogotá,Colombia,DevOps Engineer,Python,Node.js,Senior,12668.0,Híbrido,,,,,jobs
+JOB-101325,BluePixel,Madrid,España,Backend Developer,PHP,Spring,Junior,29438.0,Remoto,,,,,jobs
+JOB-101326,Orion Cloud,Austin,USA,Cloud Architect,Swift,Laravel,Mid,69966.0,Presencial,,,,,jobs
+JOB-101327,RocketSoft,Cartagena,Colombia,DevOps Engineer,Kotlin,Flask,Junior,11622.0,Híbrido,,,,,jobs
+JOB-101328,NeoTech,Miami,USA,Data Analyst,Kotlin,Vue,Junior,70948.0,Híbrido,,,,,jobs
+JOB-101329,NeoTech,Unknown,España,Fullstack Developer,PHP,Spring,Mid,29.013,Híbrido,,,,,jobs
+JOB-101330,NeoTech,Medellín,Colombia,Frontend Developer,Java,React,Junior,8589.0,Híbrido,,,,,jobs
+JOB-101331,DevOpsLab,Valparaíso,Chile,BI Developer,Kotlin,Angular,Junior,23933.0,Híbrido,,,,,jobs
+JOB-101332,Vertex AI,Valencia,España,Cybersecurity Analyst,JavaScript,Spark,Mid,46479.0,Remoto,,,,,jobs
+JOB-101333,GreenBit,Cusco,Perú,Cloud Architect,R,Spark,Mid,,Presencial,,,,,jobs
+JOB-101334,CodeWorks,Austin,USA,Data Engineer,Go,Spring,Senior,117.352,Híbrido,,,,,jobs
+JOB-101335,Orion Cloud,Córdoba,Argentina,Data Analyst,Python,FastAPI,Mid,19.543,Presencial,,,,,jobs
+JOB-101336,QuantumWare,Barranquilla,Colombia,BI Developer,R,.NET,Mid,14942.0,Presencial,2022-04-01,2022.0,4.0,2.0,jobs
+JOB-101337,Lambda Solutions,Seattle,USA,Data Scientist,JavaScript,Spring,Mid,84.574,Presencial,,,,,jobs
+JOB-101338,Vertex AI,Puebla,México,Data Scientist,Swift,Django,Senior,23934.0,Híbrido,,,,,jobs
+JOB-101339,Atlas Systems,Concepción,Chile,Data Scientist,JavaScript,Vue,Senior,29992.0,Híbrido,,,,,jobs
+JOB-101340,DataNova,Monterrey,México,Data Engineer,Swift,Laravel,Junior,11885.0,Híbrido,,,,,jobs
+JOB-101341,IA Factory,concepción,Chile,MLOps Engineer,Swift,Flask,Junior,23.618,Híbrido,,,,,jobs
+JOB-101342,GreenBit,Bogotá,Colombia,Cybersecurity Analyst,JavaScript,Node.js,Mid,,Remoto,,,,,jobs
+JOB-101343,Lambda Solutions,Valparaíso,Chile,Frontend Developer,TypeScript,Vue,Mid,26686.0,Híbrido,,,,,jobs
+JOB-101344,Vertex AI,Concepción,Chile,Cybersecurity Analyst,Python,Django,Junior,21738.0,Remoto,,,,,jobs
+JOB-101345,SoftSmart,Rosario,Argentina,Data Analyst,C#,Angular,Mid,23063.0,Remoto,,,,,jobs
+JOB-101346,Atlas Systems,???,Chile,MLOps Engineer,R,React,Mid,30663.0,Híbrido,,,,,jobs
+JOB-101347,Vertex AI,Buenos Aires,Argentina,Data Analyst,C#,Spark,Mid,19978.0,Remoto,,,,,jobs
+JOB-101348,SoftSmart,LIMA,Perú,Backend Developer,Kotlin,Django,Senior,23.911,Presencial,,,,,jobs
+JOB-101349,RocketSoft,Bucaramanga,Colombia,MLOps Engineer,Java,Angular,Senior,14.219,Híbrido,,,,,jobs
+JOB-101350,Orion Cloud,Puebla,México,Backend Developer,JavaScript,Angular,Junior,16737.0,Presencial,,,,,jobs
+JOB-101351,Vertex AI,Madrid,España,Backend Developer,Java,Spark,Mid,35064.0,Híbrido,,,,,jobs
+JOB-101352,QuantumWare,Medellín,Colombia,ML Engineer,Java,Laravel,Mid,9.309,Híbrido,,,,,jobs
+JOB-101353,DevOpsLab,Lima,Perú,BI Developer,JavaScript,FastAPI,Senior,24183.0,Remoto,,,,,jobs
+JOB-101354,QuantumWare,San Francisco,USA,Data Analyst,PHP,Angular,Mid,95346.0,Remoto,,,,,jobs
+JOB-101355,Orion Cloud,Lima,Perú,Data Scientist,PHP,Laravel,Senior,28346.0,Remoto,,,,,jobs
+JOB-101356,DevOpsLab,Valencia,España,MLOps Engineer,JavaScript,Spring,Junior,34977.0,Remoto,2025-02-06,2025.0,2.0,1.0,jobs
+JOB-101357,Vertex AI,Buenos Aires,Argentina,ML Engineer,Python,Flask,Senior,24929.0,Remoto,,,,,jobs
+JOB-101358,DevOpsLab,valparaíso,Chile,Fullstack Developer,TypeScript,Vue,Junior,17599.0,Remoto,,,,,jobs
+JOB-101359,BluePixel,Concepción,Chile,Backend Developer,PHP,FastAPI,Senior,33277.0,Híbrido,,,,,jobs
+JOB-101360,Lambda Solutions,Santiago,Chile,DevOps Engineer,TypeScript,Laravel,Senior,28640.0,Presencial,,,,,jobs
+JOB-101361,CodeWorks,Córdoba,Argentina,Data Engineer,Python,Flask,Junior,15736.0,Presencial,,,,,jobs
+JOB-101362,CyberShield,Córdoba,Argentina,Data Scientist,R,Spring,Junior,17106.0,Remoto,,,,,jobs
+JOB-101363,CodeWorks,Valencia,España,Frontend Developer,Java,Laravel,Mid,38244.0,Remoto,,,,,jobs
+JOB-101364,BluePixel,Bogotá,Colombia,Data Analyst,C#,Spark,Mid,9095.0,Híbrido,,,,,jobs
+JOB-101365,Lambda Solutions,Guadalajara,México,BI Developer,JavaScript,Vue,Junior,11825.0,Híbrido,,,,,jobs
+JOB-101366,SoftSmart,Cartagena,Colombia,Backend Developer,Kotlin,Django,Mid,14314.0,Híbrido,2022-10-02,2022.0,10.0,4.0,jobs
+JOB-101367,NeoTech,Valparaíso,Chile,Backend Developer,JavaScript,FastAPI,Senior,29679.0,Híbrido,,,,,jobs
+JOB-101368,GreenBit,Guadalajara,México,Fullstack Developer,TypeScript,React,Junior,15.995,Híbrido,,,,,jobs
+JOB-101369,GreenBit,Cusco,Perú,Backend Developer,JavaScript,.NET,Mid,19706.0,Presencial,,,,,jobs
+JOB-101370,CloudForge,San Francisco,USA,BI Developer,Scala,Laravel,Mid,90410.0,Presencial,,,,,jobs
+JOB-101371,DevOpsLab,Cusco,Perú,Cloud Architect,C#,Node.js,Junior,12246.0,Híbrido,2023-08-11,2023.0,8.0,3.0,jobs
+JOB-101372,Vertex AI,Cali,Colombia,MLOps Engineer,Scala,,Senior,17330.0,Remoto,,,,,jobs
+JOB-101373,RocketSoft,Guadalajara,México,MLOps Engineer,Python,Angular,Senior,21850.0,Remoto,,,,,jobs
+JOB-101374,Orion Cloud,Concepción,Chile,Backend Developer,PHP,Vue,Mid,24340.0,Remoto,,,,,jobs
+JOB-101375,Vertex AI,Lima,Perú,BI Developer,Python,React,Senior,25600.0,Remoto,,,,,jobs
+JOB-101376,Lambda Solutions,Córdoba,Argentina,Data Engineer,R,Laravel,Mid,17849.0,Remoto,,,,,jobs
+JOB-101377,IA Factory,Buenos Aires,Argentina,Backend Developer,Python,Django,Mid,19319.0,Híbrido,,,,,jobs
+JOB-101378,Atlas Systems,???,México,Cloud Architect,R,Spark,Senior,24034.0,Remoto,,,,,jobs
+JOB-101379,GreenBit,Santiago,Chile,Frontend Developer,Scala,Flask,Mid,20366.0,Híbrido,,,,,jobs
+JOB-101380,DataNova,Austin,USA,MLOps Engineer,C#,Django,Senior,,Presencial,,,,,jobs
+JOB-101381,DataNova,???,México,MLOps Engineer,R,Flask,Mid,16279.0,Remoto,2024-03-05,2024.0,3.0,1.0,jobs
+JOB-101382,CodeWorks,Guadalajara,México,ML Engineer,Swift,Spark,Senior,18304.0,Híbrido,,,,,jobs
+JOB-101383,GreenBit,Guadalajara,México,Fullstack Developer,Kotlin,FastAPI,Mid,17088.0,Híbrido,,,,,jobs
+JOB-101384,NeoTech,Cartagena,Colombia,ML Engineer,Swift,React,Mid,11490.0,Remoto,,,,,jobs
+JOB-101385,Lambda Solutions,Lima,Perú,Frontend Developer,C#,Django,Senior,22.913,Remoto,,,,,jobs
+JOB-101386,NeoTech,Lima,Perú,DevOps Engineer,Python,Node.js,Junior,9946.0,Híbrido,2023-02-12,2023.0,2.0,1.0,jobs
+JOB-101387,Lambda Solutions,Puebla,México,Data Analyst,Scala,Spring,Mid,20.095,Presencial,2025-03-06,2025.0,3.0,1.0,jobs
+JOB-101388,IA Factory,Guadalajara,México,DevOps Engineer,Kotlin,FastAPI,Mid,19845.0,Remoto,,,,,jobs
+JOB-101389,DevOpsLab,Santiago,Chile,Data Analyst,Scala,Spring,Mid,27439.0,Remoto,,,,,jobs
+JOB-101390,QuantumWare,Cusco,Perú,Fullstack Developer,Kotlin,,Mid,18877.0,Presencial,,,,,jobs
+JOB-101391,Atlas Systems,Monterrey,México,Fullstack Developer,Go,Vue,Junior,11685.0,Híbrido,,,,,jobs
+JOB-101392,IA Factory,Córdoba,Argentina,Data Engineer,JavaScript,Vue,Senior,28.516,Remoto,,,,,jobs
+JOB-101393,RocketSoft,Lima,Perú,ML Engineer,Python,React,Mid,15495.0,Híbrido,,,,,jobs
+JOB-101394,Atlas Systems,Seattle,USA,MLOps Engineer,Swift,Angular,Junior,100937.0,Híbrido,,,,,jobs
+JOB-101395,QuantumWare,Barcelona,España,Data Scientist,Kotlin,Flask,Mid,35032.0,Remoto,,,,,jobs
+JOB-101396,DataNova,Sevilla,España,Data Scientist,Scala,Laravel,Junior,33444.0,Presencial,,,,,jobs
+JOB-101397,DataNova,Miami,USA,Backend Developer,Python,Flask,Mid,72876.0,Híbrido,,,,,jobs
+JOB-101398,IA Factory,Puebla,México,MLOps Engineer,Java,Flask,Mid,14815.0,Híbrido,,,,,jobs
+JOB-101399,CloudForge,Cusco,Perú,Frontend Developer,PHP,Spring,Junior,13241.0,Híbrido,,,,,jobs
+JOB-101400,IA Factory,San Francisco,USA,Backend Developer,Kotlin,Spark,Junior,84008.0,Híbrido,,,,,jobs
+JOB-101401,Lambda Solutions,Lima,Perú,Backend Developer,Swift,Node.js,Senior,27270.0,Remoto,,,,,jobs
+JOB-101402,BluePixel,Valencia,España,BI Developer,C#,Laravel,Junior,31714.0,Presencial,,,,,jobs
+JOB-101403,CloudForge,Concepción,Chile,MLOps Engineer,JavaScript,Spring,Senior,25266.0,Presencial,,,,,jobs
+JOB-101404,GreenBit,Austin,USA,Frontend Developer,Scala,Django,Junior,88897.0,Híbrido,,,,,jobs
+JOB-101405,Lambda Solutions,Barranquilla,Colombia,ML Engineer,JavaScript,Spring,Mid,10332.0,Presencial,,,,,jobs
+JOB-101406,GreenBit,Barcelona,España,DevOps Engineer,PHP,Node.js,Senior,66090.0,Híbrido,,,,,jobs
+JOB-101407,NeoTech,Guadalajara,México,Fullstack Developer,C#,Node.js,Senior,32254.0,Híbrido,,,,,jobs
+JOB-101408,BluePixel,Valencia,España,MLOps Engineer,PHP,,Mid,42709.0,Híbrido,,,,,jobs
+JOB-101409,CloudForge,New York,USA,Cloud Architect,Kotlin,Node.js,Mid,109084.0,Híbrido,,,,,jobs
+JOB-101410,Atlas Systems,Cartagena,Colombia,Data Analyst,Python,Spark,Junior,7783.0,Presencial,,,,,jobs
+JOB-101411,IA Factory,Seattle,USA,Frontend Developer,PHP,Node.js,Senior,184.491,Remoto,,,,,jobs
+JOB-101412,IA Factory,ROSARIO,Argentina,Cybersecurity Analyst,R,Angular,Junior,16522.0,Remoto,,,,,jobs
+JOB-101413,BluePixel,Valencia,España,Fullstack Developer,PHP,Angular,Senior,61178.0,Híbrido,,,,,jobs
+JOB-101414,CodeWorks,Arequipa,Perú,ML Engineer,JavaScript,React,Senior,21956.0,Remoto,,,,,jobs
+JOB-101415,Atlas Systems,Seattle,USA,Cloud Architect,JavaScript,.NET,Mid,94073.0,Presencial,,,,,jobs
+JOB-101416,Orion Cloud,Unknown,Argentina,Data Scientist,Go,React,Mid,16439.0,Híbrido,,,,,jobs
+JOB-101417,CyberShield,Cali,Colombia,Data Engineer,Scala,Angular,Senior,16195.0,Remoto,2022-09-02,2022.0,9.0,3.0,jobs
+JOB-101418,BluePixel,Valencia,España,Cybersecurity Analyst,Go,Spring,Mid,38088.0,Remoto,,,,,jobs
+JOB-101419,Orion Cloud,New York,USA,Data Engineer,R,.NET,Mid,98645.0,Presencial,,,,,jobs
+JOB-101420,CloudForge,Cusco,Perú,Backend Developer,Swift,,Mid,21768.0,Remoto,,,,,jobs
+JOB-101421,DataNova,Córdoba,Argentina,Backend Developer,Scala,Django,Junior,17154.0,Remoto,,,,,jobs
+JOB-101422,QuantumWare,Puebla,México,Data Scientist,Go,Spring,Senior,26121.0,Remoto,,,,,jobs
+JOB-101423,Vertex AI,Santiago,Chile,DevOps Engineer,Kotlin,Vue,Mid,25.144,Remoto,,,,,jobs
+JOB-101424,RocketSoft,Cali,Colombia,Fullstack Developer,Java,FastAPI,Senior,21866.0,Presencial,,,,,jobs
+JOB-101425,DataNova,Cartagena,Colombia,Data Engineer,Scala,Laravel,Senior,15340.0,Híbrido,,,,,jobs
+JOB-101426,Lambda Solutions,Cusco,Perú,Data Scientist,JavaScript,Angular,Junior,16966.0,Remoto,,,,,jobs
+JOB-101427,DevOpsLab,Buenos Aires,Argentina,Cloud Architect,Kotlin,Flask,Junior,11292.0,Remoto,,,,,jobs
+JOB-101428,GreenBit,CDMX,México,Cybersecurity Analyst,Python,React,Senior,21.881,Híbrido,,,,,jobs
+JOB-101429,CodeWorks,Austin,USA,Frontend Developer,Python,FastAPI,Junior,80679.0,Presencial,,,,,jobs
+JOB-101430,Atlas Systems,Madrid,España,ML Engineer,PHP,Spark,Mid,37082.0,Presencial,,,,,jobs
+JOB-101431,SoftSmart,Concepción,Chile,Backend Developer,R,Spring,Mid,36.277,Presencial,,,,,jobs
+JOB-101432,CloudForge,Guadalajara,México,MLOps Engineer,Scala,.NET,Junior,19.971,Presencial,,,,,jobs
+JOB-101433,NeoTech,Concepción,Chile,DevOps Engineer,Kotlin,.NET,Junior,15.442,Presencial,,,,,jobs
+JOB-101434,Orion Cloud,Guadalajara,México,Backend Developer,TypeScript,Node.js,Senior,21.152,Híbrido,,,,,jobs
+JOB-101435,IA Factory,Concepción,Chile,Cloud Architect,Java,,Junior,19573.0,Presencial,,,,,jobs
+JOB-101436,SoftSmart,Lima,Perú,Data Analyst,Python,Vue,Mid,22698.0,Híbrido,,,,,jobs
+JOB-101437,BluePixel,Sevilla,España,Frontend Developer,C#,Angular,Junior,35583.0,Híbrido,,,,,jobs
+JOB-101438,GreenBit,Bogotá,Colombia,Data Scientist,Python,Flask,Mid,12589.0,Híbrido,,,,,jobs
+JOB-101439,Atlas Systems,Valparaíso,Chile,Backend Developer,R,FastAPI,Mid,19696.0,Presencial,,,,,jobs
+JOB-101440,Lambda Solutions,Arequipa,Perú,Data Scientist,Python,Node.js,Junior,12.576,Híbrido,,,,,jobs
+JOB-101441,IA Factory,Cusco,Perú,BI Developer,JavaScript,Flask,Junior,8603.0,Híbrido,,,,,jobs
+JOB-101442,DevOpsLab,concepción,Chile,Cloud Architect,Go,Laravel,Senior,26942.0,Híbrido,,,,,jobs
+JOB-101443,GreenBit,Miami,USA,Data Scientist,Go,React,Senior,,Híbrido,,,,,jobs
+JOB-101444,QuantumWare,Concepción,Chile,ML Engineer,Scala,Vue,Junior,22376.0,Remoto,,,,,jobs
+JOB-101445,DevOpsLab,Puebla,México,Frontend Developer,Python,Vue,Junior,11590.0,Remoto,,,,,jobs
+JOB-101446,Lambda Solutions,VALPARAÍSO,Chile,Data Scientist,R,Laravel,Senior,35586.0,Híbrido,,,,,jobs
+JOB-101447,Orion Cloud,Cusco,Perú,Data Analyst,Swift,Laravel,Junior,17921.0,Híbrido,,,,,jobs
+JOB-101448,GreenBit,Barcelona,España,Cloud Architect,Swift,Spring,Junior,31163.0,Presencial,,,,,jobs
+JOB-101449,QuantumWare,Puebla,México,Cybersecurity Analyst,PHP,Angular,Junior,13747.0,Remoto,,,,,jobs
+JOB-101450,BluePixel,Puebla,México,MLOps Engineer,C#,FastAPI,Mid,19664.0,Remoto,,,,,jobs
+JOB-101451,CodeWorks,Arequipa,Perú,Data Scientist,R,Flask,Junior,15550.0,Híbrido,,,,,jobs
+JOB-101452,IA Factory,Cusco,Perú,Data Scientist,Scala,Laravel,Mid,18.231,Presencial,,,,,jobs
+JOB-101453,GreenBit,Córdoba,Argentina,Data Analyst,Kotlin,React,Senior,25772.0,Híbrido,,,,,jobs
+JOB-101454,QuantumWare,???,Argentina,Frontend Developer,TypeScript,Vue,Mid,18742.0,Remoto,,,,,jobs
+JOB-101455,BluePixel,puebla,México,MLOps Engineer,JavaScript,Flask,Mid,18.257,Presencial,,,,,jobs
+JOB-101456,DataNova,Monterrey,México,BI Developer,C#,React,Senior,23143.0,Presencial,,,,,jobs
+JOB-101457,RocketSoft,CDMX,México,Data Scientist,Scala,.NET,Senior,30.258,Remoto,,,,,jobs
+JOB-101458,BluePixel,CDMX,México,Frontend Developer,Python,Vue,Mid,20.425,Híbrido,2022-01-09,2022.0,1.0,1.0,jobs
+JOB-101459,Orion Cloud,Rosario,Argentina,Data Scientist,JavaScript,React,Junior,18622.0,Híbrido,,,,,jobs
+JOB-101460,QuantumWare,Seattle,USA,Data Scientist,Kotlin,React,Junior,99175.0,Remoto,,,,,jobs
+JOB-101461,GreenBit,lima,Perú,Frontend Developer,R,Spark,Mid,22277.0,Remoto,,,,,jobs
+JOB-101462,Vertex AI,Austin,USA,Backend Developer,Python,Spring,Junior,92226.0,Presencial,,,,,jobs
+JOB-101463,RocketSoft,Santiago,Chile,MLOps Engineer,TypeScript,Spring,Mid,26410.0,Remoto,,,,,jobs
+JOB-101464,DataNova,Medellín,Colombia,MLOps Engineer,JavaScript,Spring,Mid,11661.0,Presencial,,,,,jobs
+JOB-101465,RocketSoft,Buenos Aires,Argentina,Fullstack Developer,Swift,Flask,Junior,21533.0,Híbrido,,,,,jobs
+JOB-101466,Orion Cloud,Córdoba,Argentina,BI Developer,JavaScript,Django,Senior,25189.0,Remoto,,,,,jobs
+JOB-101467,RocketSoft,Bogotá,Colombia,Frontend Developer,PHP,,Junior,8.714,Presencial,2025-11-06,2025.0,11.0,4.0,jobs
+JOB-101468,SoftSmart,Valparaíso,Chile,ML Engineer,PHP,React,Junior,17405.0,Híbrido,,,,,jobs
+JOB-101469,CloudForge,Cusco,Perú,Data Engineer,PHP,.NET,Junior,14874.0,Presencial,,,,,jobs
+JOB-101470,RocketSoft,???,USA,DevOps Engineer,TypeScript,Laravel,Mid,101.022,Remoto,,,,,jobs
+JOB-101471,CodeWorks,Sevilla,España,Data Engineer,JavaScript,Laravel,Senior,61.452,Híbrido,,,,,jobs
+JOB-101472,Vertex AI,Unknown,Colombia,Backend Developer,Java,.NET,Senior,16243.0,Remoto,,,,,jobs
+JOB-101473,Vertex AI,Miami,USA,Data Analyst,R,FastAPI,Senior,98486.0,Híbrido,,,,,jobs
+JOB-101474,CyberShield,Córdoba,Argentina,Frontend Developer,Kotlin,Django,Senior,29355.0,Híbrido,,,,,jobs
+JOB-101475,GreenBit,Lima,Perú,Cybersecurity Analyst,Go,Flask,Mid,20640.0,Presencial,,,,,jobs
+JOB-101476,CloudForge,Monterrey,México,Data Scientist,TypeScript,Spring,Senior,25335.0,Remoto,,,,,jobs
+JOB-101477,Vertex AI,Madrid,España,Backend Developer,Go,Spark,Senior,52167.0,Remoto,,,,,jobs
+JOB-101478,SoftSmart,Córdoba,Argentina,Backend Developer,Java,Laravel,Senior,30379.0,Remoto,2024-04-05,2024.0,4.0,2.0,jobs
+JOB-101479,CodeWorks,???,Argentina,Data Analyst,C#,Laravel,Mid,24310.0,Remoto,,,,,jobs
+JOB-101480,SoftSmart,Sevilla,España,ML Engineer,Swift,Laravel,Junior,30116.0,Presencial,,,,,jobs
+JOB-101481,RocketSoft,Arequipa,Perú,Backend Developer,R,.NET,Mid,14.176,Presencial,,,,,jobs
+JOB-101482,DevOpsLab,ROSARIO,Argentina,Fullstack Developer,Go,Vue,Junior,14654.0,Remoto,,,,,jobs
+JOB-101483,QuantumWare,Cartagena,Colombia,MLOps Engineer,Go,Django,Senior,16391.0,Remoto,,,,,jobs
+JOB-101484,DataNova,Barranquilla,Colombia,DevOps Engineer,Go,Laravel,Mid,8.764,Remoto,,,,,jobs
+JOB-101485,GreenBit,???,Perú,Backend Developer,Python,Spark,Junior,16.069,Presencial,2024-09-01,2024.0,9.0,3.0,jobs
+JOB-101486,Atlas Systems,New York,USA,Frontend Developer,Scala,,Junior,67.288,Remoto,,,,,jobs
+JOB-101487,Orion Cloud,Madrid,España,Cybersecurity Analyst,TypeScript,React,Senior,57278.0,Híbrido,,,,,jobs
+JOB-101488,QuantumWare,Santiago,Chile,Backend Developer,JavaScript,Spark,Junior,20592.0,Híbrido,,,,,jobs
+JOB-101489,Vertex AI,Cusco,Perú,Data Analyst,JavaScript,Angular,Junior,13733.0,Remoto,2024-03-05,2024.0,3.0,1.0,jobs
+JOB-101490,BluePixel,Unknown,España,Data Analyst,Python,.NET,Mid,47293.0,Remoto,,,,,jobs
+JOB-101491,Orion Cloud,Córdoba,Argentina,Data Analyst,R,React,Senior,25651.0,Presencial,,,,,jobs
+JOB-101492,Lambda Solutions,???,España,Data Scientist,PHP,Angular,Mid,34178.0,Híbrido,,,,,jobs
+JOB-101493,CodeWorks,Madrid,España,Frontend Developer,Go,React,Mid,39.68,Presencial,,,,,jobs
+JOB-101494,Atlas Systems,Valencia,España,DevOps Engineer,Go,Laravel,Junior,34.235,Presencial,,,,,jobs
+JOB-101495,SoftSmart,San Francisco,USA,Data Analyst,R,.NET,Junior,75.995,Remoto,,,,,jobs
+JOB-101496,CyberShield,Valencia,España,Cloud Architect,PHP,Vue,Junior,25.927,Remoto,,,,,jobs
+JOB-101497,Vertex AI,Madrid,España,Backend Developer,Swift,.NET,Senior,58727.0,Híbrido,,,,,jobs
+JOB-101498,CodeWorks,Barranquilla,Colombia,Data Analyst,Go,Vue,Junior,10.471,Presencial,,,,,jobs
+JOB-101499,CyberShield,Medellín,Colombia,Fullstack Developer,Kotlin,Node.js,Junior,12589.0,Remoto,,,,,jobs
+JOB-101500,DataNova,Córdoba,Argentina,Cybersecurity Analyst,R,Django,Junior,15472.0,Presencial,,,,,jobs
+JOB-100057,SoftSmart,Córdoba,Argentina,Data Engineer,Java,Django,Senior,21.973,Presencial,,,,,jobs
+JOB-101420,CloudForge,Cusco,Perú,Backend Developer,Swift,Vue,Mid,21768.0,Remoto,,,,,jobs

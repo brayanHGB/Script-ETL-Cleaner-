@@ -1,0 +1,1137 @@
+2025-11-16 19:36:11,201 - INFO - *** INICIANDO PROCESO ETL - TECH SKILLS ***
+2025-11-16 19:36:11,201 - INFO - PASO 1: Extracción de datos
+2025-11-16 19:36:11,219 - INFO - Empleos tech cargados: 1530 registros
+2025-11-16 19:36:11,220 - INFO - Inversiones tech cargadas: 250 registros
+2025-11-16 19:36:11,220 - INFO - Perfiles de habilidades cargados: 1420 registros
+2025-11-16 19:36:11,220 - INFO - PASO 2: Limpieza de datos
+2025-11-16 19:36:11,220 - INFO - Starting data cleaning process
+2025-11-16 19:36:11,223 - INFO - Removed 28 duplicate rows
+2025-11-16 19:36:11,226 - INFO - Handled missing values
+2025-11-16 19:36:11,229 - INFO - Cleaned text column: Empresa
+2025-11-16 19:36:11,232 - INFO - Cleaned text column: Ciudad
+2025-11-16 19:36:11,234 - INFO - Cleaned text column: País
+2025-11-16 19:36:11,237 - INFO - Cleaned text column: Cargo
+2025-11-16 19:36:11,242 - INFO - Found 42 outliers in Salario_Anual_USD
+2025-11-16 19:36:11,243 - INFO - Cleaned numeric column: Salario_Anual_USD
+2025-11-16 19:36:11,247 - INFO - Standardized date column: Fecha_Publicación
+2025-11-16 19:36:11,247 - INFO - Data cleaning process completed
+2025-11-16 19:36:11,248 - INFO - Starting data cleaning process
+2025-11-16 19:36:11,249 - INFO - Removed 9 duplicate rows
+2025-11-16 19:36:11,251 - INFO - Handled missing values
+2025-11-16 19:36:11,253 - INFO - Cleaned text column: Organización
+2025-11-16 19:36:11,254 - INFO - Cleaned text column: Área_Tecnológica
+2025-11-16 19:36:11,256 - INFO - Cleaned text column: Ciudad
+2025-11-16 19:36:11,258 - INFO - Cleaned text column: País
+2025-11-16 19:36:11,260 - INFO - Cleaned numeric column: Inversión_USD
+2025-11-16 19:36:11,260 - INFO - Cleaned numeric column: Participantes
+2025-11-16 19:36:11,261 - INFO - Cleaned numeric column: Satisfacción_Promedio
+2025-11-16 19:36:11,261 - INFO - Data cleaning process completed
+2025-11-16 19:36:11,261 - INFO - Starting data cleaning process
+2025-11-16 19:36:11,264 - INFO - Removed 18 duplicate rows
+2025-11-16 19:36:11,268 - INFO - Handled missing values
+2025-11-16 19:36:11,270 - INFO - Cleaned text column: Ciudad
+2025-11-16 19:36:11,273 - INFO - Cleaned text column: País
+2025-11-16 19:36:11,275 - INFO - Cleaned text column: Lenguajes_Dominio
+2025-11-16 19:36:11,278 - INFO - Cleaned text column: Frameworks_Dominio
+2025-11-16 19:36:11,281 - INFO - Cleaned text column: Certificaciones
+2025-11-16 19:36:11,283 - INFO - Cleaned text column: Nivel_Educativo
+2025-11-16 19:36:11,285 - INFO - Cleaned text column: Área_Trabajo_Actual
+2025-11-16 19:36:11,286 - INFO - Found 2 outliers in Edad
+2025-11-16 19:36:11,287 - INFO - Cleaned numeric column: Edad
+2025-11-16 19:36:11,287 - INFO - Found 1 outliers in Años_Experiencia
+2025-11-16 19:36:11,288 - INFO - Cleaned numeric column: Años_Experiencia
+2025-11-16 19:36:11,292 - INFO - Found 38 outliers in Salario_Actual_USD
+2025-11-16 19:36:11,293 - INFO - Cleaned numeric column: Salario_Actual_USD
+2025-11-16 19:36:11,293 - INFO - Data cleaning process completed
+2025-11-16 19:36:11,293 - INFO - PASO 3: Transformación de datos
+2025-11-16 19:36:11,293 - INFO - Starting data transformation process
+2025-11-16 19:36:11,294 - INFO - Normalized column names: {'ID_Oferta': 'id_oferta', 'Empresa': 'empresa', 'Ciudad': 'ciudad', 'País': 'país', 'Cargo': 'cargo', 'Lenguaje': 'lenguaje', 'Framework': 'framework', 'Nivel_Seniority': 'nivel_seniority', 'Salario_Anual_USD': 'salario_anual_usd', 'Modalidad': 'modalidad', 'Fecha_Publicación': 'fecha_publicación'}
+2025-11-16 19:36:11,296 - INFO - Created date-based columns for fecha_publicación
+2025-11-16 19:36:11,296 - WARNING - Text column Cargo not found
+2025-11-16 19:36:11,297 - WARNING - Text column Área_Tecnológica not found
+2025-11-16 19:36:11,297 - WARNING - Text column Lenguajes_Dominio not found
+2025-11-16 19:36:11,297 - WARNING - Text column Área_Trabajo_Actual not found
+2025-11-16 19:36:11,297 - INFO - Data transformation process completed
+2025-11-16 19:36:11,297 - INFO - Starting data transformation process
+2025-11-16 19:36:11,298 - INFO - Normalized column names: {'ID_Programa': 'id_programa', 'Organización': 'organización', 'Área_Tecnológica': 'área_tecnológica', 'Inversión_USD': 'inversión_usd', 'Participantes': 'participantes', 'Duración_Meses': 'duración_meses', 'Satisfacción_Promedio': 'satisfacción_promedio', 'Año': 'año', 'Ciudad': 'ciudad', 'País': 'país'}
+2025-11-16 19:36:11,299 - WARNING - Text column Cargo not found
+2025-11-16 19:36:11,299 - WARNING - Text column Área_Tecnológica not found
+2025-11-16 19:36:11,299 - WARNING - Text column Lenguajes_Dominio not found
+2025-11-16 19:36:11,299 - WARNING - Text column Área_Trabajo_Actual not found
+2025-11-16 19:36:11,299 - INFO - Data transformation process completed
+2025-11-16 19:36:11,299 - INFO - Starting data transformation process
+2025-11-16 19:36:11,300 - INFO - Normalized column names: {'ID_Persona': 'id_persona', 'Edad': 'edad', 'Ciudad': 'ciudad', 'País': 'país', 'Lenguajes_Dominio': 'lenguajes_dominio', 'Frameworks_Dominio': 'frameworks_dominio', 'Certificaciones': 'certificaciones', 'Años_Experiencia': 'años_experiencia', 'Nivel_Educativo': 'nivel_educativo', 'Área_Trabajo_Actual': 'área_trabajo_actual', 'Salario_Actual_USD': 'salario_actual_usd'}
+2025-11-16 19:36:11,301 - WARNING - Text column Cargo not found
+2025-11-16 19:36:11,301 - WARNING - Text column Área_Tecnológica not found
+2025-11-16 19:36:11,301 - WARNING - Text column Lenguajes_Dominio not found
+2025-11-16 19:36:11,301 - WARNING - Text column Área_Trabajo_Actual not found
+2025-11-16 19:36:11,301 - INFO - Data transformation process completed
+2025-11-16 19:36:11,301 - INFO - PASO 4: Análisis de minería de datos
+2025-11-16 19:36:11,301 - INFO - Starting TechWarehouse generation
+2025-11-16 19:36:11,567 - INFO - Created consolidated warehouse with 3145 total records
+2025-11-16 19:36:11,574 - INFO - Added derived metrics to warehouse
+2025-11-16 19:36:11,612 - INFO - TechWarehouse saved to c:\Users\Administrator\Desktop\proceso ETL\proyecto_techskills\data\processed\TechWarehouse.csv
+2025-11-16 19:36:11,617 - INFO - Iniciando análisis completo de minería de datos
+2025-11-16 19:36:11,618 - INFO - 1. Análisis de asociaciones (lenguajes y frameworks)
+2025-11-16 19:36:11,618 - INFO - Iniciando análisis de asociaciones entre lenguajes y frameworks
+2025-11-16 19:36:11,774 - INFO - 2. Análisis de clustering (perfiles)
+2025-11-16 19:36:11,774 - INFO - Iniciando análisis de clustering de perfiles
+2025-11-16 19:36:14,839 - INFO - Clustering completado: 5 clusters identificados
+2025-11-16 19:36:14,839 - INFO - 3. Análisis de regresión (predicción de participación)
+2025-11-16 19:36:14,840 - INFO - Iniciando análisis de regresión para predicción de participación
+2025-11-16 19:36:14,841 - INFO - 4. Análisis de clasificación (probabilidad de contratación)
+2025-11-16 19:36:14,841 - INFO - Iniciando análisis de clasificación para probabilidad de contratación
+2025-11-16 19:36:14,954 - INFO - Análisis de clasificación completado: Precisión = 0.7100
+2025-11-16 19:36:14,955 - INFO - Análisis de minería de datos completado: 2/4 exitosos
+2025-11-16 19:36:14,955 - INFO - PASO 5: Validación de calidad
+2025-11-16 19:36:14,955 - INFO - Starting data validation process
+2025-11-16 19:36:14,955 - INFO - Generating validation report
+2025-11-16 19:36:14,963 - INFO - Data quality validation completed
+2025-11-16 19:36:14,964 - INFO - Business rules validation completed with status: passed
+2025-11-16 19:36:14,966 - INFO - Completeness validation completed with score: 73.58%
+2025-11-16 19:36:14,966 - INFO - Validation report generated with overall status: warning
+2025-11-16 19:36:14,966 - INFO - Reporte de validación guardado en c:\Users\Administrator\Desktop\proceso ETL\proyecto_techskills\output\reporte_calidad.txt
+2025-11-16 19:36:14,967 - INFO - Data validation process completed
+2025-11-16 19:36:14,967 - INFO - Starting data validation process
+2025-11-16 19:36:14,967 - INFO - Generating validation report
+2025-11-16 19:36:14,971 - INFO - Data quality validation completed
+2025-11-16 19:36:14,971 - INFO - Completeness validation completed with score: 99.79%
+2025-11-16 19:36:14,971 - INFO - Validation report generated with overall status: passed
+2025-11-16 19:36:14,972 - INFO - Reporte de validación guardado en c:\Users\Administrator\Desktop\proceso ETL\proyecto_techskills\output\reporte_calidad.txt
+2025-11-16 19:36:14,972 - INFO - Data validation process completed
+2025-11-16 19:36:14,972 - INFO - Starting data validation process
+2025-11-16 19:36:14,972 - INFO - Generating validation report
+2025-11-16 19:36:14,979 - INFO - Data quality validation completed
+2025-11-16 19:36:14,980 - INFO - Business rules validation completed with status: passed
+2025-11-16 19:36:14,981 - INFO - Completeness validation completed with score: 99.52%
+2025-11-16 19:36:14,981 - INFO - Validation report generated with overall status: passed
+2025-11-16 19:36:14,982 - INFO - Reporte de validación guardado en c:\Users\Administrator\Desktop\proceso ETL\proyecto_techskills\output\reporte_calidad.txt
+2025-11-16 19:36:14,982 - INFO - Data validation process completed
+2025-11-16 19:36:14,982 - INFO - PASO 6: Carga de datos procesados
+2025-11-16 19:36:15,002 - INFO - PASO 7: Generación de TechWarehouse consolidado
+2025-11-16 19:36:15,002 - INFO - Starting TechWarehouse generation
+2025-11-16 19:36:15,263 - INFO - Created consolidated warehouse with 3145 total records
+2025-11-16 19:36:15,270 - INFO - Added derived metrics to warehouse
+2025-11-16 19:36:15,306 - INFO - TechWarehouse saved to c:\Users\Administrator\Desktop\proceso ETL\proyecto_techskills\data\processed\TechWarehouse.csv
+2025-11-16 19:36:15,313 - INFO - *** PROCESO ETL COMPLETADO EXITOSAMENTE ***
+2025-11-16 19:36:15,313 - INFO - Total de registros procesados: 3,145
+2025-11-16 19:36:15,313 - INFO - TechWarehouse consolidado: 3,145 registros
+2025-11-16 19:36:15,313 - INFO - Puntuacion de calidad de datos: 90.96%
+2025-11-16 19:36:15,313 - INFO - Análisis de minería de datos: 2/4 análisis completados exitosamente
+2025-11-16 19:36:15,314 - INFO - RESULTADO: Calidad EXCELENTE - Datos listos para analisis
+2025-11-16 19:38:02,162 - INFO - *** INICIANDO PROCESO ETL - TECH SKILLS ***
+2025-11-16 19:38:02,163 - INFO - PASO 1: Extracción de datos
+2025-11-16 19:38:02,176 - INFO - Empleos tech cargados: 1530 registros
+2025-11-16 19:38:02,177 - INFO - Inversiones tech cargadas: 250 registros
+2025-11-16 19:38:02,177 - INFO - Perfiles de habilidades cargados: 1420 registros
+2025-11-16 19:38:02,177 - INFO - PASO 2: Limpieza de datos
+2025-11-16 19:38:02,177 - INFO - Starting data cleaning process
+2025-11-16 19:38:02,180 - INFO - Removed 28 duplicate rows
+2025-11-16 19:38:02,183 - INFO - Handled missing values
+2025-11-16 19:38:02,186 - INFO - Cleaned text column: Empresa
+2025-11-16 19:38:02,188 - INFO - Cleaned text column: Ciudad
+2025-11-16 19:38:02,191 - INFO - Cleaned text column: País
+2025-11-16 19:38:02,193 - INFO - Cleaned text column: Cargo
+2025-11-16 19:38:02,198 - INFO - Found 42 outliers in Salario_Anual_USD
+2025-11-16 19:38:02,199 - INFO - Cleaned numeric column: Salario_Anual_USD
+2025-11-16 19:38:02,203 - INFO - Standardized date column: Fecha_Publicación
+2025-11-16 19:38:02,203 - INFO - Data cleaning process completed
+2025-11-16 19:38:02,203 - INFO - Starting data cleaning process
+2025-11-16 19:38:02,205 - INFO - Removed 9 duplicate rows
+2025-11-16 19:38:02,207 - INFO - Handled missing values
+2025-11-16 19:38:02,208 - INFO - Cleaned text column: Organización
+2025-11-16 19:38:02,210 - INFO - Cleaned text column: Área_Tecnológica
+2025-11-16 19:38:02,211 - INFO - Cleaned text column: Ciudad
+2025-11-16 19:38:02,212 - INFO - Cleaned text column: País
+2025-11-16 19:38:02,214 - INFO - Cleaned numeric column: Inversión_USD
+2025-11-16 19:38:02,215 - INFO - Cleaned numeric column: Participantes
+2025-11-16 19:38:02,215 - INFO - Cleaned numeric column: Satisfacción_Promedio
+2025-11-16 19:38:02,215 - INFO - Data cleaning process completed
+2025-11-16 19:38:02,215 - INFO - Starting data cleaning process
+2025-11-16 19:38:02,218 - INFO - Removed 18 duplicate rows
+2025-11-16 19:38:02,221 - INFO - Handled missing values
+2025-11-16 19:38:02,224 - INFO - Cleaned text column: Ciudad
+2025-11-16 19:38:02,226 - INFO - Cleaned text column: País
+2025-11-16 19:38:02,228 - INFO - Cleaned text column: Lenguajes_Dominio
+2025-11-16 19:38:02,231 - INFO - Cleaned text column: Frameworks_Dominio
+2025-11-16 19:38:02,234 - INFO - Cleaned text column: Certificaciones
+2025-11-16 19:38:02,236 - INFO - Cleaned text column: Nivel_Educativo
+2025-11-16 19:38:02,238 - INFO - Cleaned text column: Área_Trabajo_Actual
+2025-11-16 19:38:02,239 - INFO - Found 2 outliers in Edad
+2025-11-16 19:38:02,239 - INFO - Cleaned numeric column: Edad
+2025-11-16 19:38:02,240 - INFO - Found 1 outliers in Años_Experiencia
+2025-11-16 19:38:02,240 - INFO - Cleaned numeric column: Años_Experiencia
+2025-11-16 19:38:02,244 - INFO - Found 38 outliers in Salario_Actual_USD
+2025-11-16 19:38:02,245 - INFO - Cleaned numeric column: Salario_Actual_USD
+2025-11-16 19:38:02,245 - INFO - Data cleaning process completed
+2025-11-16 19:38:02,245 - INFO - PASO 3: Transformación de datos
+2025-11-16 19:38:02,245 - INFO - Starting data transformation process
+2025-11-16 19:38:02,246 - INFO - Normalized column names: {'ID_Oferta': 'id_oferta', 'Empresa': 'empresa', 'Ciudad': 'ciudad', 'País': 'país', 'Cargo': 'cargo', 'Lenguaje': 'lenguaje', 'Framework': 'framework', 'Nivel_Seniority': 'nivel_seniority', 'Salario_Anual_USD': 'salario_anual_usd', 'Modalidad': 'modalidad', 'Fecha_Publicación': 'fecha_publicación'}
+2025-11-16 19:38:02,248 - INFO - Created date-based columns for fecha_publicación
+2025-11-16 19:38:02,248 - WARNING - Text column Cargo not found
+2025-11-16 19:38:02,248 - WARNING - Text column Área_Tecnológica not found
+2025-11-16 19:38:02,249 - WARNING - Text column Lenguajes_Dominio not found
+2025-11-16 19:38:02,249 - WARNING - Text column Área_Trabajo_Actual not found
+2025-11-16 19:38:02,249 - INFO - Data transformation process completed
+2025-11-16 19:38:02,249 - INFO - Starting data transformation process
+2025-11-16 19:38:02,250 - INFO - Normalized column names: {'ID_Programa': 'id_programa', 'Organización': 'organización', 'Área_Tecnológica': 'área_tecnológica', 'Inversión_USD': 'inversión_usd', 'Participantes': 'participantes', 'Duración_Meses': 'duración_meses', 'Satisfacción_Promedio': 'satisfacción_promedio', 'Año': 'año', 'Ciudad': 'ciudad', 'País': 'país'}
+2025-11-16 19:38:02,250 - WARNING - Text column Cargo not found
+2025-11-16 19:38:02,250 - WARNING - Text column Área_Tecnológica not found
+2025-11-16 19:38:02,250 - WARNING - Text column Lenguajes_Dominio not found
+2025-11-16 19:38:02,250 - WARNING - Text column Área_Trabajo_Actual not found
+2025-11-16 19:38:02,250 - INFO - Data transformation process completed
+2025-11-16 19:38:02,250 - INFO - Starting data transformation process
+2025-11-16 19:38:02,251 - INFO - Normalized column names: {'ID_Persona': 'id_persona', 'Edad': 'edad', 'Ciudad': 'ciudad', 'País': 'país', 'Lenguajes_Dominio': 'lenguajes_dominio', 'Frameworks_Dominio': 'frameworks_dominio', 'Certificaciones': 'certificaciones', 'Años_Experiencia': 'años_experiencia', 'Nivel_Educativo': 'nivel_educativo', 'Área_Trabajo_Actual': 'área_trabajo_actual', 'Salario_Actual_USD': 'salario_actual_usd'}
+2025-11-16 19:38:02,251 - WARNING - Text column Cargo not found
+2025-11-16 19:38:02,251 - WARNING - Text column Área_Tecnológica not found
+2025-11-16 19:38:02,251 - WARNING - Text column Lenguajes_Dominio not found
+2025-11-16 19:38:02,252 - WARNING - Text column Área_Trabajo_Actual not found
+2025-11-16 19:38:02,252 - INFO - Data transformation process completed
+2025-11-16 19:38:02,252 - INFO - PASO 4: Análisis de minería de datos
+2025-11-16 19:38:02,252 - INFO - Starting TechWarehouse generation
+2025-11-16 19:38:02,516 - INFO - Created consolidated warehouse with 3145 total records
+2025-11-16 19:38:02,523 - INFO - Added derived metrics to warehouse
+2025-11-16 19:38:02,559 - INFO - TechWarehouse saved to c:\Users\Administrator\Desktop\proceso ETL\proyecto_techskills\data\processed\TechWarehouse.csv
+2025-11-16 19:38:02,565 - INFO - Iniciando análisis completo de minería de datos
+2025-11-16 19:38:02,565 - INFO - 1. Análisis de asociaciones (lenguajes y frameworks)
+2025-11-16 19:38:02,565 - INFO - Iniciando análisis de asociaciones entre lenguajes y frameworks
+2025-11-16 19:38:02,726 - INFO - 2. Análisis de clustering (perfiles)
+2025-11-16 19:38:02,726 - INFO - Iniciando análisis de clustering de perfiles
+2025-11-16 19:38:05,812 - INFO - Clustering completado: 5 clusters identificados
+2025-11-16 19:38:05,812 - INFO - 3. Análisis de regresión (predicción de participación)
+2025-11-16 19:38:05,813 - INFO - Iniciando análisis de regresión para predicción de participación
+2025-11-16 19:38:05,814 - INFO - 4. Análisis de clasificación (probabilidad de contratación)
+2025-11-16 19:38:05,814 - INFO - Iniciando análisis de clasificación para probabilidad de contratación
+2025-11-16 19:38:05,923 - INFO - Análisis de clasificación completado: Precisión = 0.7100
+2025-11-16 19:38:05,923 - INFO - Análisis de minería de datos completado: 2/4 exitosos
+2025-11-16 19:38:05,923 - INFO - PASO 5: Validación de calidad
+2025-11-16 19:38:05,923 - INFO - Starting data validation process
+2025-11-16 19:38:05,924 - INFO - Generating validation report
+2025-11-16 19:38:05,932 - INFO - Data quality validation completed
+2025-11-16 19:38:05,933 - INFO - Business rules validation completed with status: passed
+2025-11-16 19:38:05,934 - INFO - Completeness validation completed with score: 73.58%
+2025-11-16 19:38:05,934 - INFO - Validation report generated with overall status: warning
+2025-11-16 19:38:05,934 - INFO - Reporte de validación guardado en c:\Users\Administrator\Desktop\proceso ETL\proyecto_techskills\output\reporte_calidad.txt
+2025-11-16 19:38:05,934 - INFO - Data validation process completed
+2025-11-16 19:38:05,935 - INFO - Starting data validation process
+2025-11-16 19:38:05,935 - INFO - Generating validation report
+2025-11-16 19:38:05,938 - INFO - Data quality validation completed
+2025-11-16 19:38:05,939 - INFO - Completeness validation completed with score: 99.79%
+2025-11-16 19:38:05,939 - INFO - Validation report generated with overall status: passed
+2025-11-16 19:38:05,939 - INFO - Reporte de validación guardado en c:\Users\Administrator\Desktop\proceso ETL\proyecto_techskills\output\reporte_calidad.txt
+2025-11-16 19:38:05,939 - INFO - Data validation process completed
+2025-11-16 19:38:05,939 - INFO - Starting data validation process
+2025-11-16 19:38:05,940 - INFO - Generating validation report
+2025-11-16 19:38:05,946 - INFO - Data quality validation completed
+2025-11-16 19:38:05,947 - INFO - Business rules validation completed with status: passed
+2025-11-16 19:38:05,948 - INFO - Completeness validation completed with score: 99.52%
+2025-11-16 19:38:05,948 - INFO - Validation report generated with overall status: passed
+2025-11-16 19:38:05,948 - INFO - Reporte de validación guardado en c:\Users\Administrator\Desktop\proceso ETL\proyecto_techskills\output\reporte_calidad.txt
+2025-11-16 19:38:05,949 - INFO - Data validation process completed
+2025-11-16 19:38:05,949 - INFO - PASO 6: Carga de datos procesados
+2025-11-16 19:38:05,967 - INFO - PASO 7: Generación de TechWarehouse consolidado
+2025-11-16 19:38:05,967 - INFO - Starting TechWarehouse generation
+2025-11-16 19:38:06,230 - INFO - Created consolidated warehouse with 3145 total records
+2025-11-16 19:38:06,237 - INFO - Added derived metrics to warehouse
+2025-11-16 19:38:06,274 - INFO - TechWarehouse saved to c:\Users\Administrator\Desktop\proceso ETL\proyecto_techskills\data\processed\TechWarehouse.csv
+2025-11-16 19:38:06,280 - INFO - *** PROCESO ETL COMPLETADO EXITOSAMENTE ***
+2025-11-16 19:38:06,280 - INFO - Total de registros procesados: 3,145
+2025-11-16 19:38:06,280 - INFO - TechWarehouse consolidado: 3,145 registros
+2025-11-16 19:38:06,280 - INFO - Puntuacion de calidad de datos: 90.96%
+2025-11-16 19:38:06,280 - INFO - Análisis de minería de datos: 2/4 análisis completados exitosamente
+2025-11-16 19:38:06,280 - INFO - RESULTADO: Calidad EXCELENTE - Datos listos para analisis
+2025-11-16 19:39:54,254 - INFO - *** INICIANDO PROCESO ETL - TECH SKILLS ***
+2025-11-16 19:39:54,255 - INFO - PASO 1: Extracción de datos
+2025-11-16 19:39:54,268 - INFO - Empleos tech cargados: 1530 registros
+2025-11-16 19:39:54,268 - INFO - Inversiones tech cargadas: 250 registros
+2025-11-16 19:39:54,269 - INFO - Perfiles de habilidades cargados: 1420 registros
+2025-11-16 19:39:54,269 - INFO - PASO 2: Limpieza de datos
+2025-11-16 19:39:54,269 - INFO - Starting data cleaning process
+2025-11-16 19:39:54,272 - INFO - Removed 28 duplicate rows
+2025-11-16 19:39:54,275 - INFO - Handled missing values
+2025-11-16 19:39:54,277 - INFO - Cleaned text column: Empresa
+2025-11-16 19:39:54,280 - INFO - Cleaned text column: Ciudad
+2025-11-16 19:39:54,282 - INFO - Cleaned text column: País
+2025-11-16 19:39:54,285 - INFO - Cleaned text column: Cargo
+2025-11-16 19:39:54,291 - INFO - Found 42 outliers in Salario_Anual_USD
+2025-11-16 19:39:54,291 - INFO - Cleaned numeric column: Salario_Anual_USD
+2025-11-16 19:39:54,296 - INFO - Standardized date column: Fecha_Publicación
+2025-11-16 19:39:54,296 - INFO - Data cleaning process completed
+2025-11-16 19:39:54,296 - INFO - Starting data cleaning process
+2025-11-16 19:39:54,298 - INFO - Removed 9 duplicate rows
+2025-11-16 19:39:54,299 - INFO - Handled missing values
+2025-11-16 19:39:54,301 - INFO - Cleaned text column: Organización
+2025-11-16 19:39:54,302 - INFO - Cleaned text column: Área_Tecnológica
+2025-11-16 19:39:54,303 - INFO - Cleaned text column: Ciudad
+2025-11-16 19:39:54,305 - INFO - Cleaned text column: País
+2025-11-16 19:39:54,307 - INFO - Cleaned numeric column: Inversión_USD
+2025-11-16 19:39:54,308 - INFO - Cleaned numeric column: Participantes
+2025-11-16 19:39:54,308 - INFO - Cleaned numeric column: Satisfacción_Promedio
+2025-11-16 19:39:54,308 - INFO - Data cleaning process completed
+2025-11-16 19:39:54,308 - INFO - Starting data cleaning process
+2025-11-16 19:39:54,311 - INFO - Removed 18 duplicate rows
+2025-11-16 19:39:54,315 - INFO - Handled missing values
+2025-11-16 19:39:54,317 - INFO - Cleaned text column: Ciudad
+2025-11-16 19:39:54,319 - INFO - Cleaned text column: País
+2025-11-16 19:39:54,324 - INFO - Cleaned text column: Lenguajes_Dominio
+2025-11-16 19:39:54,326 - INFO - Cleaned text column: Frameworks_Dominio
+2025-11-16 19:39:54,329 - INFO - Cleaned text column: Certificaciones
+2025-11-16 19:39:54,332 - INFO - Cleaned text column: Nivel_Educativo
+2025-11-16 19:39:54,334 - INFO - Cleaned text column: Área_Trabajo_Actual
+2025-11-16 19:39:54,335 - INFO - Found 2 outliers in Edad
+2025-11-16 19:39:54,335 - INFO - Cleaned numeric column: Edad
+2025-11-16 19:39:54,336 - INFO - Found 1 outliers in Años_Experiencia
+2025-11-16 19:39:54,337 - INFO - Cleaned numeric column: Años_Experiencia
+2025-11-16 19:39:54,341 - INFO - Found 38 outliers in Salario_Actual_USD
+2025-11-16 19:39:54,342 - INFO - Cleaned numeric column: Salario_Actual_USD
+2025-11-16 19:39:54,342 - INFO - Data cleaning process completed
+2025-11-16 19:39:54,342 - INFO - PASO 3: Transformación de datos
+2025-11-16 19:39:54,342 - INFO - Starting data transformation process
+2025-11-16 19:39:54,343 - INFO - Normalized column names: {'ID_Oferta': 'id_oferta', 'Empresa': 'empresa', 'Ciudad': 'ciudad', 'País': 'país', 'Cargo': 'cargo', 'Lenguaje': 'lenguaje', 'Framework': 'framework', 'Nivel_Seniority': 'nivel_seniority', 'Salario_Anual_USD': 'salario_anual_usd', 'Modalidad': 'modalidad', 'Fecha_Publicación': 'fecha_publicación'}
+2025-11-16 19:39:54,346 - INFO - Created date-based columns for fecha_publicación
+2025-11-16 19:39:54,346 - WARNING - Text column Cargo not found
+2025-11-16 19:39:54,346 - WARNING - Text column Área_Tecnológica not found
+2025-11-16 19:39:54,346 - WARNING - Text column Lenguajes_Dominio not found
+2025-11-16 19:39:54,346 - WARNING - Text column Área_Trabajo_Actual not found
+2025-11-16 19:39:54,346 - INFO - Data transformation process completed
+2025-11-16 19:39:54,347 - INFO - Starting data transformation process
+2025-11-16 19:39:54,347 - INFO - Normalized column names: {'ID_Programa': 'id_programa', 'Organización': 'organización', 'Área_Tecnológica': 'área_tecnológica', 'Inversión_USD': 'inversión_usd', 'Participantes': 'participantes', 'Duración_Meses': 'duración_meses', 'Satisfacción_Promedio': 'satisfacción_promedio', 'Año': 'año', 'Ciudad': 'ciudad', 'País': 'país'}
+2025-11-16 19:39:54,348 - WARNING - Text column Cargo not found
+2025-11-16 19:39:54,348 - WARNING - Text column Área_Tecnológica not found
+2025-11-16 19:39:54,348 - WARNING - Text column Lenguajes_Dominio not found
+2025-11-16 19:39:54,348 - WARNING - Text column Área_Trabajo_Actual not found
+2025-11-16 19:39:54,348 - INFO - Data transformation process completed
+2025-11-16 19:39:54,348 - INFO - Starting data transformation process
+2025-11-16 19:39:54,349 - INFO - Normalized column names: {'ID_Persona': 'id_persona', 'Edad': 'edad', 'Ciudad': 'ciudad', 'País': 'país', 'Lenguajes_Dominio': 'lenguajes_dominio', 'Frameworks_Dominio': 'frameworks_dominio', 'Certificaciones': 'certificaciones', 'Años_Experiencia': 'años_experiencia', 'Nivel_Educativo': 'nivel_educativo', 'Área_Trabajo_Actual': 'área_trabajo_actual', 'Salario_Actual_USD': 'salario_actual_usd'}
+2025-11-16 19:39:54,350 - WARNING - Text column Cargo not found
+2025-11-16 19:39:54,350 - WARNING - Text column Área_Tecnológica not found
+2025-11-16 19:39:54,350 - WARNING - Text column Lenguajes_Dominio not found
+2025-11-16 19:39:54,350 - WARNING - Text column Área_Trabajo_Actual not found
+2025-11-16 19:39:54,350 - INFO - Data transformation process completed
+2025-11-16 19:39:54,350 - INFO - PASO 4: Análisis de minería de datos
+2025-11-16 19:39:54,351 - INFO - Starting TechWarehouse generation
+2025-11-16 19:39:54,621 - INFO - Created consolidated warehouse with 3145 total records
+2025-11-16 19:39:54,629 - INFO - Added derived metrics to warehouse
+2025-11-16 19:39:54,666 - INFO - TechWarehouse saved to C:\Users\Administrator\Desktop\proceso ETL\proyecto_techskills\data\processed\TechWarehouse.csv
+2025-11-16 19:39:54,671 - INFO - Iniciando análisis completo de minería de datos
+2025-11-16 19:39:54,672 - INFO - 1. Análisis de asociaciones (lenguajes y frameworks)
+2025-11-16 19:39:54,672 - INFO - Iniciando análisis de asociaciones entre lenguajes y frameworks
+2025-11-16 19:39:54,839 - INFO - 2. Análisis de clustering (perfiles)
+2025-11-16 19:39:54,839 - INFO - Iniciando análisis de clustering de perfiles
+2025-11-16 19:39:57,908 - INFO - Clustering completado: 5 clusters identificados
+2025-11-16 19:39:57,908 - INFO - 3. Análisis de regresión (predicción de participación)
+2025-11-16 19:39:57,909 - INFO - Iniciando análisis de regresión para predicción de participación
+2025-11-16 19:39:57,910 - INFO - 4. Análisis de clasificación (probabilidad de contratación)
+2025-11-16 19:39:57,911 - INFO - Iniciando análisis de clasificación para probabilidad de contratación
+2025-11-16 19:39:58,032 - INFO - Análisis de clasificación completado: Precisión = 0.7100
+2025-11-16 19:39:58,032 - INFO - Análisis de minería de datos completado: 2/4 exitosos
+2025-11-16 19:39:58,032 - INFO - PASO 5: Validación de calidad
+2025-11-16 19:39:58,032 - INFO - Starting data validation process
+2025-11-16 19:39:58,032 - INFO - Generating validation report
+2025-11-16 19:39:58,041 - INFO - Data quality validation completed
+2025-11-16 19:39:58,042 - INFO - Business rules validation completed with status: passed
+2025-11-16 19:39:58,043 - INFO - Completeness validation completed with score: 73.58%
+2025-11-16 19:39:58,044 - INFO - Validation report generated with overall status: warning
+2025-11-16 19:39:58,044 - INFO - Reporte de validación guardado en C:\Users\Administrator\Desktop\proceso ETL\proyecto_techskills\output\reporte_calidad.txt
+2025-11-16 19:39:58,045 - INFO - Data validation process completed
+2025-11-16 19:39:58,045 - INFO - Starting data validation process
+2025-11-16 19:39:58,045 - INFO - Generating validation report
+2025-11-16 19:39:58,049 - INFO - Data quality validation completed
+2025-11-16 19:39:58,049 - INFO - Completeness validation completed with score: 99.79%
+2025-11-16 19:39:58,049 - INFO - Validation report generated with overall status: passed
+2025-11-16 19:39:58,050 - INFO - Reporte de validación guardado en C:\Users\Administrator\Desktop\proceso ETL\proyecto_techskills\output\reporte_calidad.txt
+2025-11-16 19:39:58,050 - INFO - Data validation process completed
+2025-11-16 19:39:58,050 - INFO - Starting data validation process
+2025-11-16 19:39:58,050 - INFO - Generating validation report
+2025-11-16 19:39:58,057 - INFO - Data quality validation completed
+2025-11-16 19:39:58,058 - INFO - Business rules validation completed with status: passed
+2025-11-16 19:39:58,059 - INFO - Completeness validation completed with score: 99.52%
+2025-11-16 19:39:58,059 - INFO - Validation report generated with overall status: passed
+2025-11-16 19:39:58,060 - INFO - Reporte de validación guardado en C:\Users\Administrator\Desktop\proceso ETL\proyecto_techskills\output\reporte_calidad.txt
+2025-11-16 19:39:58,060 - INFO - Data validation process completed
+2025-11-16 19:39:58,060 - INFO - PASO 6: Carga de datos procesados
+2025-11-16 19:39:58,081 - INFO - PASO 7: Generación de TechWarehouse consolidado
+2025-11-16 19:39:58,082 - INFO - Starting TechWarehouse generation
+2025-11-16 19:39:58,348 - INFO - Created consolidated warehouse with 3145 total records
+2025-11-16 19:39:58,355 - INFO - Added derived metrics to warehouse
+2025-11-16 19:39:58,391 - INFO - TechWarehouse saved to C:\Users\Administrator\Desktop\proceso ETL\proyecto_techskills\data\processed\TechWarehouse.csv
+2025-11-16 19:39:58,397 - INFO - *** PROCESO ETL COMPLETADO EXITOSAMENTE ***
+2025-11-16 19:39:58,397 - INFO - Total de registros procesados: 3,145
+2025-11-16 19:39:58,398 - INFO - TechWarehouse consolidado: 3,145 registros
+2025-11-16 19:39:58,398 - INFO - Puntuacion de calidad de datos: 90.96%
+2025-11-16 19:39:58,398 - INFO - Análisis de minería de datos: 2/4 análisis completados exitosamente
+2025-11-16 19:39:58,398 - INFO - RESULTADO: Calidad EXCELENTE - Datos listos para analisis
+2025-11-16 19:46:57,574 - INFO - *** INICIANDO PROCESO ETL - TECH SKILLS ***
+2025-11-16 19:46:57,575 - INFO - PASO 1: Extracción de datos
+2025-11-16 19:46:57,593 - INFO - Empleos tech cargados: 1530 registros
+2025-11-16 19:46:57,594 - INFO - Inversiones tech cargadas: 250 registros
+2025-11-16 19:46:57,594 - INFO - Perfiles de habilidades cargados: 1420 registros
+2025-11-16 19:46:57,594 - INFO - PASO 2: Limpieza de datos
+2025-11-16 19:46:57,594 - INFO - Starting data cleaning process
+2025-11-16 19:46:57,597 - INFO - Removed 28 duplicate rows
+2025-11-16 19:46:57,600 - INFO - Handled missing values
+2025-11-16 19:46:57,604 - INFO - Cleaned text column: Empresa
+2025-11-16 19:46:57,607 - INFO - Cleaned text column: Ciudad
+2025-11-16 19:46:57,609 - INFO - Cleaned text column: País
+2025-11-16 19:46:57,612 - INFO - Cleaned text column: Cargo
+2025-11-16 19:46:57,618 - INFO - Found 42 outliers in Salario_Anual_USD
+2025-11-16 19:46:57,618 - INFO - Cleaned numeric column: Salario_Anual_USD
+2025-11-16 19:46:57,622 - INFO - Standardized date column: Fecha_Publicación
+2025-11-16 19:46:57,623 - INFO - Data cleaning process completed
+2025-11-16 19:46:57,623 - INFO - Starting data cleaning process
+2025-11-16 19:46:57,624 - INFO - Removed 9 duplicate rows
+2025-11-16 19:46:57,627 - INFO - Handled missing values
+2025-11-16 19:46:57,628 - INFO - Cleaned text column: Organización
+2025-11-16 19:46:57,630 - INFO - Cleaned text column: Área_Tecnológica
+2025-11-16 19:46:57,631 - INFO - Cleaned text column: Ciudad
+2025-11-16 19:46:57,633 - INFO - Cleaned text column: País
+2025-11-16 19:46:57,635 - INFO - Cleaned numeric column: Inversión_USD
+2025-11-16 19:46:57,635 - INFO - Cleaned numeric column: Participantes
+2025-11-16 19:46:57,636 - INFO - Cleaned numeric column: Satisfacción_Promedio
+2025-11-16 19:46:57,636 - INFO - Data cleaning process completed
+2025-11-16 19:46:57,636 - INFO - Starting data cleaning process
+2025-11-16 19:46:57,639 - INFO - Removed 18 duplicate rows
+2025-11-16 19:46:57,642 - INFO - Handled missing values
+2025-11-16 19:46:57,645 - INFO - Cleaned text column: Ciudad
+2025-11-16 19:46:57,648 - INFO - Cleaned text column: País
+2025-11-16 19:46:57,650 - INFO - Cleaned text column: Lenguajes_Dominio
+2025-11-16 19:46:57,653 - INFO - Cleaned text column: Frameworks_Dominio
+2025-11-16 19:46:57,656 - INFO - Cleaned text column: Certificaciones
+2025-11-16 19:46:57,658 - INFO - Cleaned text column: Nivel_Educativo
+2025-11-16 19:46:57,661 - INFO - Cleaned text column: Área_Trabajo_Actual
+2025-11-16 19:46:57,662 - INFO - Found 2 outliers in Edad
+2025-11-16 19:46:57,662 - INFO - Cleaned numeric column: Edad
+2025-11-16 19:46:57,663 - INFO - Found 1 outliers in Años_Experiencia
+2025-11-16 19:46:57,663 - INFO - Cleaned numeric column: Años_Experiencia
+2025-11-16 19:46:57,668 - INFO - Found 38 outliers in Salario_Actual_USD
+2025-11-16 19:46:57,668 - INFO - Cleaned numeric column: Salario_Actual_USD
+2025-11-16 19:46:57,668 - INFO - Data cleaning process completed
+2025-11-16 19:46:57,669 - INFO - PASO 3: Transformación de datos
+2025-11-16 19:46:57,669 - INFO - Starting data transformation process
+2025-11-16 19:46:57,670 - INFO - Normalized column names: {'ID_Oferta': 'id_oferta', 'Empresa': 'empresa', 'Ciudad': 'ciudad', 'País': 'país', 'Cargo': 'cargo', 'Lenguaje': 'lenguaje', 'Framework': 'framework', 'Nivel_Seniority': 'nivel_seniority', 'Salario_Anual_USD': 'salario_anual_usd', 'Modalidad': 'modalidad', 'Fecha_Publicación': 'fecha_publicación'}
+2025-11-16 19:46:57,672 - INFO - Created date-based columns for fecha_publicación
+2025-11-16 19:46:57,672 - WARNING - Text column Cargo not found
+2025-11-16 19:46:57,672 - WARNING - Text column Área_Tecnológica not found
+2025-11-16 19:46:57,672 - WARNING - Text column Lenguajes_Dominio not found
+2025-11-16 19:46:57,673 - WARNING - Text column Área_Trabajo_Actual not found
+2025-11-16 19:46:57,673 - INFO - Data transformation process completed
+2025-11-16 19:46:57,673 - INFO - Starting data transformation process
+2025-11-16 19:46:57,673 - INFO - Normalized column names: {'ID_Programa': 'id_programa', 'Organización': 'organización', 'Área_Tecnológica': 'área_tecnológica', 'Inversión_USD': 'inversión_usd', 'Participantes': 'participantes', 'Duración_Meses': 'duración_meses', 'Satisfacción_Promedio': 'satisfacción_promedio', 'Año': 'año', 'Ciudad': 'ciudad', 'País': 'país'}
+2025-11-16 19:46:57,674 - WARNING - Text column Cargo not found
+2025-11-16 19:46:57,674 - WARNING - Text column Área_Tecnológica not found
+2025-11-16 19:46:57,674 - WARNING - Text column Lenguajes_Dominio not found
+2025-11-16 19:46:57,674 - WARNING - Text column Área_Trabajo_Actual not found
+2025-11-16 19:46:57,674 - INFO - Data transformation process completed
+2025-11-16 19:46:57,675 - INFO - Starting data transformation process
+2025-11-16 19:46:57,675 - INFO - Normalized column names: {'ID_Persona': 'id_persona', 'Edad': 'edad', 'Ciudad': 'ciudad', 'País': 'país', 'Lenguajes_Dominio': 'lenguajes_dominio', 'Frameworks_Dominio': 'frameworks_dominio', 'Certificaciones': 'certificaciones', 'Años_Experiencia': 'años_experiencia', 'Nivel_Educativo': 'nivel_educativo', 'Área_Trabajo_Actual': 'área_trabajo_actual', 'Salario_Actual_USD': 'salario_actual_usd'}
+2025-11-16 19:46:57,676 - WARNING - Text column Cargo not found
+2025-11-16 19:46:57,676 - WARNING - Text column Área_Tecnológica not found
+2025-11-16 19:46:57,676 - WARNING - Text column Lenguajes_Dominio not found
+2025-11-16 19:46:57,676 - WARNING - Text column Área_Trabajo_Actual not found
+2025-11-16 19:46:57,676 - INFO - Data transformation process completed
+2025-11-16 19:46:57,677 - INFO - PASO 4: Análisis de minería de datos
+2025-11-16 19:46:57,677 - INFO - Starting TechWarehouse generation
+2025-11-16 19:46:57,954 - INFO - Created consolidated warehouse with 3145 total records
+2025-11-16 19:46:57,961 - INFO - Added derived metrics to warehouse
+2025-11-16 19:46:57,999 - INFO - TechWarehouse saved to C:\Users\Administrator\Desktop\proceso ETL\proyecto_techskills\data\processed\TechWarehouse.csv
+2025-11-16 19:46:58,005 - INFO - Iniciando análisis completo de minería de datos
+2025-11-16 19:46:58,005 - INFO - 1. Análisis de asociaciones (lenguajes y frameworks)
+2025-11-16 19:46:58,006 - INFO - Iniciando análisis de asociaciones entre lenguajes y frameworks
+2025-11-16 19:46:58,172 - INFO - 2. Análisis de clustering (perfiles)
+2025-11-16 19:46:58,173 - INFO - Iniciando análisis de clustering de perfiles
+2025-11-16 19:47:01,327 - INFO - Clustering completado: 5 clusters identificados
+2025-11-16 19:47:01,328 - INFO - 3. Análisis de regresión (predicción de participación)
+2025-11-16 19:47:01,328 - INFO - Iniciando análisis de regresión para predicción de participación
+2025-11-16 19:47:01,330 - INFO - 4. Análisis de clasificación (probabilidad de contratación)
+2025-11-16 19:47:01,330 - INFO - Iniciando análisis de clasificación para probabilidad de contratación
+2025-11-16 19:47:01,465 - INFO - Análisis de clasificación completado: Precisión = 0.7100
+2025-11-16 19:47:01,465 - INFO - Análisis de minería de datos completado: 2/4 exitosos
+2025-11-16 19:47:01,465 - INFO - PASO 5: Validación de calidad
+2025-11-16 19:47:01,465 - INFO - Starting data validation process
+2025-11-16 19:47:01,465 - INFO - Generating validation report
+2025-11-16 19:47:01,474 - INFO - Data quality validation completed
+2025-11-16 19:47:01,475 - INFO - Business rules validation completed with status: passed
+2025-11-16 19:47:01,476 - INFO - Completeness validation completed with score: 73.58%
+2025-11-16 19:47:01,476 - INFO - Validation report generated with overall status: warning
+2025-11-16 19:47:01,477 - INFO - Reporte de validación guardado en C:\Users\Administrator\Desktop\proceso ETL\proyecto_techskills\output\reporte_calidad.txt
+2025-11-16 19:47:01,477 - INFO - Data validation process completed
+2025-11-16 19:47:01,478 - INFO - Starting data validation process
+2025-11-16 19:47:01,478 - INFO - Generating validation report
+2025-11-16 19:47:01,481 - INFO - Data quality validation completed
+2025-11-16 19:47:01,482 - INFO - Completeness validation completed with score: 99.79%
+2025-11-16 19:47:01,482 - INFO - Validation report generated with overall status: passed
+2025-11-16 19:47:01,483 - INFO - Reporte de validación guardado en C:\Users\Administrator\Desktop\proceso ETL\proyecto_techskills\output\reporte_calidad.txt
+2025-11-16 19:47:01,483 - INFO - Data validation process completed
+2025-11-16 19:47:01,483 - INFO - Starting data validation process
+2025-11-16 19:47:01,483 - INFO - Generating validation report
+2025-11-16 19:47:01,490 - INFO - Data quality validation completed
+2025-11-16 19:47:01,491 - INFO - Business rules validation completed with status: passed
+2025-11-16 19:47:01,492 - INFO - Completeness validation completed with score: 99.52%
+2025-11-16 19:47:01,492 - INFO - Validation report generated with overall status: passed
+2025-11-16 19:47:01,492 - INFO - Reporte de validación guardado en C:\Users\Administrator\Desktop\proceso ETL\proyecto_techskills\output\reporte_calidad.txt
+2025-11-16 19:47:01,493 - INFO - Data validation process completed
+2025-11-16 19:47:01,493 - INFO - PASO 6: Carga de datos procesados
+2025-11-16 19:47:01,512 - INFO - PASO 7: Generación de TechWarehouse consolidado
+2025-11-16 19:47:01,512 - INFO - Starting TechWarehouse generation
+2025-11-16 19:47:01,784 - INFO - Created consolidated warehouse with 3145 total records
+2025-11-16 19:47:01,791 - INFO - Added derived metrics to warehouse
+2025-11-16 19:47:01,828 - INFO - TechWarehouse saved to C:\Users\Administrator\Desktop\proceso ETL\proyecto_techskills\data\processed\TechWarehouse.csv
+2025-11-16 19:47:01,836 - INFO - PASO 8: Exportación para Power BI
+2025-11-16 19:47:01,836 - INFO - Iniciando exportación completa para Power BI
+2025-11-16 19:47:01,837 - INFO - Iniciando preparación de datasets para Power BI
+2025-11-16 19:47:01,838 - ERROR - ERROR en el proceso ETL: 'Timestamp' object has no attribute 'dt'
+2025-11-16 19:47:28,160 - INFO - *** INICIANDO PROCESO ETL - TECH SKILLS ***
+2025-11-16 19:47:28,161 - INFO - PASO 1: Extracción de datos
+2025-11-16 19:47:28,176 - INFO - Empleos tech cargados: 1530 registros
+2025-11-16 19:47:28,176 - INFO - Inversiones tech cargadas: 250 registros
+2025-11-16 19:47:28,177 - INFO - Perfiles de habilidades cargados: 1420 registros
+2025-11-16 19:47:28,177 - INFO - PASO 2: Limpieza de datos
+2025-11-16 19:47:28,177 - INFO - Starting data cleaning process
+2025-11-16 19:47:28,180 - INFO - Removed 28 duplicate rows
+2025-11-16 19:47:28,183 - INFO - Handled missing values
+2025-11-16 19:47:28,186 - INFO - Cleaned text column: Empresa
+2025-11-16 19:47:28,189 - INFO - Cleaned text column: Ciudad
+2025-11-16 19:47:28,191 - INFO - Cleaned text column: País
+2025-11-16 19:47:28,194 - INFO - Cleaned text column: Cargo
+2025-11-16 19:47:28,199 - INFO - Found 42 outliers in Salario_Anual_USD
+2025-11-16 19:47:28,200 - INFO - Cleaned numeric column: Salario_Anual_USD
+2025-11-16 19:47:28,204 - INFO - Standardized date column: Fecha_Publicación
+2025-11-16 19:47:28,204 - INFO - Data cleaning process completed
+2025-11-16 19:47:28,205 - INFO - Starting data cleaning process
+2025-11-16 19:47:28,206 - INFO - Removed 9 duplicate rows
+2025-11-16 19:47:28,208 - INFO - Handled missing values
+2025-11-16 19:47:28,210 - INFO - Cleaned text column: Organización
+2025-11-16 19:47:28,211 - INFO - Cleaned text column: Área_Tecnológica
+2025-11-16 19:47:28,213 - INFO - Cleaned text column: Ciudad
+2025-11-16 19:47:28,214 - INFO - Cleaned text column: País
+2025-11-16 19:47:28,216 - INFO - Cleaned numeric column: Inversión_USD
+2025-11-16 19:47:28,217 - INFO - Cleaned numeric column: Participantes
+2025-11-16 19:47:28,218 - INFO - Cleaned numeric column: Satisfacción_Promedio
+2025-11-16 19:47:28,218 - INFO - Data cleaning process completed
+2025-11-16 19:47:28,218 - INFO - Starting data cleaning process
+2025-11-16 19:47:28,220 - INFO - Removed 18 duplicate rows
+2025-11-16 19:47:28,224 - INFO - Handled missing values
+2025-11-16 19:47:28,226 - INFO - Cleaned text column: Ciudad
+2025-11-16 19:47:28,228 - INFO - Cleaned text column: País
+2025-11-16 19:47:28,231 - INFO - Cleaned text column: Lenguajes_Dominio
+2025-11-16 19:47:28,233 - INFO - Cleaned text column: Frameworks_Dominio
+2025-11-16 19:47:28,236 - INFO - Cleaned text column: Certificaciones
+2025-11-16 19:47:28,239 - INFO - Cleaned text column: Nivel_Educativo
+2025-11-16 19:47:28,241 - INFO - Cleaned text column: Área_Trabajo_Actual
+2025-11-16 19:47:28,242 - INFO - Found 2 outliers in Edad
+2025-11-16 19:47:28,242 - INFO - Cleaned numeric column: Edad
+2025-11-16 19:47:28,243 - INFO - Found 1 outliers in Años_Experiencia
+2025-11-16 19:47:28,243 - INFO - Cleaned numeric column: Años_Experiencia
+2025-11-16 19:47:28,247 - INFO - Found 38 outliers in Salario_Actual_USD
+2025-11-16 19:47:28,248 - INFO - Cleaned numeric column: Salario_Actual_USD
+2025-11-16 19:47:28,248 - INFO - Data cleaning process completed
+2025-11-16 19:47:28,248 - INFO - PASO 3: Transformación de datos
+2025-11-16 19:47:28,248 - INFO - Starting data transformation process
+2025-11-16 19:47:28,249 - INFO - Normalized column names: {'ID_Oferta': 'id_oferta', 'Empresa': 'empresa', 'Ciudad': 'ciudad', 'País': 'país', 'Cargo': 'cargo', 'Lenguaje': 'lenguaje', 'Framework': 'framework', 'Nivel_Seniority': 'nivel_seniority', 'Salario_Anual_USD': 'salario_anual_usd', 'Modalidad': 'modalidad', 'Fecha_Publicación': 'fecha_publicación'}
+2025-11-16 19:47:28,252 - INFO - Created date-based columns for fecha_publicación
+2025-11-16 19:47:28,252 - WARNING - Text column Cargo not found
+2025-11-16 19:47:28,252 - WARNING - Text column Área_Tecnológica not found
+2025-11-16 19:47:28,252 - WARNING - Text column Lenguajes_Dominio not found
+2025-11-16 19:47:28,252 - WARNING - Text column Área_Trabajo_Actual not found
+2025-11-16 19:47:28,252 - INFO - Data transformation process completed
+2025-11-16 19:47:28,252 - INFO - Starting data transformation process
+2025-11-16 19:47:28,253 - INFO - Normalized column names: {'ID_Programa': 'id_programa', 'Organización': 'organización', 'Área_Tecnológica': 'área_tecnológica', 'Inversión_USD': 'inversión_usd', 'Participantes': 'participantes', 'Duración_Meses': 'duración_meses', 'Satisfacción_Promedio': 'satisfacción_promedio', 'Año': 'año', 'Ciudad': 'ciudad', 'País': 'país'}
+2025-11-16 19:47:28,254 - WARNING - Text column Cargo not found
+2025-11-16 19:47:28,254 - WARNING - Text column Área_Tecnológica not found
+2025-11-16 19:47:28,254 - WARNING - Text column Lenguajes_Dominio not found
+2025-11-16 19:47:28,254 - WARNING - Text column Área_Trabajo_Actual not found
+2025-11-16 19:47:28,254 - INFO - Data transformation process completed
+2025-11-16 19:47:28,254 - INFO - Starting data transformation process
+2025-11-16 19:47:28,255 - INFO - Normalized column names: {'ID_Persona': 'id_persona', 'Edad': 'edad', 'Ciudad': 'ciudad', 'País': 'país', 'Lenguajes_Dominio': 'lenguajes_dominio', 'Frameworks_Dominio': 'frameworks_dominio', 'Certificaciones': 'certificaciones', 'Años_Experiencia': 'años_experiencia', 'Nivel_Educativo': 'nivel_educativo', 'Área_Trabajo_Actual': 'área_trabajo_actual', 'Salario_Actual_USD': 'salario_actual_usd'}
+2025-11-16 19:47:28,255 - WARNING - Text column Cargo not found
+2025-11-16 19:47:28,255 - WARNING - Text column Área_Tecnológica not found
+2025-11-16 19:47:28,256 - WARNING - Text column Lenguajes_Dominio not found
+2025-11-16 19:47:28,256 - WARNING - Text column Área_Trabajo_Actual not found
+2025-11-16 19:47:28,256 - INFO - Data transformation process completed
+2025-11-16 19:47:28,256 - INFO - PASO 4: Análisis de minería de datos
+2025-11-16 19:47:28,256 - INFO - Starting TechWarehouse generation
+2025-11-16 19:47:28,521 - INFO - Created consolidated warehouse with 3145 total records
+2025-11-16 19:47:28,528 - INFO - Added derived metrics to warehouse
+2025-11-16 19:47:28,567 - INFO - TechWarehouse saved to C:\Users\Administrator\Desktop\proceso ETL\proyecto_techskills\data\processed\TechWarehouse.csv
+2025-11-16 19:47:28,573 - INFO - Iniciando análisis completo de minería de datos
+2025-11-16 19:47:28,573 - INFO - 1. Análisis de asociaciones (lenguajes y frameworks)
+2025-11-16 19:47:28,573 - INFO - Iniciando análisis de asociaciones entre lenguajes y frameworks
+2025-11-16 19:47:28,730 - INFO - 2. Análisis de clustering (perfiles)
+2025-11-16 19:47:28,731 - INFO - Iniciando análisis de clustering de perfiles
+2025-11-16 19:47:31,860 - INFO - Clustering completado: 5 clusters identificados
+2025-11-16 19:47:31,861 - INFO - 3. Análisis de regresión (predicción de participación)
+2025-11-16 19:47:31,861 - INFO - Iniciando análisis de regresión para predicción de participación
+2025-11-16 19:47:31,863 - INFO - 4. Análisis de clasificación (probabilidad de contratación)
+2025-11-16 19:47:31,863 - INFO - Iniciando análisis de clasificación para probabilidad de contratación
+2025-11-16 19:47:31,985 - INFO - Análisis de clasificación completado: Precisión = 0.7100
+2025-11-16 19:47:31,986 - INFO - Análisis de minería de datos completado: 2/4 exitosos
+2025-11-16 19:47:31,986 - INFO - PASO 5: Validación de calidad
+2025-11-16 19:47:31,986 - INFO - Starting data validation process
+2025-11-16 19:47:31,986 - INFO - Generating validation report
+2025-11-16 19:47:31,995 - INFO - Data quality validation completed
+2025-11-16 19:47:31,996 - INFO - Business rules validation completed with status: passed
+2025-11-16 19:47:31,997 - INFO - Completeness validation completed with score: 73.58%
+2025-11-16 19:47:31,997 - INFO - Validation report generated with overall status: warning
+2025-11-16 19:47:31,998 - INFO - Reporte de validación guardado en C:\Users\Administrator\Desktop\proceso ETL\proyecto_techskills\output\reporte_calidad.txt
+2025-11-16 19:47:31,998 - INFO - Data validation process completed
+2025-11-16 19:47:31,998 - INFO - Starting data validation process
+2025-11-16 19:47:31,999 - INFO - Generating validation report
+2025-11-16 19:47:32,002 - INFO - Data quality validation completed
+2025-11-16 19:47:32,003 - INFO - Completeness validation completed with score: 99.79%
+2025-11-16 19:47:32,003 - INFO - Validation report generated with overall status: passed
+2025-11-16 19:47:32,003 - INFO - Reporte de validación guardado en C:\Users\Administrator\Desktop\proceso ETL\proyecto_techskills\output\reporte_calidad.txt
+2025-11-16 19:47:32,004 - INFO - Data validation process completed
+2025-11-16 19:47:32,004 - INFO - Starting data validation process
+2025-11-16 19:47:32,004 - INFO - Generating validation report
+2025-11-16 19:47:32,010 - INFO - Data quality validation completed
+2025-11-16 19:47:32,012 - INFO - Business rules validation completed with status: passed
+2025-11-16 19:47:32,013 - INFO - Completeness validation completed with score: 99.52%
+2025-11-16 19:47:32,013 - INFO - Validation report generated with overall status: passed
+2025-11-16 19:47:32,013 - INFO - Reporte de validación guardado en C:\Users\Administrator\Desktop\proceso ETL\proyecto_techskills\output\reporte_calidad.txt
+2025-11-16 19:47:32,014 - INFO - Data validation process completed
+2025-11-16 19:47:32,014 - INFO - PASO 6: Carga de datos procesados
+2025-11-16 19:47:32,034 - INFO - PASO 7: Generación de TechWarehouse consolidado
+2025-11-16 19:47:32,035 - INFO - Starting TechWarehouse generation
+2025-11-16 19:47:32,293 - INFO - Created consolidated warehouse with 3145 total records
+2025-11-16 19:47:32,301 - INFO - Added derived metrics to warehouse
+2025-11-16 19:47:32,338 - INFO - TechWarehouse saved to C:\Users\Administrator\Desktop\proceso ETL\proyecto_techskills\data\processed\TechWarehouse.csv
+2025-11-16 19:47:32,344 - INFO - PASO 8: Exportación para Power BI
+2025-11-16 19:47:32,344 - INFO - Iniciando exportación completa para Power BI
+2025-11-16 19:47:32,344 - INFO - Iniciando preparación de datasets para Power BI
+2025-11-16 19:47:32,422 - INFO - Dataset main_data guardado: 3145 registros
+2025-11-16 19:47:32,424 - INFO - Dataset kpis guardado: 11 registros
+2025-11-16 19:47:32,425 - INFO - Dataset clusters guardado: 5 registros
+2025-11-16 19:47:32,426 - INFO - Dataset geography guardado: 48 registros
+2025-11-16 19:47:32,427 - INFO - Dataset technology guardado: 30 registros
+2025-11-16 19:47:32,434 - INFO - Dataset time_metrics guardado: 36 registros
+2025-11-16 19:47:32,435 - INFO - Especificación de Power BI guardada en C:\Users\Administrator\Desktop\proceso ETL\proyecto_techskills\output\powerbi\dashboard_specification.json
+2025-11-16 19:47:32,436 - INFO - Guía de implementación guardada en C:\Users\Administrator\Desktop\proceso ETL\proyecto_techskills\output\powerbi\PowerBI_Implementation_Guide.txt
+2025-11-16 19:47:32,436 - INFO - Exportación completada: {'datasets_created': 6, 'total_records': 3275, 'output_directory': 'C:\\Users\\Administrator\\Desktop\\proceso ETL\\proyecto_techskills\\output\\powerbi', 'guide_file': 'C:\\Users\\Administrator\\Desktop\\proceso ETL\\proyecto_techskills\\output\\powerbi\\PowerBI_Implementation_Guide.txt', 'specification_file': 'C:\\Users\\Administrator\\Desktop\\proceso ETL\\proyecto_techskills\\output\\powerbi\\dashboard_specification.json'}
+2025-11-16 19:47:32,438 - INFO - *** PROCESO ETL COMPLETADO EXITOSAMENTE ***
+2025-11-16 19:47:32,438 - INFO - Total de registros procesados: 3,145
+2025-11-16 19:47:32,438 - INFO - TechWarehouse consolidado: 3,145 registros
+2025-11-16 19:47:32,438 - INFO - Puntuacion de calidad de datos: 90.96%
+2025-11-16 19:47:32,438 - INFO - Análisis de minería de datos: 2/4 análisis completados exitosamente
+2025-11-16 19:47:32,438 - INFO - Exportación Power BI: 6 datasets generados para dashboard
+2025-11-16 19:47:32,439 - INFO - RESULTADO: Calidad EXCELENTE - Datos listos para analisis
+2025-11-16 20:09:35,767 - INFO - *** INICIANDO PROCESO ETL - TECH SKILLS ***
+2025-11-16 20:09:35,768 - INFO - PASO 1: Extracción de datos
+2025-11-16 20:09:35,804 - INFO - Empleos tech cargados: 1530 registros
+2025-11-16 20:09:35,804 - INFO - Inversiones tech cargadas: 250 registros
+2025-11-16 20:09:35,805 - INFO - Perfiles de habilidades cargados: 1420 registros
+2025-11-16 20:09:35,805 - INFO - PASO 2: Limpieza de datos
+2025-11-16 20:09:35,805 - INFO - Starting data cleaning process
+2025-11-16 20:09:35,813 - INFO - Removed 28 duplicate rows
+2025-11-16 20:09:35,816 - INFO - Handled missing values
+2025-11-16 20:09:35,819 - INFO - Cleaned text column: Empresa
+2025-11-16 20:09:35,822 - INFO - Cleaned text column: Ciudad
+2025-11-16 20:09:35,824 - INFO - Cleaned text column: País
+2025-11-16 20:09:35,827 - INFO - Cleaned text column: Cargo
+2025-11-16 20:09:35,833 - INFO - Found 42 outliers in Salario_Anual_USD
+2025-11-16 20:09:35,833 - INFO - Cleaned numeric column: Salario_Anual_USD
+2025-11-16 20:09:35,838 - INFO - Standardized date column: Fecha_Publicación
+2025-11-16 20:09:35,839 - INFO - Data cleaning process completed
+2025-11-16 20:09:35,839 - INFO - Starting data cleaning process
+2025-11-16 20:09:35,842 - INFO - Removed 9 duplicate rows
+2025-11-16 20:09:35,844 - INFO - Handled missing values
+2025-11-16 20:09:35,846 - INFO - Cleaned text column: Organización
+2025-11-16 20:09:35,847 - INFO - Cleaned text column: Área_Tecnológica
+2025-11-16 20:09:35,848 - INFO - Cleaned text column: Ciudad
+2025-11-16 20:09:35,850 - INFO - Cleaned text column: País
+2025-11-16 20:09:35,851 - INFO - Cleaned numeric column: Inversión_USD
+2025-11-16 20:09:35,852 - INFO - Cleaned numeric column: Participantes
+2025-11-16 20:09:35,853 - INFO - Cleaned numeric column: Satisfacción_Promedio
+2025-11-16 20:09:35,853 - INFO - Data cleaning process completed
+2025-11-16 20:09:35,853 - INFO - Starting data cleaning process
+2025-11-16 20:09:35,856 - INFO - Removed 18 duplicate rows
+2025-11-16 20:09:35,860 - INFO - Handled missing values
+2025-11-16 20:09:35,862 - INFO - Cleaned text column: Ciudad
+2025-11-16 20:09:35,864 - INFO - Cleaned text column: País
+2025-11-16 20:09:35,867 - INFO - Cleaned text column: Lenguajes_Dominio
+2025-11-16 20:09:35,869 - INFO - Cleaned text column: Frameworks_Dominio
+2025-11-16 20:09:35,872 - INFO - Cleaned text column: Certificaciones
+2025-11-16 20:09:35,874 - INFO - Cleaned text column: Nivel_Educativo
+2025-11-16 20:09:35,877 - INFO - Cleaned text column: Área_Trabajo_Actual
+2025-11-16 20:09:35,878 - INFO - Found 2 outliers in Edad
+2025-11-16 20:09:35,878 - INFO - Cleaned numeric column: Edad
+2025-11-16 20:09:35,879 - INFO - Found 1 outliers in Años_Experiencia
+2025-11-16 20:09:35,879 - INFO - Cleaned numeric column: Años_Experiencia
+2025-11-16 20:09:35,883 - INFO - Found 38 outliers in Salario_Actual_USD
+2025-11-16 20:09:35,883 - INFO - Cleaned numeric column: Salario_Actual_USD
+2025-11-16 20:09:35,884 - INFO - Data cleaning process completed
+2025-11-16 20:09:35,884 - INFO - PASO 3: Transformación de datos
+2025-11-16 20:09:35,884 - INFO - Starting data transformation process
+2025-11-16 20:09:35,885 - INFO - Normalized column names: {'ID_Oferta': 'id_oferta', 'Empresa': 'empresa', 'Ciudad': 'ciudad', 'País': 'país', 'Cargo': 'cargo', 'Lenguaje': 'lenguaje', 'Framework': 'framework', 'Nivel_Seniority': 'nivel_seniority', 'Salario_Anual_USD': 'salario_anual_usd', 'Modalidad': 'modalidad', 'Fecha_Publicación': 'fecha_publicación'}
+2025-11-16 20:09:35,887 - INFO - Created date-based columns for fecha_publicación
+2025-11-16 20:09:35,888 - WARNING - Text column Cargo not found
+2025-11-16 20:09:35,888 - WARNING - Text column Área_Tecnológica not found
+2025-11-16 20:09:35,888 - WARNING - Text column Lenguajes_Dominio not found
+2025-11-16 20:09:35,888 - WARNING - Text column Área_Trabajo_Actual not found
+2025-11-16 20:09:35,888 - INFO - Data transformation process completed
+2025-11-16 20:09:35,888 - INFO - Starting data transformation process
+2025-11-16 20:09:35,889 - INFO - Normalized column names: {'ID_Programa': 'id_programa', 'Organización': 'organización', 'Área_Tecnológica': 'área_tecnológica', 'Inversión_USD': 'inversión_usd', 'Participantes': 'participantes', 'Duración_Meses': 'duración_meses', 'Satisfacción_Promedio': 'satisfacción_promedio', 'Año': 'año', 'Ciudad': 'ciudad', 'País': 'país'}
+2025-11-16 20:09:35,890 - WARNING - Text column Cargo not found
+2025-11-16 20:09:35,890 - WARNING - Text column Área_Tecnológica not found
+2025-11-16 20:09:35,890 - WARNING - Text column Lenguajes_Dominio not found
+2025-11-16 20:09:35,890 - WARNING - Text column Área_Trabajo_Actual not found
+2025-11-16 20:09:35,890 - INFO - Data transformation process completed
+2025-11-16 20:09:35,890 - INFO - Starting data transformation process
+2025-11-16 20:09:35,891 - INFO - Normalized column names: {'ID_Persona': 'id_persona', 'Edad': 'edad', 'Ciudad': 'ciudad', 'País': 'país', 'Lenguajes_Dominio': 'lenguajes_dominio', 'Frameworks_Dominio': 'frameworks_dominio', 'Certificaciones': 'certificaciones', 'Años_Experiencia': 'años_experiencia', 'Nivel_Educativo': 'nivel_educativo', 'Área_Trabajo_Actual': 'área_trabajo_actual', 'Salario_Actual_USD': 'salario_actual_usd'}
+2025-11-16 20:09:35,891 - WARNING - Text column Cargo not found
+2025-11-16 20:09:35,891 - WARNING - Text column Área_Tecnológica not found
+2025-11-16 20:09:35,892 - WARNING - Text column Lenguajes_Dominio not found
+2025-11-16 20:09:35,892 - WARNING - Text column Área_Trabajo_Actual not found
+2025-11-16 20:09:35,892 - INFO - Data transformation process completed
+2025-11-16 20:09:35,892 - INFO - PASO 4: Análisis de minería de datos
+2025-11-16 20:09:35,892 - INFO - Starting TechWarehouse generation
+2025-11-16 20:09:36,169 - INFO - Created consolidated warehouse with 3145 total records
+2025-11-16 20:09:36,177 - INFO - Added derived metrics to warehouse
+2025-11-16 20:09:36,215 - INFO - TechWarehouse saved to C:\Users\Administrator\Desktop\proceso ETL\proyecto_techskills\data\processed\TechWarehouse.csv
+2025-11-16 20:09:36,221 - INFO - Iniciando análisis completo de minería de datos
+2025-11-16 20:09:36,221 - INFO - 1. Análisis de asociaciones (lenguajes y frameworks)
+2025-11-16 20:09:36,221 - INFO - Iniciando análisis de asociaciones entre lenguajes y frameworks
+2025-11-16 20:09:36,388 - INFO - 2. Análisis de clustering (perfiles)
+2025-11-16 20:09:36,388 - INFO - Iniciando análisis de clustering de perfiles
+2025-11-16 20:09:39,531 - INFO - Clustering completado: 5 clusters identificados
+2025-11-16 20:09:39,531 - INFO - 3. Análisis de regresión (predicción de participación)
+2025-11-16 20:09:39,531 - INFO - Iniciando análisis de regresión para predicción de participación
+2025-11-16 20:09:39,533 - INFO - 4. Análisis de clasificación (probabilidad de contratación)
+2025-11-16 20:09:39,534 - INFO - Iniciando análisis de clasificación para probabilidad de contratación
+2025-11-16 20:09:39,651 - INFO - Análisis de clasificación completado: Precisión = 0.7100
+2025-11-16 20:09:39,651 - INFO - Análisis de minería de datos completado: 2/4 exitosos
+2025-11-16 20:09:39,652 - INFO - PASO 5: Validación de calidad
+2025-11-16 20:09:39,652 - INFO - Starting data validation process
+2025-11-16 20:09:39,652 - INFO - Generating validation report
+2025-11-16 20:09:39,661 - INFO - Data quality validation completed
+2025-11-16 20:09:39,662 - INFO - Business rules validation completed with status: passed
+2025-11-16 20:09:39,663 - INFO - Completeness validation completed with score: 73.58%
+2025-11-16 20:09:39,663 - INFO - Validation report generated with overall status: warning
+2025-11-16 20:09:39,664 - INFO - Reporte de validación guardado en C:\Users\Administrator\Desktop\proceso ETL\proyecto_techskills\output\reporte_calidad.txt
+2025-11-16 20:09:39,664 - INFO - Data validation process completed
+2025-11-16 20:09:39,664 - INFO - Starting data validation process
+2025-11-16 20:09:39,664 - INFO - Generating validation report
+2025-11-16 20:09:39,668 - INFO - Data quality validation completed
+2025-11-16 20:09:39,668 - INFO - Completeness validation completed with score: 99.79%
+2025-11-16 20:09:39,668 - INFO - Validation report generated with overall status: passed
+2025-11-16 20:09:39,669 - INFO - Reporte de validación guardado en C:\Users\Administrator\Desktop\proceso ETL\proyecto_techskills\output\reporte_calidad.txt
+2025-11-16 20:09:39,669 - INFO - Data validation process completed
+2025-11-16 20:09:39,669 - INFO - Starting data validation process
+2025-11-16 20:09:39,669 - INFO - Generating validation report
+2025-11-16 20:09:39,676 - INFO - Data quality validation completed
+2025-11-16 20:09:39,677 - INFO - Business rules validation completed with status: passed
+2025-11-16 20:09:39,678 - INFO - Completeness validation completed with score: 99.52%
+2025-11-16 20:09:39,678 - INFO - Validation report generated with overall status: passed
+2025-11-16 20:09:39,679 - INFO - Reporte de validación guardado en C:\Users\Administrator\Desktop\proceso ETL\proyecto_techskills\output\reporte_calidad.txt
+2025-11-16 20:09:39,679 - INFO - Data validation process completed
+2025-11-16 20:09:39,679 - INFO - PASO 6: Carga de datos procesados
+2025-11-16 20:09:39,698 - INFO - PASO 7: Generación de TechWarehouse consolidado
+2025-11-16 20:09:39,698 - INFO - Starting TechWarehouse generation
+2025-11-16 20:09:39,974 - INFO - Created consolidated warehouse with 3145 total records
+2025-11-16 20:09:39,981 - INFO - Added derived metrics to warehouse
+2025-11-16 20:09:40,017 - INFO - TechWarehouse saved to C:\Users\Administrator\Desktop\proceso ETL\proyecto_techskills\data\processed\TechWarehouse.csv
+2025-11-16 20:09:40,023 - INFO - PASO 8: Exportación para Power BI
+2025-11-16 20:09:40,023 - INFO - Iniciando exportación completa para Power BI
+2025-11-16 20:09:40,023 - INFO - Iniciando preparación de datasets para Power BI desde TechWarehouse
+2025-11-16 20:09:40,084 - ERROR - ERROR en el proceso ETL: 'PowerBIExporter' object has no attribute 'create_time_metrics_dataset'
+2025-11-16 20:10:25,799 - INFO - *** INICIANDO PROCESO ETL - TECH SKILLS ***
+2025-11-16 20:10:25,800 - INFO - PASO 1: Extracción de datos
+2025-11-16 20:10:25,818 - INFO - Empleos tech cargados: 1530 registros
+2025-11-16 20:10:25,818 - INFO - Inversiones tech cargadas: 250 registros
+2025-11-16 20:10:25,818 - INFO - Perfiles de habilidades cargados: 1420 registros
+2025-11-16 20:10:25,818 - INFO - PASO 2: Limpieza de datos
+2025-11-16 20:10:25,819 - INFO - Starting data cleaning process
+2025-11-16 20:10:25,825 - INFO - Removed 28 duplicate rows
+2025-11-16 20:10:25,828 - INFO - Handled missing values
+2025-11-16 20:10:25,832 - INFO - Cleaned text column: Empresa
+2025-11-16 20:10:25,834 - INFO - Cleaned text column: Ciudad
+2025-11-16 20:10:25,838 - INFO - Cleaned text column: País
+2025-11-16 20:10:25,841 - INFO - Cleaned text column: Cargo
+2025-11-16 20:10:25,846 - INFO - Found 42 outliers in Salario_Anual_USD
+2025-11-16 20:10:25,847 - INFO - Cleaned numeric column: Salario_Anual_USD
+2025-11-16 20:10:25,852 - INFO - Standardized date column: Fecha_Publicación
+2025-11-16 20:10:25,852 - INFO - Data cleaning process completed
+2025-11-16 20:10:25,852 - INFO - Starting data cleaning process
+2025-11-16 20:10:25,855 - INFO - Removed 9 duplicate rows
+2025-11-16 20:10:25,857 - INFO - Handled missing values
+2025-11-16 20:10:25,859 - INFO - Cleaned text column: Organización
+2025-11-16 20:10:25,860 - INFO - Cleaned text column: Área_Tecnológica
+2025-11-16 20:10:25,861 - INFO - Cleaned text column: Ciudad
+2025-11-16 20:10:25,863 - INFO - Cleaned text column: País
+2025-11-16 20:10:25,864 - INFO - Cleaned numeric column: Inversión_USD
+2025-11-16 20:10:25,865 - INFO - Cleaned numeric column: Participantes
+2025-11-16 20:10:25,866 - INFO - Cleaned numeric column: Satisfacción_Promedio
+2025-11-16 20:10:25,866 - INFO - Data cleaning process completed
+2025-11-16 20:10:25,866 - INFO - Starting data cleaning process
+2025-11-16 20:10:25,868 - INFO - Removed 18 duplicate rows
+2025-11-16 20:10:25,873 - INFO - Handled missing values
+2025-11-16 20:10:25,875 - INFO - Cleaned text column: Ciudad
+2025-11-16 20:10:25,878 - INFO - Cleaned text column: País
+2025-11-16 20:10:25,880 - INFO - Cleaned text column: Lenguajes_Dominio
+2025-11-16 20:10:25,882 - INFO - Cleaned text column: Frameworks_Dominio
+2025-11-16 20:10:25,885 - INFO - Cleaned text column: Certificaciones
+2025-11-16 20:10:25,887 - INFO - Cleaned text column: Nivel_Educativo
+2025-11-16 20:10:25,890 - INFO - Cleaned text column: Área_Trabajo_Actual
+2025-11-16 20:10:25,891 - INFO - Found 2 outliers in Edad
+2025-11-16 20:10:25,891 - INFO - Cleaned numeric column: Edad
+2025-11-16 20:10:25,892 - INFO - Found 1 outliers in Años_Experiencia
+2025-11-16 20:10:25,892 - INFO - Cleaned numeric column: Años_Experiencia
+2025-11-16 20:10:25,897 - INFO - Found 38 outliers in Salario_Actual_USD
+2025-11-16 20:10:25,897 - INFO - Cleaned numeric column: Salario_Actual_USD
+2025-11-16 20:10:25,897 - INFO - Data cleaning process completed
+2025-11-16 20:10:25,897 - INFO - PASO 3: Transformación de datos
+2025-11-16 20:10:25,898 - INFO - Starting data transformation process
+2025-11-16 20:10:25,898 - INFO - Normalized column names: {'ID_Oferta': 'id_oferta', 'Empresa': 'empresa', 'Ciudad': 'ciudad', 'País': 'país', 'Cargo': 'cargo', 'Lenguaje': 'lenguaje', 'Framework': 'framework', 'Nivel_Seniority': 'nivel_seniority', 'Salario_Anual_USD': 'salario_anual_usd', 'Modalidad': 'modalidad', 'Fecha_Publicación': 'fecha_publicación'}
+2025-11-16 20:10:25,901 - INFO - Created date-based columns for fecha_publicación
+2025-11-16 20:10:25,901 - WARNING - Text column Cargo not found
+2025-11-16 20:10:25,901 - WARNING - Text column Área_Tecnológica not found
+2025-11-16 20:10:25,901 - WARNING - Text column Lenguajes_Dominio not found
+2025-11-16 20:10:25,901 - WARNING - Text column Área_Trabajo_Actual not found
+2025-11-16 20:10:25,902 - INFO - Data transformation process completed
+2025-11-16 20:10:25,902 - INFO - Starting data transformation process
+2025-11-16 20:10:25,902 - INFO - Normalized column names: {'ID_Programa': 'id_programa', 'Organización': 'organización', 'Área_Tecnológica': 'área_tecnológica', 'Inversión_USD': 'inversión_usd', 'Participantes': 'participantes', 'Duración_Meses': 'duración_meses', 'Satisfacción_Promedio': 'satisfacción_promedio', 'Año': 'año', 'Ciudad': 'ciudad', 'País': 'país'}
+2025-11-16 20:10:25,903 - WARNING - Text column Cargo not found
+2025-11-16 20:10:25,903 - WARNING - Text column Área_Tecnológica not found
+2025-11-16 20:10:25,903 - WARNING - Text column Lenguajes_Dominio not found
+2025-11-16 20:10:25,903 - WARNING - Text column Área_Trabajo_Actual not found
+2025-11-16 20:10:25,904 - INFO - Data transformation process completed
+2025-11-16 20:10:25,904 - INFO - Starting data transformation process
+2025-11-16 20:10:25,904 - INFO - Normalized column names: {'ID_Persona': 'id_persona', 'Edad': 'edad', 'Ciudad': 'ciudad', 'País': 'país', 'Lenguajes_Dominio': 'lenguajes_dominio', 'Frameworks_Dominio': 'frameworks_dominio', 'Certificaciones': 'certificaciones', 'Años_Experiencia': 'años_experiencia', 'Nivel_Educativo': 'nivel_educativo', 'Área_Trabajo_Actual': 'área_trabajo_actual', 'Salario_Actual_USD': 'salario_actual_usd'}
+2025-11-16 20:10:25,905 - WARNING - Text column Cargo not found
+2025-11-16 20:10:25,905 - WARNING - Text column Área_Tecnológica not found
+2025-11-16 20:10:25,905 - WARNING - Text column Lenguajes_Dominio not found
+2025-11-16 20:10:25,905 - WARNING - Text column Área_Trabajo_Actual not found
+2025-11-16 20:10:25,905 - INFO - Data transformation process completed
+2025-11-16 20:10:25,906 - INFO - PASO 4: Análisis de minería de datos
+2025-11-16 20:10:25,906 - INFO - Starting TechWarehouse generation
+2025-11-16 20:10:26,176 - INFO - Created consolidated warehouse with 3145 total records
+2025-11-16 20:10:26,184 - INFO - Added derived metrics to warehouse
+2025-11-16 20:10:26,226 - INFO - TechWarehouse saved to C:\Users\Administrator\Desktop\proceso ETL\proyecto_techskills\data\processed\TechWarehouse.csv
+2025-11-16 20:10:26,234 - INFO - Iniciando análisis completo de minería de datos
+2025-11-16 20:10:26,234 - INFO - 1. Análisis de asociaciones (lenguajes y frameworks)
+2025-11-16 20:10:26,234 - INFO - Iniciando análisis de asociaciones entre lenguajes y frameworks
+2025-11-16 20:10:26,434 - INFO - 2. Análisis de clustering (perfiles)
+2025-11-16 20:10:26,434 - INFO - Iniciando análisis de clustering de perfiles
+2025-11-16 20:10:29,622 - INFO - Clustering completado: 5 clusters identificados
+2025-11-16 20:10:29,623 - INFO - 3. Análisis de regresión (predicción de participación)
+2025-11-16 20:10:29,623 - INFO - Iniciando análisis de regresión para predicción de participación
+2025-11-16 20:10:29,625 - INFO - 4. Análisis de clasificación (probabilidad de contratación)
+2025-11-16 20:10:29,625 - INFO - Iniciando análisis de clasificación para probabilidad de contratación
+2025-11-16 20:10:29,762 - INFO - Análisis de clasificación completado: Precisión = 0.7100
+2025-11-16 20:10:29,763 - INFO - Análisis de minería de datos completado: 2/4 exitosos
+2025-11-16 20:10:29,763 - INFO - PASO 5: Validación de calidad
+2025-11-16 20:10:29,763 - INFO - Starting data validation process
+2025-11-16 20:10:29,764 - INFO - Generating validation report
+2025-11-16 20:10:29,778 - INFO - Data quality validation completed
+2025-11-16 20:10:29,780 - INFO - Business rules validation completed with status: passed
+2025-11-16 20:10:29,781 - INFO - Completeness validation completed with score: 73.58%
+2025-11-16 20:10:29,781 - INFO - Validation report generated with overall status: warning
+2025-11-16 20:10:29,782 - INFO - Reporte de validación guardado en C:\Users\Administrator\Desktop\proceso ETL\proyecto_techskills\output\reporte_calidad.txt
+2025-11-16 20:10:29,782 - INFO - Data validation process completed
+2025-11-16 20:10:29,783 - INFO - Starting data validation process
+2025-11-16 20:10:29,783 - INFO - Generating validation report
+2025-11-16 20:10:29,788 - INFO - Data quality validation completed
+2025-11-16 20:10:29,789 - INFO - Completeness validation completed with score: 99.79%
+2025-11-16 20:10:29,789 - INFO - Validation report generated with overall status: passed
+2025-11-16 20:10:29,790 - INFO - Reporte de validación guardado en C:\Users\Administrator\Desktop\proceso ETL\proyecto_techskills\output\reporte_calidad.txt
+2025-11-16 20:10:29,790 - INFO - Data validation process completed
+2025-11-16 20:10:29,790 - INFO - Starting data validation process
+2025-11-16 20:10:29,790 - INFO - Generating validation report
+2025-11-16 20:10:29,799 - INFO - Data quality validation completed
+2025-11-16 20:10:29,801 - INFO - Business rules validation completed with status: passed
+2025-11-16 20:10:29,802 - INFO - Completeness validation completed with score: 99.52%
+2025-11-16 20:10:29,802 - INFO - Validation report generated with overall status: passed
+2025-11-16 20:10:29,803 - INFO - Reporte de validación guardado en C:\Users\Administrator\Desktop\proceso ETL\proyecto_techskills\output\reporte_calidad.txt
+2025-11-16 20:10:29,803 - INFO - Data validation process completed
+2025-11-16 20:10:29,803 - INFO - PASO 6: Carga de datos procesados
+2025-11-16 20:10:29,823 - INFO - PASO 7: Generación de TechWarehouse consolidado
+2025-11-16 20:10:29,823 - INFO - Starting TechWarehouse generation
+2025-11-16 20:10:30,092 - INFO - Created consolidated warehouse with 3145 total records
+2025-11-16 20:10:30,099 - INFO - Added derived metrics to warehouse
+2025-11-16 20:10:30,135 - INFO - TechWarehouse saved to C:\Users\Administrator\Desktop\proceso ETL\proyecto_techskills\data\processed\TechWarehouse.csv
+2025-11-16 20:10:30,140 - INFO - PASO 8: Exportación para Power BI
+2025-11-16 20:10:30,141 - INFO - Iniciando exportación completa para Power BI
+2025-11-16 20:10:30,141 - INFO - Iniciando preparación de datasets para Power BI desde TechWarehouse
+2025-11-16 20:10:30,255 - INFO - Dataset main_data guardado: 3145 registros
+2025-11-16 20:10:30,256 - INFO - Dataset kpis guardado: 11 registros
+2025-11-16 20:10:30,257 - INFO - Dataset clusters guardado: 5 registros
+2025-11-16 20:10:30,258 - INFO - Dataset geography guardado: 7 registros
+2025-11-16 20:10:30,259 - INFO - Dataset technology guardado: 26 registros
+2025-11-16 20:10:30,260 - INFO - Dataset time_metrics guardado: 2 registros
+2025-11-16 20:10:30,261 - INFO - Especificación de Power BI guardada en C:\Users\Administrator\Desktop\proceso ETL\proyecto_techskills\output\powerbi\dashboard_specification.json
+2025-11-16 20:10:30,262 - INFO - Guía de implementación guardada en C:\Users\Administrator\Desktop\proceso ETL\proyecto_techskills\output\powerbi\PowerBI_Implementation_Guide.txt
+2025-11-16 20:10:30,262 - INFO - Exportación completada: {'datasets_created': 6, 'total_records': 3196, 'output_directory': 'C:\\Users\\Administrator\\Desktop\\proceso ETL\\proyecto_techskills\\output\\powerbi', 'guide_file': 'C:\\Users\\Administrator\\Desktop\\proceso ETL\\proyecto_techskills\\output\\powerbi\\PowerBI_Implementation_Guide.txt', 'specification_file': 'C:\\Users\\Administrator\\Desktop\\proceso ETL\\proyecto_techskills\\output\\powerbi\\dashboard_specification.json'}
+2025-11-16 20:10:30,264 - INFO - *** PROCESO ETL COMPLETADO EXITOSAMENTE ***
+2025-11-16 20:10:30,264 - INFO - Total de registros procesados: 3,145
+2025-11-16 20:10:30,264 - INFO - TechWarehouse consolidado: 3,145 registros
+2025-11-16 20:10:30,264 - INFO - Puntuacion de calidad de datos: 90.96%
+2025-11-16 20:10:30,264 - INFO - Análisis de minería de datos: 2/4 análisis completados exitosamente
+2025-11-16 20:10:30,265 - INFO - Exportación Power BI: 6 datasets generados para dashboard
+2025-11-16 20:10:30,265 - INFO - RESULTADO: Calidad EXCELENTE - Datos listos para analisis
+2025-11-16 20:13:24,398 - INFO - *** INICIANDO PROCESO ETL - TECH SKILLS ***
+2025-11-16 20:13:24,399 - INFO - PASO 1: Extracción de datos
+2025-11-16 20:13:24,413 - INFO - Empleos tech cargados: 1530 registros
+2025-11-16 20:13:24,413 - INFO - Inversiones tech cargadas: 250 registros
+2025-11-16 20:13:24,413 - INFO - Perfiles de habilidades cargados: 1420 registros
+2025-11-16 20:13:24,413 - INFO - PASO 2: Limpieza de datos
+2025-11-16 20:13:24,413 - INFO - Starting data cleaning process
+2025-11-16 20:13:24,417 - INFO - Removed 28 duplicate rows
+2025-11-16 20:13:24,419 - INFO - Handled missing values
+2025-11-16 20:13:24,422 - INFO - Cleaned text column: Empresa
+2025-11-16 20:13:24,425 - INFO - Cleaned text column: Ciudad
+2025-11-16 20:13:24,427 - INFO - Cleaned text column: País
+2025-11-16 20:13:24,430 - INFO - Cleaned text column: Cargo
+2025-11-16 20:13:24,435 - INFO - Found 42 outliers in Salario_Anual_USD
+2025-11-16 20:13:24,436 - INFO - Cleaned numeric column: Salario_Anual_USD
+2025-11-16 20:13:24,440 - INFO - Standardized date column: Fecha_Publicación
+2025-11-16 20:13:24,441 - INFO - Data cleaning process completed
+2025-11-16 20:13:24,441 - INFO - Starting data cleaning process
+2025-11-16 20:13:24,443 - INFO - Removed 9 duplicate rows
+2025-11-16 20:13:24,445 - INFO - Handled missing values
+2025-11-16 20:13:24,446 - INFO - Cleaned text column: Organización
+2025-11-16 20:13:24,447 - INFO - Cleaned text column: Área_Tecnológica
+2025-11-16 20:13:24,449 - INFO - Cleaned text column: Ciudad
+2025-11-16 20:13:24,450 - INFO - Cleaned text column: País
+2025-11-16 20:13:24,452 - INFO - Cleaned numeric column: Inversión_USD
+2025-11-16 20:13:24,453 - INFO - Cleaned numeric column: Participantes
+2025-11-16 20:13:24,453 - INFO - Cleaned numeric column: Satisfacción_Promedio
+2025-11-16 20:13:24,454 - INFO - Data cleaning process completed
+2025-11-16 20:13:24,454 - INFO - Starting data cleaning process
+2025-11-16 20:13:24,456 - INFO - Removed 18 duplicate rows
+2025-11-16 20:13:24,459 - INFO - Handled missing values
+2025-11-16 20:13:24,462 - INFO - Cleaned text column: Ciudad
+2025-11-16 20:13:24,464 - INFO - Cleaned text column: País
+2025-11-16 20:13:24,467 - INFO - Cleaned text column: Lenguajes_Dominio
+2025-11-16 20:13:24,469 - INFO - Cleaned text column: Frameworks_Dominio
+2025-11-16 20:13:24,472 - INFO - Cleaned text column: Certificaciones
+2025-11-16 20:13:24,475 - INFO - Cleaned text column: Nivel_Educativo
+2025-11-16 20:13:24,477 - INFO - Cleaned text column: Área_Trabajo_Actual
+2025-11-16 20:13:24,478 - INFO - Found 2 outliers in Edad
+2025-11-16 20:13:24,478 - INFO - Cleaned numeric column: Edad
+2025-11-16 20:13:24,479 - INFO - Found 1 outliers in Años_Experiencia
+2025-11-16 20:13:24,479 - INFO - Cleaned numeric column: Años_Experiencia
+2025-11-16 20:13:24,484 - INFO - Found 38 outliers in Salario_Actual_USD
+2025-11-16 20:13:24,484 - INFO - Cleaned numeric column: Salario_Actual_USD
+2025-11-16 20:13:24,484 - INFO - Data cleaning process completed
+2025-11-16 20:13:24,485 - INFO - PASO 3: Transformación de datos
+2025-11-16 20:13:24,485 - INFO - Starting data transformation process
+2025-11-16 20:13:24,485 - INFO - Normalized column names: {'ID_Oferta': 'id_oferta', 'Empresa': 'empresa', 'Ciudad': 'ciudad', 'País': 'país', 'Cargo': 'cargo', 'Lenguaje': 'lenguaje', 'Framework': 'framework', 'Nivel_Seniority': 'nivel_seniority', 'Salario_Anual_USD': 'salario_anual_usd', 'Modalidad': 'modalidad', 'Fecha_Publicación': 'fecha_publicación'}
+2025-11-16 20:13:24,488 - INFO - Created date-based columns for fecha_publicación
+2025-11-16 20:13:24,488 - WARNING - Text column Cargo not found
+2025-11-16 20:13:24,488 - WARNING - Text column Área_Tecnológica not found
+2025-11-16 20:13:24,488 - WARNING - Text column Lenguajes_Dominio not found
+2025-11-16 20:13:24,488 - WARNING - Text column Área_Trabajo_Actual not found
+2025-11-16 20:13:24,488 - INFO - Data transformation process completed
+2025-11-16 20:13:24,489 - INFO - Starting data transformation process
+2025-11-16 20:13:24,489 - INFO - Normalized column names: {'ID_Programa': 'id_programa', 'Organización': 'organización', 'Área_Tecnológica': 'área_tecnológica', 'Inversión_USD': 'inversión_usd', 'Participantes': 'participantes', 'Duración_Meses': 'duración_meses', 'Satisfacción_Promedio': 'satisfacción_promedio', 'Año': 'año', 'Ciudad': 'ciudad', 'País': 'país'}
+2025-11-16 20:13:24,490 - WARNING - Text column Cargo not found
+2025-11-16 20:13:24,490 - WARNING - Text column Área_Tecnológica not found
+2025-11-16 20:13:24,490 - WARNING - Text column Lenguajes_Dominio not found
+2025-11-16 20:13:24,490 - WARNING - Text column Área_Trabajo_Actual not found
+2025-11-16 20:13:24,490 - INFO - Data transformation process completed
+2025-11-16 20:13:24,490 - INFO - Starting data transformation process
+2025-11-16 20:13:24,491 - INFO - Normalized column names: {'ID_Persona': 'id_persona', 'Edad': 'edad', 'Ciudad': 'ciudad', 'País': 'país', 'Lenguajes_Dominio': 'lenguajes_dominio', 'Frameworks_Dominio': 'frameworks_dominio', 'Certificaciones': 'certificaciones', 'Años_Experiencia': 'años_experiencia', 'Nivel_Educativo': 'nivel_educativo', 'Área_Trabajo_Actual': 'área_trabajo_actual', 'Salario_Actual_USD': 'salario_actual_usd'}
+2025-11-16 20:13:24,491 - WARNING - Text column Cargo not found
+2025-11-16 20:13:24,491 - WARNING - Text column Área_Tecnológica not found
+2025-11-16 20:13:24,492 - WARNING - Text column Lenguajes_Dominio not found
+2025-11-16 20:13:24,492 - WARNING - Text column Área_Trabajo_Actual not found
+2025-11-16 20:13:24,492 - INFO - Data transformation process completed
+2025-11-16 20:13:24,492 - INFO - PASO 4: Análisis de minería de datos
+2025-11-16 20:13:24,492 - INFO - Starting TechWarehouse generation
+2025-11-16 20:13:24,762 - INFO - Created consolidated warehouse with 3145 total records
+2025-11-16 20:13:24,770 - INFO - Added derived metrics to warehouse
+2025-11-16 20:13:24,807 - INFO - TechWarehouse saved to C:\Users\Administrator\Desktop\proceso ETL\proyecto_techskills\data\processed\TechWarehouse.csv
+2025-11-16 20:13:24,812 - INFO - Iniciando análisis completo de minería de datos
+2025-11-16 20:13:24,813 - INFO - 1. Análisis de asociaciones (lenguajes y frameworks)
+2025-11-16 20:13:24,813 - INFO - Iniciando análisis de asociaciones entre lenguajes y frameworks
+2025-11-16 20:13:24,980 - INFO - 2. Análisis de clustering (perfiles)
+2025-11-16 20:13:24,981 - INFO - Iniciando análisis de clustering de perfiles
+2025-11-16 20:13:28,175 - INFO - Clustering completado: 5 clusters identificados
+2025-11-16 20:13:28,175 - INFO - 3. Análisis de regresión (predicción de participación)
+2025-11-16 20:13:28,176 - INFO - Iniciando análisis de regresión para predicción de participación
+2025-11-16 20:13:28,177 - INFO - 4. Análisis de clasificación (probabilidad de contratación)
+2025-11-16 20:13:28,178 - INFO - Iniciando análisis de clasificación para probabilidad de contratación
+2025-11-16 20:13:28,295 - INFO - Análisis de clasificación completado: Precisión = 0.7100
+2025-11-16 20:13:28,296 - INFO - Análisis de minería de datos completado: 2/4 exitosos
+2025-11-16 20:13:28,296 - INFO - PASO 5: Validación de calidad
+2025-11-16 20:13:28,296 - INFO - Starting data validation process
+2025-11-16 20:13:28,296 - INFO - Generating validation report
+2025-11-16 20:13:28,305 - INFO - Data quality validation completed
+2025-11-16 20:13:28,306 - INFO - Business rules validation completed with status: passed
+2025-11-16 20:13:28,307 - INFO - Completeness validation completed with score: 73.58%
+2025-11-16 20:13:28,307 - INFO - Validation report generated with overall status: warning
+2025-11-16 20:13:28,308 - INFO - Reporte de validación guardado en C:\Users\Administrator\Desktop\proceso ETL\proyecto_techskills\output\reporte_calidad.txt
+2025-11-16 20:13:28,308 - INFO - Data validation process completed
+2025-11-16 20:13:28,308 - INFO - Starting data validation process
+2025-11-16 20:13:28,308 - INFO - Generating validation report
+2025-11-16 20:13:28,311 - INFO - Data quality validation completed
+2025-11-16 20:13:28,312 - INFO - Completeness validation completed with score: 99.79%
+2025-11-16 20:13:28,312 - INFO - Validation report generated with overall status: passed
+2025-11-16 20:13:28,313 - INFO - Reporte de validación guardado en C:\Users\Administrator\Desktop\proceso ETL\proyecto_techskills\output\reporte_calidad.txt
+2025-11-16 20:13:28,313 - INFO - Data validation process completed
+2025-11-16 20:13:28,313 - INFO - Starting data validation process
+2025-11-16 20:13:28,313 - INFO - Generating validation report
+2025-11-16 20:13:28,320 - INFO - Data quality validation completed
+2025-11-16 20:13:28,321 - INFO - Business rules validation completed with status: passed
+2025-11-16 20:13:28,322 - INFO - Completeness validation completed with score: 99.52%
+2025-11-16 20:13:28,322 - INFO - Validation report generated with overall status: passed
+2025-11-16 20:13:28,323 - INFO - Reporte de validación guardado en C:\Users\Administrator\Desktop\proceso ETL\proyecto_techskills\output\reporte_calidad.txt
+2025-11-16 20:13:28,323 - INFO - Data validation process completed
+2025-11-16 20:13:28,323 - INFO - PASO 6: Carga de datos procesados
+2025-11-16 20:13:28,343 - INFO - PASO 7: Generación de TechWarehouse consolidado
+2025-11-16 20:13:28,343 - INFO - Starting TechWarehouse generation
+2025-11-16 20:13:28,608 - INFO - Created consolidated warehouse with 3145 total records
+2025-11-16 20:13:28,615 - INFO - Added derived metrics to warehouse
+2025-11-16 20:13:28,651 - INFO - TechWarehouse saved to C:\Users\Administrator\Desktop\proceso ETL\proyecto_techskills\data\processed\TechWarehouse.csv
+2025-11-16 20:13:28,656 - INFO - PASO 8: Exportación para Power BI
+2025-11-16 20:13:28,656 - INFO - Iniciando exportación completa para Power BI
+2025-11-16 20:13:28,657 - INFO - Iniciando preparación de datasets para Power BI desde TechWarehouse
+2025-11-16 20:13:28,770 - INFO - Dataset main_data guardado: 3145 registros
+2025-11-16 20:13:28,772 - INFO - Dataset kpis guardado: 11 registros
+2025-11-16 20:13:28,773 - INFO - Dataset clusters guardado: 5 registros
+2025-11-16 20:13:28,773 - INFO - Dataset geography guardado: 7 registros
+2025-11-16 20:13:28,775 - INFO - Dataset technology guardado: 26 registros
+2025-11-16 20:13:28,775 - INFO - Dataset time_metrics guardado: 2 registros
+2025-11-16 20:13:28,779 - INFO - Especificación de Power BI guardada en C:\Users\Administrator\Desktop\proceso ETL\proyecto_techskills\output\powerbi\dashboard_specification.json
+2025-11-16 20:13:28,780 - INFO - Guía de implementación guardada en C:\Users\Administrator\Desktop\proceso ETL\proyecto_techskills\output\powerbi\PowerBI_Implementation_Guide.txt
+2025-11-16 20:13:28,780 - INFO - Exportación completada: {'datasets_created': 6, 'total_records': 3196, 'output_directory': 'C:\\Users\\Administrator\\Desktop\\proceso ETL\\proyecto_techskills\\output\\powerbi', 'guide_file': 'C:\\Users\\Administrator\\Desktop\\proceso ETL\\proyecto_techskills\\output\\powerbi\\PowerBI_Implementation_Guide.txt', 'specification_file': 'C:\\Users\\Administrator\\Desktop\\proceso ETL\\proyecto_techskills\\output\\powerbi\\dashboard_specification.json'}
+2025-11-16 20:13:28,782 - INFO - *** PROCESO ETL COMPLETADO EXITOSAMENTE ***
+2025-11-16 20:13:28,782 - INFO - Total de registros procesados: 3,145
+2025-11-16 20:13:28,782 - INFO - TechWarehouse consolidado: 3,145 registros
+2025-11-16 20:13:28,782 - INFO - Puntuacion de calidad de datos: 90.96%
+2025-11-16 20:13:28,782 - INFO - Análisis de minería de datos: 2/4 análisis completados exitosamente
+2025-11-16 20:13:28,783 - INFO - Exportación Power BI: 6 datasets generados para dashboard
+2025-11-16 20:13:28,783 - INFO - RESULTADO: Calidad EXCELENTE - Datos listos para analisis
+2025-11-17 12:53:36,829 - INFO - *** INICIANDO PROCESO ETL - TECH SKILLS ***
+2025-11-17 12:53:36,831 - INFO - PASO 1: Extracción de datos
+2025-11-17 12:53:36,855 - INFO - Empleos tech cargados: 1530 registros
+2025-11-17 12:53:36,855 - INFO - Inversiones tech cargadas: 250 registros
+2025-11-17 12:53:36,855 - INFO - Perfiles de habilidades cargados: 1420 registros
+2025-11-17 12:53:36,855 - INFO - PASO 2: Limpieza de datos
+2025-11-17 12:53:36,855 - INFO - Starting data cleaning process
+2025-11-17 12:53:36,867 - INFO - Removed 28 duplicate rows
+2025-11-17 12:53:36,870 - INFO - Handled missing values
+2025-11-17 12:53:36,875 - INFO - Cleaned text column: Empresa
+2025-11-17 12:53:36,878 - INFO - Cleaned text column: Ciudad
+2025-11-17 12:53:36,880 - INFO - Cleaned text column: País
+2025-11-17 12:53:36,883 - INFO - Cleaned text column: Cargo
+2025-11-17 12:53:36,890 - INFO - Found 42 outliers in Salario_Anual_USD
+2025-11-17 12:53:36,891 - INFO - Cleaned numeric column: Salario_Anual_USD
+2025-11-17 12:53:36,899 - INFO - Standardized date column: Fecha_Publicación
+2025-11-17 12:53:36,900 - INFO - Data cleaning process completed
+2025-11-17 12:53:36,900 - INFO - Starting data cleaning process
+2025-11-17 12:53:36,904 - INFO - Removed 9 duplicate rows
+2025-11-17 12:53:36,906 - INFO - Handled missing values
+2025-11-17 12:53:36,908 - INFO - Cleaned text column: Organización
+2025-11-17 12:53:36,909 - INFO - Cleaned text column: Área_Tecnológica
+2025-11-17 12:53:36,910 - INFO - Cleaned text column: Ciudad
+2025-11-17 12:53:36,911 - INFO - Cleaned text column: País
+2025-11-17 12:53:36,914 - INFO - Cleaned numeric column: Inversión_USD
+2025-11-17 12:53:36,915 - INFO - Cleaned numeric column: Participantes
+2025-11-17 12:53:36,915 - INFO - Cleaned numeric column: Satisfacción_Promedio
+2025-11-17 12:53:36,915 - INFO - Data cleaning process completed
+2025-11-17 12:53:36,916 - INFO - Starting data cleaning process
+2025-11-17 12:53:36,918 - INFO - Removed 18 duplicate rows
+2025-11-17 12:53:36,923 - INFO - Handled missing values
+2025-11-17 12:53:36,925 - INFO - Cleaned text column: Ciudad
+2025-11-17 12:53:36,928 - INFO - Cleaned text column: País
+2025-11-17 12:53:36,930 - INFO - Cleaned text column: Lenguajes_Dominio
+2025-11-17 12:53:36,933 - INFO - Cleaned text column: Frameworks_Dominio
+2025-11-17 12:53:36,936 - INFO - Cleaned text column: Certificaciones
+2025-11-17 12:53:36,938 - INFO - Cleaned text column: Nivel_Educativo
+2025-11-17 12:53:36,941 - INFO - Cleaned text column: Área_Trabajo_Actual
+2025-11-17 12:53:36,941 - INFO - Found 2 outliers in Edad
+2025-11-17 12:53:36,942 - INFO - Cleaned numeric column: Edad
+2025-11-17 12:53:36,942 - INFO - Found 1 outliers in Años_Experiencia
+2025-11-17 12:53:36,943 - INFO - Cleaned numeric column: Años_Experiencia
+2025-11-17 12:53:36,947 - INFO - Found 38 outliers in Salario_Actual_USD
+2025-11-17 12:53:36,948 - INFO - Cleaned numeric column: Salario_Actual_USD
+2025-11-17 12:53:36,948 - INFO - Data cleaning process completed
+2025-11-17 12:53:36,948 - INFO - PASO 3: Transformación de datos
+2025-11-17 12:53:36,948 - INFO - Starting data transformation process
+2025-11-17 12:53:36,949 - INFO - Normalized column names: {'ID_Oferta': 'id_oferta', 'Empresa': 'empresa', 'Ciudad': 'ciudad', 'País': 'país', 'Cargo': 'cargo', 'Lenguaje': 'lenguaje', 'Framework': 'framework', 'Nivel_Seniority': 'nivel_seniority', 'Salario_Anual_USD': 'salario_anual_usd', 'Modalidad': 'modalidad', 'Fecha_Publicación': 'fecha_publicación'}
+2025-11-17 12:53:36,953 - INFO - Created date-based columns for fecha_publicación
+2025-11-17 12:53:36,953 - WARNING - Text column Cargo not found
+2025-11-17 12:53:36,953 - WARNING - Text column Área_Tecnológica not found
+2025-11-17 12:53:36,954 - WARNING - Text column Lenguajes_Dominio not found
+2025-11-17 12:53:36,954 - WARNING - Text column Área_Trabajo_Actual not found
+2025-11-17 12:53:36,954 - INFO - Data transformation process completed
+2025-11-17 12:53:36,954 - INFO - Starting data transformation process
+2025-11-17 12:53:36,955 - INFO - Normalized column names: {'ID_Programa': 'id_programa', 'Organización': 'organización', 'Área_Tecnológica': 'área_tecnológica', 'Inversión_USD': 'inversión_usd', 'Participantes': 'participantes', 'Duración_Meses': 'duración_meses', 'Satisfacción_Promedio': 'satisfacción_promedio', 'Año': 'año', 'Ciudad': 'ciudad', 'País': 'país'}
+2025-11-17 12:53:36,955 - WARNING - Text column Cargo not found
+2025-11-17 12:53:36,955 - WARNING - Text column Área_Tecnológica not found
+2025-11-17 12:53:36,956 - WARNING - Text column Lenguajes_Dominio not found
+2025-11-17 12:53:36,956 - WARNING - Text column Área_Trabajo_Actual not found
+2025-11-17 12:53:36,956 - INFO - Data transformation process completed
+2025-11-17 12:53:36,956 - INFO - Starting data transformation process
+2025-11-17 12:53:36,957 - INFO - Normalized column names: {'ID_Persona': 'id_persona', 'Edad': 'edad', 'Ciudad': 'ciudad', 'País': 'país', 'Lenguajes_Dominio': 'lenguajes_dominio', 'Frameworks_Dominio': 'frameworks_dominio', 'Certificaciones': 'certificaciones', 'Años_Experiencia': 'años_experiencia', 'Nivel_Educativo': 'nivel_educativo', 'Área_Trabajo_Actual': 'área_trabajo_actual', 'Salario_Actual_USD': 'salario_actual_usd'}
+2025-11-17 12:53:36,957 - WARNING - Text column Cargo not found
+2025-11-17 12:53:36,957 - WARNING - Text column Área_Tecnológica not found
+2025-11-17 12:53:36,957 - WARNING - Text column Lenguajes_Dominio not found
+2025-11-17 12:53:36,958 - WARNING - Text column Área_Trabajo_Actual not found
+2025-11-17 12:53:36,958 - INFO - Data transformation process completed
+2025-11-17 12:53:36,958 - INFO - PASO 4: Análisis de minería de datos
+2025-11-17 12:53:36,958 - INFO - Starting TechWarehouse generation
+2025-11-17 12:53:37,241 - INFO - Created consolidated warehouse with 3145 total records
+2025-11-17 12:53:37,248 - INFO - Added derived metrics to warehouse
+2025-11-17 12:53:37,288 - INFO - TechWarehouse saved to c:\Users\Administrator\Desktop\proceso ETL\proyecto_techskills\data\processed\TechWarehouse.csv
+2025-11-17 12:53:37,295 - INFO - Iniciando análisis completo de minería de datos
+2025-11-17 12:53:37,295 - INFO - 1. Análisis de asociaciones (lenguajes y frameworks)
+2025-11-17 12:53:37,295 - INFO - Iniciando análisis de asociaciones entre lenguajes y frameworks
+2025-11-17 12:53:37,461 - INFO - 2. Análisis de clustering (perfiles)
+2025-11-17 12:53:37,461 - INFO - Iniciando análisis de clustering de perfiles
+2025-11-17 12:53:40,909 - INFO - Clustering completado: 5 clusters identificados
+2025-11-17 12:53:40,909 - INFO - 3. Análisis de regresión (predicción de participación)
+2025-11-17 12:53:40,910 - INFO - Iniciando análisis de regresión para predicción de participación
+2025-11-17 12:53:40,911 - INFO - 4. Análisis de clasificación (probabilidad de contratación)
+2025-11-17 12:53:40,912 - INFO - Iniciando análisis de clasificación para probabilidad de contratación
+2025-11-17 12:53:41,052 - INFO - Análisis de clasificación completado: Precisión = 0.7100
+2025-11-17 12:53:41,053 - INFO - Análisis de minería de datos completado: 2/4 exitosos
+2025-11-17 12:53:41,053 - INFO - PASO 5: Validación de calidad
+2025-11-17 12:53:41,053 - INFO - Starting data validation process
+2025-11-17 12:53:41,053 - INFO - Generating validation report
+2025-11-17 12:53:41,063 - INFO - Data quality validation completed
+2025-11-17 12:53:41,064 - INFO - Business rules validation completed with status: passed
+2025-11-17 12:53:41,066 - INFO - Completeness validation completed with score: 73.58%
+2025-11-17 12:53:41,066 - INFO - Validation report generated with overall status: warning
+2025-11-17 12:53:41,066 - INFO - Reporte de validación guardado en c:\Users\Administrator\Desktop\proceso ETL\proyecto_techskills\output\reporte_calidad.txt
+2025-11-17 12:53:41,067 - INFO - Data validation process completed
+2025-11-17 12:53:41,067 - INFO - Starting data validation process
+2025-11-17 12:53:41,067 - INFO - Generating validation report
+2025-11-17 12:53:41,071 - INFO - Data quality validation completed
+2025-11-17 12:53:41,071 - INFO - Completeness validation completed with score: 99.79%
+2025-11-17 12:53:41,072 - INFO - Validation report generated with overall status: passed
+2025-11-17 12:53:41,072 - INFO - Reporte de validación guardado en c:\Users\Administrator\Desktop\proceso ETL\proyecto_techskills\output\reporte_calidad.txt
+2025-11-17 12:53:41,072 - INFO - Data validation process completed
+2025-11-17 12:53:41,073 - INFO - Starting data validation process
+2025-11-17 12:53:41,073 - INFO - Generating validation report
+2025-11-17 12:53:41,079 - INFO - Data quality validation completed
+2025-11-17 12:53:41,081 - INFO - Business rules validation completed with status: passed
+2025-11-17 12:53:41,082 - INFO - Completeness validation completed with score: 99.52%
+2025-11-17 12:53:41,082 - INFO - Validation report generated with overall status: passed
+2025-11-17 12:53:41,082 - INFO - Reporte de validación guardado en c:\Users\Administrator\Desktop\proceso ETL\proyecto_techskills\output\reporte_calidad.txt
+2025-11-17 12:53:41,083 - INFO - Data validation process completed
+2025-11-17 12:53:41,083 - INFO - PASO 6: Carga de datos procesados
+2025-11-17 12:53:41,103 - INFO - PASO 7: Generación de TechWarehouse consolidado
+2025-11-17 12:53:41,103 - INFO - Starting TechWarehouse generation
+2025-11-17 12:53:41,372 - INFO - Created consolidated warehouse with 3145 total records
+2025-11-17 12:53:41,379 - INFO - Added derived metrics to warehouse
+2025-11-17 12:53:41,420 - INFO - TechWarehouse saved to c:\Users\Administrator\Desktop\proceso ETL\proyecto_techskills\data\processed\TechWarehouse.csv
+2025-11-17 12:53:41,426 - INFO - PASO 8: Exportación para Power BI
+2025-11-17 12:53:41,427 - INFO - Iniciando exportación completa para Power BI
+2025-11-17 12:53:41,427 - INFO - Iniciando preparación de datasets para Power BI desde TechWarehouse
+2025-11-17 12:53:41,577 - INFO - Dataset main_data guardado: 3145 registros
+2025-11-17 12:53:41,578 - INFO - Dataset kpis guardado: 11 registros
+2025-11-17 12:53:41,579 - INFO - Dataset clusters guardado: 5 registros
+2025-11-17 12:53:41,580 - INFO - Dataset geography guardado: 7 registros
+2025-11-17 12:53:41,581 - INFO - Dataset technology guardado: 26 registros
+2025-11-17 12:53:41,583 - INFO - Dataset time_metrics guardado: 2 registros
+2025-11-17 12:53:41,584 - INFO - Especificación de Power BI guardada en c:\Users\Administrator\Desktop\proceso ETL\proyecto_techskills\output\powerbi\dashboard_specification.json
+2025-11-17 12:53:41,585 - INFO - Guía de implementación guardada en c:\Users\Administrator\Desktop\proceso ETL\proyecto_techskills\output\powerbi\PowerBI_Implementation_Guide.txt
+2025-11-17 12:53:41,586 - INFO - Exportación completada: {'datasets_created': 6, 'total_records': 3196, 'output_directory': 'c:\\Users\\Administrator\\Desktop\\proceso ETL\\proyecto_techskills\\output\\powerbi', 'guide_file': 'c:\\Users\\Administrator\\Desktop\\proceso ETL\\proyecto_techskills\\output\\powerbi\\PowerBI_Implementation_Guide.txt', 'specification_file': 'c:\\Users\\Administrator\\Desktop\\proceso ETL\\proyecto_techskills\\output\\powerbi\\dashboard_specification.json'}
+2025-11-17 12:53:41,588 - INFO - *** PROCESO ETL COMPLETADO EXITOSAMENTE ***
+2025-11-17 12:53:41,588 - INFO - Total de registros procesados: 3,145
+2025-11-17 12:53:41,588 - INFO - TechWarehouse consolidado: 3,145 registros
+2025-11-17 12:53:41,588 - INFO - Puntuacion de calidad de datos: 90.96%
+2025-11-17 12:53:41,588 - INFO - Análisis de minería de datos: 2/4 análisis completados exitosamente
+2025-11-17 12:53:41,589 - INFO - Exportación Power BI: 6 datasets generados para dashboard
+2025-11-17 12:53:41,589 - INFO - RESULTADO: Calidad EXCELENTE - Datos listos para analisis

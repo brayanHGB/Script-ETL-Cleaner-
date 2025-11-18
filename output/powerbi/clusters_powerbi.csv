@@ -1,0 +1,6 @@
+﻿Cluster_ID,Cluster_Nombre,Edad_Promedio,Salario_Promedio,Pais_Predominante,Cantidad_Perfiles,Porcentaje_Total,Categoria_Cluster
+1,Cluster_1,23.93,10709.67,Perú,264,18.83,Emergente
+2,Cluster_2,33.09,16466.81,Argentina,346,24.68,Emergente
+3,Cluster_3,33.44,19427.06,España,315,22.47,Emergente
+4,Cluster_4,28.24,91015.05,Usa,143,10.2,Premium
+5,Cluster_5,23.79,21282.3,Colombia,334,23.82,Emergente

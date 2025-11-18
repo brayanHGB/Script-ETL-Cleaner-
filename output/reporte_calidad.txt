@@ -1,0 +1,60 @@
+REPORTE DE VALIDACIÓN DE CALIDAD DE DATOS
+=======================================================
+
+Fecha de Validación: 2025-11-17T12:53:41.073344
+Estado General: APROBADO
+
+INFORMACIÓN DEL CONJUNTO DE DATOS
+-----------------------------------
+Filas: 1402
+Columnas: 11
+
+VERIFICACIONES DE CALIDAD DE DATOS
+-----------------------------------
+Total de Registros: 1402
+Uso de Memoria (MB): 0.70
+
+Valores Faltantes por Columna:
+  id_persona: 0 (0.0%)
+  edad: 35 (2.5%)
+  ciudad: 0 (0.0%)
+  país: 0 (0.0%)
+  lenguajes_dominio: 0 (0.0%)
+  frameworks_dominio: 0 (0.0%)
+  certificaciones: 0 (0.0%)
+  años_experiencia: 1 (0.07%)
+  nivel_educativo: 0 (0.0%)
+  área_trabajo_actual: 0 (0.0%)
+  salario_actual_usd: 38 (2.71%)
+
+Registros Duplicados: 0 (0.0%)
+
+Resultados de Verificaciones de Calidad:
+  min_records: APROBADO - Dataset has sufficient records: 1402
+
+ANÁLISIS DE COMPLETITUD
+-------------------------
+Puntuación de Completitud: 99.52%
+
+Completitud por Columna:
+  id_persona: 100.0%
+  edad: 97.5%
+  ciudad: 100.0%
+  país: 100.0%
+  lenguajes_dominio: 100.0%
+  frameworks_dominio: 100.0%
+  certificaciones: 100.0%
+  años_experiencia: 99.93%
+  nivel_educativo: 100.0%
+  área_trabajo_actual: 100.0%
+  salario_actual_usd: 97.29%
+
+VALIDACIÓN DE REGLAS DE NEGOCIO
+--------------------------------
+Estado: APROBADO
+
+Resultados por Regla:
+  age_realistic: APROBADO
+    Violaciones: 0
+  experience_realistic: APROBADO
+    Violaciones: 0

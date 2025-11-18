@@ -1,0 +1,242 @@
+id_programa,organización,área_tecnológica,inversión_usd,participantes,duración_meses,satisfacción_promedio,año,ciudad,país,source
+PRG-5001,Universidad X,Data Science,80240.0,117.0,3,4.43,2023,Cusco,Perú,investment
+PRG-5002,Alianza Cloud,Data Science,89.522,61.0,12,4.63,2022,Lima,Perú,investment
+PRG-5003,SENA,Backend,113.156,167.0,12,4.09,2022,Unknown,Perú,investment
+PRG-5004,Cámara de Comercio,Backend,136.206,115.0,4,4.4,2023,???,México,investment
+PRG-5005,SENA,BI/Analytics,110022.0,135.0,2,3.85,2022,Cusco,Perú,investment
+PRG-5006,MinTIC,DevOps,93261.0,112.0,12,4.18,2023,Buenos Aires,Argentina,investment
+PRG-5007,Alianza Cloud,Ciberseguridad,93157.0,210.0,9,4.55,2023,Bucaramanga,Colombia,investment
+PRG-5008,Cámara de Comercio,BI/Analytics,79.731,70.0,9,4.19,2022,Concepción,Chile,investment
+PRG-5009,Alianza Cloud,DevOps,94681.0,151.0,3,4.2,2023,Guadalajara,México,investment
+PRG-5010,Cámara de Comercio,Frontend,142818.0,154.0,4,4.21,2023,Unknown,Colombia,investment
+PRG-5011,MinTIC,IA,116288.0,81.0,3,4.8,2024,Valparaíso,Chile,investment
+PRG-5012,MinTIC,Frontend,109079.0,131.0,4,3.39,2025,Buenos Aires,Argentina,investment
+PRG-5013,SENA,IA,74.808,148.0,2,5.0,2023,Rosario,Argentina,investment
+PRG-5014,Bootcamp Z,Cloud,135336.0,134.0,4,4.13,2022,Valencia,España,investment
+PRG-5015,Cámara de Comercio,Inteligencia Artificial,64461.0,104.0,3,3.74,2022,Valparaíso,Chile,investment
+PRG-5016,Universidad X,Backend,113437.0,86.0,4,3.6,2025,Arequipa,Perú,investment
+PRG-5017,Universidad X,Data Science,113752.0,,4,4.31,2022,Cartagena,Colombia,investment
+PRG-5018,Universidad X,Frontend,90.829,152.0,12,4.41,2025,Lima,Perú,investment
+PRG-5019,Cámara de Comercio,Data Science,125.413,15.0,3,4.35,2022,Córdoba,Argentina,investment
+PRG-5020,Fundación Datos,Frontend,71809.0,88.0,12,4.15,2022,Madrid,España,investment
+PRG-5021,Universidad X,Data Science,45556.0,161.0,6,3.71,2023,Bucaramanga,Colombia,investment
+PRG-5022,Cámara de Comercio,Frontend,107587.0,43.0,9,3.85,2023,Barranquilla,Colombia,investment
+PRG-5023,Fundación Datos,DevOps,46707.0,129.0,2,4.19,2025,Valencia,España,investment
+PRG-5024,Fundación Datos,Frontend,58994.0,92.0,2,4.66,2024,Córdoba,Argentina,investment
+PRG-5025,Cámara de Comercio,Backend,52.427,127.0,6,5.0,2022,CDMX,México,investment
+PRG-5026,Empresa Y,Ciberseguridad,46032.0,65.0,4,3.55,2023,Cusco,Perú,investment
+PRG-5027,Fundación Datos,BI/Analytics,87.183,218.0,9,4.35,2022,Sevilla,España,investment
+PRG-5028,Alianza Cloud,BI/Analytics,84881.0,187.0,6,4.5,2022,Cusco,Perú,investment
+PRG-5029,Fundación Datos,Backend,88819.0,222.0,9,4.54,2023,Valencia,España,investment
+PRG-5030,Fundación Datos,Cloud,85710.0,135.0,4,4.79,2023,Unknown,Perú,investment
+PRG-5031,SENA,Frontend,89774.0,157.0,12,3.47,2023,Bogota,Colombia,investment
+PRG-5032,Universidad X,Data Science,60989.0,69.0,12,4.21,2023,Austin,USA,investment
+PRG-5033,Universidad X,Ciberseguridad,86255.0,145.0,4,4.16,2023,CDMX,México,investment
+PRG-5034,Alianza Cloud,BI/Analytics,92.163,143.0,2,4.58,2025,Monterrey,México,investment
+PRG-5035,SENA,Cloud,111934.0,17.0,9,5.0,2024,CUSCO,Perú,investment
+PRG-5036,Bootcamp Z,Frontend,68748.0,191.0,6,3.86,2024,Valencia,España,investment
+PRG-5037,Universidad X,BI/Analytics,121631.0,119.0,3,4.33,2024,Santiago,Chile,investment
+PRG-5038,Empresa Y,Ciberseguridad,5000.0,15.0,2,4.3,2023,San Francisco,USA,investment
+PRG-5039,Cámara de Comercio,Ciberseguridad,33.716,264.0,3,3.96,2024,Miami,USA,investment
+PRG-5040,Bootcamp Z,IA,90075.0,123.0,3,4.56,2025,Sevilla,España,investment
+PRG-5041,Empresa Y,Backend,83.768,26.0,9,3.94,2023,Lima,Perú,investment
+PRG-5042,Cámara de Comercio,BI/Analytics,91851.0,170.0,2,4.65,2022,Cusco,Perú,investment
+PRG-5043,Fundación Datos,Frontend,46864.0,47.0,12,3.92,2022,Santiago,Chile,investment
+PRG-5044,Bootcamp Z,DevOps,58556.0,91.0,12,3.7,2024,Valparaíso,Chile,investment
+PRG-5045,Universidad X,BI/Analytics,31125.0,84.0,4,4.59,2025,Rosario,Argentina,investment
+PRG-5046,Universidad X,DevOps,41613.0,90.0,12,4.26,2024,Sevilla,España,investment
+PRG-5047,Bootcamp Z,BI/Analytics,90.401,22.0,3,4.05,2024,Valencia,España,investment
+PRG-5048,Fundación Datos,Frontend,95523.0,222.0,9,3.88,2022,Unknown,España,investment
+PRG-5049,MinTIC,DevOps,83099.0,172.0,6,4.46,2024,Barranquilla,Colombia,investment
+PRG-5050,Cámara de Comercio,Backend,65733.0,15.0,4,4.01,2024,Cusco,Perú,investment
+PRG-5051,Empresa Y,Data Science,46934.0,195.0,6,4.33,2024,Arequipa,Perú,investment
+PRG-5052,Bootcamp Z,DevOps,37774.0,108.0,9,3.96,2023,Buenos Aires,Argentina,investment
+PRG-5053,Bootcamp Z,Backend,73.12,150.0,6,4.12,2022,Valparaíso,Chile,investment
+PRG-5054,Cámara de Comercio,DevOps,81703.0,113.0,3,4.31,2023,Buenos Aires,Argentina,investment
+PRG-5055,Fundación Datos,IA,34926.0,113.0,4,4.1,2025,Buenos Aires,Argentina,investment
+PRG-5056,Cámara de Comercio,BI/Analytics,128004.0,123.0,4,3.78,2024,Valencia,España,investment
+PRG-5057,SENA,Ciberseguridad,62661.0,211.0,4,4.82,2022,Barranquilla,Colombia,investment
+PRG-5058,MinTIC,Backend,70277.0,15.0,9,3.25,2025,CDMX,México,investment
+PRG-5059,Empresa Y,BI/Analytics,65364.0,30.0,12,4.37,2024,Madrid,España,investment
+PRG-5060,Bootcamp Z,DevOps,85732.0,70.0,4,3.85,2022,Unknown,México,investment
+PRG-5061,Bootcamp Z,BI/Analytics,60983.0,213.0,4,4.96,2025,Buenos Aires,Argentina,investment
+PRG-5062,MinTIC,BI/Analytics,51208.0,224.0,4,4.39,2024,Bogotá,Colombia,investment
+PRG-5063,Alianza Cloud,BI/Analytics,122295.0,89.0,6,4.31,2022,Cusco,Perú,investment
+PRG-5064,Fundación Datos,Data Science,72947.0,226.0,3,4.06,2024,Unknown,USA,investment
+PRG-5065,Cámara de Comercio,Cloud,82361.0,70.0,2,4.35,2023,MONTERREY,México,investment
+PRG-5066,MinTIC,Cloud,87424.0,120.0,6,4.48,2022,Bucaramanga,Colombia,investment
+PRG-5067,SENA,Backend,59215.0,112.0,4,3.78,2022,Lima,Perú,investment
+PRG-5068,Empresa Y,Cloud,68432.0,83.0,9,4.59,2023,Lima,Perú,investment
+PRG-5069,Universidad X,Cloud,56.884,171.0,12,4.42,2024,concepción,Chile,investment
+PRG-5070,Bootcamp Z,DevOps,103604.0,63.0,12,3.54,2023,Buenos Aires,Argentina,investment
+PRG-5071,Bootcamp Z,DevOps,73.414,176.0,3,4.28,2023,???,Chile,investment
+PRG-5072,Cámara de Comercio,IA,47391.0,111.0,3,4.24,2024,Rosario,Argentina,investment
+PRG-5073,Bootcamp Z,Data Science,101611.0,118.0,9,4.44,2024,Sevilla,España,investment
+PRG-5074,SENA,Backend,95671.0,191.0,3,3.73,2023,CDMX,México,investment
+PRG-5075,Fundación Datos,Backend,43.12,164.0,4,3.9,2024,MIAMI,USA,investment
+PRG-5076,Bootcamp Z,BI/Analytics,54202.0,122.0,4,4.03,2023,Unknown,USA,investment
+PRG-5077,SENA,Cloud,60.937,178.0,2,3.83,2022,Sevilla,España,investment
+PRG-5078,SENA,Data Science,163971.0,41.0,9,4.01,2023,Santiago,Chile,investment
+PRG-5079,Alianza Cloud,BI/Analytics,80747.0,120.0,12,4.64,2023,Miami,USA,investment
+PRG-5080,Fundación Datos,DevOps,52437.0,84.0,3,4.04,2023,Lima,Perú,investment
+PRG-5081,Universidad X,Frontend,36517.0,72.0,2,3.44,2022,Córdoba,Argentina,investment
+PRG-5082,Fundación Datos,DevOps,66.738,121.0,3,4.75,2025,Lima,Perú,investment
+PRG-5083,SENA,Data Science,68690.0,87.0,9,4.68,2023,Barranquilla,Colombia,investment
+PRG-5084,Universidad X,Data Science,102894.0,17.0,12,3.86,2022,Rosario,Argentina,investment
+PRG-5085,Alianza Cloud,Cloud,90606.0,50.0,9,4.24,2023,Barranquilla,Colombia,investment
+PRG-5086,Empresa Y,Backend,86803.0,50.0,9,4.81,2024,Cusco,Perú,investment
+PRG-5087,MinTIC,Ciberseguridad,83003.0,167.0,2,3.97,2023,Barcelona,España,investment
+PRG-5088,Alianza Cloud,BI/Analytics,93727.0,113.0,6,4.1,2025,San Francisco,USA,investment
+PRG-5089,Fundación Datos,IA,108618.0,146.0,2,3.6,2023,miami,USA,investment
+PRG-5090,Alianza Cloud,Frontend,94529.0,129.0,12,4.09,2024,Madrid,España,investment
+PRG-5091,Alianza Cloud,Backend,124590.0,80.0,6,4.16,2024,LIMA,Perú,investment
+PRG-5092,MinTIC,Cloud,63342.0,113.0,2,4.07,2025,Unknown,Argentina,investment
+PRG-5093,Empresa Y,Cloud,76460.0,100.0,12,3.6,2024,Bucaramanga,Colombia,investment
+PRG-5094,SENA,Ciberseguridad,60789.0,22.0,2,4.06,2022,Buenos Aires,Argentina,investment
+PRG-5095,Universidad X,Frontend,100604.0,84.0,3,4.18,2024,Concepción,Chile,investment
+PRG-5096,Cámara de Comercio,BI/Analytics,86114.0,161.0,3,3.3,2025,Unknown,Colombia,investment
+PRG-5097,SENA,Cloud,122503.0,146.0,12,4.25,2024,Valparaíso,Chile,investment
+PRG-5098,SENA,DevOps,44961.0,,12,4.29,2022,Concepción,Chile,investment
+PRG-5099,Alianza Cloud,Frontend,27094.0,56.0,4,4.28,2022,Barranquilla,Colombia,investment
+PRG-5100,Empresa Y,Data Science,70786.0,168.0,4,4.12,2024,Arequipa,Perú,investment
+PRG-5101,Bootcamp Z,Backend,126911.0,78.0,4,4.34,2024,Cartagena,Colombia,investment
+PRG-5102,SENA,DevOps,70355.0,98.0,3,4.24,2023,Barcelona,España,investment
+PRG-5103,Cámara de Comercio,BI/Analytics,63020.0,183.0,6,3.84,2024,Cartagena,Colombia,investment
+PRG-5104,Universidad X,DevOps,75432.0,136.0,12,3.6,2022,Bucaramanga,Colombia,investment
+PRG-5105,Alianza Cloud,DevOps,69750.0,110.0,12,4.03,2024,???,Chile,investment
+PRG-5106,Alianza Cloud,BI/Analytics,86101.0,126.0,3,4.85,2023,Cusco,Perú,investment
+PRG-5107,Alianza Cloud,Backend,104060.0,155.0,6,4.01,2022,Valparaíso,Chile,investment
+PRG-5108,SENA,Data Science,59072.0,118.0,9,3.91,2024,???,USA,investment
+PRG-5109,Universidad X,DevOps,143703.0,167.0,6,4.46,2022,Guadalajara,México,investment
+PRG-5110,Cámara de Comercio,Backend,94928.0,142.0,6,4.5,2024,Guadalajara,México,investment
+PRG-5111,Empresa Y,Ciberseguridad,77270.0,113.0,6,4.44,2024,Arequipa,Perú,investment
+PRG-5112,SENA,Backend,81447.0,213.0,9,3.53,2024,Medellín,Colombia,investment
+PRG-5113,MinTIC,DevOps,85109.0,164.0,3,3.87,2022,Buenos Aires,Argentina,investment
+PRG-5114,Bootcamp Z,Backend,5000.0,68.0,3,3.88,2023,Santiago,Chile,investment
+PRG-5115,Fundación Datos,Ciberseguridad,94211.0,105.0,2,4.17,2022,Cusco,Perú,investment
+PRG-5116,SENA,Data Science,66806.0,59.0,12,4.21,2023,Rosario,Argentina,investment
+PRG-5117,Bootcamp Z,Ciberseguridad,87652.0,153.0,12,4.53,2023,CDMX,México,investment
+PRG-5118,Fundación Datos,Ciberseguridad,85184.0,15.0,6,4.3,2024,Córdoba,Argentina,investment
+PRG-5119,MinTIC,Ciberseguridad,85.24,62.0,4,3.98,2024,Córdoba,Argentina,investment
+PRG-5120,Empresa Y,DevOps,40775.0,46.0,9,4.4,2023,San Francisco,USA,investment
+PRG-5121,Bootcamp Z,IA,111740.0,153.0,3,4.49,2025,Miami,USA,investment
+PRG-5122,Empresa Y,DevOps,47677.0,147.0,2,4.11,2022,Cusco,Perú,investment
+PRG-5123,Fundación Datos,Ciberseguridad,139338.0,102.0,12,3.85,2025,New York,USA,investment
+PRG-5124,Bootcamp Z,Frontend,49.748,42.0,9,4.59,2022,Miami,USA,investment
+PRG-5125,Universidad X,Backend,101.465,81.0,12,3.99,2023,AREQUIPA,Perú,investment
+PRG-5126,Bootcamp Z,DevOps,33906.0,180.0,6,4.02,2024,New York,USA,investment
+PRG-5127,Alianza Cloud,Backend,72.798,154.0,2,3.84,2024,Seattle,USA,investment
+PRG-5128,Empresa Y,BI/Analytics,37934.0,204.0,4,3.86,2022,CDMX,México,investment
+PRG-5129,SENA,DevOps,130480.0,186.0,9,4.19,2022,Concepcion,Chile,investment
+PRG-5130,Bootcamp Z,BI/Analytics,41635.0,44.0,3,3.85,2024,Guadalajara,México,investment
+PRG-5131,Alianza Cloud,BI/Analytics,119407.0,113.0,4,4.56,2024,Córdoba,Argentina,investment
+PRG-5132,Fundación Datos,Ciberseguridad,65009.0,176.0,12,4.49,2023,Unknown,México,investment
+PRG-5133,SENA,DevOps,104.988,167.0,3,4.19,2025,Buenos Aires,Argentina,investment
+PRG-5134,Fundación Datos,Frontend,112926.0,,12,4.82,2024,Austin,USA,investment
+PRG-5135,Cámara de Comercio,BI/Analytics,90512.0,106.0,6,4.63,2023,New York,USA,investment
+PRG-5136,Alianza Cloud,DevOps,132.318,210.0,9,4.21,2025,Valencia,España,investment
+PRG-5137,MinTIC,IA,44597.0,195.0,2,3.33,2022,Santiago,Chile,investment
+PRG-5138,Bootcamp Z,BI/Analytics,90597.0,94.0,4,3.61,2023,Madrid,España,investment
+PRG-5139,Cámara de Comercio,Backend,85347.0,111.0,4,4.19,2023,Puebla,México,investment
+PRG-5140,Alianza Cloud,BI/Analytics,113374.0,136.0,6,4.1,2025,Austin,USA,investment
+PRG-5141,SENA,Data Science,96304.0,92.0,9,4.62,2024,Barcelona,España,investment
+PRG-5142,Empresa Y,Backend,120552.0,94.0,12,4.49,2024,Medellín,Colombia,investment
+PRG-5143,Cámara de Comercio,Ciberseguridad,79116.0,97.0,6,3.89,2022,Cusco,Perú,investment
+PRG-5144,Empresa Y,Frontend,83118.0,160.0,6,4.99,2025,Cusco,Perú,investment
+PRG-5145,Fundación Datos,DevOps,44002.0,15.0,3,4.0,2023,Córdoba,Argentina,investment
+PRG-5146,MinTIC,Data Science,69313.0,151.0,12,3.92,2025,Barcelona,España,investment
+PRG-5147,Cámara de Comercio,IA,67495.0,,2,4.3,2022,Arequipa,Perú,investment
+PRG-5148,Cámara de Comercio,Backend,108978.0,173.0,3,3.59,2022,Miami,USA,investment
+PRG-5149,Universidad X,DevOps,93140.0,76.0,9,4.13,2023,Monterrey,México,investment
+PRG-5150,Universidad X,Cloud,97992.0,74.0,12,4.24,2024,Buenos Aires,Argentina,investment
+PRG-5151,Alianza Cloud,Backend,106668.0,147.0,9,4.05,2022,New York,USA,investment
+PRG-5152,Empresa Y,Frontend,85576.0,,12,4.31,2025,New York,USA,investment
+PRG-5153,Empresa Y,DevOps,32843.0,181.0,4,3.55,2024,Unknown,USA,investment
+PRG-5154,MinTIC,Backend,105595.0,52.0,12,4.25,2024,Santiago,Chile,investment
+PRG-5155,Bootcamp Z,Frontend,49649.0,87.0,2,3.54,2025,Arequipa,Perú,investment
+PRG-5156,Universidad X,BI/Analytics,79522.0,137.0,2,4.35,2022,CDMX,México,investment
+PRG-5157,Empresa Y,Frontend,88570.0,174.0,9,4.73,2022,Seattle,USA,investment
+PRG-5158,Universidad X,BI/Analytics,124379.0,96.0,9,4.37,2022,Unknown,Perú,investment
+PRG-5159,Bootcamp Z,BI/Analytics,85463.0,88.0,9,5.0,2023,Rosario,Argentina,investment
+PRG-5160,Universidad X,BI/Analytics,62.428,46.0,12,4.04,2024,Sevilla,España,investment
+PRG-5161,SENA,IA,81.942,130.0,9,4.93,2024,New York,USA,investment
+PRG-5162,Cámara de Comercio,Cloud,99.494,108.0,9,4.0,2024,Cartagena,Colombia,investment
+PRG-5163,MinTIC,Ciberseguridad,75545.0,54.0,6,4.1,2022,Madrid,España,investment
+PRG-5164,Bootcamp Z,IA,118616.0,159.0,3,4.02,2023,Arequipa,Perú,investment
+PRG-5165,MinTIC,BI/Analytics,50172.0,183.0,6,4.88,2024,Cali,Colombia,investment
+PRG-5166,Cámara de Comercio,Backend,64931.0,33.0,9,4.29,2023,Lima,Perú,investment
+PRG-5167,Fundación Datos,Backend,46730.0,97.0,6,4.47,2025,Guadalajara,México,investment
+PRG-5168,SENA,DevOps,107.797,60.0,6,3.63,2022,Santiago,Chile,investment
+PRG-5169,Cámara de Comercio,Cloud,103769.0,179.0,4,4.4,2025,Seattle,USA,investment
+PRG-5170,Alianza Cloud,Backend,73605.0,180.0,4,4.17,2022,Concepción,Chile,investment
+PRG-5171,Alianza Cloud,Data Science,49138.0,186.0,3,4.09,2022,Barcelona,España,investment
+PRG-5172,Empresa Y,Ciberseguridad,72710.0,106.0,9,4.08,2025,Valparaíso,Chile,investment
+PRG-5173,Cámara de Comercio,Cloud,78.7,15.0,12,4.3,2022,Seattle,USA,investment
+PRG-5174,Universidad X,Cloud,102105.0,190.0,9,3.96,2024,New York,USA,investment
+PRG-5175,Bootcamp Z,Ciberseguridad,51640.0,102.0,12,4.04,2024,Bogotá,Colombia,investment
+PRG-5176,SENA,Frontend,110722.0,82.0,12,4.33,2022,Santiago,Chile,investment
+PRG-5177,SENA,Cloud,67.983,152.0,3,4.12,2024,Miami,USA,investment
+PRG-5178,MinTIC,IA,55650.0,147.0,6,4.39,2025,???,Perú,investment
+PRG-5179,SENA,Frontend,62039.0,168.0,2,4.18,2024,???,Colombia,investment
+PRG-5180,Alianza Cloud,Ciberseguridad,127.397,68.0,6,4.36,2022,Valencia,España,investment
+PRG-5181,Fundación Datos,IA,72.88,182.0,2,3.85,2025,Valparaíso,Chile,investment
+PRG-5182,MinTIC,Ciberseguridad,119813.0,113.0,12,4.83,2023,Arequipa,Perú,investment
+PRG-5183,Empresa Y,IA,79204.0,164.0,12,4.35,2023,CDMX,México,investment
+PRG-5184,Cámara de Comercio,Inteligencia Artificial,49895.0,182.0,9,4.54,2024,Seattle,USA,investment
+PRG-5185,SENA,Frontend,87749.0,72.0,6,4.49,2024,Cali,Colombia,investment
+PRG-5186,Universidad X,BI/Analytics,83099.0,136.0,12,4.71,2022,Barcelona,España,investment
+PRG-5187,Cámara de Comercio,BI/Analytics,70186.0,97.0,6,3.84,2025,San Francisco,USA,investment
+PRG-5188,Cámara de Comercio,DevOps,102383.0,131.0,12,4.16,2022,Concepción,Chile,investment
+PRG-5189,SENA,Frontend,93248.0,15.0,9,4.45,2023,Cali,Colombia,investment
+PRG-5190,MinTIC,Frontend,73699.0,71.0,9,4.22,2024,Concepción,Chile,investment
+PRG-5191,MinTIC,Frontend,88177.0,75.0,9,4.24,2025,Santiago,Chile,investment
+PRG-5192,Empresa Y,Data Science,5000.0,53.0,6,3.85,2024,Santiago,Chile,investment
+PRG-5193,Alianza Cloud,Frontend,115.163,202.0,12,4.08,2025,Valencia,España,investment
+PRG-5194,Bootcamp Z,IA,122276.0,58.0,3,4.47,2025,New York,USA,investment
+PRG-5195,Alianza Cloud,Ciberseguridad,134.103,192.0,9,4.37,2024,Guadalajara,México,investment
+PRG-5196,Bootcamp Z,Frontend,58014.0,125.0,12,4.26,2023,Medellín,Colombia,investment
+PRG-5197,Fundación Datos,Ciberseguridad,111285.0,62.0,9,4.12,2023,Unknown,España,investment
+PRG-5198,Empresa Y,Ciberseguridad,70167.0,212.0,12,4.37,2023,Cartagena,Colombia,investment
+PRG-5199,Cámara de Comercio,Frontend,105740.0,74.0,12,3.88,2022,Austin,USA,investment
+PRG-5200,Alianza Cloud,IA,96.154,196.0,2,3.49,2025,CDMX,México,investment
+PRG-5201,Cámara de Comercio,Backend,87131.0,39.0,9,4.18,2023,Bucaramanga,Colombia,investment
+PRG-5202,SENA,Backend,54326.0,236.0,3,4.12,2024,Concepción,Chile,investment
+PRG-5203,Fundación Datos,DevOps,86.925,120.0,3,4.87,2022,San Francisco,USA,investment
+PRG-5204,Bootcamp Z,Ciberseguridad,33619.0,115.0,2,4.82,2022,Valparaíso,Chile,investment
+PRG-5205,SENA,BI/Analytics,36675.0,145.0,6,3.94,2024,Córdoba,Argentina,investment
+PRG-5206,Empresa Y,IA,83.98,102.0,4,4.52,2024,Barcelona,España,investment
+PRG-5207,Empresa Y,Cloud,64957.0,106.0,2,3.82,2022,Cusco,Perú,investment
+PRG-5208,SENA,Cloud,82394.0,110.0,2,4.39,2022,Barcelona,España,investment
+PRG-5209,Fundación Datos,Cloud,54.231,15.0,3,4.39,2025,San Francisco,USA,investment
+PRG-5210,SENA,Frontend,106789.0,219.0,9,3.31,2024,New York,USA,investment
+PRG-5211,Alianza Cloud,Inteligencia Artificial,96715.0,15.0,4,4.22,2022,Puebla,México,investment
+PRG-5212,Bootcamp Z,Ciberseguridad,138056.0,123.0,2,3.79,2024,San Francisco,USA,investment
+PRG-5213,Alianza Cloud,IA,83388.0,191.0,9,3.97,2022,Miami,USA,investment
+PRG-5214,Empresa Y,IA,45.679,15.0,3,4.8,2025,Valencia,España,investment
+PRG-5215,Alianza Cloud,BI/Analytics,103757.0,125.0,9,4.43,2025,Córdoba,Argentina,investment
+PRG-5216,Fundación Datos,Data Science,104.786,111.0,12,4.33,2023,Unknown,España,investment
+PRG-5217,Universidad X,Data Science,70738.0,109.0,9,3.92,2025,Santiago,Chile,investment
+PRG-5218,Cámara de Comercio,Data Science,74649.0,137.0,3,4.64,2023,Buenos Aires,Argentina,investment
+PRG-5219,MinTIC,Cloud,53439.0,102.0,6,3.47,2025,Bogotá,Colombia,investment
+PRG-5220,Bootcamp Z,IA,153413.0,164.0,9,4.19,2023,Sevilla,España,investment
+PRG-5221,Alianza Cloud,Ciberseguridad,107489.0,15.0,6,3.94,2022,Buenos Aires,Argentina,investment
+PRG-5222,MinTIC,BI/Analytics,90853.0,161.0,3,4.48,2025,???,Argentina,investment
+PRG-5223,Cámara de Comercio,Frontend,72142.0,127.0,6,4.62,2024,Miami,USA,investment
+PRG-5224,Cámara de Comercio,Ciberseguridad,114.586,103.0,9,3.97,2025,Valparaíso,Chile,investment
+PRG-5225,MinTIC,IA,58.23,129.0,9,4.57,2024,Valencia,España,investment
+PRG-5226,Empresa Y,Ciberseguridad,56068.0,80.0,4,4.57,2025,SANTIAGO,Chile,investment
+PRG-5227,Empresa Y,Cloud,77.541,140.0,12,3.81,2023,Guadalajara,México,investment
+PRG-5228,SENA,Frontend,91690.0,117.0,12,4.46,2024,???,Argentina,investment
+PRG-5229,Empresa Y,BI/Analytics,94628.0,78.0,4,3.46,2022,CDMX,México,investment
+PRG-5230,Empresa Y,Data Science,53173.0,123.0,6,4.48,2024,Bogotá,Colombia,investment
+PRG-5231,Universidad X,DevOps,147.181,94.0,4,4.26,2024,Unknown,Chile,investment
+PRG-5232,Cámara de Comercio,Inteligencia Artificial,13.379,138.0,12,3.66,2023,Santiago,Chile,investment
+PRG-5233,Universidad X,BI/Analytics,59758.0,179.0,12,4.63,2023,barranquilla,Colombia,investment
+PRG-5234,Cámara de Comercio,Data Science,97439.0,77.0,6,3.88,2025,???,Perú,investment
+PRG-5235,Universidad X,BI/Analytics,99214.0,144.0,4,4.55,2022,Arequipa,Perú,investment
+PRG-5236,Universidad X,BI/Analytics,41441.0,75.0,9,4.41,2023,Rosario,Argentina,investment
+PRG-5237,Universidad X,IA,99208.0,132.0,12,3.72,2022,Concepción,Chile,investment
+PRG-5238,MinTIC,Backend,74543.0,162.0,9,3.77,2024,Barranquilla,Colombia,investment
+PRG-5239,Empresa Y,Frontend,106542.0,92.0,9,4.26,2022,???,USA,investment
+PRG-5240,Alianza Cloud,Data Science,82140.0,127.0,12,4.04,2025,Cusco,Perú,investment
+PRG-5096,Cámara de Comercio,BI/Analytics,86114.0,161.0,3,3.3,2025,bucaramanga,Colombia,investment

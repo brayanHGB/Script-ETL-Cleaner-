@@ -1,0 +1,229 @@
+
+===============================================
+    GUÍA DE IMPLEMENTACIÓN POWER BI
+    TECHSKILLS ANALYTICS DASHBOARD
+===============================================
+
+FECHA: 17/11/2025
+ARCHIVOS GENERADOS: 6 datasets
+UBICACIÓN: c:\Users\Administrator\Desktop\proceso ETL\proyecto_techskills\output\powerbi
+
+===============================================
+PASO 1: PREPARACIÓN DE DATOS
+===============================================
+
+ARCHIVOS DISPONIBLES:
+• main_data_powerbi.csv (3145 registros)
+• kpis_powerbi.csv (11 registros)
+• clusters_powerbi.csv (5 registros)
+• geography_powerbi.csv (7 registros)
+• technology_powerbi.csv (26 registros)
+• time_metrics_powerbi.csv (2 registros)
+
+UBICACIÓN DE ARCHIVOS:
+c:\Users\Administrator\Desktop\proceso ETL\proyecto_techskills\output\powerbi
+
+===============================================
+PASO 2: IMPORTACIÓN EN POWER BI
+===============================================
+
+1. ABRIR POWER BI DESKTOP
+   - Archivo → Nuevo informe
+
+2. OBTENER DATOS
+   - Inicio → Obtener datos → Texto/CSV
+   - Navegar a: c:\Users\Administrator\Desktop\proceso ETL\proyecto_techskills\output\powerbi
+   - Importar TODOS los archivos *_powerbi.csv
+
+3. VERIFICAR IMPORTACIÓN
+   - Campos: Verificar que aparezcan las 6 tablas
+   - Vista de modelo: Revisar relaciones automáticas
+
+===============================================
+PASO 3: CONFIGURACIÓN DE RELACIONES
+===============================================
+
+RELACIONES RECOMENDADAS:
+1. main_data → geography
+   - main_data[pais_normalizado] → geography[pais_normalizado]
+   - Cardinalidad: Muchos a uno
+
+2. main_data → technology
+   - main_data[tecnologia_principal] → technology[Tecnologia]
+   - Cardinalidad: Muchos a uno
+
+3. clusters → main_data (si existe cluster_asignado)
+   - clusters[Cluster_ID] → main_data[cluster_asignado]
+   - Cardinalidad: Uno a muchos
+
+===============================================
+PASO 4: CREACIÓN DE PÁGINAS
+===============================================
+
+PÁGINA 1: RESUMEN EJECUTIVO
+• Dimensiones: 1920x1080
+• Elementos:
+  - 4 Tarjetas KPI (Total Registros, Salario Promedio, Países, Ciudades)
+  - Gráfico de rosquilla: Distribución por fuente
+  - Gráfico de barras: Top países
+  - Filtro: País y Fuente de datos
+
+PÁGINA 2: ANÁLISIS GEOGRÁFICO  
+• Mapa de formas: Visualización mundial
+• Gráfico de barras agrupadas: Salarios por país
+• Gráfico de dispersión: Salario vs Edad
+• Tabla: Detalles por ciudad
+
+PÁGINA 3: CLUSTERING ML
+• Gráfico de burbujas: Clusters (Edad vs Salario)
+• Gráfico de rosquilla: Distribución de clusters
+• Tabla de resumen: Características de clusters
+• Filtros por categoría de cluster
+
+PÁGINA 4: TECNOLOGÍAS
+• Gráfico de barras horizontales: Top tecnologías
+• Gráfico de dispersión: Popularidad vs Salario
+• Matriz: Comparativa de frameworks
+• Filtros por tipo de tecnología
+
+PÁGINA 5: TENDENCIAS
+• Gráfico de líneas: Evolución temporal
+• Gráfico de áreas: Tendencias salariales
+• Segmentación por meses y fuentes
+
+===============================================
+PASO 5: MEDIDAS Y CÁLCULOS DAX
+===============================================
+
+MEDIDAS RECOMENDADAS:
+
+1. Total Profesionales = 
+   COUNT(main_data[id_registro])
+
+2. Salario Promedio = 
+   AVERAGE(main_data[salario_usd])
+
+3. Brecha Salarial = 
+   MAX(main_data[salario_usd]) - MIN(main_data[salario_usd])
+
+4. Top País por Salario = 
+   TOPN(1, geography, geography[Salario_Promedio], DESC)
+
+5. Tasa Crecimiento = 
+   DIVIDE(
+     COUNT(main_data[id_registro]) - 
+     CALCULATE(COUNT(main_data[id_registro]), 
+               DATEADD(time_metrics[Fecha], -1, MONTH)),
+     CALCULATE(COUNT(main_data[id_registro]), 
+               DATEADD(time_metrics[Fecha], -1, MONTH))
+   )
+
+===============================================
+PASO 6: FORMATO Y DISEÑO
+===============================================
+
+COLORES CORPORATIVOS:
+• Primario: #0078D4 (Azul Microsoft)
+• Secundario: #106EBE 
+• Acento: #005A9E
+• Éxito: #107C10 (Verde)
+• Advertencia: #FF8C00 (Naranja)
+
+FUENTES:
+• Títulos: Segoe UI Bold, 14-16pt
+• Texto: Segoe UI Regular, 10-12pt
+• KPIs: Segoe UI Light, 24-32pt
+
+LAYOUT:
+• Márgenes: 20px en todos los lados
+• Espaciado entre elementos: 10-15px
+• Alineación: Grilla 12x8
+
+===============================================
+PASO 7: KPIs Y MÉTRICAS CLAVE
+===============================================
+
+KPIS PRINCIPALES:
+• Total de registros procesados: 3145.0
+• Países cubiertos: 7
+• Precisión modelo ML: 71%
+• Salario promedio global: $24,547
+
+COMPARATIVAS CLAVE:
+• USA vs LATAM: Brecha salarial 9x
+• Clusters identificados: 5 perfiles únicos
+• Tecnologías analizadas: 20+ lenguajes y frameworks
+
+===============================================
+PASO 8: INTERACTIVIDAD
+===============================================
+
+FILTROS GLOBALES:
+1. País (Dropdown)
+2. Fuente de datos (Dropdown) 
+3. Rango salarial (Slider)
+4. Año/Mes (Date picker)
+
+ACCIONES DE DRILL:
+• Desde países → ciudades → individuos
+• Desde clusters → países → tecnologías
+• Desde tecnologías → salarios → experiencia
+
+TOOLTIPS PERSONALIZADOS:
+• Mapas: Mostrar detalles de país/ciudad
+• Gráficos: Información contextual adicional
+• Clusters: Características del segmento
+
+===============================================
+PASO 9: PUBLICACIÓN Y COMPARTIR
+===============================================
+
+1. VALIDAR DASHBOARD
+   - Probar todos los filtros
+   - Verificar visualizaciones
+   - Revisar rendimiento
+
+2. PUBLICAR EN POWER BI SERVICE
+   - Archivo → Publicar → Power BI
+   - Seleccionar workspace apropiado
+
+3. CONFIGURAR ACTUALIZACIÓN
+   - Power BI Service → Dataset → Configuración
+   - Programar actualización automática
+
+4. COMPARTIR CON STAKEHOLDERS
+   - Crear dashboard desde informe
+   - Configurar permisos de acceso
+   - Generar enlaces de compartir
+
+===============================================
+PASO 10: MANTENIMIENTO
+===============================================
+
+ACTUALIZACIONES PERIÓDICAS:
+• Datos: Ejecutar ETL semanalmente
+• Modelos ML: Re-entrenar mensualmente
+• Dashboard: Revisar KPIs trimestralmente
+
+MONITOREO:
+• Rendimiento de consultas
+• Uso por parte de usuarios
+• Feedback y mejoras
+
+===============================================
+ARCHIVOS DE SOPORTE
+===============================================
+
+• dashboard_specification.json: Especificación técnica completa
+• Datasets CSV: Datos optimizados para Power BI
+• Esta guía: Instrucciones paso a paso
+
+SOPORTE TÉCNICO:
+Para consultas sobre la implementación, revisar los logs
+de ETL y la documentación del proceso de minería de datos.
+
+===============================================
+GUÍA GENERADA AUTOMÁTICAMENTE
+SISTEMA ETL TECHSKILLS v2.0 + POWER BI
+===============================================
+        

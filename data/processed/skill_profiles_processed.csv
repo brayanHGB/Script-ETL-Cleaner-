@@ -1,0 +1,1403 @@
+id_persona,edad,ciudad,país,lenguajes_dominio,frameworks_dominio,certificaciones,años_experiencia,nivel_educativo,área_trabajo_actual,salario_actual_usd,source
+PER-90001,23.0,San Francisco,USA,Python|Swift|Scala,React,AWS CCP,1.0,Autodidacta,Backend,94479.0,profiles
+PER-90002,30.0,Madrid,España,TypeScript|Python,Flask|FastAPI,Unknown,3.0,Posgrado,IA,38159.0,profiles
+PER-90003,36.0,Valparaíso,Chile,Scala,Spark,Azure Fundamentals,3.0,Posgrado,Cloud,38.569,profiles
+PER-90004,18.0,SAN FRANCISCO,USA,Python|PHP|Go,Node.js|FastAPI,GCP ACE,5.0,Tecnólogo,Data Science,71658.0,profiles
+PER-90005,27.0,CDMX,México,C#|JavaScript,Spark|Angular,GCP ACE,2.0,Autodidacta,BI/Analytics,18.612,profiles
+PER-90006,22.0,Puebla,México,Java|R,.NET|Vue,AWS CCP,0.0,Pregrado,Backend,11325.0,profiles
+PER-90007,26.0,Bogotá,Colombia,C#|PHP,Angular,AWS CCP,5.0,Autodidacta,Backend,14.884,profiles
+PER-90008,31.0,Bogotá,Colombia,javascript|swift,Spring|FastAPI,Cisco CCNA,5.0,Técnico,Frontend,18182.0,profiles
+PER-90009,27.0,Barranquilla,Colombia,Python|PHP|Swift,Laravel|Flask,Scrum Master|None,0.0,Autodidacta,Ciberseguridad,10187.0,profiles
+PER-90010,31.0,Valparaíso,Chile,Scala|Java,React|Flask,AWS CCP,0.0,Tecnólogo,Data Science,15.137,profiles
+PER-90011,35.0,Monterrey,México,Swift|C#,Vue,None|GCP ACE,0.0,Autodidacta,DevOps,15.759,profiles
+PER-90012,27.0,Santiago,Chile,Java|PHP,Angular,GCP ACE|None,3.0,Pregrado,BI/Analytics,40271.0,profiles
+PER-90013,32.0,Córdoba,Argentina,PHP,.NET,Azure Fundamentals|Cisco CCNA,1.0,Pregrado,Data Science,16715.0,profiles
+PER-90014,21.0,Valparaíso,Chile,Python|R|Kotlin,Spring,AWS CCP|Cisco CCNA,0.0,Tecnólogo,Data Science,21.691,profiles
+PER-90015,26.0,Puebla,México,PHP|Java,React|FastAPI,Cisco CCNA,1.0,Autodidacta,Backend,15888.0,profiles
+PER-90016,26.0,Sevilla,España,JavaScript,Spark,Scrum Master,1.0,Tecnólogo,Cloud,61231.0,profiles
+PER-90017,30.0,San Francisco,USA,R|Swift,Laravel|Django,GCP ACE,4.0,Pregrado,Frontend,116398.0,profiles
+PER-90018,23.0,Buenos Aires,Argentina,R,Spring,AWS CCP,0.0,Técnico,Data Science,15242.0,profiles
+PER-90019,31.0,Valparaíso,Chile,Go|TypeScript,FastAPI|Spark,GCP ACE,1.0,Tecnólogo,Frontend,21.216,profiles
+PER-90020,27.0,Valencia,España,JavaScript,.NET,AWS CCP,2.0,Técnico,Data Science,56.718,profiles
+PER-90021,27.0,Austin,USA,Kotlin|TypeScript,React|Spring,Unknown,1.0,Técnico,Data Science,,profiles
+PER-90022,28.0,Bogotá,Colombia,Python|Kotlin|TypeScript,Spring|Flask,AWS CCP,4.0,Pregrado,BI/Analytics,17.958,profiles
+PER-90023,33.0,CDMX,México,Scala|C#|Swift,Spring|Node.js,Azure Fundamentals,2.0,Tecnólogo,Frontend,17113.0,profiles
+PER-90024,39.0,Lima,Perú,C#|Python,Node.js,Scrum Master,3.0,Pregrado,Data Science,19743.0,profiles
+PER-90025,22.0,Cartagena,Colombia,C#,React|Spring,Unknown,2.0,Autodidacta,DevOps,16650.0,profiles
+PER-90026,19.0,Santiago,Chile,TypeScript|PHP,Flask,Cisco CCNA,5.0,Técnico,Cloud,16343.0,profiles
+PER-90027,28.0,Cartagena,Colombia,Swift,FastAPI|Spark,Scrum Master,0.0,Pregrado,Cloud,16532.0,profiles
+PER-90028,25.0,Seattle,USA,PHP|Java,Spring|Vue,Azure Fundamentals,1.0,Posgrado,Ciberseguridad,109.488,profiles
+PER-90029,27.0,Cali,Colombia,PHP,Spring,Scrum Master|Azure Fundamentals,6.0,Pregrado,BI/Analytics,14234.0,profiles
+PER-90030,26.0,Monterrey,México,php|python|r,Spark,Unknown,4.0,Pregrado,Cloud,12729.0,profiles
+PER-90031,36.0,Valparaíso,Chile,JavaScript|Java,Angular|React,GCP ACE|None,0.0,Pregrado,Cloud,17555.0,profiles
+PER-90032,23.0,Lima,Perú,TypeScript|R,Node.js|Flask,Scrum Master|AWS CCP,3.0,Posgrado,Cloud,15978.0,profiles
+PER-90033,21.0,Valencia,España,C#|Java,Angular|.NET,Azure Fundamentals,6.0,Pregrado,BI/Analytics,46214.0,profiles
+PER-90034,23.0,BUENOS AIRES,Argentina,JavaScript,Laravel,Azure Fundamentals|GCP ACE,5.0,Autodidacta,Cloud,24773.0,profiles
+PER-90035,31.0,Barcelona,España,r|swift,Flask|Angular,AWS CCP,5.0,Pregrado,IA,49518.0,profiles
+PER-90036,34.0,Valparaíso,Chile,R|Scala,Flask,GCP ACE,1.0,Pregrado,Data Science,20562.0,profiles
+PER-90037,28.0,PUEBLA,México,Kotlin,Node.js|React,Scrum Master|Cisco CCNA,6.0,Pregrado,IA,15.807,profiles
+PER-90038,25.0,Córdoba,Argentina,TypeScript,Flask,Azure Fundamentals,1.0,Autodidacta,Data Science,17.751,profiles
+PER-90039,,Buenos Aires,Argentina,Go|Scala,Node.js,Scrum Master|GCP ACE,5.0,Pregrado,Backend,23387.0,profiles
+PER-90040,19.0,Puebla,México,C#|JavaScript|Python,Spring|Angular,Scrum Master,3.0,Técnico,Backend,16799.0,profiles
+PER-90041,22.0,Buenos Aires,Argentina,javascript|python|r,Angular|.NET,AWS CCP,4.0,Pregrado,Data Science,18865.0,profiles
+PER-90042,23.0,Concepción,Chile,PHP,.NET|Vue,GCP ACE,3.0,Tecnólogo,Backend,21658.0,profiles
+PER-90043,33.0,Cusco,Perú,Java|TypeScript,Node.js,AWS CCP,2.0,Tecnólogo,BI/Analytics,22858.0,profiles
+PER-90044,23.0,SANTIAGO,Chile,swift|java,Spark,GCP ACE,3.0,Autodidacta,Cloud,27.353,profiles
+PER-90045,31.0,Arequipa,Perú,Swift|Python,Spring|Angular,Azure Fundamentals,1.0,Posgrado,Ciberseguridad,13.684,profiles
+PER-90046,34.0,Miami,USA,C#|TypeScript,Vue|React,Scrum Master,4.0,Posgrado,IA,136.256,profiles
+PER-90047,38.0,Santiago,Chile,scala|python,Vue|Django,Cisco CCNA|AWS CCP,3.0,Autodidacta,IA,40824.0,profiles
+PER-90048,32.0,Buenos Aires,Argentina,Swift|Scala,Flask,Unknown,1.0,Pregrado,BI/Analytics,12677.0,profiles
+PER-90049,27.0,Córdoba,Argentina,c#|php,Vue|.NET,Azure Fundamentals,4.0,Tecnólogo,Data Science,14790.0,profiles
+PER-90050,20.0,VALPARAÍSO,Chile,C#,Flask,Cisco CCNA,1.0,Autodidacta,Backend,30098.0,profiles
+PER-90051,34.0,Bucaramanga,Colombia,Swift|Python,FastAPI,AWS CCP,4.0,Pregrado,Data Science,13059.0,profiles
+PER-90052,18.0,Arequipa,Perú,Kotlin|Go|Python,.NET,Azure Fundamentals,4.0,Autodidacta,Backend,22824.0,profiles
+PER-90053,27.0,Cusco,Perú,Kotlin|TypeScript|R,Spring,AWS CCP,4.0,Técnico,Backend,14.408,profiles
+PER-90054,29.0,Valparaíso,Chile,Scala|Python,Laravel,Scrum Master|Cisco CCNA,1.0,Posgrado,DevOps,22253.0,profiles
+PER-90055,29.0,Lima,Perú,c#,Angular|Flask,Unknown,3.0,Posgrado,Backend,15257.0,profiles
+PER-90056,18.0,MIAMI,USA,Kotlin,.NET,GCP ACE,7.0,Técnico,Ciberseguridad,68954.0,profiles
+PER-90057,25.0,Córdoba,Argentina,R|Kotlin,Flask,Unknown,0.0,Tecnólogo,Frontend,31216.0,profiles
+PER-90058,39.0,Monterrey,México,JavaScript,Django,Cisco CCNA,1.0,Técnico,Backend,13712.0,profiles
+PER-90059,35.0,santiago,Chile,PHP|JavaScript,.NET,GCP ACE,1.0,Posgrado,DevOps,25666.0,profiles
+PER-90060,31.0,Miami,USA,kotlin|c#,.NET|Node.js,AWS CCP|GCP ACE,3.0,Posgrado,Backend,73314.0,profiles
+PER-90061,41.0,Concepción,Chile,C#|TypeScript,Angular,GCP ACE,4.0,Posgrado,BI/Analytics,20401.0,profiles
+PER-90062,24.0,New York,USA,R|Go,Angular,AWS CCP,2.0,Tecnólogo,Frontend,69371.0,profiles
+PER-90063,,Buenos Aires,Argentina,JavaScript|Kotlin,FastAPI,Azure Fundamentals|None,2.0,Técnico,IA,36761.0,profiles
+PER-90064,20.0,???,México,Kotlin|TypeScript,Angular,AWS CCP|Cisco CCNA,2.0,Autodidacta,Backend,23279.0,profiles
+PER-90065,29.0,Barcelona,España,Scala,Vue|Spark,Unknown,6.0,Pregrado,Backend,32030.0,profiles
+PER-90066,30.0,Concepción,Chile,python|javascript,Node.js,Scrum Master|Cisco CCNA,1.0,Pregrado,DevOps,26.849,profiles
+PER-90067,39.0,New York,USA,Swift,React,AWS CCP,1.0,Pregrado,BI/Analytics,69058.0,profiles
+PER-90068,38.0,Concepción,Chile,C#,Laravel|Angular,GCP ACE|Cisco CCNA,2.0,Autodidacta,Data Science,28.346,profiles
+PER-90069,34.0,Córdoba,Argentina,PHP|Scala,Vue,GCP ACE,4.0,Tecnólogo,DevOps,22.504,profiles
+PER-90070,29.0,CDMX,México,Scala|JavaScript,Angular,Cisco CCNA,2.0,Tecnólogo,IA,21090.0,profiles
+PER-90071,26.0,Cusco,Perú,Python|Java,FastAPI,Azure Fundamentals,5.0,Pregrado,DevOps,22.978,profiles
+PER-90072,38.0,???,Colombia,Java|JavaScript|Scala,Vue|Node.js,Cisco CCNA|Azure Fundamentals,6.0,Autodidacta,Cloud,9214.0,profiles
+PER-90073,34.0,Puebla,México,Swift,Spark|FastAPI,Unknown,0.0,Posgrado,Data Science,19880.0,profiles
+PER-90074,27.0,Madrid,España,C#,Spark,GCP ACE|Cisco CCNA,5.0,Tecnólogo,DevOps,33778.0,profiles
+PER-90075,40.0,San Francisco,USA,JavaScript|TypeScript,Flask,Azure Fundamentals,6.0,Técnico,Backend,79.273,profiles
+PER-90076,36.0,Concepción,Chile,R|Kotlin|Swift,Node.js|Laravel,Scrum Master|GCP ACE,2.0,Posgrado,Ciberseguridad,22906.0,profiles
+PER-90077,32.0,Guadalajara,México,Kotlin,Spring|Laravel,Unknown,0.0,Pregrado,BI/Analytics,22230.0,profiles
+PER-90078,32.0,Valencia,España,swift,.NET,None,3.0,Técnico,Data Science,38380.0,profiles
+PER-90079,38.0,Arequipa,Perú,Java|TypeScript,Flask|FastAPI,Cisco CCNA,3.0,Posgrado,Cloud,12363.0,profiles
+PER-90080,33.0,Concepción,Chile,Swift,Laravel|.NET,None,0.0,Técnico,Frontend,36452.0,profiles
+PER-90081,22.0,Cusco,Perú,Scala|Go,Vue,Cisco CCNA|GCP ACE,1.0,Autodidacta,Ciberseguridad,30211.0,profiles
+PER-90082,21.0,Córdoba,Argentina,JavaScript|Kotlin,Django,Azure Fundamentals,2.0,Tecnólogo,Cloud,14305.0,profiles
+PER-90083,18.0,AUSTIN,USA,PHP|Kotlin,Laravel,Cisco CCNA,4.0,Autodidacta,BI/Analytics,99049.0,profiles
+PER-90084,22.0,Valparaíso,Chile,Scala|Java|Kotlin,Node.js,Scrum Master,2.0,Autodidacta,Frontend,19474.0,profiles
+PER-90085,36.0,Barranquilla,Colombia,python,Node.js,Scrum Master|AWS CCP,3.0,Técnico,Data Science,18963.0,profiles
+PER-90086,25.0,Valparaíso,Chile,PHP|TypeScript,.NET|Spring,Azure Fundamentals,4.0,Pregrado,Backend,21.477,profiles
+PER-90087,23.0,Austin,USA,Kotlin|R,Spark|.NET,None|Azure Fundamentals,4.0,Pregrado,Cloud,91345.0,profiles
+PER-90088,30.0,Valparaíso,Chile,PHP,Flask,Azure Fundamentals,6.0,Autodidacta,Cloud,33024.0,profiles
+PER-90089,18.0,Santiago,Chile,R,.NET,Scrum Master|Azure Fundamentals,5.0,Técnico,DevOps,27319.0,profiles
+PER-90090,24.0,Lima,Perú,TypeScript|Scala,Spring,Scrum Master|Azure Fundamentals,3.0,Pregrado,Data Science,19212.0,profiles
+PER-90091,31.0,???,Argentina,JavaScript|Go|Swift,Spark,Scrum Master,0.0,Autodidacta,Cloud,16194.0,profiles
+PER-90092,36.0,Medellín,Colombia,JavaScript|Swift,Vue|Spring,AWS CCP,7.0,Tecnólogo,IA,9567.0,profiles
+PER-90093,24.0,Sevilla,España,TypeScript|PHP|JavaScript,Spark,Scrum Master|Cisco CCNA,0.0,Posgrado,Data Science,49122.0,profiles
+PER-90094,39.0,???,España,Swift|PHP|Python,Angular|FastAPI,Cisco CCNA,3.0,Posgrado,Frontend,24201.0,profiles
+PER-90095,38.0,New York,USA,Java|Swift,Laravel|Angular,Cisco CCNA|Azure Fundamentals,5.0,Pregrado,Frontend,58868.0,profiles
+PER-90096,27.0,Cartagena,Colombia,Swift|JavaScript,Vue|FastAPI,AWS CCP,3.0,Posgrado,BI/Analytics,11641.0,profiles
+PER-90097,32.0,New York,USA,Scala,Django,Scrum Master,0.0,Tecnólogo,Frontend,,profiles
+PER-90098,28.0,New York,USA,Python,Flask|React,Scrum Master,5.0,Posgrado,Frontend,119630.0,profiles
+PER-90099,33.0,Guadalajara,México,Scala,Laravel,Scrum Master,3.0,Técnico,Backend,14274.0,profiles
+PER-90100,31.0,Cartagena,Colombia,C#|TypeScript,Spark|Vue,Azure Fundamentals|None,1.0,Tecnólogo,DevOps,9006.0,profiles
+PER-90101,37.0,???,USA,swift|php,Spark|Angular,Azure Fundamentals,2.0,Técnico,DevOps,73388.0,profiles
+PER-90102,,Buenos Aires,Argentina,C#|Go,Vue|Flask,Cisco CCNA,0.0,Técnico,DevOps,12630.0,profiles
+PER-90103,26.0,Buenos Aires,Argentina,TypeScript|Kotlin|Scala,Vue,None,4.0,Técnico,IA,19060.0,profiles
+PER-90104,20.0,Córdoba,Argentina,Go|TypeScript|R,Node.js,Cisco CCNA,0.0,Tecnólogo,Data Science,16.123,profiles
+PER-90105,29.0,Barcelona,España,Go,Django|Node.js,Scrum Master,6.0,Autodidacta,Backend,44892.0,profiles
+PER-90106,32.0,Valparaíso,Chile,Go|Java,Django|FastAPI,GCP ACE,0.0,Tecnólogo,Ciberseguridad,22530.0,profiles
+PER-90107,30.0,Puebla,México,Java|TypeScript,Vue,AWS CCP,2.0,Pregrado,IA,14.065,profiles
+PER-90108,28.0,Arequipa,Perú,Java|Python,Vue|Flask,None|AWS CCP,2.0,Pregrado,BI/Analytics,20841.0,profiles
+PER-90109,28.0,Seattle,USA,PHP,Angular,Scrum Master,2.0,Pregrado,Frontend,71314.0,profiles
+PER-90110,31.0,Córdoba,Argentina,kotlin|php,Spring,Scrum Master,6.0,Técnico,Ciberseguridad,17615.0,profiles
+PER-90111,39.0,Barranquilla,Colombia,R|Java,Laravel|Node.js,Cisco CCNA,2.0,Tecnólogo,Cloud,10.326,profiles
+PER-90112,26.0,Guadalajara,México,Java|JavaScript,Laravel,GCP ACE,0.0,Técnico,BI/Analytics,21258.0,profiles
+PER-90113,20.0,Santiago,Chile,Swift|Kotlin,Laravel|Angular,Azure Fundamentals|Cisco CCNA,0.0,Técnico,IA,17091.0,profiles
+PER-90114,24.0,SEATTLE,USA,r|kotlin,Vue,AWS CCP,4.0,Posgrado,Ciberseguridad,78479.0,profiles
+PER-90115,31.0,Concepción,Chile,Java|R,Django|Spring,AWS CCP|GCP ACE,2.0,Tecnólogo,DevOps,21469.0,profiles
+PER-90116,33.0,Cusco,Perú,Kotlin|TypeScript,Spark,AWS CCP|Azure Fundamentals,1.0,Técnico,IA,19.605,profiles
+PER-90117,32.0,Cali,Colombia,JavaScript,Django,GCP ACE|None,3.0,Técnico,Frontend,14384.0,profiles
+PER-90118,18.0,New York,USA,c#|php,Spark|Django,Azure Fundamentals|Scrum Master,4.0,Autodidacta,BI/Analytics,81367.0,profiles
+PER-90119,31.0,Austin,USA,TypeScript|PHP|Scala,Flask|FastAPI,GCP ACE,4.0,Posgrado,Cloud,72865.0,profiles
+PER-90120,29.0,Buenos Aires,Argentina,Go|Swift|JavaScript,Node.js,Cisco CCNA,1.0,Pregrado,BI/Analytics,37479.0,profiles
+PER-90121,36.0,Buenos Aires,Argentina,Go|PHP|Swift,.NET|Spark,Azure Fundamentals,3.0,Tecnólogo,Cloud,16665.0,profiles
+PER-90122,28.0,BARRANQUILLA,Colombia,C#|Python,Angular|Django,Azure Fundamentals,3.0,Posgrado,Cloud,9197.0,profiles
+PER-90123,26.0,Barranquilla,Colombia,Kotlin|Java,.NET,AWS CCP|None,5.0,Pregrado,Backend,14101.0,profiles
+PER-90124,,LIMA,Perú,Swift|C#|JavaScript,Django,GCP ACE|Azure Fundamentals,1.0,Autodidacta,Ciberseguridad,23379.0,profiles
+PER-90125,26.0,Cusco,Perú,C#|Python|Java,React,AWS CCP,4.0,Tecnólogo,Cloud,25.598,profiles
+PER-90126,29.0,???,Colombia,PHP|R,FastAPI,Scrum Master,2.0,Autodidacta,Frontend,17.42,profiles
+PER-90127,18.0,Medellín,Colombia,R|C#,FastAPI|Angular,Azure Fundamentals,2.0,Autodidacta,Backend,21.857,profiles
+PER-90128,36.0,Miami,USA,Go,.NET|Spark,None|Cisco CCNA,3.0,Autodidacta,BI/Analytics,102.22,profiles
+PER-90129,31.0,Santiago,Chile,JavaScript|PHP,Spring|Node.js,AWS CCP,0.0,Posgrado,DevOps,25427.0,profiles
+PER-90130,22.0,San Francisco,USA,Java|Go,Flask,None|AWS CCP,4.0,Técnico,Backend,,profiles
+PER-90131,28.0,Cali,Colombia,JavaScript,Django,GCP ACE|Cisco CCNA,1.0,Técnico,IA,15500.0,profiles
+PER-90132,27.0,Valparaíso,Chile,c#|typescript,Node.js,AWS CCP,4.0,Posgrado,Backend,24483.0,profiles
+PER-90133,31.0,Guadalajara,México,TypeScript|Kotlin,Flask,Scrum Master|Cisco CCNA,7.0,Pregrado,Frontend,19902.0,profiles
+PER-90134,18.0,???,USA,C#|Java,Flask,Scrum Master,3.0,Tecnólogo,DevOps,93879.0,profiles
+PER-90135,18.0,Buenos Aires,Argentina,Swift|Python,Vue|Django,AWS CCP,0.0,Tecnólogo,BI/Analytics,15419.0,profiles
+PER-90136,27.0,Madrid,España,Swift,Django|Spring,Unknown,1.0,Posgrado,DevOps,40788.0,profiles
+PER-90137,26.0,Concepción,Chile,typescript|javascript|kotlin,FastAPI|Spring,Unknown,0.0,Autodidacta,Frontend,37.532,profiles
+PER-90138,32.0,Cusco,Perú,TypeScript|Scala,Angular,AWS CCP,5.0,Pregrado,Ciberseguridad,13954.0,profiles
+PER-90139,31.0,CDMX,México,Kotlin,Spring,Scrum Master,3.0,Pregrado,Data Science,20418.0,profiles
+PER-90140,31.0,Monterrey,México,R|Java|Go,Spark|Flask,Cisco CCNA,1.0,Técnico,Data Science,18427.0,profiles
+PER-90141,24.0,Puebla,México,C#|Swift,Node.js,Cisco CCNA,4.0,Autodidacta,IA,27.73,profiles
+PER-90142,27.0,Barranquilla,Colombia,Scala|Go,Flask,Cisco CCNA|AWS CCP,5.0,Posgrado,DevOps,11286.0,profiles
+PER-90143,19.0,Bucaramanga,Colombia,Scala|Go,.NET,AWS CCP|Cisco CCNA,1.0,Autodidacta,Ciberseguridad,17300.0,profiles
+PER-90144,20.0,CDMX,México,r|kotlin,.NET|Laravel,Cisco CCNA,5.0,Autodidacta,DevOps,27468.0,profiles
+PER-90145,33.0,Valparaíso,Chile,JavaScript|C#,Vue|Laravel,Cisco CCNA,3.0,Autodidacta,Ciberseguridad,29.004,profiles
+PER-90146,21.0,Monterrey,México,R|Scala,Django,Cisco CCNA|GCP ACE,1.0,Autodidacta,Data Science,27345.0,profiles
+PER-90147,18.0,Puebla,México,Scala|TypeScript,.NET,Cisco CCNA,1.0,Posgrado,DevOps,18956.0,profiles
+PER-90148,31.0,Córdoba,Argentina,TypeScript|JavaScript|Kotlin,Vue,AWS CCP,2.0,Autodidacta,Data Science,12332.0,profiles
+PER-90149,33.0,Valparaíso,Chile,Scala,.NET|Spark,Scrum Master|AWS CCP,0.0,Tecnólogo,BI/Analytics,35995.0,profiles
+PER-90150,28.0,Sevilla,España,PHP,.NET,Unknown,4.0,Pregrado,BI/Analytics,58778.0,profiles
+PER-90151,23.0,Córdoba,Argentina,TypeScript|Python,Node.js,Azure Fundamentals|Cisco CCNA,5.0,Técnico,Backend,26271.0,profiles
+PER-90152,25.0,San Francisco,USA,R|PHP,React,Unknown,3.0,Pregrado,Backend,80192.0,profiles
+PER-90153,34.0,austin,USA,php|scala,Django|.NET,GCP ACE,3.0,Tecnólogo,DevOps,118413.0,profiles
+PER-90154,30.0,???,Chile,Python|JavaScript,.NET|Node.js,Azure Fundamentals,0.0,Posgrado,BI/Analytics,44920.0,profiles
+PER-90155,18.0,Miami,USA,PHP,Spark,AWS CCP|GCP ACE,1.0,Tecnólogo,BI/Analytics,82173.0,profiles
+PER-90156,40.0,Concepción,Chile,Scala|PHP,Laravel|Node.js,Scrum Master|Azure Fundamentals,0.0,Posgrado,Backend,38714.0,profiles
+PER-90157,29.0,seattle,USA,C#,Vue,None|AWS CCP,4.0,Tecnólogo,Data Science,104399.0,profiles
+PER-90158,25.0,MONTERREY,México,PHP|Java|Go,Vue|.NET,None|AWS CCP,0.0,Posgrado,BI/Analytics,16.292,profiles
+PER-90159,,Santiago,Chile,TypeScript,Django,GCP ACE|AWS CCP,5.0,Técnico,Frontend,38940.0,profiles
+PER-90160,33.0,SEVILLA,España,TypeScript|JavaScript,Node.js|Django,None|AWS CCP,0.0,Tecnólogo,Frontend,27.144,profiles
+PER-90161,32.0,Miami,USA,Python|Java|Swift,Vue|Angular,GCP ACE,5.0,Pregrado,Frontend,83258.0,profiles
+PER-90162,35.0,Valencia,España,swift|java,Django|React,None,0.0,Posgrado,Data Science,23743.0,profiles
+PER-90163,28.0,Lima,Perú,PHP|Scala,Django|Angular,Unknown,3.0,Técnico,Ciberseguridad,15538.0,profiles
+PER-90164,19.0,Lima,Perú,Swift|C#|Go,Laravel|Spring,AWS CCP,2.0,Posgrado,Backend,19.357,profiles
+PER-90165,25.0,Cartagena,Colombia,C#|Go,Spring,Azure Fundamentals|AWS CCP,3.0,Pregrado,Ciberseguridad,12747.0,profiles
+PER-90166,27.0,Cusco,Perú,C#,Spring,AWS CCP,3.0,Técnico,Backend,17785.0,profiles
+PER-90167,26.0,Córdoba,Argentina,Swift,FastAPI,Scrum Master,0.0,Autodidacta,IA,15984.0,profiles
+PER-90168,31.0,Buenos Aires,Argentina,r|python|php,React,AWS CCP,4.0,Posgrado,Ciberseguridad,28791.0,profiles
+PER-90169,36.0,Barranquilla,Colombia,PHP,Spring,Cisco CCNA,2.0,Posgrado,Frontend,10211.0,profiles
+PER-90170,27.0,Madrid,España,R|Scala,Node.js|FastAPI,Scrum Master,1.0,Técnico,Data Science,32675.0,profiles
+PER-90171,,Barranquilla,Colombia,Go,.NET|Angular,Azure Fundamentals,0.0,Pregrado,Cloud,12.279,profiles
+PER-90172,19.0,Lima,Perú,typescript|c#,Flask|React,GCP ACE,2.0,Posgrado,DevOps,14085.0,profiles
+PER-90173,24.0,Rosario,Argentina,r|java,Vue|Node.js,None|GCP ACE,3.0,Posgrado,IA,18908.0,profiles
+PER-90174,26.0,Concepción,Chile,php,Angular,AWS CCP|Azure Fundamentals,1.0,Pregrado,BI/Analytics,18490.0,profiles
+PER-90175,30.0,ROSARIO,Argentina,R|Kotlin,Flask,None|Scrum Master,0.0,Tecnólogo,Ciberseguridad,26424.0,profiles
+PER-90176,33.0,Miami,USA,Go|TypeScript|Kotlin,.NET,Scrum Master,3.0,Pregrado,DevOps,120398.0,profiles
+PER-90177,31.0,Guadalajara,México,Swift|Go,Laravel,GCP ACE,5.0,Tecnólogo,Cloud,11942.0,profiles
+PER-90178,24.0,Buenos Aires,Argentina,go,.NET,None|GCP ACE,0.0,Tecnólogo,Data Science,15878.0,profiles
+PER-90179,25.0,Arequipa,Perú,Python,FastAPI|Node.js,Unknown,3.0,Pregrado,Cloud,11804.0,profiles
+PER-90180,28.0,Seattle,USA,Python,FastAPI|Flask,Azure Fundamentals,0.0,Posgrado,Ciberseguridad,74445.0,profiles
+PER-90181,21.0,Puebla,México,Kotlin|C#,Flask,GCP ACE,4.0,Técnico,DevOps,17696.0,profiles
+PER-90182,26.0,Valparaíso,Chile,TypeScript,Spark,Unknown,4.0,Técnico,Ciberseguridad,24446.0,profiles
+PER-90183,24.0,Cusco,Perú,Go|PHP,Angular,Cisco CCNA,3.0,Autodidacta,Backend,15.109,profiles
+PER-90184,28.0,Miami,USA,R|Java|C#,Spring|FastAPI,Cisco CCNA|AWS CCP,1.0,Autodidacta,Frontend,105807.0,profiles
+PER-90185,33.0,Sevilla,España,TypeScript|Go|R,.NET,GCP ACE,5.0,Técnico,BI/Analytics,43913.0,profiles
+PER-90186,31.0,Santiago,Chile,Python|Swift|Go,Angular|Laravel,Cisco CCNA|None,2.0,Pregrado,Cloud,24877.0,profiles
+PER-90187,41.0,San Francisco,USA,TypeScript|C#,Angular|Django,Unknown,3.0,Tecnólogo,Backend,99744.0,profiles
+PER-90188,27.0,Valencia,España,Scala|TypeScript,Django|FastAPI,AWS CCP|None,3.0,Autodidacta,Backend,48110.0,profiles
+PER-90189,29.0,Sevilla,España,Java|C#,Spark|Django,GCP ACE|Azure Fundamentals,4.0,Autodidacta,Frontend,56591.0,profiles
+PER-90190,28.0,Bogotá,Colombia,Go,.NET|Node.js,Scrum Master,1.0,Autodidacta,IA,16866.0,profiles
+PER-90191,35.0,CDMX,México,Swift|Scala|PHP,Django|Node.js,Cisco CCNA|Azure Fundamentals,1.0,Posgrado,DevOps,23678.0,profiles
+PER-90192,18.0,San Francisco,USA,PHP,Django,Azure Fundamentals,4.0,Tecnólogo,Data Science,112335.0,profiles
+PER-90193,27.0,Rosario,Argentina,r|php|kotlin,Django|Node.js,AWS CCP|Azure Fundamentals,0.0,Posgrado,BI/Analytics,20720.0,profiles
+PER-90194,18.0,Valparaíso,Chile,PHP|JavaScript|Go,Node.js|Flask,None|AWS CCP,1.0,Autodidacta,Frontend,16678.0,profiles
+PER-90195,25.0,Cusco,Perú,c#|swift,FastAPI,Cisco CCNA|Azure Fundamentals,5.0,Posgrado,Backend,28944.0,profiles
+PER-90196,39.0,Cali,Colombia,Python|Java,Flask,Cisco CCNA,3.0,Pregrado,DevOps,9726.0,profiles
+PER-90197,24.0,Concepción,Chile,Swift|Go,Django|Spark,Unknown,4.0,Autodidacta,Cloud,27199.0,profiles
+PER-90198,36.0,Medellín,Colombia,Swift|Scala|C#,Flask,Azure Fundamentals,4.0,Tecnólogo,IA,7691.0,profiles
+PER-90199,,Concepción,Chile,Java|Kotlin,React|Node.js,Azure Fundamentals,1.0,Pregrado,Frontend,25918.0,profiles
+PER-90200,23.0,Barcelona,España,C#|Kotlin|TypeScript,React|FastAPI,GCP ACE,3.0,Pregrado,DevOps,68.551,profiles
+PER-90201,39.0,Puebla,México,JavaScript|TypeScript,Spark,Scrum Master|None,3.0,Pregrado,IA,15935.0,profiles
+PER-90202,33.0,New York,USA,Java|R,Node.js|Spring,Unknown,3.0,Autodidacta,Backend,70827.0,profiles
+PER-90203,,???,España,javascript|kotlin|typescript,Spring|Spark,Cisco CCNA,4.0,Pregrado,Cloud,59073.0,profiles
+PER-90204,27.0,Santiago,Chile,Swift|JavaScript|Python,Spark,AWS CCP|GCP ACE,3.0,Autodidacta,Ciberseguridad,22788.0,profiles
+PER-90205,23.0,Barcelona,España,Kotlin|C#,React|Spark,AWS CCP,1.0,Tecnólogo,DevOps,44.896,profiles
+PER-90206,25.0,Sevilla,España,Kotlin,Spring|React,Scrum Master|GCP ACE,4.0,Tecnólogo,BI/Analytics,28180.0,profiles
+PER-90207,26.0,Barcelona,España,Scala|Java,.NET|Spring,GCP ACE|AWS CCP,4.0,Técnico,Frontend,26254.0,profiles
+PER-90208,39.0,Valencia,España,C#|TypeScript,Spark|.NET,GCP ACE,2.0,Autodidacta,IA,39317.0,profiles
+PER-90209,26.0,New York,USA,C#|Kotlin,Angular,Cisco CCNA|AWS CCP,0.0,Tecnólogo,Frontend,60611.0,profiles
+PER-90210,31.0,???,Argentina,Go|Swift|Java,FastAPI,AWS CCP|Scrum Master,4.0,Posgrado,Data Science,15368.0,profiles
+PER-90211,23.0,Córdoba,Argentina,Scala|Kotlin,.NET|React,Cisco CCNA,3.0,Pregrado,Data Science,21234.0,profiles
+PER-90212,29.0,Valencia,España,javascript|scala,Node.js,GCP ACE,1.0,Autodidacta,Backend,57709.0,profiles
+PER-90213,22.0,Puebla,México,Java,Node.js,AWS CCP|Azure Fundamentals,1.0,Pregrado,Frontend,15.986,profiles
+PER-90214,32.0,Barcelona,España,PHP|TypeScript,FastAPI,Azure Fundamentals|AWS CCP,3.0,Posgrado,Ciberseguridad,59253.0,profiles
+PER-90215,22.0,Cusco,Perú,Python|Go|Scala,.NET|FastAPI,Scrum Master,4.0,Técnico,Data Science,13688.0,profiles
+PER-90216,24.0,Medellín,Colombia,R,Flask|Node.js,None|AWS CCP,1.0,Pregrado,Frontend,13067.0,profiles
+PER-90217,25.0,Córdoba,Argentina,Kotlin,Node.js|React,Scrum Master,3.0,Pregrado,Data Science,16.054,profiles
+PER-90218,28.0,Buenos Aires,Argentina,python|php,Angular|Node.js,AWS CCP,2.0,Técnico,Data Science,20748.0,profiles
+PER-90219,26.0,Concepción,Chile,python|java|r,Spring|Django,Azure Fundamentals|None,0.0,Pregrado,Ciberseguridad,31625.0,profiles
+PER-90220,28.0,New York,USA,R|Go,Angular|Django,Azure Fundamentals|GCP ACE,3.0,Posgrado,IA,120713.0,profiles
+PER-90221,31.0,BOGOTÁ,Colombia,Kotlin,Vue|React,GCP ACE|Scrum Master,0.0,Técnico,Cloud,10404.0,profiles
+PER-90222,36.0,Santiago,Chile,Go|C#,Spark,AWS CCP|None,1.0,Tecnólogo,Cloud,32.941,profiles
+PER-90223,23.0,Puebla,México,Swift|Kotlin,Vue,Cisco CCNA,2.0,Tecnólogo,BI/Analytics,17917.0,profiles
+PER-90224,31.0,Miami,USA,C#|JavaScript,Spark,GCP ACE,4.0,Tecnólogo,Data Science,70943.0,profiles
+PER-90225,30.0,CDMX,México,r|c#|scala,Angular,Scrum Master,4.0,Posgrado,IA,19.639,profiles
+PER-90226,18.0,Madrid,España,PHP|C#,FastAPI|React,Scrum Master,0.0,Posgrado,DevOps,17.824,profiles
+PER-90227,42.0,CDMX,México,PHP|Java,Spark,AWS CCP|Cisco CCNA,3.0,Autodidacta,BI/Analytics,26987.0,profiles
+PER-90228,34.0,Bogotá,Colombia,Kotlin|TypeScript,Angular,AWS CCP|Scrum Master,5.0,Pregrado,Data Science,11565.0,profiles
+PER-90229,25.0,Cusco,Perú,Scala,Angular|Spark,Scrum Master,5.0,Autodidacta,IA,14225.0,profiles
+PER-90230,26.0,Valencia,España,JavaScript|Kotlin,Django|Node.js,Unknown,3.0,Tecnólogo,IA,38342.0,profiles
+PER-90231,29.0,Cartagena,Colombia,PHP|TypeScript|C#,Spring|Spark,Azure Fundamentals,3.0,Pregrado,Backend,16494.0,profiles
+PER-90232,,San Francisco,USA,Scala|C#|R,Angular|FastAPI,AWS CCP|Cisco CCNA,0.0,Posgrado,Cloud,89461.0,profiles
+PER-90233,23.0,???,España,R|PHP,Laravel|FastAPI,Azure Fundamentals|GCP ACE,0.0,Autodidacta,Backend,40856.0,profiles
+PER-90234,37.0,Valparaíso,Chile,go|c#|r,Flask,AWS CCP|Azure Fundamentals,4.0,Técnico,Ciberseguridad,30026.0,profiles
+PER-90235,27.0,Lima,Perú,Go|Python,Spring|Spark,None|AWS CCP,8.0,Técnico,IA,20.614,profiles
+PER-90236,27.0,San Francisco,USA,kotlin|typescript,Angular,AWS CCP,4.0,Autodidacta,BI/Analytics,64561.0,profiles
+PER-90237,20.0,Bucaramanga,Colombia,PHP|Swift,Laravel|Spark,None|GCP ACE,0.0,Posgrado,Data Science,22117.0,profiles
+PER-90238,28.0,Barcelona,España,C#,Laravel|Django,Cisco CCNA,6.0,Tecnólogo,Data Science,36.576,profiles
+PER-90239,32.0,bogotá,Colombia,c#|kotlin|php,FastAPI|Flask,Azure Fundamentals,3.0,Tecnólogo,Backend,18957.0,profiles
+PER-90240,30.0,Arequipa,Perú,TypeScript|Kotlin,Flask|Django,Azure Fundamentals,0.0,Pregrado,Backend,29201.0,profiles
+PER-90241,30.0,seattle,USA,C#,Spark|Laravel,GCP ACE,5.0,Posgrado,Cloud,123828.0,profiles
+PER-90242,22.0,guadalajara,México,Python|Scala|Java,Node.js|Laravel,None|Scrum Master,2.0,Técnico,DevOps,16626.0,profiles
+PER-90243,37.0,Lima,Perú,TypeScript|Java,Django,GCP ACE,0.0,Pregrado,Backend,16176.0,profiles
+PER-90244,29.0,Valencia,España,r|typescript,Django,Cisco CCNA,2.0,Autodidacta,Frontend,26.973,profiles
+PER-90245,30.0,Rosario,Argentina,C#|Java,.NET|Vue,Cisco CCNA,5.0,Autodidacta,Data Science,19690.0,profiles
+PER-90246,34.0,Buenos Aires,Argentina,Python|Java,.NET|Spring,Azure Fundamentals,0.0,Autodidacta,Cloud,24323.0,profiles
+PER-90247,32.0,Arequipa,Perú,Go|PHP,Angular,Cisco CCNA|AWS CCP,2.0,Tecnólogo,Ciberseguridad,9668.0,profiles
+PER-90248,37.0,Rosario,Argentina,C#,Laravel|FastAPI,AWS CCP,0.0,Tecnólogo,BI/Analytics,23137.0,profiles
+PER-90249,25.0,ROSARIO,Argentina,Kotlin|PHP,Spring|Django,Scrum Master,1.0,Pregrado,IA,14518.0,profiles
+PER-90250,24.0,Miami,USA,C#,Laravel|React,AWS CCP,3.0,Tecnólogo,IA,72286.0,profiles
+PER-90251,31.0,Cali,Colombia,Kotlin|Swift|JavaScript,Vue,GCP ACE,3.0,Posgrado,BI/Analytics,11.309,profiles
+PER-90252,40.0,Valparaíso,Chile,r|javascript,FastAPI|Django,AWS CCP,1.0,Autodidacta,Data Science,17.505,profiles
+PER-90253,35.0,???,Chile,Kotlin|Java|PHP,Node.js|Laravel,AWS CCP,3.0,Técnico,Backend,34751.0,profiles
+PER-90254,31.0,Rosario,Argentina,Scala|C#,Spark|Spring,GCP ACE|None,2.0,Tecnólogo,BI/Analytics,27015.0,profiles
+PER-90255,21.0,Miami,USA,Go,FastAPI,Scrum Master|Cisco CCNA,2.0,Pregrado,Backend,82550.0,profiles
+PER-90256,18.0,Barranquilla,Colombia,typescript|php,Angular|Vue,GCP ACE,4.0,Posgrado,Backend,17924.0,profiles
+PER-90257,27.0,Guadalajara,México,Scala|Swift,Angular|Spring,AWS CCP,5.0,Pregrado,Cloud,25674.0,profiles
+PER-90258,25.0,valparaíso,Chile,php,Spring,Scrum Master,0.0,Tecnólogo,Cloud,34243.0,profiles
+PER-90259,32.0,Arequipa,Perú,R|Swift|Scala,React|Laravel,None|AWS CCP,5.0,Pregrado,IA,15.373,profiles
+PER-90260,31.0,Miami,USA,Java|PHP,Django,Cisco CCNA,5.0,Posgrado,IA,112343.0,profiles
+PER-90261,27.0,Valparaíso,Chile,Java|Kotlin|PHP,Vue,Unknown,1.0,Autodidacta,BI/Analytics,17145.0,profiles
+PER-90262,23.0,Santiago,Chile,C#|TypeScript,React,GCP ACE|Azure Fundamentals,3.0,Pregrado,Frontend,20.47,profiles
+PER-90263,26.0,Guadalajara,México,R|PHP,Laravel|Angular,AWS CCP,5.0,Autodidacta,Cloud,23944.0,profiles
+PER-90264,37.0,Puebla,México,Python|C#,Spring,Cisco CCNA,3.0,Tecnólogo,DevOps,17298.0,profiles
+PER-90265,30.0,New York,USA,Java|Kotlin|C#,React,None|AWS CCP,5.0,Autodidacta,Cloud,110115.0,profiles
+PER-90266,18.0,Valencia,España,JavaScript|C#|Scala,Spring,Unknown,0.0,Tecnólogo,Data Science,31334.0,profiles
+PER-90267,33.0,Seattle,USA,javascript|kotlin,Spring,Unknown,2.0,Técnico,IA,114784.0,profiles
+PER-90268,41.0,Sevilla,España,R|PHP,Laravel|.NET,AWS CCP|GCP ACE,2.0,Pregrado,IA,29069.0,profiles
+PER-90269,26.0,???,USA,PHP|Kotlin,Django,Cisco CCNA|None,5.0,Tecnólogo,Cloud,,profiles
+PER-90270,27.0,Lima,Perú,Swift|PHP,Spring,Azure Fundamentals,5.0,Autodidacta,Frontend,10753.0,profiles
+PER-90271,18.0,Concepción,Chile,Kotlin,Vue,Scrum Master,4.0,Pregrado,Data Science,19023.0,profiles
+PER-90272,,Monterrey,México,JavaScript|C#,Spark|Flask,AWS CCP|Cisco CCNA,4.0,Pregrado,IA,17909.0,profiles
+PER-90273,36.0,Monterrey,México,R|TypeScript,Spring|.NET,Scrum Master,1.0,Tecnólogo,BI/Analytics,22046.0,profiles
+PER-90274,32.0,Bucaramanga,Colombia,Scala|C#,Angular,Unknown,0.0,Posgrado,Ciberseguridad,17716.0,profiles
+PER-90275,32.0,New York,USA,JavaScript,Vue,AWS CCP|GCP ACE,3.0,Pregrado,Backend,81777.0,profiles
+PER-90276,33.0,Puebla,México,R|TypeScript,Laravel|Angular,Cisco CCNA,3.0,Autodidacta,Cloud,20832.0,profiles
+PER-90277,26.0,Sevilla,España,R|C#,Laravel|.NET,Azure Fundamentals|Scrum Master,5.0,Autodidacta,Ciberseguridad,31.844,profiles
+PER-90278,26.0,Puebla,México,Go|R|JavaScript,Django,Azure Fundamentals,3.0,Pregrado,Backend,21086.0,profiles
+PER-90279,31.0,Rosario,Argentina,Java|R,FastAPI,None|Cisco CCNA,2.0,Autodidacta,DevOps,30990.0,profiles
+PER-90280,18.0,Medellín,Colombia,TypeScript|Java,React|.NET,Cisco CCNA,1.0,Pregrado,Cloud,8262.0,profiles
+PER-90281,29.0,Guadalajara,México,php|python,Node.js|Angular,AWS CCP|None,2.0,Autodidacta,BI/Analytics,27796.0,profiles
+PER-90282,30.0,Rosario,Argentina,go|python,Spark,Cisco CCNA,3.0,Tecnólogo,BI/Analytics,17333.0,profiles
+PER-90283,,???,Chile,swift|r,Node.js,Scrum Master,4.0,Pregrado,BI/Analytics,35554.0,profiles
+PER-90284,27.0,Cartagena,Colombia,Kotlin|JavaScript|Python,React,Azure Fundamentals,6.0,Posgrado,IA,12.688,profiles
+PER-90285,28.0,Puebla,México,Swift|PHP|C#,Spring|Node.js,Unknown,2.0,Autodidacta,Cloud,27.568,profiles
+PER-90286,38.0,Barcelona,España,PHP|TypeScript|Python,.NET,Unknown,6.0,Pregrado,IA,56.527,profiles
+PER-90287,27.0,bogotá,Colombia,Java,FastAPI,Azure Fundamentals|AWS CCP,0.0,Pregrado,Cloud,22.125,profiles
+PER-90288,39.0,Cusco,Perú,TypeScript|PHP,React,Scrum Master,1.0,Autodidacta,Cloud,13838.0,profiles
+PER-90289,37.0,Austin,USA,typescript|kotlin|scala,Node.js|Laravel,Scrum Master,4.0,Técnico,DevOps,97586.0,profiles
+PER-90290,38.0,Miami,USA,Kotlin,Node.js|Spring,GCP ACE,1.0,Posgrado,Cloud,82604.0,profiles
+PER-90291,31.0,Cartagena,Colombia,r|kotlin|php,Laravel,Unknown,5.0,Pregrado,Data Science,14775.0,profiles
+PER-90292,21.0,Buenos Aires,Argentina,C#|Python|JavaScript,Spark|Node.js,Cisco CCNA,3.0,Autodidacta,Ciberseguridad,27927.0,profiles
+PER-90293,26.0,CDMX,México,TypeScript,Laravel|Flask,Azure Fundamentals,3.0,Posgrado,Cloud,17.838,profiles
+PER-90294,32.0,Santiago,Chile,JavaScript|TypeScript,FastAPI|Flask,Scrum Master,4.0,Pregrado,Backend,21784.0,profiles
+PER-90295,32.0,Miami,USA,Swift|Go,Flask,GCP ACE,2.0,Autodidacta,Backend,,profiles
+PER-90296,23.0,Lima,Perú,R|Swift,Django|Laravel,GCP ACE,2.0,Pregrado,Frontend,11593.0,profiles
+PER-90297,26.0,CDMX,México,JavaScript|TypeScript|R,Vue|FastAPI,AWS CCP,1.0,Tecnólogo,DevOps,16255.0,profiles
+PER-90298,35.0,Barranquilla,Colombia,Go|Scala|Python,.NET,AWS CCP,2.0,Tecnólogo,DevOps,8219.0,profiles
+PER-90299,30.0,Santiago,Chile,Go|PHP,Laravel|Node.js,None|AWS CCP,4.0,Técnico,Cloud,32547.0,profiles
+PER-90300,18.0,Austin,USA,swift|kotlin|c#,Node.js,Scrum Master,3.0,Técnico,Frontend,107652.0,profiles
+PER-90301,29.0,Rosario,Argentina,PHP|Java|TypeScript,React,Azure Fundamentals|Scrum Master,4.0,Pregrado,Data Science,16017.0,profiles
+PER-90302,25.0,Puebla,México,TypeScript|Java|JavaScript,FastAPI|React,Azure Fundamentals,3.0,Posgrado,Frontend,27865.0,profiles
+PER-90303,37.0,Arequipa,Perú,C#,Spark|Laravel,AWS CCP,7.0,Técnico,DevOps,11790.0,profiles
+PER-90304,38.0,Valparaiso,Chile,python,Vue|Spring,GCP ACE,6.0,Posgrado,Data Science,24383.0,profiles
+PER-90305,24.0,Santiago,Chile,Kotlin,.NET,AWS CCP|GCP ACE,2.0,Posgrado,Ciberseguridad,33750.0,profiles
+PER-90306,29.0,???,Colombia,Scala|PHP,Laravel|.NET,Cisco CCNA,0.0,Posgrado,IA,16350.0,profiles
+PER-90307,20.0,Concepción,Chile,JavaScript|Java,Angular|FastAPI,AWS CCP|Cisco CCNA,4.0,Pregrado,Cloud,21865.0,profiles
+PER-90308,28.0,Austin,USA,Swift|Scala,.NET|Django,Azure Fundamentals|GCP ACE,1.0,Autodidacta,DevOps,86407.0,profiles
+PER-90309,26.0,???,España,TypeScript|Scala,Spark,Cisco CCNA|AWS CCP,3.0,Posgrado,Ciberseguridad,30946.0,profiles
+PER-90310,36.0,Guadalajara,México,kotlin|c#,Vue,AWS CCP,5.0,Técnico,DevOps,31274.0,profiles
+PER-90311,37.0,Austin,USA,Python|Go,FastAPI,GCP ACE,5.0,Técnico,Ciberseguridad,80881.0,profiles
+PER-90312,27.0,???,Colombia,TypeScript|R|Go,Django|React,AWS CCP,1.0,Técnico,BI/Analytics,15.568,profiles
+PER-90313,27.0,???,Perú,Kotlin|Swift|Java,Laravel|Vue,Azure Fundamentals,5.0,Tecnólogo,Frontend,13.769,profiles
+PER-90314,30.0,Cartagena,Colombia,Python|JavaScript,React|Flask,GCP ACE|None,4.0,Pregrado,Ciberseguridad,11708.0,profiles
+PER-90315,31.0,barcelona,España,JavaScript|Java|TypeScript,Vue,None|AWS CCP,2.0,Tecnólogo,BI/Analytics,41985.0,profiles
+PER-90316,28.0,Medellín,Colombia,PHP|TypeScript|Kotlin,Spring|Node.js,GCP ACE|Scrum Master,4.0,Pregrado,Frontend,10.343,profiles
+PER-90317,31.0,Cartagena,Colombia,Java|TypeScript,Laravel,GCP ACE|AWS CCP,1.0,Posgrado,Backend,9057.0,profiles
+PER-90318,42.0,Valencia,España,scala|typescript|php,FastAPI|Vue,Unknown,0.0,Posgrado,IA,42226.0,profiles
+PER-90319,23.0,???,Perú,PHP|Scala,FastAPI,GCP ACE,4.0,Autodidacta,Ciberseguridad,18026.0,profiles
+PER-90320,34.0,Valencia,España,Swift|Scala,Laravel|Django,GCP ACE|Scrum Master,1.0,Autodidacta,Ciberseguridad,61.204,profiles
+PER-90321,27.0,BARRANQUILLA,Colombia,Go,Node.js|.NET,GCP ACE,4.0,Pregrado,Backend,17770.0,profiles
+PER-90322,28.0,Barcelona,España,R,Vue|Spark,Scrum Master,0.0,Pregrado,DevOps,40149.0,profiles
+PER-90323,34.0,Rosario,Argentina,Python|JavaScript,React,AWS CCP|GCP ACE,0.0,Autodidacta,DevOps,17703.0,profiles
+PER-90324,39.0,Cusco,Perú,Scala|Go,Vue|Laravel,GCP ACE,3.0,Tecnólogo,Ciberseguridad,14334.0,profiles
+PER-90325,33.0,Concepción,Chile,Python|PHP,Django,None|Scrum Master,4.0,Pregrado,DevOps,22.409,profiles
+PER-90326,26.0,Cali,Colombia,R|Java,FastAPI|.NET,Unknown,3.0,Autodidacta,Ciberseguridad,20918.0,profiles
+PER-90327,26.0,Seattle,USA,Kotlin,FastAPI|Django,Azure Fundamentals,1.0,Técnico,Backend,79527.0,profiles
+PER-90328,33.0,Madrid,España,JavaScript,Flask,None|AWS CCP,3.0,Tecnólogo,Backend,36968.0,profiles
+PER-90329,31.0,medellín,Colombia,C#|R,Django,GCP ACE|AWS CCP,5.0,Técnico,Cloud,9099.0,profiles
+PER-90330,27.0,CDMX,México,Go|Python|Kotlin,FastAPI,Cisco CCNA|None,1.0,Técnico,Backend,9617.0,profiles
+PER-90331,30.0,Madrid,España,kotlin|python,Django,Cisco CCNA,2.0,Técnico,DevOps,37471.0,profiles
+PER-90332,22.0,Barcelona,España,TypeScript,Django,Azure Fundamentals|Cisco CCNA,4.0,Autodidacta,DevOps,32618.0,profiles
+PER-90333,30.0,Cartagena,Colombia,JavaScript|Scala,Laravel|Vue,Cisco CCNA,4.0,Tecnólogo,Frontend,10801.0,profiles
+PER-90334,31.0,cusco,Perú,JavaScript|Go,Django,Cisco CCNA|Azure Fundamentals,6.0,Tecnólogo,IA,13842.0,profiles
+PER-90335,36.0,Madrid,España,Go|TypeScript|JavaScript,Django,AWS CCP,2.0,Tecnólogo,Ciberseguridad,74863.0,profiles
+PER-90336,28.0,???,Argentina,JavaScript|PHP|Go,React|.NET,Unknown,2.0,Pregrado,Data Science,36344.0,profiles
+PER-90337,18.0,Santiago,Chile,Kotlin|Java,Node.js|Django,Azure Fundamentals|Cisco CCNA,5.0,Pregrado,DevOps,21335.0,profiles
+PER-90338,28.0,santiago,Chile,TypeScript,Node.js|Flask,Scrum Master|Cisco CCNA,3.0,Pregrado,Backend,18636.0,profiles
+PER-90339,26.0,Buenos Aires,Argentina,Swift,Node.js,None,2.0,Autodidacta,Frontend,24860.0,profiles
+PER-90340,30.0,CDMX,México,Java|Go|C#,.NET|Angular,Unknown,6.0,Posgrado,Frontend,25815.0,profiles
+PER-90341,,Arequipa,Perú,C#|JavaScript,Django,Cisco CCNA,3.0,Posgrado,Ciberseguridad,18231.0,profiles
+PER-90342,27.0,Cusco,Perú,TypeScript,FastAPI,AWS CCP|GCP ACE,5.0,Tecnólogo,IA,13.773,profiles
+PER-90343,38.0,Lima,Perú,PHP|Kotlin,React,Unknown,3.0,Pregrado,Ciberseguridad,26.476,profiles
+PER-90344,21.0,BUCARAMANGA,Colombia,Swift|Kotlin,Node.js,AWS CCP,1.0,Tecnólogo,IA,13318.0,profiles
+PER-90345,44.0,???,Chile,Kotlin|C#|PHP,Angular|Flask,Scrum Master,5.0,Posgrado,Backend,27051.0,profiles
+PER-90346,31.0,monterrey,México,PHP|Go|JavaScript,Spark|FastAPI,Azure Fundamentals,3.0,Técnico,IA,32209.0,profiles
+PER-90347,31.0,Cusco,Perú,Swift,Django|Spark,Scrum Master,0.0,Posgrado,IA,18115.0,profiles
+PER-90348,34.0,Rosario,Argentina,scala|python|typescript,Django,Azure Fundamentals|Cisco CCNA,4.0,Tecnólogo,Backend,18680.0,profiles
+PER-90349,39.0,San Francisco,USA,Scala,Vue,Cisco CCNA,5.0,Posgrado,Data Science,78471.0,profiles
+PER-90350,30.0,Cartagena,Colombia,R|Scala|C#,Laravel|FastAPI,None|Azure Fundamentals,4.0,Tecnólogo,Cloud,19532.0,profiles
+PER-90351,22.0,Miami,USA,c#|javascript|php,Angular,Azure Fundamentals,0.0,Tecnólogo,Backend,84831.0,profiles
+PER-90352,29.0,Lima,Perú,Swift|Kotlin|JavaScript,FastAPI|React,Scrum Master,7.0,Autodidacta,Data Science,17783.0,profiles
+PER-90353,18.0,CDMX,México,Go|Scala,Vue,Scrum Master|Azure Fundamentals,3.0,Posgrado,IA,20.116,profiles
+PER-90354,,???,España,Python,React|Django,GCP ACE,3.0,Pregrado,Data Science,34.186,profiles
+PER-90355,26.0,Valencia,España,Python|Swift|R,Laravel|React,Scrum Master|GCP ACE,4.0,Pregrado,IA,24.908,profiles
+PER-90356,31.0,Santiago,Chile,php,.NET|Node.js,GCP ACE,2.0,Posgrado,DevOps,15501.0,profiles
+PER-90357,24.0,Sevilla,España,python,Laravel|Django,GCP ACE|None,2.0,Técnico,Cloud,40359.0,profiles
+PER-90358,22.0,San Francisco,USA,Scala|PHP,Node.js|Spring,GCP ACE,4.0,Tecnólogo,Backend,73959.0,profiles
+PER-90359,24.0,Buenos Aires,Argentina,Scala,Django|React,Azure Fundamentals,3.0,Tecnólogo,Frontend,22361.0,profiles
+PER-90360,29.0,Córdoba,Argentina,Java|Scala,Laravel|Node.js,AWS CCP|Scrum Master,4.0,Posgrado,Backend,32814.0,profiles
+PER-90361,27.0,Valencia,España,JavaScript|Python,Flask,Azure Fundamentals,3.0,Autodidacta,Cloud,41.992,profiles
+PER-90362,27.0,Concepción,Chile,C#|TypeScript,Django,GCP ACE,3.0,Técnico,Cloud,24245.0,profiles
+PER-90363,25.0,Cali,Colombia,Python|Go|TypeScript,FastAPI|Spring,Cisco CCNA,5.0,Pregrado,DevOps,11608.0,profiles
+PER-90364,34.0,Arequipa,Perú,JavaScript,Spark|FastAPI,GCP ACE|Cisco CCNA,0.0,Pregrado,BI/Analytics,20905.0,profiles
+PER-90365,21.0,Arequipa,Perú,Scala,Spark|Vue,Cisco CCNA,5.0,Tecnólogo,Frontend,29145.0,profiles
+PER-90366,34.0,Barcelona,España,R|Java|Kotlin,React|Flask,Unknown,3.0,Autodidacta,DevOps,26172.0,profiles
+PER-90367,28.0,Arequipa,Perú,kotlin|python|java,Flask,Cisco CCNA|GCP ACE,2.0,Pregrado,BI/Analytics,31270.0,profiles
+PER-90368,35.0,???,México,Swift|Python,Vue,Azure Fundamentals,3.0,Tecnólogo,Frontend,28188.0,profiles
+PER-90369,27.0,Austin,USA,Swift|Java|TypeScript,FastAPI|React,Scrum Master|GCP ACE,5.0,Autodidacta,Cloud,66962.0,profiles
+PER-90370,30.0,Córdoba,Argentina,Kotlin,Flask|Django,AWS CCP|Azure Fundamentals,0.0,Tecnólogo,DevOps,38.256,profiles
+PER-90371,,Arequipa,Perú,Scala,Django|Flask,Azure Fundamentals|Scrum Master,0.0,Tecnólogo,Frontend,20867.0,profiles
+PER-90372,28.0,Córdoba,Argentina,Go,Vue|Spark,AWS CCP,5.0,Técnico,Data Science,34.085,profiles
+PER-90373,32.0,???,USA,C#,Laravel|Spark,GCP ACE,4.0,Pregrado,Data Science,,profiles
+PER-90374,26.0,Madrid,España,Scala|R,Spark|Laravel,Azure Fundamentals,2.0,Pregrado,Frontend,34213.0,profiles
+PER-90375,20.0,Austin,USA,C#|R|Swift,Laravel,AWS CCP,2.0,Pregrado,Data Science,122.935,profiles
+PER-90376,25.0,Arequipa,Perú,Go|Scala,Spark|Django,Unknown,0.0,Tecnólogo,BI/Analytics,22572.0,profiles
+PER-90377,33.0,???,Perú,Go,Node.js|Django,Scrum Master,2.0,Posgrado,Backend,19737.0,profiles
+PER-90378,32.0,Valencia,España,Swift,Node.js|Django,Unknown,3.0,Posgrado,Backend,56108.0,profiles
+PER-90379,27.0,Buenos Aires,Argentina,Scala|Go|C#,React|Django,Cisco CCNA,5.0,Autodidacta,Data Science,21573.0,profiles
+PER-90380,18.0,Córdoba,Argentina,TypeScript|Python|Scala,.NET,Unknown,0.0,Tecnólogo,Data Science,17727.0,profiles
+PER-90381,25.0,BARRANQUILLA,Colombia,R|C#|TypeScript,Angular|Spark,Cisco CCNA,5.0,Técnico,Frontend,11851.0,profiles
+PER-90382,36.0,Cusco,Perú,java|c#,FastAPI,None|Azure Fundamentals,7.0,Posgrado,Frontend,11107.0,profiles
+PER-90383,33.0,Valencia,España,Java|PHP,Vue,AWS CCP|Cisco CCNA,2.0,Tecnólogo,Frontend,35110.0,profiles
+PER-90384,18.0,valencia,España,PHP|Scala|Swift,React|Angular,AWS CCP|Scrum Master,5.0,Técnico,Data Science,32028.0,profiles
+PER-90385,30.0,Valparaíso,Chile,Go|JavaScript,Flask,GCP ACE,4.0,Posgrado,BI/Analytics,25731.0,profiles
+PER-90386,24.0,Lima,Perú,Java|Swift,Vue|Spark,Cisco CCNA,2.0,Posgrado,Data Science,22194.0,profiles
+PER-90387,39.0,BUENOS AIRES,Argentina,Swift|Scala,Flask,AWS CCP|Cisco CCNA,3.0,Autodidacta,Cloud,35181.0,profiles
+PER-90388,37.0,Valparaíso,Chile,Java|Go|JavaScript,Laravel|Vue,Scrum Master,0.0,Posgrado,DevOps,25635.0,profiles
+PER-90389,25.0,Concepción,Chile,Java|R,Angular|Spring,AWS CCP,2.0,Pregrado,Frontend,14763.0,profiles
+PER-90390,22.0,Córdoba,Argentina,TypeScript|Scala,Vue,Cisco CCNA,2.0,Autodidacta,Data Science,21787.0,profiles
+PER-90391,24.0,Arequipa,Perú,Scala|Python,Laravel,GCP ACE|AWS CCP,1.0,Posgrado,Backend,20126.0,profiles
+PER-90392,29.0,Austin,USA,JavaScript,Django|Spring,Unknown,4.0,Tecnólogo,Data Science,87.202,profiles
+PER-90393,31.0,Seattle,USA,PHP|TypeScript,Node.js|Flask,Unknown,2.0,Técnico,BI/Analytics,91473.0,profiles
+PER-90394,37.0,???,España,C#,Flask,None,3.0,Posgrado,BI/Analytics,32.103,profiles
+PER-90395,25.0,Santiago,Chile,Go|Swift,.NET,AWS CCP,1.0,Técnico,Frontend,35165.0,profiles
+PER-90396,30.0,Rosario,Argentina,Scala,.NET,AWS CCP,1.0,Técnico,BI/Analytics,23868.0,profiles
+PER-90397,23.0,???,México,kotlin|javascript|c#,Flask|Laravel,AWS CCP,1.0,Tecnólogo,DevOps,13238.0,profiles
+PER-90398,20.0,Bogotá,Colombia,Java,.NET|Django,Unknown,3.0,Autodidacta,BI/Analytics,13569.0,profiles
+PER-90399,28.0,Cusco,Perú,kotlin,.NET,Azure Fundamentals|Scrum Master,4.0,Autodidacta,Cloud,28.178,profiles
+PER-90400,36.0,Valencia,España,Kotlin,Vue,Cisco CCNA,2.0,Posgrado,Backend,40.104,profiles
+PER-90401,18.0,Barranquilla,Colombia,C#|Python,Django,Scrum Master,2.0,Autodidacta,IA,10871.0,profiles
+PER-90402,23.0,Arequipa,Perú,Go,Flask|Spring,Azure Fundamentals,2.0,Autodidacta,Cloud,15434.0,profiles
+PER-90403,37.0,Concepción,Chile,Kotlin|Java|Python,FastAPI,AWS CCP|Cisco CCNA,0.0,Posgrado,Backend,39929.0,profiles
+PER-90404,41.0,Concepción,Chile,Go|JavaScript,Django,Azure Fundamentals,1.0,Pregrado,IA,31.381,profiles
+PER-90405,34.0,New York,USA,PHP,FastAPI|Django,Unknown,5.0,Tecnólogo,Frontend,,profiles
+PER-90406,34.0,Bogotá,Colombia,R|Java,Node.js|Laravel,Scrum Master,4.0,Tecnólogo,BI/Analytics,19.89,profiles
+PER-90407,,Puebla,México,Kotlin|Python,Vue,Azure Fundamentals|Cisco CCNA,0.0,Técnico,IA,27205.0,profiles
+PER-90408,34.0,Miami,USA,Swift|TypeScript|Kotlin,Spring,Azure Fundamentals,0.0,Tecnólogo,Cloud,,profiles
+PER-90409,39.0,Madrid,España,R|TypeScript,Vue|.NET,Cisco CCNA,5.0,Tecnólogo,BI/Analytics,40025.0,profiles
+PER-90410,34.0,CALI,Colombia,Java,Node.js,AWS CCP,8.0,Pregrado,Frontend,18691.0,profiles
+PER-90411,23.0,Valparaiso,Chile,Kotlin|R|Go,Spring|Node.js,Azure Fundamentals|GCP ACE,5.0,Autodidacta,IA,20872.0,profiles
+PER-90412,19.0,Valencia,España,Java|R,Node.js|Laravel,GCP ACE|Azure Fundamentals,1.0,Tecnólogo,BI/Analytics,47296.0,profiles
+PER-90413,30.0,Bogotá,Colombia,Go|Kotlin,Spring,Azure Fundamentals,3.0,Técnico,Ciberseguridad,8071.0,profiles
+PER-90414,28.0,Córdoba,Argentina,Python|JavaScript|Swift,Flask,AWS CCP,2.0,Tecnólogo,DevOps,13402.0,profiles
+PER-90415,40.0,???,México,Java|Swift,Flask,None|Scrum Master,5.0,Pregrado,DevOps,24988.0,profiles
+PER-90416,25.0,Cartagea,Colombia,Python|Kotlin|Swift,Django|.NET,None,0.0,Técnico,Frontend,11727.0,profiles
+PER-90417,37.0,Concepción,Chile,TypeScript|Go,Vue|Angular,Cisco CCNA,0.0,Pregrado,Backend,37.737,profiles
+PER-90418,23.0,???,Perú,Python|Kotlin|TypeScript,Node.js|Laravel,AWS CCP|Azure Fundamentals,0.0,Tecnólogo,Frontend,27.565,profiles
+PER-90419,29.0,Lima,Perú,Kotlin|PHP,Spring,Scrum Master,4.0,Autodidacta,DevOps,26.423,profiles
+PER-90420,29.0,Puebla,México,Go|C#,Django,Scrum Master,6.0,Posgrado,IA,21239.0,profiles
+PER-90421,28.0,Bogotá,Colombia,php|c#|r,React|Vue,Cisco CCNA|None,3.0,Posgrado,IA,9640.0,profiles
+PER-90422,29.0,Arequipa,Perú,Kotlin|Scala,React|Vue,GCP ACE|Azure Fundamentals,0.0,Técnico,DevOps,13601.0,profiles
+PER-90423,20.0,Austin,USA,R|Python,Flask,None|Cisco CCNA,1.0,Autodidacta,BI/Analytics,97211.0,profiles
+PER-90424,37.0,Arequipa,Perú,Scala,Vue|FastAPI,Azure Fundamentals,0.0,Técnico,Frontend,25925.0,profiles
+PER-90425,26.0,Santiago,Chile,C#|JavaScript|Go,.NET,Unknown,4.0,Pregrado,Backend,22716.0,profiles
+PER-90426,30.0,???,Argentina,C#|Go,Flask,Azure Fundamentals,7.0,Autodidacta,IA,21627.0,profiles
+PER-90427,25.0,Concepción,Chile,Go|PHP,.NET,Azure Fundamentals|AWS CCP,6.0,Pregrado,Cloud,31.337,profiles
+PER-90428,21.0,Guadalajara,México,Go,Vue,Cisco CCNA,1.0,Autodidacta,Frontend,28722.0,profiles
+PER-90429,24.0,Valparaíso,Chile,R|Java,React|FastAPI,GCP ACE,3.0,Técnico,Cloud,34464.0,profiles
+PER-90430,22.0,AREQUIPA,Perú,Java,Vue|Angular,Azure Fundamentals|None,3.0,Posgrado,Ciberseguridad,15150.0,profiles
+PER-90431,34.0,Santiago,Chile,Java,Vue|Flask,Unknown,3.0,Autodidacta,IA,29517.0,profiles
+PER-90432,34.0,Madrid,España,R|Swift,Flask|Angular,GCP ACE,3.0,Autodidacta,Cloud,30.211,profiles
+PER-90433,34.0,Concepción,Chile,Swift|JavaScript|PHP,React,None|AWS CCP,6.0,Autodidacta,IA,39583.0,profiles
+PER-90434,32.0,Sevilla,España,Scala|PHP|Java,Angular,Cisco CCNA,4.0,Pregrado,Ciberseguridad,30575.0,profiles
+PER-90435,21.0,Cusco,Perú,C#|Java|Scala,FastAPI,GCP ACE,4.0,Tecnólogo,Data Science,11.795,profiles
+PER-90436,20.0,Cartagena,Colombia,Kotlin,Flask,Cisco CCNA,4.0,Autodidacta,Ciberseguridad,11691.0,profiles
+PER-90437,18.0,BUENOS AIRES,Argentina,Kotlin|Java,.NET|React,GCP ACE,2.0,Autodidacta,Ciberseguridad,18627.0,profiles
+PER-90438,42.0,Valencia,España,Kotlin|Go,Laravel,Scrum Master|Cisco CCNA,4.0,Posgrado,Cloud,31919.0,profiles
+PER-90439,28.0,Puebla,México,C#,.NET,Azure Fundamentals|Cisco CCNA,2.0,Posgrado,DevOps,15918.0,profiles
+PER-90440,20.0,Barcelona,España,Kotlin|JavaScript|Swift,Angular|Django,GCP ACE,0.0,Autodidacta,IA,33055.0,profiles
+PER-90441,25.0,Barranquilla,Colombia,Java|Scala,Django,None|Cisco CCNA,4.0,Posgrado,Data Science,9545.0,profiles
+PER-90442,31.0,Medellín,Colombia,python,Angular|Flask,Cisco CCNA,3.0,Tecnólogo,BI/Analytics,19091.0,profiles
+PER-90443,24.0,Medellín,Colombia,R,Node.js|Vue,Cisco CCNA,3.0,Posgrado,IA,7000.0,profiles
+PER-90444,28.0,Cusco,Perú,Scala|Python,Spring|Angular,Scrum Master|Cisco CCNA,5.0,Pregrado,BI/Analytics,13587.0,profiles
+PER-90445,31.0,Rosario,Argentina,Java|Swift|Go,Laravel|React,Unknown,3.0,Pregrado,Frontend,22629.0,profiles
+PER-90446,37.0,Santiago,Chile,Java|PHP|R,Django,Azure Fundamentals|Cisco CCNA,0.0,Tecnólogo,BI/Analytics,22.349,profiles
+PER-90447,24.0,Valencia,España,Scala|Kotlin|Python,Spring|Vue,AWS CCP,5.0,Pregrado,IA,53129.0,profiles
+PER-90448,35.0,???,Chile,JavaScript|Java,Laravel|Flask,Unknown,4.0,Técnico,Data Science,19384.0,profiles
+PER-90449,29.0,Cartagena,Colombia,PHP|Java,Laravel|Flask,None|GCP ACE,3.0,Autodidacta,Ciberseguridad,14486.0,profiles
+PER-90450,32.0,New York,USA,Java|Swift|JavaScript,Django,None|Scrum Master,3.0,Pregrado,DevOps,121593.0,profiles
+PER-90451,28.0,Austin,USA,JavaScript|TypeScript|Java,Vue|Angular,AWS CCP|GCP ACE,0.0,Tecnólogo,IA,93213.0,profiles
+PER-90452,36.0,Bogotá,Colombia,R|TypeScript,Vue,AWS CCP,2.0,Pregrado,BI/Analytics,13841.0,profiles
+PER-90453,29.0,Valparaíso,Chile,C#|Java,FastAPI,GCP ACE|Cisco CCNA,4.0,Técnico,Data Science,17493.0,profiles
+PER-90454,25.0,Córdoba,Argentina,Scala|Java,Vue,Unknown,3.0,Pregrado,IA,26027.0,profiles
+PER-90455,22.0,Cusco,Perú,Go|JavaScript,FastAPI|Node.js,Scrum Master,0.0,Pregrado,Cloud,10539.0,profiles
+PER-90456,23.0,Córdoba,Argentina,R|Python,Spark|Vue,Unknown,0.0,Posgrado,BI/Analytics,16.202,profiles
+PER-90457,36.0,Concepción,Chile,PHP,.NET,None,3.0,Pregrado,Ciberseguridad,24290.0,profiles
+PER-90458,27.0,Rosario,Argentina,Swift|Scala|Kotlin,React,AWS CCP,0.0,Posgrado,BI/Analytics,16273.0,profiles
+PER-90459,21.0,New York,USA,Kotlin|C#,Spark|Node.js,Azure Fundamentals,1.0,Técnico,BI/Analytics,87868.0,profiles
+PER-90460,33.0,???,Colombia,C#|Go,Flask,GCP ACE,2.0,Posgrado,Cloud,11785.0,profiles
+PER-90461,36.0,SANTIAGO,Chile,Scala,Vue,Scrum Master,4.0,Tecnólogo,Ciberseguridad,28652.0,profiles
+PER-90462,,Buenos Aires,Argentina,scala,Node.js,GCP ACE|Scrum Master,1.0,Posgrado,Backend,17551.0,profiles
+PER-90463,32.0,Lima,Perú,python|swift|typescript,Flask|Django,GCP ACE,2.0,Posgrado,DevOps,19113.0,profiles
+PER-90464,27.0,???,España,php,Flask|FastAPI,Azure Fundamentals,7.0,Autodidacta,IA,39819.0,profiles
+PER-90465,24.0,Concepción,Chile,Kotlin,React|Angular,Azure Fundamentals,4.0,Autodidacta,Data Science,34816.0,profiles
+PER-90466,33.0,Córdoba,Argentina,php|r,Spring|FastAPI,Scrum Master,2.0,Autodidacta,IA,15142.0,profiles
+PER-90467,30.0,Sevilla,España,c#|kotlin,Spark|FastAPI,Azure Fundamentals|AWS CCP,5.0,Pregrado,Ciberseguridad,33555.0,profiles
+PER-90468,19.0,New York,USA,C#|Swift,React|FastAPI,Scrum Master,2.0,Posgrado,Cloud,106803.0,profiles
+PER-90469,18.0,Cali,Colombia,C#|PHP,Node.js,AWS CCP,0.0,Posgrado,Backend,11.861,profiles
+PER-90470,21.0,Bucaramanga,Colombia,PHP|Scala,Spring,Cisco CCNA,4.0,Autodidacta,Data Science,18967.0,profiles
+PER-90471,31.0,austin,USA,TypeScript,.NET|Spark,AWS CCP|GCP ACE,4.0,Pregrado,Cloud,115.624,profiles
+PER-90472,26.0,Concepción,Chile,Kotlin|PHP|JavaScript,.NET|FastAPI,GCP ACE,5.0,Pregrado,Ciberseguridad,18210.0,profiles
+PER-90473,21.0,Monterrey,México,php|r|go,Flask,GCP ACE,3.0,Pregrado,Frontend,17320.0,profiles
+PER-90474,36.0,Córdoba,Argentina,C#,Spring,Scrum Master,8.0,Posgrado,Frontend,16770.0,profiles
+PER-90475,27.0,Medellín,Colombia,JavaScript|Swift|Kotlin,Angular,Cisco CCNA,4.0,Pregrado,IA,9991.0,profiles
+PER-90476,29.0,buenos aires,Argentina,Python|Java,React,Cisco CCNA|Azure Fundamentals,2.0,Pregrado,Cloud,28707.0,profiles
+PER-90477,30.0,Puebla,México,TypeScript|Scala,FastAPI,Cisco CCNA|AWS CCP,3.0,Pregrado,Backend,16438.0,profiles
+PER-90478,18.0,???,Colombia,JavaScript,Flask|.NET,None|GCP ACE,4.0,Autodidacta,IA,16553.0,profiles
+PER-90479,29.0,Miami,USA,Swift|JavaScript|TypeScript,Spring,Cisco CCNA|AWS CCP,7.0,Tecnólogo,DevOps,86158.0,profiles
+PER-90480,23.0,MONTERREY,México,Kotlin|R,Vue,Azure Fundamentals|Scrum Master,5.0,Tecnólogo,Ciberseguridad,15.077,profiles
+PER-90481,25.0,Miami,USA,Swift|Go,React,Cisco CCNA,4.0,Autodidacta,Data Science,75764.0,profiles
+PER-90482,31.0,Santiago,Chile,Java|Python,Spark,AWS CCP,5.0,Tecnólogo,Data Science,29365.0,profiles
+PER-90483,21.0,Buenos Aires,Argentina,Scala|TypeScript,Vue|React,Cisco CCNA|Azure Fundamentals,0.0,Posgrado,Cloud,11.965,profiles
+PER-90484,25.0,Miami,USA,Scala,Laravel,AWS CCP,2.0,Autodidacta,DevOps,105.756,profiles
+PER-90485,29.0,Barcelona,España,r,Spark,Scrum Master,1.0,Posgrado,Cloud,32039.0,profiles
+PER-90486,33.0,CÓRDOBA,Argentina,Go|C#,Spark|FastAPI,Scrum Master,3.0,Pregrado,Ciberseguridad,32384.0,profiles
+PER-90487,30.0,San Francisco,USA,JavaScript|Java|Go,.NET|FastAPI,Azure Fundamentals,0.0,Tecnólogo,Frontend,103742.0,profiles
+PER-90488,,???,USA,Swift|JavaScript,Django|React,Unknown,3.0,Posgrado,Cloud,,profiles
+PER-90489,29.0,Barranquilla,Colombia,scala|php,Django|Node.js,Azure Fundamentals,4.0,Posgrado,BI/Analytics,9.517,profiles
+PER-90490,30.0,Santiago,Chile,R|C#,Flask|Spring,AWS CCP,1.0,Técnico,Ciberseguridad,13630.0,profiles
+PER-90491,23.0,Lima,Perú,Kotlin,FastAPI|Spring,Cisco CCNA,3.0,Pregrado,DevOps,19.363,profiles
+PER-90492,35.0,Cusco,Perú,TypeScript,Flask,Scrum Master,1.0,Técnico,Data Science,16279.0,profiles
+PER-90493,37.0,Monterrey,México,JavaScript|Kotlin,Spark|Laravel,Scrum Master,0.0,Autodidacta,Data Science,15585.0,profiles
+PER-90494,37.0,Valparaíso,Chile,kotlin,Laravel,AWS CCP|Cisco CCNA,4.0,Tecnólogo,Frontend,20027.0,profiles
+PER-90495,25.0,Buenos Aires,Argentina,JavaScript|Java,Laravel|FastAPI,Scrum Master|None,1.0,Técnico,Backend,18.295,profiles
+PER-90496,32.0,Lima,Perú,TypeScript,Laravel,Unknown,5.0,Pregrado,Backend,25.389,profiles
+PER-90497,31.0,Medellín,Colombia,TypeScript|Python|Kotlin,Vue|FastAPI,AWS CCP|GCP ACE,1.0,Técnico,DevOps,13111.0,profiles
+PER-90498,29.0,santiago,Chile,TypeScript,FastAPI,Azure Fundamentals,5.0,Pregrado,BI/Analytics,20070.0,profiles
+PER-90499,37.0,Monterrey,México,R|PHP|JavaScript,React|Spring,Azure Fundamentals,4.0,Técnico,BI/Analytics,12736.0,profiles
+PER-90500,32.0,Lima,Perú,scala|php,Spark|React,Cisco CCNA,3.0,Pregrado,Cloud,19.079,profiles
+PER-90501,24.0,Barranquilla,Colombia,C#|Java,Angular,GCP ACE,0.0,Tecnólogo,Ciberseguridad,17.89,profiles
+PER-90502,37.0,Concepción,Chile,java|swift,Angular|Django,Cisco CCNA|Azure Fundamentals,1.0,Posgrado,Ciberseguridad,21484.0,profiles
+PER-90503,24.0,Cusco,Perú,Python|PHP,React,Cisco CCNA,2.0,Autodidacta,Cloud,28284.0,profiles
+PER-90504,18.0,sevilla,España,C#|Swift,Angular,Scrum Master,4.0,Autodidacta,Frontend,31871.0,profiles
+PER-90505,33.0,GUADALAJARA,México,Kotlin|PHP,React|Vue,GCP ACE|None,4.0,Posgrado,Backend,12235.0,profiles
+PER-90506,36.0,Seattle,USA,Java|PHP|TypeScript,.NET|Spring,Azure Fundamentals|None,3.0,Posgrado,Ciberseguridad,111731.0,profiles
+PER-90507,,Valencia,España,java,Flask,Cisco CCNA,3.0,Técnico,IA,45527.0,profiles
+PER-90508,26.0,Valparaíso,Chile,Python|C#,Node.js,Cisco CCNA|Scrum Master,1.0,Pregrado,BI/Analytics,31971.0,profiles
+PER-90509,31.0,Seattle,USA,Kotlin|PHP|JavaScript,Angular|Node.js,Unknown,5.0,Tecnólogo,DevOps,73485.0,profiles
+PER-90510,30.0,Santiago,Chile,Java|JavaScript|Swift,FastAPI,Azure Fundamentals,3.0,Técnico,DevOps,24453.0,profiles
+PER-90511,,Buenos Aires,Argentina,C#|Scala,Vue,Azure Fundamentals|AWS CCP,3.0,Pregrado,IA,15.85,profiles
+PER-90512,18.0,valencia,España,Go|Python,FastAPI|Django,Azure Fundamentals|Scrum Master,2.0,Técnico,BI/Analytics,54163.0,profiles
+PER-90513,26.0,Valencia,España,Swift|Go,Node.js|Angular,AWS CCP,1.0,Tecnólogo,Cloud,27802.0,profiles
+PER-90514,31.0,CONCEPCIÓN,Chile,Go|JavaScript,Spark|Spring,Scrum Master|GCP ACE,4.0,Técnico,Ciberseguridad,20.418,profiles
+PER-90515,33.0,Cartagena,Colombia,Swift|R,Flask|Spark,Scrum Master|None,2.0,Posgrado,Frontend,20662.0,profiles
+PER-90516,41.0,Lima,Perú,Python,Node.js,GCP ACE,3.0,Pregrado,Data Science,11581.0,profiles
+PER-90517,26.0,ROSARIO,Argentina,R|Kotlin,Flask|Node.js,Cisco CCNA|GCP ACE,4.0,Pregrado,Frontend,17.002,profiles
+PER-90518,31.0,Córdoba,Argentina,swift|php|kotlin,FastAPI,Cisco CCNA,2.0,Autodidacta,DevOps,31366.0,profiles
+PER-90519,30.0,Barcelona,España,C#,Angular|Node.js,Azure Fundamentals,1.0,Tecnólogo,Ciberseguridad,37.745,profiles
+PER-90520,32.0,Rosario,Argentina,Scala|Python,Spring,Azure Fundamentals|GCP ACE,3.0,Tecnólogo,Data Science,29.063,profiles
+PER-90521,26.0,Cartagena,Colombia,R,.NET,Azure Fundamentals,0.0,Tecnólogo,Data Science,16287.0,profiles
+PER-90522,26.0,Madrid,España,javascript|python,Spark,Scrum Master|None,5.0,Tecnólogo,Backend,54749.0,profiles
+PER-90523,30.0,Cartagena,Colombia,kotlin|python|swift,Django|Laravel,Azure Fundamentals,2.0,Tecnólogo,Backend,13956.0,profiles
+PER-90524,34.0,Santiago,Chile,java,Node.js|Angular,Scrum Master|AWS CCP,1.0,Tecnólogo,Frontend,21626.0,profiles
+PER-90525,34.0,San Francisco,USA,Python|R,Laravel,None|AWS CCP,4.0,Posgrado,DevOps,,profiles
+PER-90526,18.0,Rosario,Argentina,Swift|JavaScript,Laravel,Azure Fundamentals,5.0,Autodidacta,Ciberseguridad,35220.0,profiles
+PER-90527,22.0,Madrid,España,JavaScript|R,Flask|Angular,Cisco CCNA,0.0,Posgrado,IA,35144.0,profiles
+PER-90528,32.0,Rosario,Argentina,JavaScript|Scala,Django,GCP ACE,5.0,Tecnólogo,Backend,20564.0,profiles
+PER-90529,25.0,Cusco,Perú,Java|R,Django,Scrum Master,1.0,Posgrado,DevOps,13.229,profiles
+PER-90530,28.0,Valencia,España,TypeScript,Django|React,AWS CCP,2.0,Posgrado,BI/Analytics,53698.0,profiles
+PER-90531,32.0,BARCELONA,España,Swift|Java|C#,Node.js,None|Scrum Master,0.0,Técnico,Frontend,55944.0,profiles
+PER-90532,34.0,Seattle,USA,Python|PHP|R,Angular|Flask,Unknown,2.0,Pregrado,Ciberseguridad,,profiles
+PER-90533,32.0,Córdoba,Argentina,Python|PHP,FastAPI,Scrum Master|GCP ACE,6.0,Posgrado,Frontend,18288.0,profiles
+PER-90534,33.0,Santiago,Chile,PHP|C#|Kotlin,Laravel,Scrum Master|Azure Fundamentals,4.0,Autodidacta,Backend,24103.0,profiles
+PER-90535,24.0,Lima,Perú,Python|Java,FastAPI,Cisco CCNA,4.0,Posgrado,IA,21659.0,profiles
+PER-90536,33.0,Bogotá,Colombia,Kotlin|JavaScript,Angular,GCP ACE,4.0,Autodidacta,Backend,20.41,profiles
+PER-90537,28.0,Sevilla,España,Java|R,FastAPI,AWS CCP|None,2.0,Pregrado,Frontend,35541.0,profiles
+PER-90538,32.0,Buenos Aires,Argentina,Scala,Angular,Scrum Master,4.0,Pregrado,DevOps,18.43,profiles
+PER-90539,18.0,Miami,USA,Python|Java|JavaScript,Angular|Spark,Scrum Master,6.0,Tecnólogo,DevOps,117094.0,profiles
+PER-90540,33.0,Santiago,Chile,R|Scala,Django,Cisco CCNA,0.0,Técnico,Frontend,17748.0,profiles
+PER-90541,28.0,Barcelona,España,C#|Java|PHP,Laravel|Angular,AWS CCP|Cisco CCNA,1.0,Técnico,DevOps,33043.0,profiles
+PER-90542,35.0,San Francisco,USA,Java,Angular,AWS CCP|Azure Fundamentals,4.0,Técnico,Cloud,103116.0,profiles
+PER-90543,39.0,New York,USA,Kotlin|Java,FastAPI|Flask,GCP ACE,2.0,Posgrado,Cloud,91192.0,profiles
+PER-90544,36.0,CDMX,México,Swift,React|.NET,Azure Fundamentals,1.0,Autodidacta,Cloud,14.736,profiles
+PER-90545,34.0,Buenos Aires,Argentina,Python,Laravel|Django,None|Scrum Master,4.0,Autodidacta,Frontend,11918.0,profiles
+PER-90546,34.0,Barcelona,España,Kotlin|Java,Laravel,Azure Fundamentals,2.0,Pregrado,BI/Analytics,54.949,profiles
+PER-90547,28.0,???,México,Python|Java,Spark|Node.js,Scrum Master|AWS CCP,0.0,Posgrado,Frontend,18772.0,profiles
+PER-90548,27.0,Monterrey,México,PHP,Angular|Django,Azure Fundamentals|None,2.0,Posgrado,IA,15827.0,profiles
+PER-90549,38.0,Seattle,USA,Java|TypeScript|Scala,FastAPI,AWS CCP,2.0,Autodidacta,Data Science,92179.0,profiles
+PER-90550,19.0,Valencia,España,Kotlin|Swift,Node.js|Laravel,Azure Fundamentals,1.0,Tecnólogo,Frontend,30140.0,profiles
+PER-90551,35.0,Austin,USA,Java|R,FastAPI|Spark,Scrum Master|Cisco CCNA,6.0,Tecnólogo,Cloud,,profiles
+PER-90552,31.0,Arequipa,Perú,Java|Kotlin,FastAPI,GCP ACE,1.0,Pregrado,BI/Analytics,14190.0,profiles
+PER-90553,34.0,concepción,Chile,Go,Spring|Flask,Azure Fundamentals,4.0,Técnico,BI/Analytics,32986.0,profiles
+PER-90554,31.0,Miami,USA,Scala|JavaScript,FastAPI|Node.js,GCP ACE,5.0,Pregrado,Backend,95665.0,profiles
+PER-90555,18.0,Lima,Perú,Java|JavaScript,Spark,Azure Fundamentals,6.0,Tecnólogo,Cloud,27345.0,profiles
+PER-90556,34.0,valencia,España,PHP|Python|Java,Flask,Scrum Master|AWS CCP,2.0,Tecnólogo,Backend,37.893,profiles
+PER-90557,28.0,VALPARAÍSO,Chile,Java|TypeScript,Flask,AWS CCP,5.0,Posgrado,Cloud,22.343,profiles
+PER-90558,27.0,Madrid,España,Kotlin|JavaScript,Django|FastAPI,Scrum Master,5.0,Autodidacta,Frontend,34516.0,profiles
+PER-90559,28.0,Concepción,Chile,R|Python,Node.js,Cisco CCNA,3.0,Tecnólogo,Frontend,18026.0,profiles
+PER-90560,20.0,Arequipa,Perú,PHP,Spark|Node.js,Scrum Master|GCP ACE,4.0,Pregrado,Backend,10869.0,profiles
+PER-90561,21.0,Cartagena,Colombia,JavaScript,Spark,GCP ACE,3.0,Autodidacta,Ciberseguridad,11734.0,profiles
+PER-90562,28.0,Córdoba,Argentina,swift|c#,Angular,AWS CCP,4.0,Pregrado,Cloud,16130.0,profiles
+PER-90563,33.0,???,Chile,javascript|swift|scala,Spring,Cisco CCNA,0.0,Pregrado,BI/Analytics,19165.0,profiles
+PER-90564,27.0,???,USA,Java|TypeScript,Node.js|Vue,Unknown,0.0,Posgrado,DevOps,119.961,profiles
+PER-90565,37.0,???,Perú,PHP|Go,Spring,Cisco CCNA,2.0,Tecnólogo,Data Science,16082.0,profiles
+PER-90566,38.0,Buenos Aires,Argentina,Swift|TypeScript|PHP,Spark|Django,GCP ACE,1.0,Autodidacta,Frontend,22.711,profiles
+PER-90567,30.0,Buenos Aires,Argentina,go|c#,Django,Azure Fundamentals|AWS CCP,2.0,Técnico,DevOps,16360.0,profiles
+PER-90568,33.0,Arequipa,Perú,R|Kotlin,Node.js,Azure Fundamentals|GCP ACE,2.0,Pregrado,Backend,17.527,profiles
+PER-90569,25.0,medellín,Colombia,Scala,Spark|Laravel,Unknown,3.0,Técnico,Ciberseguridad,8480.0,profiles
+PER-90570,21.0,Rosario,Argentina,C#|TypeScript|Kotlin,Angular,Azure Fundamentals,2.0,Tecnólogo,Frontend,15701.0,profiles
+PER-90571,36.0,Barranquilla,Colombia,JavaScript|Kotlin,Vue|Spring,None|GCP ACE,0.0,Técnico,Cloud,18453.0,profiles
+PER-90572,31.0,Lima,Perú,Python,Node.js|Django,Cisco CCNA,0.0,Autodidacta,DevOps,27.439,profiles
+PER-90573,39.0,Arequipa,Perú,R|JavaScript|C#,Django,Scrum Master,2.0,Autodidacta,Data Science,20925.0,profiles
+PER-90574,39.0,Concepción,Chile,TypeScript,Node.js|Spring,Azure Fundamentals|None,3.0,Posgrado,BI/Analytics,22225.0,profiles
+PER-90575,32.0,New York,USA,R,.NET|React,Scrum Master,0.0,Tecnólogo,DevOps,107.518,profiles
+PER-90576,36.0,Cusco,Perú,python,Spring|.NET,None|GCP ACE,2.0,Autodidacta,Backend,18.379,profiles
+PER-90577,25.0,Rosario,Argentina,Go|TypeScript|PHP,Vue,None,2.0,Pregrado,Cloud,22.613,profiles
+PER-90578,41.0,Valencia,España,R,.NET,Scrum Master|None,2.0,Pregrado,Backend,53.994,profiles
+PER-90579,37.0,Valencia,España,Kotlin|Scala,Laravel,None|Scrum Master,2.0,Tecnólogo,BI/Analytics,38201.0,profiles
+PER-90580,31.0,cdmx,México,TypeScript|Go,Flask,Scrum Master,4.0,Técnico,Frontend,13055.0,profiles
+PER-90581,18.0,Lima,Perú,Java|PHP,Flask|React,GCP ACE,3.0,Pregrado,Cloud,14287.0,profiles
+PER-90582,33.0,Miami,USA,Swift|Java|R,Vue|.NET,Unknown,1.0,Autodidacta,Backend,89051.0,profiles
+PER-90583,20.0,Córdoba,Argentina,JavaScript|Java,Spark,GCP ACE,4.0,Posgrado,BI/Analytics,12428.0,profiles
+PER-90584,32.0,Concepción,Chile,C#|JavaScript,FastAPI|Flask,None|AWS CCP,4.0,Pregrado,DevOps,20887.0,profiles
+PER-90585,38.0,Rosario,Argentina,C#|Go,Vue|Node.js,Unknown,3.0,Técnico,IA,22476.0,profiles
+PER-90586,22.0,Rosario,Argentina,Python|TypeScript,Laravel,Scrum Master,1.0,Posgrado,Frontend,24896.0,profiles
+PER-90587,36.0,Bogotá,Colombia,Python|PHP,.NET,Azure Fundamentals,5.0,Posgrado,DevOps,9857.0,profiles
+PER-90588,23.0,Santiago,Chile,Kotlin,.NET|Flask,Cisco CCNA,2.0,Tecnólogo,Backend,36818.0,profiles
+PER-90589,31.0,Valencia,España,R|Kotlin,Vue,Scrum Master|Azure Fundamentals,4.0,Posgrado,Backend,42191.0,profiles
+PER-90590,21.0,Guadalajara,México,Kotlin|JavaScript|TypeScript,Spark,Scrum Master,0.0,Autodidacta,DevOps,28995.0,profiles
+PER-90591,34.0,Madrid,España,C#|Java,Laravel|Node.js,GCP ACE,4.0,Posgrado,Backend,44699.0,profiles
+PER-90592,,Puebla,México,Python|Go|Java,Laravel|Django,Azure Fundamentals,4.0,Técnico,Cloud,20900.0,profiles
+PER-90593,26.0,Miami,USA,C#|Scala,Vue,Cisco CCNA|Azure Fundamentals,0.0,Autodidacta,Cloud,99430.0,profiles
+PER-90594,22.0,Seattle,USA,typescript|scala,React|Vue,Scrum Master|Cisco CCNA,3.0,Tecnólogo,Frontend,,profiles
+PER-90595,29.0,Puebla,México,javascript,.NET|Django,None|Azure Fundamentals,3.0,Tecnólogo,Data Science,23.217,profiles
+PER-90596,34.0,???,Perú,PHP|JavaScript,Spark,None|Cisco CCNA,3.0,Pregrado,Backend,26728.0,profiles
+PER-90597,34.0,???,Perú,kotlin,Spark,Cisco CCNA|Scrum Master,5.0,Tecnólogo,Data Science,16.948,profiles
+PER-90598,20.0,Valencia,España,Java|Python,Django,Cisco CCNA,0.0,Técnico,BI/Analytics,26.123,profiles
+PER-90599,28.0,Monterrey,México,Java,Laravel,GCP ACE,4.0,Pregrado,Ciberseguridad,12582.0,profiles
+PER-90600,35.0,Guadalajara,México,Python|Go,.NET,Cisco CCNA,0.0,Tecnólogo,Backend,17848.0,profiles
+PER-90601,25.0,Bogotá,Colombia,TypeScript|Python,Django|Node.js,None|Cisco CCNA,3.0,Autodidacta,Cloud,7494.0,profiles
+PER-90602,24.0,Lima,Perú,C#|TypeScript,Flask,Azure Fundamentals,3.0,Autodidacta,Frontend,15639.0,profiles
+PER-90603,39.0,Monterrey,México,Python,Node.js,Scrum Master,0.0,Pregrado,DevOps,18300.0,profiles
+PER-90604,30.0,Buenos Aires,Argentina,PHP|JavaScript,Spark,Unknown,3.0,Autodidacta,BI/Analytics,14521.0,profiles
+PER-90605,30.0,Medellín,Colombia,java|php,Vue|Spring,GCP ACE|None,1.0,Autodidacta,Data Science,12924.0,profiles
+PER-90606,22.0,Lima,Perú,Kotlin,Node.js|React,GCP ACE|AWS CCP,2.0,Pregrado,Frontend,22.677,profiles
+PER-90607,22.0,Lima,Perú,JavaScript,Vue|Flask,AWS CCP|None,1.0,Autodidacta,Cloud,23061.0,profiles
+PER-90608,37.0,Cartagena,Colombia,c#|java,Spring,GCP ACE,2.0,Autodidacta,Cloud,11790.0,profiles
+PER-90609,26.0,Concepción,Chile,C#|Java,.NET|Laravel,None,2.0,Pregrado,Data Science,16689.0,profiles
+PER-90610,27.0,Barcelona,España,Scala|PHP,React|FastAPI,None|GCP ACE,3.0,Tecnólogo,BI/Analytics,39.46,profiles
+PER-90611,18.0,SEVILLA,España,Kotlin,Vue|Flask,Unknown,2.0,Técnico,BI/Analytics,32400.0,profiles
+PER-90612,24.0,Lima,Perú,Go|Python|Scala,.NET,Scrum Master,2.0,Técnico,Frontend,26316.0,profiles
+PER-90613,25.0,???,España,TypeScript|Scala,React|Node.js,Azure Fundamentals,3.0,Posgrado,Data Science,29.906,profiles
+PER-90614,33.0,Guadalajara,México,TypeScript|Kotlin,Spark,Azure Fundamentals|GCP ACE,3.0,Técnico,DevOps,12365.0,profiles
+PER-90615,28.0,Arequipa,Perú,Kotlin|Scala|C#,React,GCP ACE,2.0,Autodidacta,Frontend,11.629,profiles
+PER-90616,29.0,Buenos Aires,Argentina,R,Spark|React,Cisco CCNA,2.0,Autodidacta,Ciberseguridad,15.896,profiles
+PER-90617,40.0,Bogotá,Colombia,Go|PHP,Angular|Node.js,Scrum Master|None,5.0,Posgrado,Cloud,11975.0,profiles
+PER-90618,31.0,Puebla,México,scala|javascript|typescript,.NET|Node.js,Scrum Master,3.0,Pregrado,Backend,14882.0,profiles
+PER-90619,28.0,New York,USA,JavaScript|PHP,Node.js|Angular,Unknown,1.0,Pregrado,BI/Analytics,59.444,profiles
+PER-90620,46.0,Rosario,Argentina,Java|Go|Python,Vue,Scrum Master,0.0,Técnico,IA,19420.0,profiles
+PER-90621,23.0,santiago,Chile,r|java|kotlin,Django,GCP ACE,5.0,Tecnólogo,BI/Analytics,36639.0,profiles
+PER-90622,38.0,Valencia,España,R|Swift|Go,React,GCP ACE,0.0,Posgrado,Ciberseguridad,32350.0,profiles
+PER-90623,25.0,Guadalajara,México,TypeScript,Angular,AWS CCP,2.0,Posgrado,Frontend,16.978,profiles
+PER-90624,,Santiago,Chile,JavaScript|Scala,Spring|Laravel,GCP ACE,5.0,Técnico,Ciberseguridad,18504.0,profiles
+PER-90625,23.0,santiago,Chile,Go|R,.NET|Laravel,Unknown,0.0,Posgrado,Backend,26.044,profiles
+PER-90626,38.0,Buenos Aires,Argentina,PHP,Spark|Spring,AWS CCP|Cisco CCNA,0.0,Pregrado,Backend,22093.0,profiles
+PER-90627,28.0,CDMX,México,Swift|PHP,Spark,Cisco CCNA,4.0,Técnico,IA,15628.0,profiles
+PER-90628,29.0,Arequipa,Perú,Swift,React,GCP ACE|Scrum Master,3.0,Pregrado,Cloud,21300.0,profiles
+PER-90629,34.0,???,Perú,Go|PHP,Angular,Cisco CCNA,4.0,Pregrado,DevOps,13052.0,profiles
+PER-90630,24.0,San Francisco,USA,javascript|c#,Flask|Node.js,GCP ACE,2.0,Pregrado,DevOps,105769.0,profiles
+PER-90631,24.0,Concepcion,Chile,Scala|TypeScript,Spring,Scrum Master,2.0,Posgrado,DevOps,31786.0,profiles
+PER-90632,23.0,Guadalajara,México,PHP|Swift,Angular|Spark,Azure Fundamentals,3.0,Tecnólogo,BI/Analytics,29540.0,profiles
+PER-90633,25.0,Cordoba,Argentina,C#|R|Java,Django|Angular,GCP ACE,2.0,Posgrado,Frontend,12677.0,profiles
+PER-90634,25.0,Miami,USA,R,FastAPI,GCP ACE,2.0,Tecnólogo,Frontend,85624.0,profiles
+PER-90635,32.0,Bucaramanga,Colombia,typescript,Node.js|Flask,None|Cisco CCNA,3.0,Pregrado,Ciberseguridad,17695.0,profiles
+PER-90636,31.0,Sevilla,España,Python,Node.js,GCP ACE,3.0,Posgrado,IA,39.803,profiles
+PER-90637,41.0,Monterrey,México,Python|TypeScript,Node.js|Django,None|Azure Fundamentals,2.0,Tecnólogo,Cloud,13694.0,profiles
+PER-90638,33.0,Madrid,España,Go,Vue,Azure Fundamentals,0.0,Técnico,DevOps,37027.0,profiles
+PER-90639,35.0,Arequipa,Perú,swift|java,Vue,GCP ACE|None,2.0,Técnico,Frontend,12550.0,profiles
+PER-90640,18.0,Austin,USA,C#|Go,Laravel|Flask,Cisco CCNA,0.0,Autodidacta,Frontend,121143.0,profiles
+PER-90641,33.0,Arequipa,Perú,PHP,Spark|FastAPI,None|AWS CCP,2.0,Tecnólogo,Ciberseguridad,12271.0,profiles
+PER-90642,35.0,Valencia,España,TypeScript,Laravel|Spring,Azure Fundamentals|GCP ACE,1.0,Autodidacta,Cloud,45.662,profiles
+PER-90643,19.0,Arequipa,Perú,Python|TypeScript,Laravel,Scrum Master,4.0,Técnico,BI/Analytics,20890.0,profiles
+PER-90644,28.0,Valencia,España,Go|Swift,Laravel|Flask,AWS CCP,3.0,Posgrado,Frontend,25.531,profiles
+PER-90645,27.0,Arequipa,Perú,swift|typescript,.NET|Spark,Azure Fundamentals|Scrum Master,2.0,Tecnólogo,IA,23.479,profiles
+PER-90646,29.0,Valencia,España,Python|TypeScript,Angular|Django,Cisco CCNA,0.0,Pregrado,IA,36563.0,profiles
+PER-90647,37.0,Concepción,Chile,java|r|typescript,Laravel,Cisco CCNA,4.0,Pregrado,Frontend,20687.0,profiles
+PER-90648,27.0,Seattle,USA,PHP|Scala,FastAPI|Django,Unknown,5.0,Posgrado,Frontend,90.013,profiles
+PER-90649,22.0,Lima,Perú,typescript,.NET,Unknown,0.0,Técnico,Data Science,20.836,profiles
+PER-90650,25.0,Valencia,España,Swift,FastAPI|Laravel,GCP ACE|Cisco CCNA,4.0,Técnico,Cloud,68203.0,profiles
+PER-90651,24.0,CDMX,México,PHP|Kotlin|Scala,Laravel,Azure Fundamentals|GCP ACE,5.0,Autodidacta,Backend,24.506,profiles
+PER-90652,35.0,Lima,Perú,php|javascript|kotlin,Angular,AWS CCP,0.0,Posgrado,IA,30789.0,profiles
+PER-90653,28.0,CDMX,México,JavaScript|Swift,Flask|Angular,Cisco CCNA,0.0,Autodidacta,Data Science,37551.0,profiles
+PER-90654,28.0,Buenos Aires,Argentina,Kotlin|R,Laravel|Node.js,None|Cisco CCNA,1.0,Técnico,Cloud,18120.0,profiles
+PER-90655,37.0,Sevilla,España,JavaScript,FastAPI,GCP ACE,3.0,Técnico,Data Science,42472.0,profiles
+PER-90656,24.0,Valparaíso,Chile,Go|Java,Spring,AWS CCP|Azure Fundamentals,1.0,Posgrado,BI/Analytics,32.702,profiles
+PER-90657,34.0,Cusco,Perú,Go|JavaScript|R,FastAPI|Flask,Cisco CCNA|Scrum Master,5.0,Pregrado,BI/Analytics,25234.0,profiles
+PER-90658,31.0,Cusco,Perú,typescript|java|go,Laravel|Node.js,GCP ACE|AWS CCP,0.0,Pregrado,Data Science,27191.0,profiles
+PER-90659,31.0,Austin,USA,R|PHP,Django,Scrum Master,0.0,Pregrado,Frontend,85024.0,profiles
+PER-90660,35.0,Rosario,Argentina,JavaScript|TypeScript|Swift,Laravel|FastAPI,AWS CCP|GCP ACE,5.0,Tecnólogo,IA,22944.0,profiles
+PER-90661,31.0,San Francisco,USA,Java|R,Flask,AWS CCP,3.0,Pregrado,Ciberseguridad,65785.0,profiles
+PER-90662,25.0,Cusco,Perú,JavaScript|Swift,Node.js|React,Cisco CCNA,3.0,Técnico,Ciberseguridad,14.137,profiles
+PER-90663,26.0,Monterrey,México,Scala|PHP,.NET,None|GCP ACE,3.0,Técnico,DevOps,11.926,profiles
+PER-90664,35.0,New York,USA,Kotlin|Scala,Angular|React,AWS CCP|Scrum Master,3.0,Tecnólogo,Cloud,,profiles
+PER-90665,30.0,Concepción,Chile,Swift,Angular|FastAPI,Scrum Master,4.0,Pregrado,Cloud,30307.0,profiles
+PER-90666,24.0,San Francisco,USA,Go,Django,Cisco CCNA,4.0,Técnico,DevOps,105.213,profiles
+PER-90667,39.0,Barranquilla,Colombia,Go|PHP,Laravel,AWS CCP,1.0,Posgrado,Data Science,23.492,profiles
+PER-90668,24.0,Austin,USA,Java|Python|C#,Spring|React,AWS CCP|Azure Fundamentals,4.0,Pregrado,DevOps,86974.0,profiles
+PER-90669,32.0,Bogotá,Colombia,Java,Vue|Laravel,Scrum Master,2.0,Autodidacta,Frontend,14074.0,profiles
+PER-90670,29.0,CALI,Colombia,Swift|JavaScript,Angular|Spark,GCP ACE|None,3.0,Pregrado,DevOps,11690.0,profiles
+PER-90671,28.0,Valencia,España,Python|Java|Scala,React|Spring,Unknown,5.0,Técnico,BI/Analytics,40366.0,profiles
+PER-90672,39.0,Barcelona,España,Kotlin|Scala|Python,Django|Spring,GCP ACE,1.0,Tecnólogo,Frontend,33155.0,profiles
+PER-90673,32.0,San Francisco,USA,Java|TypeScript,React,Azure Fundamentals|Scrum Master,2.0,Autodidacta,Backend,94115.0,profiles
+PER-90674,21.0,Guadalajara,México,Go|R,Angular,AWS CCP,1.0,Técnico,DevOps,27.174,profiles
+PER-90675,31.0,Barcelona,España,Scala|PHP|Swift,Laravel|Angular,Azure Fundamentals,2.0,Tecnólogo,DevOps,28045.0,profiles
+PER-90676,38.0,Valparaíso,Chile,Go,Vue|FastAPI,Scrum Master,2.0,Pregrado,BI/Analytics,19.094,profiles
+PER-90677,41.0,Valencia,España,Kotlin|Go|Scala,.NET,AWS CCP|Cisco CCNA,4.0,Técnico,Frontend,46.999,profiles
+PER-90678,31.0,Concepción,Chile,Kotlin|Go,Spark,GCP ACE|None,1.0,Tecnólogo,Frontend,25754.0,profiles
+PER-90679,24.0,Cali,Colombia,PHP|Kotlin,.NET,Scrum Master|Azure Fundamentals,0.0,Técnico,BI/Analytics,13992.0,profiles
+PER-90680,38.0,Santiago,Chile,Scala|JavaScript|Java,.NET,Unknown,2.0,Tecnólogo,Data Science,36875.0,profiles
+PER-90681,29.0,Puebla,México,TypeScript|Java|R,Angular|React,Azure Fundamentals|None,6.0,Técnico,Backend,26.155,profiles
+PER-90682,30.0,New York,USA,JavaScript|Python,React|.NET,Cisco CCNA,4.0,Posgrado,DevOps,137.515,profiles
+PER-90683,21.0,Concepción,Chile,R,Flask,AWS CCP,3.0,Posgrado,BI/Analytics,20142.0,profiles
+PER-90684,20.0,Lima,Perú,Swift|TypeScript,Django,Scrum Master|Cisco CCNA,2.0,Técnico,Cloud,18357.0,profiles
+PER-90685,28.0,New York,USA,Python|C#|PHP,Spark,Cisco CCNA,3.0,Autodidacta,IA,96304.0,profiles
+PER-90686,33.0,Rosario,Argentina,JavaScript,Angular,Azure Fundamentals,1.0,Posgrado,DevOps,15497.0,profiles
+PER-90687,39.0,Bogotá,Colombia,TypeScript|PHP,Spring|Node.js,Azure Fundamentals,6.0,Tecnólogo,IA,8408.0,profiles
+PER-90688,34.0,Cali,Colombia,TypeScript|Python,Spark|Node.js,Cisco CCNA,5.0,Posgrado,Frontend,16.74,profiles
+PER-90689,18.0,Barcelona,España,JavaScript,Spring,None|Azure Fundamentals,3.0,Técnico,Cloud,32037.0,profiles
+PER-90690,29.0,AREQUIPA,Perú,TypeScript,Flask|Spring,Scrum Master|Azure Fundamentals,4.0,Pregrado,DevOps,14.805,profiles
+PER-90691,35.0,Seattle,USA,PHP,React,Cisco CCNA|AWS CCP,2.0,Posgrado,Data Science,,profiles
+PER-90692,22.0,Monterrey,México,Swift|Kotlin|Java,Node.js|Flask,Scrum Master,2.0,Posgrado,Cloud,13.493,profiles
+PER-90693,27.0,Sevilla,España,Kotlin|Java,Node.js|FastAPI,Cisco CCNA,3.0,Técnico,Data Science,56120.0,profiles
+PER-90694,32.0,Medellín,Colombia,Java|C#,FastAPI,Scrum Master,4.0,Técnico,Cloud,11.383,profiles
+PER-90695,25.0,CDMX,México,Java,Node.js,AWS CCP|None,3.0,Autodidacta,BI/Analytics,18075.0,profiles
+PER-90696,29.0,Barranquilla,Colombia,go|r|c#,Vue|Angular,Azure Fundamentals,0.0,Pregrado,Backend,9.915,profiles
+PER-90697,18.0,Madrid,España,scala|javascript|typescript,Django,None|AWS CCP,0.0,Técnico,Frontend,37899.0,profiles
+PER-90698,24.0,Cusco,Perú,JavaScript,FastAPI,Unknown,2.0,Autodidacta,IA,24347.0,profiles
+PER-90699,18.0,Córdoba,Argentina,JavaScript,.NET|Django,Cisco CCNA,2.0,Tecnólogo,Frontend,20397.0,profiles
+PER-90700,19.0,???,USA,Swift|Go|Kotlin,Spark,None|Cisco CCNA,0.0,Pregrado,DevOps,92.667,profiles
+PER-90701,22.0,Santiago,Chile,Scala|JavaScript|Go,Spark,Azure Fundamentals|AWS CCP,2.0,Técnico,Ciberseguridad,20251.0,profiles
+PER-90702,26.0,Cali,Colombia,JavaScript|C#,React,AWS CCP,1.0,Autodidacta,DevOps,11.022,profiles
+PER-90703,40.0,Lima,Perú,R|Scala,Django,Unknown,0.0,Autodidacta,IA,12755.0,profiles
+PER-90704,31.0,Cusco,Perú,Kotlin|Swift,Node.js|React,Unknown,6.0,Tecnólogo,Data Science,17772.0,profiles
+PER-90705,18.0,Cusco,Perú,TypeScript|PHP,Angular|Node.js,GCP ACE,4.0,Tecnólogo,Ciberseguridad,18782.0,profiles
+PER-90706,23.0,New York,USA,C#|Go|Java,.NET|Vue,Unknown,0.0,Posgrado,IA,140.334,profiles
+PER-90707,25.0,New York,USA,PHP,Node.js|FastAPI,None|Azure Fundamentals,6.0,Tecnólogo,Data Science,,profiles
+PER-90708,34.0,Monterrey,México,Java|C#,FastAPI,GCP ACE|Azure Fundamentals,6.0,Autodidacta,Backend,25.212,profiles
+PER-90709,25.0,Sevilla,España,R|Python,Flask,AWS CCP,2.0,Técnico,Cloud,35.861,profiles
+PER-90710,18.0,Madrid,España,PHP,Spark|Django,Unknown,3.0,Posgrado,Frontend,42956.0,profiles
+PER-90711,35.0,New York,USA,TypeScript|Swift,Flask|Laravel,AWS CCP,0.0,Posgrado,Backend,85.271,profiles
+PER-90712,,Sevilla,España,Scala|Go|Swift,.NET|Spark,Cisco CCNA,3.0,Pregrado,Frontend,43427.0,profiles
+PER-90713,28.0,Córdoba,Argentina,PHP,FastAPI|Flask,Cisco CCNA,3.0,Tecnólogo,Cloud,16712.0,profiles
+PER-90714,25.0,Puebla,México,JavaScript|Swift,Spring|.NET,None,2.0,Pregrado,IA,23960.0,profiles
+PER-90715,21.0,Guadalajara,México,Scala|Go,Vue|Laravel,Scrum Master|Azure Fundamentals,3.0,Técnico,BI/Analytics,19635.0,profiles
+PER-90716,30.0,CDMX,México,Go|C#,Angular|.NET,Scrum Master,5.0,Autodidacta,DevOps,18951.0,profiles
+PER-90717,26.0,San Francisco,USA,typescript,Flask,Cisco CCNA,0.0,Técnico,BI/Analytics,77680.0,profiles
+PER-90718,32.0,bucaramanga,Colombia,Python|Java,Laravel,AWS CCP,2.0,Posgrado,Cloud,19.582,profiles
+PER-90719,31.0,Seattle,USA,c#,FastAPI|Angular,Azure Fundamentals,3.0,Pregrado,Ciberseguridad,111961.0,profiles
+PER-90720,26.0,Lima,Perú,PHP,Node.js|React,Scrum Master,1.0,Técnico,DevOps,15.65,profiles
+PER-90721,32.0,ROSARIO,Argentina,R|PHP,Node.js,Azure Fundamentals|Scrum Master,3.0,Posgrado,Frontend,19440.0,profiles
+PER-90722,27.0,???,México,Java,Django|FastAPI,Azure Fundamentals|GCP ACE,5.0,Tecnólogo,Cloud,26.851,profiles
+PER-90723,33.0,CDMX,México,javascript|go,Spark|Laravel,GCP ACE|AWS CCP,3.0,Autodidacta,Cloud,14697.0,profiles
+PER-90724,25.0,???,Chile,Java,.NET,Scrum Master,1.0,Técnico,Ciberseguridad,27.873,profiles
+PER-90725,31.0,Guadalajara,México,Swift|Python,Flask|.NET,AWS CCP,5.0,Posgrado,Data Science,25920.0,profiles
+PER-90726,30.0,Rosario,Argentina,Java|Swift,Spark,GCP ACE,3.0,Técnico,Data Science,17192.0,profiles
+PER-90727,38.0,Miami,USA,PHP,Spring|Laravel,AWS CCP,3.0,Pregrado,IA,134.158,profiles
+PER-90728,30.0,Córdoba,Argentina,Swift|TypeScript,FastAPI|Laravel,Cisco CCNA,0.0,Técnico,Cloud,21304.0,profiles
+PER-90729,30.0,Córdoba,Argentina,R|TypeScript,Spring,GCP ACE,2.0,Tecnólogo,IA,34717.0,profiles
+PER-90730,23.0,CDMX,México,R|TypeScript,.NET,Cisco CCNA,0.0,Autodidacta,Data Science,22673.0,profiles
+PER-90731,23.0,Santiago,Chile,Go|Python|Scala,Vue,Cisco CCNA,3.0,Pregrado,DevOps,15391.0,profiles
+PER-90732,18.0,Miami,USA,TypeScript,Angular|.NET,AWS CCP,1.0,Pregrado,IA,,profiles
+PER-90733,26.0,Rosario,Argentina,java|typescript,Angular|Spring,Cisco CCNA|Azure Fundamentals,5.0,Tecnólogo,Backend,15.295,profiles
+PER-90734,41.0,sevilla,España,Kotlin|Swift|TypeScript,Django|Spark,Cisco CCNA,2.0,Posgrado,Data Science,27119.0,profiles
+PER-90735,33.0,Bucaramanga,Colombia,typescript,Vue,Scrum Master,3.0,Posgrado,Frontend,9.526,profiles
+PER-90736,29.0,Buenos Aires,Argentina,Scala|C#|TypeScript,React|FastAPI,GCP ACE|AWS CCP,2.0,Autodidacta,Frontend,25235.0,profiles
+PER-90737,26.0,Sevilla,España,PHP,FastAPI|Flask,Cisco CCNA,2.0,Autodidacta,Data Science,54010.0,profiles
+PER-90738,22.0,Seattle,USA,python|java,.NET,Scrum Master,0.0,Posgrado,Frontend,97841.0,profiles
+PER-90739,32.0,Cali,Colombia,JavaScript|Kotlin,Django|Flask,GCP ACE,4.0,Posgrado,BI/Analytics,7525.0,profiles
+PER-90740,22.0,CDMX,México,PHP,React,None|Scrum Master,4.0,Tecnólogo,IA,18362.0,profiles
+PER-90741,26.0,Rosario,Argentina,PHP|Kotlin,React|.NET,Scrum Master|GCP ACE,4.0,Pregrado,Data Science,20.364,profiles
+PER-90742,27.0,Monterrey,México,scala|javascript|java,React|FastAPI,AWS CCP|Cisco CCNA,2.0,Técnico,Frontend,21.385,profiles
+PER-90743,31.0,Cusco,Perú,Go|Java|Scala,Flask,Azure Fundamentals,1.0,Posgrado,Cloud,14142.0,profiles
+PER-90744,22.0,Valparaíso,Chile,PHP|Swift|Go,Spring|Vue,None|Scrum Master,5.0,Técnico,Data Science,37841.0,profiles
+PER-90745,25.0,Lima,Perú,TypeScript|Swift|Go,.NET,AWS CCP,1.0,Técnico,Backend,12.518,profiles
+PER-90746,19.0,San Francisco,USA,R|PHP|C#,Spring|Angular,Cisco CCNA,0.0,Autodidacta,Frontend,78.377,profiles
+PER-90747,35.0,Sevilla,España,TypeScript|PHP|C#,Angular,AWS CCP,5.0,Pregrado,Data Science,40321.0,profiles
+PER-90748,26.0,Austin,USA,R|Python|TypeScript,Laravel,Azure Fundamentals,4.0,Posgrado,Ciberseguridad,115397.0,profiles
+PER-90749,27.0,Barranquilla,Colombia,Kotlin|TypeScript|C#,Flask,Cisco CCNA|GCP ACE,3.0,Posgrado,Data Science,15975.0,profiles
+PER-90750,34.0,Cartagena,Colombia,Scala|PHP,Laravel,Azure Fundamentals|Cisco CCNA,3.0,Posgrado,Data Science,11168.0,profiles
+PER-90751,33.0,Córdoba,Argentina,Swift,.NET|Laravel,Scrum Master|Azure Fundamentals,1.0,Tecnólogo,Frontend,19809.0,profiles
+PER-90752,18.0,Concepción,Chile,c#,Vue|Node.js,Cisco CCNA,3.0,Tecnólogo,Cloud,22.52,profiles
+PER-90753,18.0,Seattle,USA,TypeScript,Node.js|.NET,Scrum Master,4.0,Tecnólogo,Backend,79991.0,profiles
+PER-90754,36.0,???,México,Java|Swift,Spring,Unknown,4.0,Técnico,Cloud,15307.0,profiles
+PER-90755,24.0,Puebla,México,TypeScript|Swift,Angular,Cisco CCNA|Azure Fundamentals,3.0,Tecnólogo,Ciberseguridad,15.382,profiles
+PER-90756,27.0,Lima,Perú,Go|Scala,.NET,Scrum Master|GCP ACE,3.0,Posgrado,Frontend,22026.0,profiles
+PER-90757,28.0,Austin,USA,Python|JavaScript,Angular,Azure Fundamentals,4.0,Técnico,DevOps,66.967,profiles
+PER-90758,32.0,Cali,Colombia,PHP|Swift,FastAPI|.NET,Scrum Master,1.0,Pregrado,Backend,10450.0,profiles
+PER-90759,29.0,Santiago,Chile,Scala|Kotlin|Go,Spark,AWS CCP,3.0,Tecnólogo,IA,16725.0,profiles
+PER-90760,32.0,Miami,USA,Kotlin|TypeScript,React|Flask,GCP ACE,4.0,Posgrado,Frontend,95734.0,profiles
+PER-90761,,???,España,Kotlin|Swift|C#,FastAPI|Vue,GCP ACE,4.0,Autodidacta,DevOps,38352.0,profiles
+PER-90762,35.0,Cartagena,Colombia,Scala,FastAPI,Scrum Master|None,3.0,Autodidacta,Cloud,18119.0,profiles
+PER-90763,28.0,Rosario,Argentina,C#,Vue,Azure Fundamentals,4.0,Tecnólogo,IA,20.939,profiles
+PER-90764,32.0,Santiago,Chile,PHP|Go,Angular|.NET,GCP ACE|None,0.0,Tecnólogo,Backend,28.605,profiles
+PER-90765,28.0,Buenos Aires,Argentina,Go|R|TypeScript,React,GCP ACE,2.0,Pregrado,Ciberseguridad,26944.0,profiles
+PER-90766,24.0,Cusco,Perú,Go|R,Spark|.NET,Azure Fundamentals,1.0,Técnico,Ciberseguridad,22.004,profiles
+PER-90767,21.0,cusco,Perú,Kotlin|Go,React,Azure Fundamentals,6.0,Posgrado,IA,16077.0,profiles
+PER-90768,24.0,Cali,Colombia,TypeScript|R|Java,Django|React,GCP ACE|None,0.0,Tecnólogo,IA,9514.0,profiles
+PER-90769,27.0,Miami,USA,PHP,Flask|React,Scrum Master,5.0,Tecnólogo,Backend,69160.0,profiles
+PER-90770,28.0,Rosario,Argentina,Swift|PHP|JavaScript,Django|React,Azure Fundamentals,3.0,Posgrado,Ciberseguridad,28757.0,profiles
+PER-90771,33.0,Lima,Perú,javascript|scala,Spark,GCP ACE|None,5.0,Técnico,Data Science,13398.0,profiles
+PER-90772,25.0,Córdoba,Argentina,JavaScript,.NET|Angular,Cisco CCNA|AWS CCP,1.0,Técnico,Frontend,23601.0,profiles
+PER-90773,27.0,???,Colombia,Kotlin|C#,Django,Azure Fundamentals|Cisco CCNA,2.0,Pregrado,Backend,19283.0,profiles
+PER-90774,33.0,???,Perú,Python|Go|Kotlin,Vue,Azure Fundamentals,1.0,Autodidacta,IA,18782.0,profiles
+PER-90775,21.0,Valencia,España,Java|C#,Vue,Azure Fundamentals|None,3.0,Técnico,Frontend,26694.0,profiles
+PER-90776,23.0,Cartagena,Colombia,Kotlin|Scala,Flask,GCP ACE|Scrum Master,0.0,Autodidacta,Ciberseguridad,19715.0,profiles
+PER-90777,28.0,Buenos Aires,Argentina,TypeScript|C#,Node.js|Django,GCP ACE|Cisco CCNA,2.0,Tecnólogo,DevOps,20928.0,profiles
+PER-90778,25.0,Arequipa,Perú,Python|C#,Laravel,Azure Fundamentals,1.0,Autodidacta,Ciberseguridad,28455.0,profiles
+PER-90779,33.0,Miami,USA,JavaScript|Go,Spring,AWS CCP,2.0,Tecnólogo,Frontend,109.745,profiles
+PER-90780,20.0,Guadalajara,México,Python|JavaScript,Spark|Django,None|Scrum Master,6.0,Tecnólogo,Backend,15605.0,profiles
+PER-90781,29.0,Rosario,Argentina,JavaScript|Java,Angular,AWS CCP,2.0,Tecnólogo,IA,15736.0,profiles
+PER-90782,33.0,Lima,Perú,Python|JavaScript,Vue|FastAPI,AWS CCP,0.0,Técnico,Backend,22.273,profiles
+PER-90783,27.0,Monterrey,México,php|swift,.NET|Flask,GCP ACE,0.0,Posgrado,Data Science,15328.0,profiles
+PER-90784,23.0,new york,USA,Swift|TypeScript|Java,React|Spring,Azure Fundamentals|Cisco CCNA,2.0,Técnico,Cloud,73401.0,profiles
+PER-90785,23.0,???,Colombia,go,Vue|Django,AWS CCP|GCP ACE,0.0,Tecnólogo,Backend,10068.0,profiles
+PER-90786,38.0,Seattle,USA,Python,Spring,Cisco CCNA|Azure Fundamentals,0.0,Pregrado,IA,107.759,profiles
+PER-90787,30.0,Puebla,México,python,Django|Flask,Cisco CCNA,4.0,Técnico,Backend,26.245,profiles
+PER-90788,35.0,Bogotá,Colombia,Kotlin|C#,FastAPI|Flask,AWS CCP,3.0,Posgrado,Cloud,14090.0,profiles
+PER-90789,22.0,???,Chile,Scala|C#,Spring|.NET,Azure Fundamentals|None,2.0,Autodidacta,IA,16767.0,profiles
+PER-90790,35.0,Buenos Aires,Argentina,scala|java,Spring|Spark,Unknown,1.0,Posgrado,IA,19278.0,profiles
+PER-90791,,Guadalajara,México,PHP|C#,Laravel,Scrum Master|Azure Fundamentals,2.0,Técnico,Cloud,18563.0,profiles
+PER-90792,38.0,Arequipa,Perú,C#|JavaScript|Kotlin,Angular|.NET,Unknown,5.0,Tecnólogo,Ciberseguridad,26457.0,profiles
+PER-90793,34.0,Cali,Colombia,JavaScript|TypeScript,React,GCP ACE,4.0,Pregrado,Data Science,18.341,profiles
+PER-90794,18.0,Lima,Perú,Go|TypeScript|Java,Spark,Scrum Master|GCP ACE,3.0,Autodidacta,Backend,14441.0,profiles
+PER-90795,32.0,Monterrey,México,Go|Kotlin|Swift,Vue,Scrum Master|AWS CCP,0.0,Técnico,DevOps,25011.0,profiles
+PER-90796,26.0,Austin,USA,Swift|Python,Spark|Vue,Unknown,6.0,Pregrado,Cloud,68.048,profiles
+PER-90797,25.0,Arequipa,Perú,C#,FastAPI,Azure Fundamentals,3.0,Pregrado,IA,26401.0,profiles
+PER-90798,20.0,New York,USA,Swift|R,Spring,AWS CCP,0.0,Pregrado,DevOps,105946.0,profiles
+PER-90799,18.0,Rosario,Argentina,TypeScript,Node.js|Spark,Scrum Master,5.0,Autodidacta,Frontend,18180.0,profiles
+PER-90800,29.0,Seattle,USA,TypeScript|Python|Go,Spark,AWS CCP|None,4.0,Pregrado,Ciberseguridad,89191.0,profiles
+PER-90801,28.0,Buenos Aires,Argentina,TypeScript|Scala|C#,Flask,GCP ACE|Cisco CCNA,3.0,Autodidacta,BI/Analytics,32.786,profiles
+PER-90802,27.0,Cartagena,Colombia,typescript|python,Angular|Spark,Scrum Master|Cisco CCNA,4.0,Tecnólogo,DevOps,19.242,profiles
+PER-90803,30.0,NEW YORK,USA,TypeScript,Vue,Azure Fundamentals,4.0,Tecnólogo,Ciberseguridad,96414.0,profiles
+PER-90804,25.0,Barcelona,España,Go|PHP|Scala,FastAPI|React,AWS CCP,4.0,Posgrado,Ciberseguridad,65652.0,profiles
+PER-90805,18.0,Córdoba,Argentina,Go|JavaScript|Swift,.NET,Azure Fundamentals|GCP ACE,2.0,Tecnólogo,DevOps,19092.0,profiles
+PER-90806,28.0,Buenos Aires,Argentina,Scala|C#,Laravel|Spring,GCP ACE,3.0,Pregrado,DevOps,18367.0,profiles
+PER-90807,22.0,Buenos Aires,Argentina,Go|Kotlin,Laravel,Azure Fundamentals,1.0,Pregrado,DevOps,26080.0,profiles
+PER-90808,29.0,Miami,USA,Java|TypeScript,Django|Laravel,Cisco CCNA,4.0,Posgrado,Data Science,141.33,profiles
+PER-90809,,arequipa,Perú,Swift|Python,Spark,Azure Fundamentals|AWS CCP,4.0,Tecnólogo,BI/Analytics,18476.0,profiles
+PER-90810,34.0,New York,USA,C#,Flask|Node.js,Scrum Master|None,5.0,Autodidacta,Frontend,,profiles
+PER-90811,31.0,Sevilla,España,typescript|javascript|r,Flask,Cisco CCNA|None,0.0,Posgrado,BI/Analytics,33371.0,profiles
+PER-90812,23.0,Santiago,Chile,Go|TypeScript|R,Laravel,GCP ACE,1.0,Autodidacta,Ciberseguridad,37442.0,profiles
+PER-90813,25.0,AUSTIN,USA,c#,.NET|Node.js,Scrum Master|GCP ACE,4.0,Técnico,IA,72763.0,profiles
+PER-90814,24.0,Valparaíso,Chile,kotlin|php|c#,Flask,Cisco CCNA,1.0,Tecnólogo,BI/Analytics,31.068,profiles
+PER-90815,23.0,Medellín,Colombia,R|Swift,Django,GCP ACE,0.0,Pregrado,IA,18221.0,profiles
+PER-90816,25.0,Buenos Aires,Argentina,R|Swift,Vue,GCP ACE,2.0,Tecnólogo,DevOps,14453.0,profiles
+PER-90817,36.0,Cartagena,Colombia,JavaScript|Kotlin,FastAPI,Cisco CCNA,1.0,Tecnólogo,Data Science,7459.0,profiles
+PER-90818,24.0,Córdoba,Argentina,R|Python,Laravel,GCP ACE,3.0,Tecnólogo,DevOps,26015.0,profiles
+PER-90819,23.0,???,México,TypeScript|Java,Vue|Angular,Scrum Master|AWS CCP,1.0,Pregrado,Ciberseguridad,17.91,profiles
+PER-90820,27.0,Arequipa,Perú,R|Kotlin,React|Angular,AWS CCP,4.0,Autodidacta,Data Science,21.075,profiles
+PER-90821,35.0,Guadalajara,México,Kotlin|C#|JavaScript,Django|React,Scrum Master,1.0,Tecnólogo,BI/Analytics,18555.0,profiles
+PER-90822,32.0,Rosario,Argentina,php|go|scala,Vue|FastAPI,Unknown,0.0,Tecnólogo,Frontend,19638.0,profiles
+PER-90823,37.0,???,Argentina,Scala|TypeScript,Node.js,Scrum Master|Cisco CCNA,0.0,Pregrado,Backend,19683.0,profiles
+PER-90824,26.0,Barcelona,España,swift,.NET|Laravel,None,4.0,Pregrado,DevOps,45571.0,profiles
+PER-90825,29.0,AREQUIPA,Perú,typescript,Node.js|Spring,Cisco CCNA|GCP ACE,2.0,Autodidacta,Cloud,30834.0,profiles
+PER-90826,28.0,Rosario,Argentina,Python|C#,Spring,GCP ACE,2.0,Tecnólogo,DevOps,23641.0,profiles
+PER-90827,41.0,Valparaíso,Chile,r|go|java,Spark,AWS CCP,0.0,Tecnólogo,Cloud,33164.0,profiles
+PER-90828,33.0,Arequipa,Perú,Kotlin|C#,Laravel,GCP ACE,2.0,Tecnólogo,Data Science,24989.0,profiles
+PER-90829,23.0,Barcelona,España,r|c#,Spring|Spark,AWS CCP|Scrum Master,3.0,Tecnólogo,BI/Analytics,35.821,profiles
+PER-90830,29.0,Monterrey,México,Swift,React,Scrum Master,4.0,Autodidacta,Backend,20974.0,profiles
+PER-90831,31.0,Barcelona,España,c#|swift|r,Vue,GCP ACE,0.0,Tecnólogo,Frontend,33.821,profiles
+PER-90832,26.0,Cartagena,Colombia,Go|C#|Python,FastAPI,Azure Fundamentals|None,5.0,Autodidacta,Cloud,15120.0,profiles
+PER-90833,28.0,Sevilla,España,Python,Vue|Laravel,AWS CCP,3.0,Pregrado,DevOps,33113.0,profiles
+PER-90834,26.0,Valparaíso,Chile,TypeScript|Kotlin,Vue|FastAPI,Azure Fundamentals,1.0,Posgrado,Frontend,34880.0,profiles
+PER-90835,33.0,Rosario,Argentina,Scala|PHP|C#,React,AWS CCP,1.0,Tecnólogo,Frontend,24.433,profiles
+PER-90836,21.0,Santiago,Chile,python|go,FastAPI|Django,AWS CCP,1.0,Tecnólogo,Cloud,19798.0,profiles
+PER-90837,18.0,Lima,Perú,scala|java|c#,Node.js,GCP ACE,2.0,Tecnólogo,Frontend,22453.0,profiles
+PER-90838,37.0,Santiago,Chile,JavaScript|R,FastAPI|Angular,Azure Fundamentals,2.0,Autodidacta,Ciberseguridad,23748.0,profiles
+PER-90839,28.0,Buenos Aires,Argentina,TypeScript|R|Scala,Angular,AWS CCP|None,2.0,Posgrado,Ciberseguridad,31224.0,profiles
+PER-90840,31.0,bucaramanga,Colombia,PHP,Flask,Unknown,1.0,Autodidacta,Backend,9985.0,profiles
+PER-90841,32.0,Austin,USA,Go|Python|R,.NET|FastAPI,GCP ACE|Cisco CCNA,4.0,Posgrado,BI/Analytics,93132.0,profiles
+PER-90842,33.0,Lima,Perú,Kotlin|Go,Angular|.NET,Azure Fundamentals|GCP ACE,6.0,Autodidacta,Ciberseguridad,14334.0,profiles
+PER-90843,26.0,Valparaíso,Chile,Java|Swift,Spark,GCP ACE,2.0,Autodidacta,DevOps,25946.0,profiles
+PER-90844,21.0,Puebla,México,Java|Swift,.NET,GCP ACE,5.0,Tecnólogo,Ciberseguridad,17346.0,profiles
+PER-90845,26.0,Buenos Aires,Argentina,Python|R,Vue,AWS CCP|None,6.0,Pregrado,IA,15.75,profiles
+PER-90846,28.0,Córdoba,Argentina,JavaScript|TypeScript,.NET|Spark,Cisco CCNA|None,1.0,Autodidacta,Backend,18632.0,profiles
+PER-90847,31.0,CDMX,México,Scala,Vue,Unknown,4.0,Autodidacta,Cloud,15205.0,profiles
+PER-90848,29.0,Cusco,Perú,Java,Vue,AWS CCP,2.0,Tecnólogo,Data Science,10224.0,profiles
+PER-90849,29.0,San Francisco,USA,Python,FastAPI|Spring,Azure Fundamentals|AWS CCP,2.0,Pregrado,DevOps,84000.0,profiles
+PER-90850,29.0,Lima,Perú,TypeScript|Kotlin|C#,Django,None|Cisco CCNA,0.0,Autodidacta,IA,31145.0,profiles
+PER-90851,26.0,Cali,Colombia,java|c#|r,Flask,Azure Fundamentals,4.0,Técnico,DevOps,14.03,profiles
+PER-90852,26.0,Cali,Colombia,Go|Python,FastAPI,AWS CCP,1.0,Técnico,Data Science,13.01,profiles
+PER-90853,32.0,guadalajara,México,javascript,Angular,AWS CCP,5.0,Técnico,IA,27299.0,profiles
+PER-90854,28.0,Buenos Aires,Argentina,swift,Laravel,AWS CCP,2.0,Tecnólogo,DevOps,26551.0,profiles
+PER-90855,28.0,Medellín,Colombia,Swift|C#|Java,FastAPI,None|Scrum Master,4.0,Técnico,BI/Analytics,13245.0,profiles
+PER-90856,27.0,Seattle,USA,R|JavaScript,Django|Flask,Scrum Master,1.0,Tecnólogo,BI/Analytics,,profiles
+PER-90857,34.0,Santiago,Chile,C#|Scala,Spark|Angular,GCP ACE,1.0,Técnico,Data Science,22460.0,profiles
+PER-90858,24.0,Guadalajara,México,Scala,Flask,Cisco CCNA,0.0,Pregrado,Ciberseguridad,14538.0,profiles
+PER-90859,34.0,San Francisco,USA,C#|JavaScript|TypeScript,Django,Azure Fundamentals,4.0,Tecnólogo,IA,86236.0,profiles
+PER-90860,19.0,Valparaíso,Chile,Scala|JavaScript,Vue,Cisco CCNA,1.0,Tecnólogo,DevOps,23.43,profiles
+PER-90861,34.0,Barranquilla,Colombia,Swift|Scala|C#,Vue,Cisco CCNA|Azure Fundamentals,4.0,Autodidacta,BI/Analytics,15807.0,profiles
+PER-90862,29.0,Sevilla,España,php,Angular|Laravel,Unknown,1.0,Pregrado,Frontend,43217.0,profiles
+PER-90863,27.0,Puebla,México,scala|kotlin|typescript,React|Laravel,Azure Fundamentals|AWS CCP,0.0,Pregrado,Ciberseguridad,29106.0,profiles
+PER-90864,28.0,guadalajara,México,Kotlin|R,Vue,None|Scrum Master,4.0,Técnico,BI/Analytics,14606.0,profiles
+PER-90865,,Seattle,USA,Kotlin|Swift|Java,Laravel|.NET,Azure Fundamentals,3.0,Autodidacta,Data Science,76418.0,profiles
+PER-90866,29.0,Cusco,Perú,Swift|PHP|Python,Angular|Django,Unknown,0.0,Posgrado,DevOps,25738.0,profiles
+PER-90867,29.0,Seattle,USA,Java,React|Laravel,Scrum Master,3.0,Pregrado,Backend,107389.0,profiles
+PER-90868,36.0,Medellín,Colombia,R|Python,Laravel|.NET,Unknown,2.0,Pregrado,BI/Analytics,7000.0,profiles
+PER-90869,35.0,Guadalajara,México,PHP|Python,Laravel|Angular,Azure Fundamentals|Cisco CCNA,3.0,Autodidacta,IA,18763.0,profiles
+PER-90870,32.0,Monterrey,México,C#|Swift,Node.js,AWS CCP,1.0,Técnico,Cloud,26.834,profiles
+PER-90871,33.0,Buenos Aires,Argentina,Kotlin|C#,Spark|.NET,None,0.0,Autodidacta,DevOps,17.058,profiles
+PER-90872,37.0,Cartagena,Colombia,TypeScript|Swift,.NET|Flask,AWS CCP|Scrum Master,2.0,Tecnólogo,BI/Analytics,9711.0,profiles
+PER-90873,24.0,Valparaíso,Chile,C#|TypeScript,Flask,Azure Fundamentals,2.0,Pregrado,Frontend,22.294,profiles
+PER-90874,32.0,Bucaramanga,Colombia,Python|TypeScript|Scala,Node.js,GCP ACE,4.0,Posgrado,Cloud,12242.0,profiles
+PER-90875,19.0,Austin,USA,php|python,FastAPI,Azure Fundamentals,1.0,Posgrado,Frontend,115020.0,profiles
+PER-90876,29.0,Puebla,México,C#,Django|Spring,Azure Fundamentals,4.0,Posgrado,BI/Analytics,16577.0,profiles
+PER-90877,31.0,Cali,Colombia,TypeScript|JavaScript,Laravel|Node.js,Cisco CCNA,4.0,Técnico,Ciberseguridad,17786.0,profiles
+PER-90878,30.0,BARCELONA,España,Java|Kotlin,FastAPI,None|AWS CCP,5.0,Autodidacta,DevOps,44803.0,profiles
+PER-90879,27.0,Bucaramanga,Colombia,R,Node.js,AWS CCP,4.0,Pregrado,BI/Analytics,16.69,profiles
+PER-90880,38.0,Lima,Perú,C#|JavaScript,Vue,Scrum Master,2.0,Pregrado,DevOps,16916.0,profiles
+PER-90881,25.0,Bogotá,Colombia,kotlin|java,Spark|.NET,Scrum Master,2.0,Técnico,DevOps,9388.0,profiles
+PER-90882,34.0,Barcelona,España,Python|C#,.NET|React,Azure Fundamentals|GCP ACE,5.0,Pregrado,Frontend,41506.0,profiles
+PER-90883,23.0,Madrid,España,PHP,Vue,Azure Fundamentals|None,3.0,Tecnólogo,Data Science,34743.0,profiles
+PER-90884,23.0,Miami,USA,C#,React|Vue,Azure Fundamentals,2.0,Técnico,BI/Analytics,65759.0,profiles
+PER-90885,30.0,Rosario,Argentina,Kotlin|R,Vue|.NET,Azure Fundamentals,0.0,Posgrado,IA,30707.0,profiles
+PER-90886,25.0,Rosario,Argentina,Swift,Vue|React,Cisco CCNA,2.0,Autodidacta,Cloud,22.667,profiles
+PER-90887,30.0,Monterrey,México,Swift|R,Laravel,GCP ACE|Scrum Master,2.0,Tecnólogo,Backend,14734.0,profiles
+PER-90888,32.0,Arequipa,Perú,swift|typescript,FastAPI,Unknown,1.0,Pregrado,BI/Analytics,27366.0,profiles
+PER-90889,34.0,Cusco,Perú,Swift|Kotlin|Python,FastAPI|Vue,Unknown,1.0,Autodidacta,Data Science,20794.0,profiles
+PER-90890,45.0,Córdoba,Argentina,Java|TypeScript|C#,Angular|FastAPI,Scrum Master|None,5.0,Pregrado,IA,23669.0,profiles
+PER-90891,35.0,Cordoba,Argentina,Go|Python|TypeScript,Angular|Flask,Unknown,3.0,Posgrado,IA,17213.0,profiles
+PER-90892,34.0,Cusco,Perú,TypeScript|C#,React|Flask,GCP ACE|AWS CCP,5.0,Posgrado,Backend,13359.0,profiles
+PER-90893,27.0,Medellín,Colombia,PHP|Java|Kotlin,Django,Cisco CCNA,1.0,Técnico,Frontend,9.78,profiles
+PER-90894,28.0,Córdoba,Argentina,TypeScript|Go,Spark|.NET,GCP ACE,3.0,Tecnólogo,Ciberseguridad,13961.0,profiles
+PER-90895,26.0,Rosario,Argentina,JavaScript|Scala|Python,Node.js,Scrum Master,6.0,Tecnólogo,IA,19326.0,profiles
+PER-90896,26.0,Valparaíso,Chile,PHP|Kotlin,React|Django,Scrum Master|Azure Fundamentals,4.0,Tecnólogo,Data Science,20540.0,profiles
+PER-90897,42.0,Madrid,España,C#|PHP,.NET,GCP ACE|AWS CCP,7.0,Técnico,Frontend,36016.0,profiles
+PER-90898,18.0,Córdoba,Argentina,R|Kotlin,Vue|.NET,GCP ACE|Cisco CCNA,1.0,Tecnólogo,IA,17172.0,profiles
+PER-90899,23.0,Rosario,Argentina,Scala|PHP,Django,Unknown,4.0,Técnico,BI/Analytics,20732.0,profiles
+PER-90900,20.0,Arequipa,Perú,TypeScript,Spark,None|Azure Fundamentals,1.0,Posgrado,BI/Analytics,25377.0,profiles
+PER-90901,24.0,Santiago,Chile,JavaScript,Vue|.NET,GCP ACE,3.0,Autodidacta,DevOps,19.604,profiles
+PER-90902,38.0,Valencia,España,Scala,Spring,Cisco CCNA,1.0,Técnico,Ciberseguridad,43.416,profiles
+PER-90903,18.0,Seattle,USA,Java,React|.NET,None|Scrum Master,3.0,Posgrado,Cloud,91338.0,profiles
+PER-90904,29.0,???,Argentina,Python|PHP|Kotlin,Angular|React,Cisco CCNA,0.0,Posgrado,Data Science,25.011,profiles
+PER-90905,33.0,Bucaramanga,Colombia,Kotlin|PHP,Flask|FastAPI,Azure Fundamentals,5.0,Autodidacta,BI/Analytics,10.596,profiles
+PER-90906,29.0,CONCEPCIÓN,Chile,C#|TypeScript,Django|Flask,GCP ACE,5.0,Autodidacta,Frontend,23721.0,profiles
+PER-90907,19.0,Miami,USA,JavaScript|Python|PHP,Node.js,Azure Fundamentals,2.0,Pregrado,Cloud,,profiles
+PER-90908,28.0,CDMX,México,swift|scala|typescript,Vue|Spring,GCP ACE,2.0,Pregrado,Ciberseguridad,23610.0,profiles
+PER-90909,23.0,Cartagena,Colombia,Java|Python,Angular|Flask,Scrum Master|None,5.0,Autodidacta,BI/Analytics,16213.0,profiles
+PER-90910,29.0,Barranquilla,Colombia,javascript|c#|typescript,Django|Angular,Scrum Master,2.0,Posgrado,Backend,10304.0,profiles
+PER-90911,35.0,Lima,Perú,Scala|Swift,Spring,Cisco CCNA,4.0,Autodidacta,Data Science,28020.0,profiles
+PER-90912,25.0,Puebla,México,Swift,Django,None|Azure Fundamentals,2.0,Pregrado,Ciberseguridad,13659.0,profiles
+PER-90913,25.0,Arequipa,Perú,Scala|PHP|Kotlin,Spark|Angular,AWS CCP,4.0,Posgrado,Data Science,31094.0,profiles
+PER-90914,31.0,ROSARIO,Argentina,PHP|Swift|TypeScript,Spark,Azure Fundamentals,3.0,Técnico,Ciberseguridad,21749.0,profiles
+PER-90915,35.0,Santiago,Chile,Swift|Go,Django,Scrum Master,5.0,Tecnólogo,BI/Analytics,15738.0,profiles
+PER-90916,25.0,medellín,Colombia,Go,Laravel,Cisco CCNA,2.0,Autodidacta,DevOps,14.726,profiles
+PER-90917,29.0,Miami,USA,PHP,Vue|Flask,GCP ACE,3.0,Autodidacta,BI/Analytics,106.293,profiles
+PER-90918,35.0,Madrid,España,JavaScript|Java,React,Scrum Master,2.0,Técnico,DevOps,47206.0,profiles
+PER-90919,23.0,San Francisco,USA,Kotlin|JavaScript,.NET|Angular,None|GCP ACE,1.0,Posgrado,Backend,122967.0,profiles
+PER-90920,30.0,Santiago,Chile,Scala|Java,Vue|Node.js,Scrum Master,0.0,Autodidacta,Data Science,47617.0,profiles
+PER-90921,21.0,Seattle,USA,JavaScript|Swift,Spark|React,None|Cisco CCNA,2.0,Tecnólogo,Frontend,,profiles
+PER-90922,29.0,New York,USA,Scala|Swift|R,Node.js|.NET,GCP ACE,5.0,Tecnólogo,Backend,71627.0,profiles
+PER-90923,24.0,Valparaíso,Chile,PHP|Swift,Angular,Cisco CCNA|Scrum Master,5.0,Pregrado,Cloud,24140.0,profiles
+PER-90924,44.0,Buenos Aires,Argentina,java|go,FastAPI|Spark,Cisco CCNA|Scrum Master,5.0,Técnico,BI/Analytics,15267.0,profiles
+PER-90925,36.0,miami,USA,kotlin|scala|c#,Node.js,Scrum Master,0.0,Técnico,Frontend,100276.0,profiles
+PER-90926,29.0,Barranquilla,Colombia,kotlin|r,Node.js,Cisco CCNA,0.0,Tecnólogo,Ciberseguridad,13045.0,profiles
+PER-90927,19.0,Cusco,Perú,Kotlin|TypeScript,Angular,Azure Fundamentals,0.0,Pregrado,DevOps,19011.0,profiles
+PER-90928,30.0,Guadalajara,México,TypeScript,Django|Spark,None,3.0,Posgrado,Cloud,12356.0,profiles
+PER-90929,18.0,Guadalajara,México,Python|R,Angular,GCP ACE,2.0,Tecnólogo,IA,14817.0,profiles
+PER-90930,34.0,Arequipa,Perú,scala,Angular|FastAPI,Unknown,3.0,Autodidacta,Frontend,25275.0,profiles
+PER-90931,32.0,San Francisco,USA,TypeScript|Java,Laravel|.NET,Cisco CCNA|GCP ACE,3.0,Pregrado,Backend,114149.0,profiles
+PER-90932,32.0,???,Argentina,R|PHP,Spark|Spring,AWS CCP,1.0,Técnico,Cloud,17176.0,profiles
+PER-90933,33.0,Concepción,Chile,JavaScript|R,Spring|Angular,AWS CCP,1.0,Pregrado,Ciberseguridad,27500.0,profiles
+PER-90934,29.0,Córdoba,Argentina,Scala|Java,Angular|Vue,Scrum Master,4.0,Tecnólogo,Backend,14536.0,profiles
+PER-90935,30.0,Sevilla,España,Scala,FastAPI|Node.js,Scrum Master,3.0,Tecnólogo,BI/Analytics,38854.0,profiles
+PER-90936,18.0,Valparaíso,Chile,C#|Python,.NET,Scrum Master,1.0,Tecnólogo,BI/Analytics,25721.0,profiles
+PER-90937,31.0,Lima,Perú,JavaScript|Swift|TypeScript,Django|Node.js,Azure Fundamentals,4.0,Tecnólogo,IA,13040.0,profiles
+PER-90938,18.0,Valencia,España,typescript|c#,Django,Scrum Master,1.0,Técnico,BI/Analytics,28753.0,profiles
+PER-90939,31.0,???,España,JavaScript|Scala,React|.NET,AWS CCP,5.0,Autodidacta,IA,47.678,profiles
+PER-90940,38.0,Guadalajara,México,python,Angular|Flask,AWS CCP,3.0,Tecnólogo,Ciberseguridad,18.932,profiles
+PER-90941,35.0,New York,USA,typescript|java,Django,Cisco CCNA|AWS CCP,6.0,Tecnólogo,Cloud,108.7,profiles
+PER-90942,32.0,CDMX,México,TypeScript|JavaScript,React|Flask,Scrum Master|GCP ACE,3.0,Técnico,Frontend,16261.0,profiles
+PER-90943,25.0,BUENOS AIRES,Argentina,Go|TypeScript,Spring,AWS CCP,2.0,Técnico,Ciberseguridad,16711.0,profiles
+PER-90944,36.0,Cordoba,Argentina,javascript|swift|python,Flask,Cisco CCNA|GCP ACE,3.0,Posgrado,DevOps,18194.0,profiles
+PER-90945,28.0,Sevilla,España,Java|PHP|Go,Vue|Node.js,Unknown,3.0,Tecnólogo,Ciberseguridad,35.752,profiles
+PER-90946,31.0,Córdoba,Argentina,go|python,Spring|Flask,Azure Fundamentals,1.0,Técnico,Frontend,29653.0,profiles
+PER-90947,27.0,???,México,R|Java|Python,.NET,Unknown,2.0,Pregrado,BI/Analytics,17569.0,profiles
+PER-90948,39.0,Barranquilla,Colombia,TypeScript|PHP,Spark,Scrum Master|AWS CCP,1.0,Posgrado,Cloud,16.001,profiles
+PER-90949,39.0,Concepción,Chile,Java|Python,React|Vue,GCP ACE,2.0,Posgrado,IA,22232.0,profiles
+PER-90950,31.0,New York,USA,R|Go,Django|Laravel,AWS CCP|Azure Fundamentals,3.0,Técnico,IA,170.872,profiles
+PER-90951,28.0,Lima,Perú,PHP,Spring,Scrum Master,5.0,Pregrado,Ciberseguridad,27424.0,profiles
+PER-90952,18.0,Cartagena,Colombia,Python,Laravel,AWS CCP,4.0,Autodidacta,Cloud,9431.0,profiles
+PER-90953,20.0,Córdoba,Argentina,C#|Scala,Laravel,AWS CCP,3.0,Tecnólogo,DevOps,16953.0,profiles
+PER-90954,34.0,Valencia,España,scala,Spring|.NET,Azure Fundamentals,3.0,Pregrado,BI/Analytics,38.478,profiles
+PER-90955,31.0,Buenos Aires,Argentina,Swift|Kotlin,Spark,Cisco CCNA|AWS CCP,2.0,Posgrado,DevOps,15374.0,profiles
+PER-90956,27.0,Rosario,Argentina,TypeScript,Node.js,Unknown,6.0,Pregrado,Cloud,15010.0,profiles
+PER-90957,33.0,Valencia,España,Swift,Spark,AWS CCP,3.0,Posgrado,Cloud,31.912,profiles
+PER-90958,31.0,Puebla,México,Swift|Go|JavaScript,Spark|.NET,Azure Fundamentals,4.0,Tecnólogo,Cloud,15444.0,profiles
+PER-90959,18.0,Monterrey,México,Java|JavaScript|Scala,Flask|Django,AWS CCP|GCP ACE,0.0,Pregrado,DevOps,15.925,profiles
+PER-90960,31.0,Monterrey,México,javascript|r|go,Angular,Unknown,4.0,Tecnólogo,IA,17046.0,profiles
+PER-90961,31.0,Madrid,España,Go|PHP|Scala,Spring,Cisco CCNA,4.0,Tecnólogo,Cloud,30.753,profiles
+PER-90962,24.0,Concepción,Chile,Swift|JavaScript|PHP,React,None|GCP ACE,,Técnico,Backend,21080.0,profiles
+PER-90963,37.0,Córdoba,Argentina,PHP|Go,Vue|.NET,Cisco CCNA,3.0,Tecnólogo,Frontend,32.979,profiles
+PER-90964,26.0,Rosario,Argentina,javascript,Spring,GCP ACE,3.0,Técnico,Data Science,20601.0,profiles
+PER-90965,33.0,Lima,Perú,kotlin|typescript,Laravel|Node.js,Unknown,3.0,Posgrado,DevOps,24030.0,profiles
+PER-90966,21.0,Valparaíso,Chile,JavaScript|PHP,Vue|Spring,Unknown,0.0,Posgrado,Cloud,24.878,profiles
+PER-90967,22.0,Córdoba,Argentina,Java,.NET|React,Scrum Master|Azure Fundamentals,5.0,Tecnólogo,Ciberseguridad,17473.0,profiles
+PER-90968,34.0,Barranquilla,Colombia,R|PHP|Python,Angular|Laravel,AWS CCP|Scrum Master,3.0,Tecnólogo,Ciberseguridad,13258.0,profiles
+PER-90969,32.0,Córdoba,Argentina,TypeScript|Kotlin|C#,Laravel|Django,Unknown,5.0,Autodidacta,Cloud,17869.0,profiles
+PER-90970,28.0,CDMX,México,PHP|C#|Kotlin,.NET,Unknown,4.0,Posgrado,Ciberseguridad,18.132,profiles
+PER-90971,38.0,Buenos Aires,Argentina,javascript,Laravel,GCP ACE,0.0,Posgrado,Frontend,21.212,profiles
+PER-90972,30.0,Córdoba,Argentina,Java|TypeScript|Go,Flask|FastAPI,Cisco CCNA,1.0,Posgrado,IA,34142.0,profiles
+PER-90973,23.0,Monterrey,México,go|r|swift,Django,AWS CCP,0.0,Pregrado,DevOps,13697.0,profiles
+PER-90974,35.0,Santiago,Chile,python|scala|c#,Angular|.NET,Scrum Master,0.0,Autodidacta,Frontend,22210.0,profiles
+PER-90975,28.0,Córdoba,Argentina,Scala|Kotlin,Vue,Unknown,3.0,Técnico,Frontend,32479.0,profiles
+PER-90976,29.0,Monterrey,México,Java|Python|TypeScript,Flask,GCP ACE,5.0,Tecnólogo,Backend,27073.0,profiles
+PER-90977,,Arequipa,Perú,c#,Spark|.NET,Unknown,3.0,Autodidacta,Ciberseguridad,17.819,profiles
+PER-90978,26.0,Cusco,Perú,TypeScript|Java,FastAPI|.NET,None|Cisco CCNA,3.0,Tecnólogo,Data Science,14.295,profiles
+PER-90979,33.0,Bogotá,Colombia,Go|PHP|Kotlin,Spark,Scrum Master,2.0,Autodidacta,IA,15919.0,profiles
+PER-90980,35.0,Madrid,España,TypeScript|Kotlin|R,Spring,AWS CCP,2.0,Posgrado,IA,39513.0,profiles
+PER-90981,39.0,Bucaramanga,Colombia,PHP|Swift,Vue,Azure Fundamentals|Scrum Master,1.0,Autodidacta,Data Science,13006.0,profiles
+PER-90982,29.0,Valparaíso,Chile,Python|JavaScript|R,Angular|Vue,Azure Fundamentals,3.0,Autodidacta,BI/Analytics,22637.0,profiles
+PER-90983,18.0,Valparaíso,Chile,JavaScript|Java|TypeScript,Spark,Azure Fundamentals|GCP ACE,0.0,Posgrado,Data Science,33344.0,profiles
+PER-90984,33.0,Lima,Perú,Swift,Angular,Scrum Master,7.0,Posgrado,Frontend,11430.0,profiles
+PER-90985,29.0,Lima,Perú,TypeScript|JavaScript|Swift,Angular,GCP ACE,3.0,Tecnólogo,BI/Analytics,26759.0,profiles
+PER-90986,30.0,Puebla,México,Go|Scala,FastAPI,GCP ACE|Cisco CCNA,4.0,Tecnólogo,Ciberseguridad,16087.0,profiles
+PER-90987,33.0,Cartagena,Colombia,R|Scala,Spring|Vue,Unknown,4.0,Autodidacta,Ciberseguridad,17.045,profiles
+PER-90988,18.0,Seattle,USA,PHP|JavaScript,.NET,Cisco CCNA,1.0,Pregrado,IA,,profiles
+PER-90989,44.0,Seattle,USA,PHP|C#,React,Scrum Master,3.0,Autodidacta,DevOps,95401.0,profiles
+PER-90990,30.0,Valencia,España,Python|Scala,Node.js|Spark,None|AWS CCP,0.0,Pregrado,DevOps,36.682,profiles
+PER-90991,,New York,USA,R|Swift,Laravel|.NET,Azure Fundamentals|GCP ACE,3.0,Tecnólogo,DevOps,91128.0,profiles
+PER-90992,39.0,Bogotá,Colombia,JavaScript|Python|R,Node.js|Angular,AWS CCP,2.0,Posgrado,Data Science,9.718,profiles
+PER-90993,18.0,Cali,Colombia,go|c#,Django|React,Cisco CCNA|AWS CCP,0.0,Pregrado,Data Science,9615.0,profiles
+PER-90994,27.0,Cartagena,Colombia,JavaScript,Spark,None|Scrum Master,0.0,Autodidacta,BI/Analytics,12220.0,profiles
+PER-90995,,Austin,USA,Scala|C#|R,FastAPI,Scrum Master,7.0,Tecnólogo,Cloud,,profiles
+PER-90996,33.0,Barranquilla,Colombia,Java|Go,Spark,Cisco CCNA,0.0,Pregrado,IA,12396.0,profiles
+PER-90997,34.0,Barcelona,España,Java|JavaScript,.NET|Spark,Unknown,1.0,Posgrado,DevOps,32405.0,profiles
+PER-90998,33.0,Sevilla,España,Scala,FastAPI,None|Azure Fundamentals,5.0,Tecnólogo,BI/Analytics,35276.0,profiles
+PER-90999,34.0,Valencia,España,JavaScript|Kotlin,React,GCP ACE,5.0,Posgrado,Data Science,38149.0,profiles
+PER-91000,18.0,Valencia,España,R,Django,Cisco CCNA,1.0,Pregrado,Ciberseguridad,53023.0,profiles
+PER-91001,27.0,Arequipa,Perú,r,Flask|Vue,None|Scrum Master,6.0,Autodidacta,DevOps,21400.0,profiles
+PER-91002,21.0,Guadalajara,México,Swift|Scala,.NET,Azure Fundamentals|Scrum Master,1.0,Tecnólogo,Data Science,27108.0,profiles
+PER-91003,25.0,Arequipa,Perú,typescript|java|swift,Spark,None,1.0,Técnico,IA,28174.0,profiles
+PER-91004,32.0,Santiago,Chile,JavaScript|TypeScript,Vue,GCP ACE,1.0,Pregrado,Cloud,24424.0,profiles
+PER-91005,32.0,rosario,Argentina,C#|Swift,Angular,GCP ACE,5.0,Pregrado,DevOps,16904.0,profiles
+PER-91006,37.0,Puebla,México,Python|R,.NET,GCP ACE|AWS CCP,1.0,Tecnólogo,Data Science,15088.0,profiles
+PER-91007,31.0,Cusco,Perú,C#,Laravel,Scrum Master,1.0,Tecnólogo,IA,22582.0,profiles
+PER-91008,24.0,Cusco,Perú,Go,FastAPI,Scrum Master,2.0,Tecnólogo,Frontend,21766.0,profiles
+PER-91009,18.0,MEDELLÍN,Colombia,C#|TypeScript|Scala,Angular,Scrum Master|GCP ACE,3.0,Autodidacta,IA,9813.0,profiles
+PER-91010,19.0,Austin,USA,python|r,React|Angular,GCP ACE,2.0,Tecnólogo,DevOps,137.499,profiles
+PER-91011,19.0,Medellín,Colombia,Python,Vue,Cisco CCNA,3.0,Tecnólogo,DevOps,15949.0,profiles
+PER-91012,30.0,New York,USA,Swift|R,Laravel|FastAPI,AWS CCP,2.0,Posgrado,DevOps,,profiles
+PER-91013,22.0,New York,USA,R|Scala,Laravel|Spark,AWS CCP,6.0,Pregrado,Ciberseguridad,140.352,profiles
+PER-91014,32.0,Arequipa,Perú,Java|Go,React,AWS CCP|None,3.0,Autodidacta,BI/Analytics,28250.0,profiles
+PER-91015,25.0,Sevilla,España,TypeScript|C#,FastAPI,None|Cisco CCNA,3.0,Pregrado,Backend,22435.0,profiles
+PER-91016,43.0,Puebla,México,C#,Flask|Spark,Scrum Master,0.0,Pregrado,IA,23586.0,profiles
+PER-91017,24.0,New York,USA,JavaScript|TypeScript,Spark,Scrum Master,3.0,Técnico,Backend,84448.0,profiles
+PER-91018,34.0,Rosario,Argentina,Scala|Kotlin,FastAPI,None|AWS CCP,2.0,Autodidacta,IA,31589.0,profiles
+PER-91019,25.0,Valparaíso,Chile,Python|PHP,Angular,AWS CCP,6.0,Autodidacta,Ciberseguridad,25054.0,profiles
+PER-91020,26.0,Buenos Aires,Argentina,typescript|r|python,.NET|Spark,Azure Fundamentals,1.0,Autodidacta,Data Science,35681.0,profiles
+PER-91021,22.0,New York,USA,Python|Swift|R,Laravel,Cisco CCNA|AWS CCP,1.0,Pregrado,Backend,,profiles
+PER-91022,32.0,Valencia,España,scala,Spring,Scrum Master|GCP ACE,5.0,Tecnólogo,DevOps,43636.0,profiles
+PER-91023,30.0,SAN FRANCISCO,USA,TypeScript|Swift,FastAPI,GCP ACE,3.0,Posgrado,BI/Analytics,115754.0,profiles
+PER-91024,39.0,Guadalajara,México,swift|r|scala,Spring,Scrum Master|AWS CCP,3.0,Tecnólogo,Data Science,26492.0,profiles
+PER-91025,31.0,Monterrey,México,Swift|JavaScript,React,None|Azure Fundamentals,2.0,Autodidacta,Frontend,30.559,profiles
+PER-91026,25.0,Rosario,Argentina,TypeScript|Kotlin|R,FastAPI,Cisco CCNA,2.0,Pregrado,IA,21235.0,profiles
+PER-91027,24.0,Cartagena,Colombia,Go,Spark|Django,Scrum Master,2.0,Autodidacta,Backend,7787.0,profiles
+PER-91028,25.0,Seattle,USA,typescript|r,Spark,None,1.0,Técnico,BI/Analytics,,profiles
+PER-91029,34.0,New York,USA,swift|python|java,.NET,GCP ACE,3.0,Pregrado,BI/Analytics,105460.0,profiles
+PER-91030,18.0,Valparaíso,Chile,JavaScript|C#,Vue|Laravel,AWS CCP|Cisco CCNA,1.0,Autodidacta,IA,31456.0,profiles
+PER-91031,37.0,Rosario,Argentina,Java|R,FastAPI|Laravel,Unknown,5.0,Técnico,Ciberseguridad,18.016,profiles
+PER-91032,35.0,Austin,USA,kotlin|python,Django,AWS CCP,0.0,Pregrado,Cloud,80764.0,profiles
+PER-91033,32.0,Valencia,España,R|TypeScript|Python,Angular|Laravel,Cisco CCNA|None,6.0,Autodidacta,Backend,32122.0,profiles
+PER-91034,26.0,Lima,Perú,TypeScript|Swift,FastAPI|Angular,AWS CCP,1.0,Autodidacta,BI/Analytics,15.412,profiles
+PER-91035,23.0,Miami,USA,python,React,Scrum Master|GCP ACE,7.0,Autodidacta,IA,107676.0,profiles
+PER-91036,31.0,Monterrey,México,JavaScript|R,Vue|Angular,Cisco CCNA,2.0,Tecnólogo,DevOps,12550.0,profiles
+PER-91037,30.0,???,Chile,C#|Java,Laravel|Spark,GCP ACE,3.0,Tecnólogo,Backend,35.951,profiles
+PER-91038,25.0,Cartagena,Colombia,C#,Node.js|.NET,Scrum Master,4.0,Técnico,Data Science,10897.0,profiles
+PER-91039,23.0,Seattle,USA,Swift|Java,.NET|Django,Scrum Master|GCP ACE,0.0,Autodidacta,IA,112310.0,profiles
+PER-91040,33.0,Cali,Colombia,Kotlin,Spring,AWS CCP,3.0,Pregrado,BI/Analytics,15559.0,profiles
+PER-91041,28.0,Santiago,Chile,Java|Swift,Spring,GCP ACE|AWS CCP,5.0,Pregrado,Frontend,27165.0,profiles
+PER-91042,37.0,Rosario,Argentina,C#|JavaScript,Vue|Angular,Scrum Master|AWS CCP,2.0,Técnico,Frontend,31420.0,profiles
+PER-91043,33.0,Cali,Colombia,JavaScript|Java,Vue|Spark,Scrum Master,0.0,Técnico,Ciberseguridad,10582.0,profiles
+PER-91044,25.0,Rosario,Argentina,Swift|C#|Java,Spring|Vue,AWS CCP,3.0,Posgrado,Frontend,19780.0,profiles
+PER-91045,32.0,Puebla,México,Python,.NET|Django,GCP ACE,0.0,Tecnólogo,DevOps,33284.0,profiles
+PER-91046,35.0,Bucaramanga,Colombia,Swift|PHP|Kotlin,Flask|React,Scrum Master|GCP ACE,1.0,Técnico,Frontend,11530.0,profiles
+PER-91047,31.0,Cusco,Perú,Python|Go,Spark,Azure Fundamentals,4.0,Tecnólogo,Backend,17245.0,profiles
+PER-91048,27.0,Cartagena,Colombia,JavaScript|TypeScript,Flask|FastAPI,Cisco CCNA|Azure Fundamentals,1.0,Autodidacta,Cloud,14660.0,profiles
+PER-91049,33.0,Córdoba,Argentina,C#,Angular|FastAPI,AWS CCP,2.0,Posgrado,Data Science,19176.0,profiles
+PER-91050,28.0,Concepción,Chile,C#|Scala,Flask,Cisco CCNA|Azure Fundamentals,0.0,Posgrado,BI/Analytics,24763.0,profiles
+PER-91051,24.0,Madrid,España,PHP,Laravel,Azure Fundamentals|Cisco CCNA,0.0,Autodidacta,Ciberseguridad,34121.0,profiles
+PER-91052,23.0,Guadalajara,México,Java|R,Angular,AWS CCP,3.0,Pregrado,Cloud,15972.0,profiles
+PER-91053,42.0,Cartagena,Colombia,Java|Go,FastAPI|Node.js,Azure Fundamentals|AWS CCP,3.0,Tecnólogo,Cloud,12244.0,profiles
+PER-91054,31.0,Bucaramanga,Colombia,PHP|TypeScript,Django|FastAPI,GCP ACE|Azure Fundamentals,3.0,Pregrado,DevOps,9436.0,profiles
+PER-91055,27.0,Austin,USA,PHP|Scala,Node.js|FastAPI,Scrum Master|GCP ACE,1.0,Tecnólogo,DevOps,108472.0,profiles
+PER-91056,26.0,Valencia,España,C#|Kotlin,Django,GCP ACE|Scrum Master,1.0,Posgrado,BI/Analytics,51414.0,profiles
+PER-91057,31.0,Barcelona,España,R|Go,Spark,AWS CCP,1.0,Posgrado,Backend,27.85,profiles
+PER-91058,35.0,Lima,Perú,TypeScript|Go|Python,Django,AWS CCP,6.0,Tecnólogo,BI/Analytics,31.735,profiles
+PER-91059,18.0,Santiago,Chile,php|kotlin,Spark,AWS CCP,6.0,Tecnólogo,IA,41078.0,profiles
+PER-91060,18.0,Bucaramanga,Colombia,Scala|PHP|Kotlin,FastAPI|Spark,Cisco CCNA,7.0,Posgrado,Frontend,9.419,profiles
+PER-91061,33.0,Lima,Perú,typescript|javascript,React,AWS CCP|Azure Fundamentals,2.0,Pregrado,BI/Analytics,23404.0,profiles
+PER-91062,19.0,Rosario,Argentina,JavaScript|Kotlin,React,Azure Fundamentals,6.0,Posgrado,Data Science,11.561,profiles
+PER-91063,33.0,Lima,Perú,php|c#,FastAPI,Unknown,1.0,Posgrado,Cloud,13020.0,profiles
+PER-91064,22.0,PUEBLA,México,Go|C#,Django|Vue,AWS CCP,1.0,Posgrado,BI/Analytics,12029.0,profiles
+PER-91065,26.0,Valparaíso,Chile,Java|Go,Spark,Scrum Master,2.0,Técnico,DevOps,28240.0,profiles
+PER-91066,33.0,Rosario,Argentina,Go|TypeScript|JavaScript,.NET,AWS CCP|GCP ACE,3.0,Pregrado,Cloud,22023.0,profiles
+PER-91067,27.0,CDMX,México,TypeScript,Laravel,AWS CCP|Azure Fundamentals,3.0,Pregrado,Backend,29227.0,profiles
+PER-91068,22.0,Buenos Aires,Argentina,JavaScript|Kotlin,Vue|Laravel,GCP ACE,4.0,Técnico,Frontend,14016.0,profiles
+PER-91069,34.0,Buenos Aires,Argentina,Python,Django|Vue,Azure Fundamentals,3.0,Pregrado,IA,31.204,profiles
+PER-91070,26.0,Concepcion,Chile,Swift,Spark,AWS CCP,4.0,Autodidacta,IA,23067.0,profiles
+PER-91071,26.0,CÓRDOBA,Argentina,C#|Java,Angular,Scrum Master,1.0,Pregrado,Ciberseguridad,19471.0,profiles
+PER-91072,34.0,Sevilla,España,Python|Kotlin,Flask,Azure Fundamentals,6.0,Técnico,Frontend,37083.0,profiles
+PER-91073,38.0,Rosario,Argentina,python,Node.js,Scrum Master,2.0,Autodidacta,Frontend,18425.0,profiles
+PER-91074,25.0,Monterrey,México,Swift|C#|Go,Node.js,Scrum Master|Azure Fundamentals,5.0,Técnico,DevOps,27052.0,profiles
+PER-91075,39.0,San Francisco,USA,Python|PHP|JavaScript,.NET|React,AWS CCP,3.0,Tecnólogo,Cloud,86942.0,profiles
+PER-91076,23.0,Arequipa,Perú,c#,React,Unknown,2.0,Posgrado,Backend,15685.0,profiles
+PER-91077,30.0,Lima,Perú,typescript,.NET|Node.js,Scrum Master,3.0,Tecnólogo,Ciberseguridad,20717.0,profiles
+PER-91078,39.0,Bucaramanga,Colombia,JavaScript,FastAPI,Cisco CCNA,6.0,Autodidacta,DevOps,14100.0,profiles
+PER-91079,23.0,Guadalajara,México,PHP|Python,Spark,AWS CCP,2.0,Posgrado,Data Science,12673.0,profiles
+PER-91080,39.0,Concepción,Chile,PHP|Swift|R,Spark|Vue,AWS CCP,1.0,Tecnólogo,IA,38553.0,profiles
+PER-91081,32.0,Miami,USA,Go,.NET|Vue,Scrum Master|Cisco CCNA,2.0,Técnico,BI/Analytics,104678.0,profiles
+PER-91082,31.0,CDMX,México,Scala,Vue,GCP ACE,2.0,Autodidacta,Frontend,20719.0,profiles
+PER-91083,23.0,San Francisco,USA,C#|PHP,Django,Azure Fundamentals|GCP ACE,3.0,Posgrado,Ciberseguridad,81.019,profiles
+PER-91084,20.0,Miami,USA,C#|Kotlin,Angular|.NET,GCP ACE,1.0,Pregrado,Frontend,,profiles
+PER-91085,25.0,Cusco,Perú,PHP,FastAPI,Scrum Master,4.0,Técnico,Cloud,15501.0,profiles
+PER-91086,25.0,Valparaíso,Chile,R,Spring,Cisco CCNA|AWS CCP,4.0,Tecnólogo,BI/Analytics,26111.0,profiles
+PER-91087,26.0,Barcelona,España,php|r|javascript,Flask,Unknown,4.0,Autodidacta,BI/Analytics,32299.0,profiles
+PER-91088,30.0,Cartagena,Colombia,JavaScript|Go,Angular|Django,AWS CCP,2.0,Técnico,DevOps,15282.0,profiles
+PER-91089,45.0,Córdoba,Argentina,Python,Node.js,None|Scrum Master,1.0,Autodidacta,DevOps,27485.0,profiles
+PER-91090,35.0,CARTAGENA,Colombia,Swift|JavaScript,Spark,Scrum Master,1.0,Tecnólogo,Cloud,7000.0,profiles
+PER-91091,18.0,Sevilla,España,PHP|R|Swift,Spark,Azure Fundamentals|Scrum Master,7.0,Tecnólogo,BI/Analytics,50.138,profiles
+PER-91092,32.0,Concepción,Chile,R,Node.js,GCP ACE,4.0,Posgrado,Ciberseguridad,30995.0,profiles
+PER-91093,26.0,Madrid,España,R,FastAPI|.NET,Cisco CCNA,0.0,Posgrado,IA,60525.0,profiles
+PER-91094,20.0,Valencia,España,JavaScript|Kotlin,Spring|Spark,AWS CCP|Azure Fundamentals,1.0,Pregrado,BI/Analytics,43174.0,profiles
+PER-91095,19.0,Concepción,Chile,php,Angular,AWS CCP|Scrum Master,2.0,Autodidacta,DevOps,23669.0,profiles
+PER-91096,31.0,CDMX,México,C#|Scala,FastAPI|.NET,Cisco CCNA,3.0,Técnico,DevOps,16581.0,profiles
+PER-91097,31.0,Bogotá,Colombia,TypeScript,Laravel,AWS CCP|Azure Fundamentals,3.0,Autodidacta,IA,12058.0,profiles
+PER-91098,29.0,Miami,USA,Scala|TypeScript|Kotlin,Laravel|Angular,AWS CCP|None,0.0,Posgrado,IA,65584.0,profiles
+PER-91099,32.0,New York,USA,C#|Scala,Laravel,AWS CCP,5.0,Pregrado,Data Science,,profiles
+PER-91100,25.0,Rosario,Argentina,JavaScript|PHP,React|Vue,AWS CCP,1.0,Autodidacta,Data Science,15604.0,profiles
+PER-91101,27.0,Monterrey,México,Java|Python|Swift,Angular,Unknown,4.0,Tecnólogo,Frontend,22.851,profiles
+PER-91102,32.0,Concepción,Chile,Swift|C#|R,Node.js,GCP ACE|Cisco CCNA,3.0,Tecnólogo,BI/Analytics,35.756,profiles
+PER-91103,25.0,San Francisco,USA,R|Swift,Django|FastAPI,Scrum Master,3.0,Tecnólogo,Frontend,84290.0,profiles
+PER-91104,37.0,Concepción,Chile,Python,.NET,Azure Fundamentals,0.0,Posgrado,Cloud,27790.0,profiles
+PER-91105,27.0,Arequipa,Perú,TypeScript,Vue|FastAPI,GCP ACE|None,6.0,Pregrado,BI/Analytics,27865.0,profiles
+PER-91106,22.0,Sevilla,España,java|swift,Spark|React,Cisco CCNA,1.0,Pregrado,DevOps,35.774,profiles
+PER-91107,,Miami,USA,typescript|kotlin,Spring,AWS CCP,4.0,Pregrado,Cloud,,profiles
+PER-91108,34.0,Lima,Perú,Kotlin|Go|Scala,React|Angular,Unknown,0.0,Posgrado,Frontend,14878.0,profiles
+PER-91109,35.0,Cali,Colombia,swift|r,FastAPI|Node.js,None|AWS CCP,4.0,Técnico,Data Science,24120.0,profiles
+PER-91110,25.0,San Francisco,USA,Go|Scala,Django,Cisco CCNA,3.0,Pregrado,Ciberseguridad,106.381,profiles
+PER-91111,35.0,Cusco,Perú,Java|Go,Node.js|.NET,Unknown,2.0,Autodidacta,DevOps,18389.0,profiles
+PER-91112,20.0,Valparaíso,Chile,r|java,Spring,Scrum Master,6.0,Tecnólogo,Ciberseguridad,38265.0,profiles
+PER-91113,31.0,Cusco,Perú,Scala|C#|Kotlin,Flask|Django,Azure Fundamentals|None,0.0,Posgrado,Frontend,15838.0,profiles
+PER-91114,27.0,Sevilla,España,scala|python,Spark|.NET,Unknown,1.0,Autodidacta,Cloud,31.186,profiles
+PER-91115,32.0,Guadalajara,México,Kotlin|C#|TypeScript,Flask|Angular,AWS CCP|Cisco CCNA,1.0,Técnico,Cloud,13773.0,profiles
+PER-91116,36.0,San Francisco,USA,javascript|go,Laravel|FastAPI,GCP ACE,0.0,Pregrado,Frontend,69.545,profiles
+PER-91117,24.0,Valparaíso,Chile,TypeScript,Spring|Node.js,GCP ACE|Scrum Master,0.0,Técnico,Ciberseguridad,20210.0,profiles
+PER-91118,18.0,madrid,España,c#|kotlin,Django,Unknown,1.0,Autodidacta,BI/Analytics,32593.0,profiles
+PER-91119,41.0,Buenos Aires,Argentina,Scala|R,FastAPI|Angular,Scrum Master,4.0,Tecnólogo,Frontend,19472.0,profiles
+PER-91120,30.0,PUEBLA,México,Go,React,Cisco CCNA,3.0,Posgrado,IA,31.903,profiles
+PER-91121,34.0,Austin,USA,JavaScript|PHP,Spark|Angular,Azure Fundamentals,3.0,Autodidacta,Backend,109883.0,profiles
+PER-91122,29.0,Bogota,Colombia,Java|C#,Angular|FastAPI,GCP ACE,3.0,Tecnólogo,Cloud,10006.0,profiles
+PER-91123,26.0,Córdoba,Argentina,c#|typescript,React|.NET,Azure Fundamentals|AWS CCP,1.0,Técnico,DevOps,24417.0,profiles
+PER-91124,31.0,Austin,USA,C#|PHP,Laravel,Cisco CCNA|Azure Fundamentals,3.0,Tecnólogo,IA,171.291,profiles
+PER-91125,25.0,New York,USA,Kotlin|Java|TypeScript,Spark,Unknown,2.0,Posgrado,BI/Analytics,78433.0,profiles
+PER-91126,19.0,BARRANQUILLA,Colombia,Kotlin,React|Spark,Cisco CCNA|GCP ACE,4.0,Técnico,Frontend,17126.0,profiles
+PER-91127,22.0,Guadalajara,México,typescript,Spark|.NET,AWS CCP,1.0,Técnico,Frontend,25689.0,profiles
+PER-91128,43.0,Sevilla,España,Scala|R,Node.js,Unknown,3.0,Posgrado,Cloud,40078.0,profiles
+PER-91129,32.0,New York,USA,Scala|C#,Angular|Vue,AWS CCP,2.0,Tecnólogo,Cloud,110175.0,profiles
+PER-91130,24.0,Guadalajara,México,Kotlin,.NET,Azure Fundamentals|AWS CCP,2.0,Técnico,DevOps,19342.0,profiles
+PER-91131,29.0,CDMX,México,Java|Swift,Spark|Vue,Unknown,0.0,Tecnólogo,Backend,14429.0,profiles
+PER-91132,22.0,Arequipa,Perú,kotlin|php|r,FastAPI|Spark,Scrum Master,2.0,Autodidacta,BI/Analytics,12362.0,profiles
+PER-91133,30.0,Barranquilla,Colombia,C#|Kotlin|R,Node.js|Angular,None|GCP ACE,5.0,Posgrado,IA,11303.0,profiles
+PER-91134,23.0,Monterrey,México,Kotlin|PHP|Java,FastAPI|Django,AWS CCP,4.0,Autodidacta,DevOps,23535.0,profiles
+PER-91135,28.0,Bucaramanga,Colombia,JavaScript,Vue,Azure Fundamentals|None,2.0,Técnico,Ciberseguridad,9.335,profiles
+PER-91136,31.0,Medellín,Colombia,TypeScript|Python|JavaScript,Vue|Angular,Azure Fundamentals|Scrum Master,3.0,Técnico,BI/Analytics,13597.0,profiles
+PER-91137,29.0,Lima,Perú,Python|Kotlin,Spring|FastAPI,Azure Fundamentals,5.0,Autodidacta,Backend,25219.0,profiles
+PER-91138,24.0,Córdoba,Argentina,java|c#|python,Spring|Django,None|Scrum Master,0.0,Tecnólogo,Cloud,22944.0,profiles
+PER-91139,31.0,Valparaíso,Chile,TypeScript|Swift|JavaScript,Vue,Scrum Master,0.0,Técnico,Data Science,35771.0,profiles
+PER-91140,28.0,Medellin,Colombia,Scala,Flask,Unknown,3.0,Autodidacta,Frontend,10864.0,profiles
+PER-91141,21.0,Barcelona,España,C#,FastAPI|Node.js,Scrum Master,0.0,Pregrado,IA,39770.0,profiles
+PER-91142,29.0,Barranquilla,Colombia,Go,Node.js,GCP ACE,3.0,Pregrado,Data Science,12696.0,profiles
+PER-91143,31.0,Concepción,Chile,PHP|C#|Go,Django|Vue,Azure Fundamentals|Cisco CCNA,1.0,Técnico,Cloud,22678.0,profiles
+PER-91144,24.0,PUEBLA,México,Swift|C#,Angular,Cisco CCNA,3.0,Pregrado,Data Science,25791.0,profiles
+PER-91145,25.0,Medellín,Colombia,Scala|Swift,Spring,GCP ACE,2.0,Autodidacta,IA,7.791,profiles
+PER-91146,31.0,GUADALAJARA,México,java,Node.js,AWS CCP,5.0,Posgrado,Backend,11581.0,profiles
+PER-91147,27.0,???,Argentina,Go,Vue|.NET,None|GCP ACE,1.0,Autodidacta,Frontend,14827.0,profiles
+PER-91148,25.0,Bucaramanga,Colombia,Python|Scala|Kotlin,.NET|Node.js,Azure Fundamentals|None,3.0,Pregrado,BI/Analytics,7728.0,profiles
+PER-91149,36.0,Austin,USA,C#|R|Go,Spring|.NET,Scrum Master,4.0,Posgrado,Backend,104224.0,profiles
+PER-91150,29.0,Arequipa,Perú,Python,Laravel,AWS CCP|None,4.0,Técnico,IA,14007.0,profiles
+PER-91151,23.0,Barcelona,España,PHP|C#,Spark|Spring,Azure Fundamentals,0.0,Pregrado,BI/Analytics,49030.0,profiles
+PER-91152,34.0,Puebla,México,JavaScript|Swift|C#,Flask,None|Scrum Master,4.0,Posgrado,Cloud,17048.0,profiles
+PER-91153,18.0,Barranquilla,Colombia,swift,Spark|Angular,AWS CCP|Azure Fundamentals,1.0,Tecnólogo,Ciberseguridad,13504.0,profiles
+PER-91154,23.0,Buenos Aires,Argentina,Go|R|TypeScript,Spark,Unknown,1.0,Tecnólogo,IA,17.223,profiles
+PER-91155,38.0,Bogotá,Colombia,Python|R|JavaScript,React,Unknown,4.0,Tecnólogo,IA,14420.0,profiles
+PER-91156,25.0,Austin,USA,Go|PHP,Django,GCP ACE|Azure Fundamentals,5.0,Técnico,BI/Analytics,71438.0,profiles
+PER-91157,34.0,Valparaíso,Chile,Swift|Go,Angular|FastAPI,Azure Fundamentals,2.0,Autodidacta,IA,33.239,profiles
+PER-91158,27.0,Santiago,Chile,Kotlin|Python|R,.NET|Angular,Azure Fundamentals|GCP ACE,4.0,Posgrado,Data Science,36726.0,profiles
+PER-91159,25.0,CUSCO,Perú,Kotlin|TypeScript|Go,Vue|FastAPI,Scrum Master,0.0,Tecnólogo,Frontend,13128.0,profiles
+PER-91160,28.0,???,España,Kotlin,Spark|Angular,Scrum Master|Azure Fundamentals,1.0,Autodidacta,BI/Analytics,57720.0,profiles
+PER-91161,22.0,New York,USA,PHP|Scala|Swift,React|FastAPI,Unknown,3.0,Posgrado,Frontend,62080.0,profiles
+PER-91162,40.0,Valparaíso,Chile,go|r,Laravel|Spring,Scrum Master|Cisco CCNA,2.0,Posgrado,Backend,36247.0,profiles
+PER-91163,32.0,Rosario,Argentina,go,Spark,AWS CCP,0.0,Posgrado,BI/Analytics,14.045,profiles
+PER-91164,20.0,Arequipa,Perú,Swift|Python|PHP,.NET|Spring,GCP ACE,1.0,Tecnólogo,Data Science,15029.0,profiles
+PER-91165,31.0,Medellín,Colombia,C#|Go,FastAPI,Azure Fundamentals,2.0,Pregrado,IA,8808.0,profiles
+PER-91166,18.0,CARTAGENA,Colombia,Java,React|.NET,Unknown,7.0,Técnico,Ciberseguridad,8.912,profiles
+PER-91167,24.0,Valencia,España,PHP,React,GCP ACE|AWS CCP,6.0,Pregrado,Frontend,54.289,profiles
+PER-91168,32.0,Santiago,Chile,R|JavaScript,Laravel|FastAPI,Unknown,0.0,Posgrado,BI/Analytics,22914.0,profiles
+PER-91169,29.0,Monterrey,México,javascript,React|Spark,Scrum Master,4.0,Autodidacta,DevOps,17.549,profiles
+PER-91170,18.0,Concepción,Chile,R|Go,Flask|React,GCP ACE|Scrum Master,0.0,Pregrado,Backend,46057.0,profiles
+PER-91171,30.0,Santiago,Chile,PHP|TypeScript|C#,Vue|Spring,Scrum Master,2.0,Pregrado,BI/Analytics,39.085,profiles
+PER-91172,39.0,Valencia,España,R|Scala,Vue,Scrum Master,2.0,Posgrado,Cloud,31.9,profiles
+PER-91173,23.0,Valparaíso,Chile,Swift|TypeScript,Spark,None|Cisco CCNA,2.0,Pregrado,Data Science,17839.0,profiles
+PER-91174,23.0,Valparaíso,Chile,scala,Node.js,Scrum Master,2.0,Posgrado,Data Science,40001.0,profiles
+PER-91175,18.0,Seattle,USA,c#|python,React,Azure Fundamentals|GCP ACE,4.0,Autodidacta,BI/Analytics,119.633,profiles
+PER-91176,18.0,Seattle,USA,R,.NET,AWS CCP,5.0,Técnico,BI/Analytics,101610.0,profiles
+PER-91177,32.0,Seattle,USA,Kotlin|C#,FastAPI|Angular,AWS CCP,3.0,Posgrado,DevOps,,profiles
+PER-91178,26.0,Arequipa,Perú,Python|C#|R,React,Scrum Master,2.0,Tecnólogo,Frontend,18585.0,profiles
+PER-91179,28.0,???,Argentina,Java|C#,Spring|Vue,Scrum Master,0.0,Técnico,Frontend,36618.0,profiles
+PER-91180,24.0,Lima,Perú,C#|PHP|Java,Spark,Scrum Master|None,2.0,Autodidacta,Backend,22034.0,profiles
+PER-91181,27.0,Santiago,Chile,Scala,FastAPI|Flask,None|Azure Fundamentals,2.0,Autodidacta,Frontend,26898.0,profiles
+PER-91182,22.0,Valencia,España,TypeScript,Vue,AWS CCP,3.0,Pregrado,IA,38326.0,profiles
+PER-91183,26.0,austin,USA,Scala|Swift|Kotlin,FastAPI|Django,Azure Fundamentals,5.0,Tecnólogo,DevOps,97752.0,profiles
+PER-91184,29.0,Rosario,Argentina,Python|Kotlin,Spring,GCP ACE,2.0,Pregrado,Data Science,21013.0,profiles
+PER-91185,28.0,Madrid,España,Go|C#,Spark,Azure Fundamentals|Scrum Master,3.0,Pregrado,BI/Analytics,43.515,profiles
+PER-91186,31.0,San Francisco,USA,Go|C#,Spark|Vue,GCP ACE,0.0,Pregrado,Frontend,85.295,profiles
+PER-91187,29.0,Valencia,España,Python|Go|PHP,Vue,GCP ACE,1.0,Posgrado,Data Science,41.541,profiles
+PER-91188,24.0,Arequipa,Perú,PHP|R,Laravel|.NET,AWS CCP|Scrum Master,4.0,Técnico,IA,14161.0,profiles
+PER-91189,29.0,CUSCO,Perú,C#,React|Laravel,GCP ACE|Scrum Master,3.0,Tecnólogo,Data Science,22.495,profiles
+PER-91190,27.0,Arequipa,Perú,R|Java,Spark|FastAPI,AWS CCP,4.0,Posgrado,Ciberseguridad,25.336,profiles
+PER-91191,21.0,Seattle,USA,Kotlin|Swift|Python,Spark|Angular,GCP ACE,4.0,Autodidacta,BI/Analytics,,profiles
+PER-91192,27.0,Bogotá,Colombia,Swift|Go,Laravel|Django,GCP ACE,1.0,Posgrado,Frontend,8960.0,profiles
+PER-91193,29.0,CDMX,México,R|Go|TypeScript,Flask,GCP ACE,4.0,Pregrado,Cloud,28.475,profiles
+PER-91194,27.0,Guadalajara,México,R|Swift,Vue,GCP ACE|AWS CCP,3.0,Posgrado,Cloud,21.741,profiles
+PER-91195,,rosario,Argentina,c#|python,Angular,GCP ACE,2.0,Autodidacta,DevOps,13708.0,profiles
+PER-91196,37.0,Rosario,Argentina,JavaScript|Go,Laravel,Azure Fundamentals,0.0,Autodidacta,IA,25998.0,profiles
+PER-91197,26.0,santiago,Chile,Scala,Spark|Spring,Scrum Master|GCP ACE,2.0,Tecnólogo,Cloud,25.641,profiles
+PER-91198,29.0,Lima,Perú,Kotlin|Java,Laravel|Node.js,Scrum Master|None,1.0,Autodidacta,BI/Analytics,15285.0,profiles
+PER-91199,36.0,Guadalajara,México,TypeScript|Python,Django|Node.js,AWS CCP|Scrum Master,4.0,Autodidacta,Cloud,14919.0,profiles
+PER-91200,19.0,Valencia,España,R,Flask|Vue,AWS CCP|Scrum Master,2.0,Pregrado,Backend,23.262,profiles
+PER-91201,25.0,Guadalajara,México,Scala|Go|Python,FastAPI,GCP ACE|AWS CCP,1.0,Posgrado,Backend,13792.0,profiles
+PER-91202,19.0,Monterrey,México,R|Swift,Spark|Node.js,AWS CCP,2.0,Posgrado,Ciberseguridad,19.998,profiles
+PER-91203,29.0,Monterrey,México,R|TypeScript,Laravel|React,Azure Fundamentals|Scrum Master,2.0,Pregrado,Backend,19148.0,profiles
+PER-91204,31.0,Santiago,Chile,JavaScript,Django,None|AWS CCP,4.0,Pregrado,Frontend,21174.0,profiles
+PER-91205,27.0,Bogotá,Colombia,kotlin|php,React,GCP ACE|AWS CCP,0.0,Tecnólogo,Cloud,10865.0,profiles
+PER-91206,18.0,Barcelona,España,Swift|Java,FastAPI,Cisco CCNA,2.0,Técnico,BI/Analytics,60864.0,profiles
+PER-91207,25.0,Santiago,Chile,python,Flask|FastAPI,AWS CCP,2.0,Posgrado,Data Science,26.693,profiles
+PER-91208,31.0,Seattle,USA,Kotlin|Scala,Django|Spark,Cisco CCNA,3.0,Técnico,IA,80010.0,profiles
+PER-91209,36.0,Buenos Aires,Argentina,Go|C#|Swift,.NET|Spark,Cisco CCNA|None,3.0,Técnico,Ciberseguridad,24197.0,profiles
+PER-91210,35.0,Valparaíso,Chile,PHP|TypeScript|Python,Laravel|Vue,AWS CCP|Scrum Master,3.0,Pregrado,Backend,41132.0,profiles
+PER-91211,31.0,Santiago,Chile,javascript|php|python,Vue|React,Unknown,4.0,Autodidacta,Frontend,35.438,profiles
+PER-91212,32.0,sevilla,España,Scala|PHP|Go,.NET|Angular,AWS CCP,5.0,Pregrado,Frontend,31620.0,profiles
+PER-91213,43.0,Santiago,Chile,Go,Node.js|Flask,GCP ACE,3.0,Tecnólogo,IA,22652.0,profiles
+PER-91214,20.0,Madrid,España,JavaScript|C#,Spark,Azure Fundamentals,3.0,Tecnólogo,BI/Analytics,30101.0,profiles
+PER-91215,38.0,Monterrey,México,Swift,Angular|Django,Azure Fundamentals|GCP ACE,3.0,Autodidacta,BI/Analytics,15615.0,profiles
+PER-91216,30.0,Bucaramanga,Colombia,TypeScript|Swift,Vue|Angular,Scrum Master|Azure Fundamentals,3.0,Posgrado,Cloud,16714.0,profiles
+PER-91217,21.0,Madrid,España,C#|Go,Flask|.NET,GCP ACE,6.0,Pregrado,DevOps,30123.0,profiles
+PER-91218,27.0,Guadalajara,México,PHP,.NET,AWS CCP,4.0,Técnico,Ciberseguridad,15945.0,profiles
+PER-91219,26.0,???,España,Scala|Swift,Vue|Laravel,None|GCP ACE,4.0,Técnico,BI/Analytics,39831.0,profiles
+PER-91220,39.0,New York,USA,javascript,React|FastAPI,AWS CCP,6.0,Pregrado,Cloud,112751.0,profiles
+PER-91221,34.0,Cusco,Perú,Kotlin|Swift|JavaScript,.NET|Laravel,Azure Fundamentals,0.0,Tecnólogo,Backend,15808.0,profiles
+PER-91222,35.0,New York,USA,Scala|Java,.NET|Spark,GCP ACE,2.0,Técnico,Data Science,90891.0,profiles
+PER-91223,35.0,Valparaíso,Chile,javascript|go,Laravel|Angular,Azure Fundamentals,5.0,Autodidacta,DevOps,22302.0,profiles
+PER-91224,27.0,New York,USA,Scala,Spark|Spring,Cisco CCNA,5.0,Autodidacta,DevOps,,profiles
+PER-91225,36.0,Cusco,Perú,TypeScript,Spring,Cisco CCNA,2.0,Autodidacta,Frontend,25303.0,profiles
+PER-91226,24.0,Córdoba,Argentina,Scala,Spark|Vue,Cisco CCNA,2.0,Técnico,DevOps,13.887,profiles
+PER-91227,19.0,Lima,Perú,swift|php,Flask|Vue,AWS CCP|GCP ACE,1.0,Pregrado,Data Science,29.769,profiles
+PER-91228,38.0,Valparaiso,Chile,JavaScript|TypeScript,Django,GCP ACE,1.0,Posgrado,BI/Analytics,26.817,profiles
+PER-91229,25.0,new york,USA,Swift|PHP,Spark,AWS CCP,5.0,Posgrado,Frontend,146.299,profiles
+PER-91230,24.0,Barranquilla,Colombia,Kotlin|Swift,Django|.NET,Azure Fundamentals,0.0,Técnico,Ciberseguridad,13354.0,profiles
+PER-91231,37.0,Miami,USA,Python|C#,Vue,GCP ACE|None,5.0,Técnico,IA,,profiles
+PER-91232,24.0,Monterrey,México,PHP|TypeScript|Python,Vue,Unknown,6.0,Tecnólogo,Cloud,17097.0,profiles
+PER-91233,35.0,Lima,Perú,Kotlin|TypeScript,Laravel,Cisco CCNA,4.0,Pregrado,BI/Analytics,10738.0,profiles
+PER-91234,33.0,Madrid,España,Python,FastAPI,AWS CCP|None,1.0,Autodidacta,Backend,36835.0,profiles
+PER-91235,30.0,Lima,Perú,Python,Django,Cisco CCNA,4.0,Autodidacta,BI/Analytics,24099.0,profiles
+PER-91236,31.0,Lima,Perú,Kotlin|C#,Django|.NET,GCP ACE|Scrum Master,5.0,Posgrado,Data Science,15703.0,profiles
+PER-91237,28.0,Madrid,España,JavaScript,Django|Spring,GCP ACE|AWS CCP,2.0,Técnico,DevOps,30102.0,profiles
+PER-91238,25.0,San Francisco,USA,Swift|R,Node.js|Spark,Azure Fundamentals,7.0,Autodidacta,IA,89880.0,profiles
+PER-91239,18.0,Rosario,Argentina,R|JavaScript,Spring,None|Cisco CCNA,2.0,Técnico,Cloud,17167.0,profiles
+PER-91240,29.0,New York,USA,PHP|C#|JavaScript,Flask|Spring,Azure Fundamentals|None,4.0,Autodidacta,Data Science,93.502,profiles
+PER-91241,24.0,Sevilla,España,typescript,React,Azure Fundamentals,2.0,Tecnólogo,Data Science,57475.0,profiles
+PER-91242,29.0,Madrid,España,TypeScript,Spark,None|Azure Fundamentals,2.0,Posgrado,Data Science,36441.0,profiles
+PER-91243,28.0,Guadalajara,México,TypeScript|JavaScript,FastAPI,Scrum Master,0.0,Autodidacta,Frontend,14842.0,profiles
+PER-91244,26.0,Austin,USA,Scala|TypeScript,Laravel|Spark,Azure Fundamentals,1.0,Autodidacta,Ciberseguridad,77519.0,profiles
+PER-91245,18.0,MADRID,España,Java|Swift|R,FastAPI|Spark,GCP ACE,0.0,Técnico,Frontend,70759.0,profiles
+PER-91246,29.0,Puebla,México,Java|Swift,Angular,Cisco CCNA,1.0,Posgrado,Backend,21229.0,profiles
+PER-91247,28.0,Lima,Perú,Java|TypeScript,Node.js|.NET,Azure Fundamentals,5.0,Pregrado,BI/Analytics,22.134,profiles
+PER-91248,21.0,Seattle,USA,R|Kotlin,Node.js,GCP ACE|Scrum Master,0.0,Tecnólogo,Backend,,profiles
+PER-91249,31.0,Rosario,Argentina,JavaScript|TypeScript,Laravel|Vue,Cisco CCNA|GCP ACE,0.0,Autodidacta,BI/Analytics,22193.0,profiles
+PER-91250,32.0,Valparaiso,Chile,typescript|java,Vue|Spark,GCP ACE,0.0,Tecnólogo,IA,35994.0,profiles
+PER-91251,18.0,Guadalajara,México,JavaScript|Swift|Kotlin,.NET|Laravel,Scrum Master,2.0,Pregrado,Cloud,19974.0,profiles
+PER-91252,29.0,Córdoba,Argentina,Python,Spark,Azure Fundamentals,4.0,Técnico,DevOps,23725.0,profiles
+PER-91253,25.0,Buenos Aires,Argentina,TypeScript,.NET|Spring,Cisco CCNA,2.0,Posgrado,BI/Analytics,23463.0,profiles
+PER-91254,27.0,Valencia,España,TypeScript|Scala,Spark|Angular,Unknown,3.0,Tecnólogo,Ciberseguridad,41629.0,profiles
+PER-91255,24.0,cartagena,Colombia,JavaScript|Go|Java,Spring,AWS CCP,5.0,Técnico,Frontend,11976.0,profiles
+PER-91256,33.0,Buenos Aires,Argentina,Swift|Python|Java,Laravel,Azure Fundamentals|Scrum Master,1.0,Pregrado,Frontend,26236.0,profiles
+PER-91257,33.0,Valencia,España,C#|TypeScript|Kotlin,Django,None|Azure Fundamentals,4.0,Técnico,DevOps,46.235,profiles
+PER-91258,18.0,Cartagena,Colombia,Java,Vue,AWS CCP,1.0,Autodidacta,BI/Analytics,11161.0,profiles
+PER-91259,38.0,Cusco,Perú,python|java,Spring,None|Cisco CCNA,2.0,Pregrado,Backend,25585.0,profiles
+PER-91260,32.0,Puebla,México,Kotlin|Java,React|Flask,AWS CCP|Azure Fundamentals,2.0,Tecnólogo,Frontend,24.067,profiles
+PER-91261,39.0,Seattle,USA,R,Node.js,Azure Fundamentals,0.0,Técnico,IA,89806.0,profiles
+PER-91262,29.0,Cusco,Perú,R,Node.js|FastAPI,AWS CCP,1.0,Autodidacta,BI/Analytics,13994.0,profiles
+PER-91263,30.0,???,Chile,Python|Java|Swift,Vue|FastAPI,Azure Fundamentals|AWS CCP,3.0,Técnico,IA,16199.0,profiles
+PER-91264,30.0,Seattle,USA,Swift|Java,Spark,Scrum Master,1.0,Posgrado,Ciberseguridad,99658.0,profiles
+PER-91265,29.0,Monterrey,México,R|JavaScript,Angular,GCP ACE,3.0,Posgrado,Data Science,13.794,profiles
+PER-91266,28.0,Concepción,Chile,PHP|Go|Java,Node.js|Spring,Azure Fundamentals,0.0,Pregrado,DevOps,32272.0,profiles
+PER-91267,26.0,Rosario,Argentina,Swift|TypeScript,Angular,GCP ACE|None,2.0,Posgrado,BI/Analytics,18555.0,profiles
+PER-91268,23.0,Arequipa,Perú,Go|Python,Node.js,None|Azure Fundamentals,6.0,Posgrado,Ciberseguridad,21.568,profiles
+PER-91269,28.0,Valparaíso,Chile,Swift|Kotlin,FastAPI,AWS CCP,0.0,Posgrado,IA,27321.0,profiles
+PER-91270,27.0,Valencia,España,Scala|C#,Vue|React,Azure Fundamentals|None,4.0,Autodidacta,BI/Analytics,58902.0,profiles
+PER-91271,30.0,Medellín,Colombia,typescript|python,.NET|FastAPI,Scrum Master,0.0,Pregrado,Backend,13488.0,profiles
+PER-91272,32.0,Bucaramanga,Colombia,Python|TypeScript,Node.js,GCP ACE|AWS CCP,6.0,Autodidacta,BI/Analytics,14184.0,profiles
+PER-91273,38.0,puebla,México,Swift|Scala|PHP,Spring|.NET,Scrum Master,3.0,Pregrado,Ciberseguridad,27147.0,profiles
+PER-91274,20.0,New York,USA,Python|Kotlin,Node.js|Angular,Scrum Master,1.0,Pregrado,Data Science,38529.0,profiles
+PER-91275,35.0,New York,USA,PHP|JavaScript,Spark,AWS CCP|GCP ACE,7.0,Técnico,Cloud,110759.0,profiles
+PER-91276,21.0,Medellín,Colombia,PHP|Python,Flask,Unknown,0.0,Posgrado,Backend,11406.0,profiles
+PER-91277,32.0,Cali,Colombia,Python|Kotlin,.NET,Cisco CCNA|None,3.0,Técnico,Data Science,11534.0,profiles
+PER-91278,29.0,???,España,Go,Vue|Django,Scrum Master,4.0,Tecnólogo,Frontend,26982.0,profiles
+PER-91279,25.0,puebla,México,JavaScript,Flask|FastAPI,GCP ACE|Cisco CCNA,5.0,Posgrado,Ciberseguridad,24858.0,profiles
+PER-91280,35.0,San Francisco,USA,kotlin,Vue,Unknown,3.0,Posgrado,DevOps,,profiles
+PER-91281,18.0,Puebla,México,R|Scala,FastAPI|Spring,AWS CCP,2.0,Técnico,Cloud,20.463,profiles
+PER-91282,30.0,Barcelona,España,Go|Python|C#,Django,Azure Fundamentals|Cisco CCNA,0.0,Tecnólogo,Ciberseguridad,40646.0,profiles
+PER-91283,24.0,Valencia,España,javascript|swift,Django,Azure Fundamentals,4.0,Pregrado,Cloud,29.697,profiles
+PER-91284,,Cali,Colombia,Go|C#,Node.js|Spring,AWS CCP,5.0,Tecnólogo,DevOps,14947.0,profiles
+PER-91285,31.0,LIMA,Perú,Java|TypeScript,Node.js|Vue,GCP ACE,1.0,Posgrado,Cloud,11853.0,profiles
+PER-91286,31.0,Buenos Aires,Argentina,Swift,React,Scrum Master,2.0,Autodidacta,Data Science,19315.0,profiles
+PER-91287,31.0,Cali,Colombia,PHP|TypeScript,Angular,Scrum Master,3.0,Técnico,DevOps,10002.0,profiles
+PER-91288,25.0,Barranquilla,Colombia,Go|PHP,Spark,Cisco CCNA|None,3.0,Autodidacta,IA,9105.0,profiles
+PER-91289,23.0,Santiago,Chile,Kotlin|Swift,Flask|Vue,AWS CCP,1.0,Tecnólogo,Frontend,19.935,profiles
+PER-91290,18.0,Sevilla,España,Swift|C#|Python,FastAPI|Node.js,AWS CCP,3.0,Posgrado,BI/Analytics,63.178,profiles
+PER-91291,29.0,Valencia,España,python|typescript,.NET,Cisco CCNA,1.0,Posgrado,Backend,39422.0,profiles
+PER-91292,34.0,Bucaramanga,Colombia,Go|Kotlin|R,Laravel,Cisco CCNA|None,3.0,Posgrado,Frontend,15484.0,profiles
+PER-91293,23.0,Madrid,España,PHP,Node.js,Unknown,0.0,Técnico,Data Science,41739.0,profiles
+PER-91294,25.0,CÓRDOBA,Argentina,Java|JavaScript|C#,Node.js,GCP ACE,4.0,Autodidacta,Data Science,24342.0,profiles
+PER-91295,29.0,Sevilla,España,Java,Laravel|Spring,Scrum Master,0.0,Pregrado,BI/Analytics,53.438,profiles
+PER-91296,35.0,???,México,TypeScript|JavaScript|Scala,.NET,Unknown,1.0,Posgrado,BI/Analytics,19588.0,profiles
+PER-91297,29.0,Concepción,Chile,python,Spark,Azure Fundamentals,6.0,Autodidacta,Cloud,25039.0,profiles
+PER-91298,29.0,Valencia,España,R|Scala,.NET,Cisco CCNA,3.0,Técnico,Cloud,32802.0,profiles
+PER-91299,31.0,Cartagena,Colombia,TypeScript|Go,Vue,Scrum Master,0.0,Posgrado,Cloud,10305.0,profiles
+PER-91300,34.0,Barranquilla,Colombia,R|PHP,FastAPI|Vue,AWS CCP,1.0,Posgrado,Frontend,7.511,profiles
+PER-91301,31.0,Valparaíso,Chile,java,FastAPI|.NET,GCP ACE,5.0,Posgrado,Ciberseguridad,40836.0,profiles
+PER-91302,33.0,Valparaíso,Chile,R,.NET|React,Azure Fundamentals,3.0,Tecnólogo,Cloud,19199.0,profiles
+PER-91303,25.0,Cali,Colombia,Swift|Java,React|Spark,Unknown,2.0,Técnico,DevOps,8940.0,profiles
+PER-91304,33.0,santiago,Chile,typescript|javascript,Spark,Azure Fundamentals|GCP ACE,0.0,Tecnólogo,Ciberseguridad,19058.0,profiles
+PER-91305,37.0,Valparaíso,Chile,Scala|Kotlin|PHP,React,Cisco CCNA,2.0,Tecnólogo,Backend,37.611,profiles
+PER-91306,30.0,Medellín,Colombia,R|PHP|Kotlin,React,GCP ACE,5.0,Pregrado,BI/Analytics,14807.0,profiles
+PER-91307,29.0,Cusco,Perú,JavaScript|Go,Django,Unknown,3.0,Tecnólogo,Backend,18545.0,profiles
+PER-91308,26.0,???,USA,Java,React,GCP ACE,0.0,Autodidacta,Backend,82426.0,profiles
+PER-91309,30.0,Guadalajara,México,TypeScript|Go,Laravel|Vue,Scrum Master,2.0,Técnico,Data Science,32473.0,profiles
+PER-91310,26.0,Medellín,Colombia,Scala|Python,Spring|Laravel,Cisco CCNA|GCP ACE,3.0,Autodidacta,Cloud,13797.0,profiles
+PER-91311,18.0,Barcelona,España,typescript|go|python,Node.js|Angular,Cisco CCNA,3.0,Pregrado,Backend,35.286,profiles
+PER-91312,37.0,CDMX,México,TypeScript|C#,Flask,Unknown,0.0,Autodidacta,Frontend,12028.0,profiles
+PER-91313,32.0,Barranquilla,Colombia,JavaScript|Go,Flask,Unknown,3.0,Pregrado,Data Science,10886.0,profiles
+PER-91314,26.0,Valparaíso,Chile,JavaScript|Go,Django,Azure Fundamentals,3.0,Tecnólogo,IA,20055.0,profiles
+PER-91315,29.0,Santiago,Chile,r|kotlin,.NET,Unknown,1.0,Posgrado,IA,17.463,profiles
+PER-91316,29.0,Medellín,Colombia,PHP|TypeScript,Vue|Django,AWS CCP|Cisco CCNA,3.0,Pregrado,Frontend,8787.0,profiles
+PER-91317,27.0,CDMX,México,JavaScript,Flask,Scrum Master,4.0,Tecnólogo,BI/Analytics,13367.0,profiles
+PER-91318,27.0,Arequipa,Perú,Scala,.NET,Cisco CCNA,1.0,Tecnólogo,Frontend,13870.0,profiles
+PER-91319,31.0,Concepción,Chile,php,Spring,Scrum Master,2.0,Posgrado,Frontend,16786.0,profiles
+PER-91320,34.0,???,México,C#|Java,FastAPI,Scrum Master,1.0,Autodidacta,Backend,28.077,profiles
+PER-91321,29.0,Austin,USA,Scala|Java,.NET|Angular,None|Azure Fundamentals,2.0,Técnico,IA,123528.0,profiles
+PER-91322,25.0,Buenos Aires,Argentina,Kotlin|Scala|JavaScript,Spring,AWS CCP|GCP ACE,4.0,Posgrado,Data Science,32141.0,profiles
+PER-91323,25.0,Barranquilla,Colombia,TypeScript|Swift,.NET|Node.js,Unknown,4.0,Pregrado,DevOps,11218.0,profiles
+PER-91324,36.0,Barcelona,España,Scala|R|C#,Vue|Angular,None|Azure Fundamentals,0.0,Posgrado,Data Science,31.671,profiles
+PER-91325,18.0,???,México,Kotlin,.NET,AWS CCP|Scrum Master,2.0,Técnico,DevOps,11415.0,profiles
+PER-91326,18.0,Puebla,México,TypeScript|Java,Spark|React,Unknown,1.0,Pregrado,Data Science,13626.0,profiles
+PER-91327,36.0,Madrid,España,r|java,Node.js,Azure Fundamentals|AWS CCP,4.0,Autodidacta,Frontend,32653.0,profiles
+PER-91328,18.0,Miami,USA,Swift|R|JavaScript,React|Flask,AWS CCP|GCP ACE,2.0,Tecnólogo,IA,119.44,profiles
+PER-91329,32.0,CDMX,México,Swift|JavaScript,Django,Azure Fundamentals,3.0,Técnico,IA,17.404,profiles
+PER-91330,37.0,???,Argentina,PHP|Go,React,Unknown,2.0,Posgrado,DevOps,23380.0,profiles
+PER-91331,34.0,Seattle,USA,C#|TypeScript|R,Spark|Node.js,Scrum Master|AWS CCP,5.0,Posgrado,BI/Analytics,66041.0,profiles
+PER-91332,24.0,Valparaíso,Chile,PHP|Kotlin,Laravel|Flask,AWS CCP,3.0,Posgrado,Ciberseguridad,23265.0,profiles
+PER-91333,24.0,Valencia,España,Scala|Go|R,Laravel,Scrum Master,6.0,Técnico,Backend,27563.0,profiles
+PER-91334,26.0,CÓRDOBA,Argentina,R|Python,Flask|FastAPI,Unknown,4.0,Técnico,Data Science,24890.0,profiles
+PER-91335,,Cartagena,Colombia,C#|TypeScript|JavaScript,React,Cisco CCNA|None,5.0,Autodidacta,Ciberseguridad,16470.0,profiles
+PER-91336,34.0,Santiago,Chile,PHP|Kotlin|Java,FastAPI,GCP ACE,2.0,Pregrado,Backend,29412.0,profiles
+PER-91337,37.0,Bucaramanga,Colombia,swift,React,Azure Fundamentals,3.0,Tecnólogo,BI/Analytics,12323.0,profiles
+PER-91338,36.0,???,Chile,Python|R,FastAPI,None|Azure Fundamentals,2.0,Tecnólogo,Frontend,18987.0,profiles
+PER-91339,37.0,Córdoba,Argentina,php,Laravel|Django,Scrum Master,2.0,Tecnólogo,Frontend,35318.0,profiles
+PER-91340,26.0,Austin,USA,swift|r|go,FastAPI|Spring,Unknown,0.0,Autodidacta,Frontend,,profiles
+PER-91341,19.0,Valencia,España,C#,.NET,GCP ACE|Cisco CCNA,0.0,Pregrado,Ciberseguridad,67055.0,profiles
+PER-91342,34.0,Austin,USA,Scala,React,GCP ACE|Cisco CCNA,2.0,Tecnólogo,IA,,profiles
+PER-91343,31.0,Miami,USA,C#|Scala|Swift,Spark|Angular,GCP ACE,3.0,Autodidacta,Cloud,142.498,profiles
+PER-91344,28.0,Cali,Colombia,php|java|javascript,Vue,GCP ACE|Scrum Master,4.0,Autodidacta,BI/Analytics,11348.0,profiles
+PER-91345,40.0,puebla,México,TypeScript|R,.NET,AWS CCP|Scrum Master,5.0,Posgrado,Frontend,30143.0,profiles
+PER-91346,18.0,Arequipa,Perú,JavaScript|C#,Spark|Vue,Cisco CCNA,2.0,Técnico,BI/Analytics,19703.0,profiles
+PER-91347,31.0,Rosario,Argentina,PHP|Swift,Angular,Scrum Master,0.0,Pregrado,DevOps,23.946,profiles
+PER-91348,25.0,Puebla,México,Go,Laravel,Scrum Master,5.0,Pregrado,Frontend,23028.0,profiles
+PER-91349,26.0,monterrey,México,Swift|Scala,Spark|Vue,Cisco CCNA|GCP ACE,0.0,Técnico,Backend,18.868,profiles
+PER-91350,34.0,Bogotá,Colombia,Kotlin,React|Spring,Scrum Master,2.0,Técnico,BI/Analytics,23103.0,profiles
+PER-91351,28.0,Arequipa,Perú,C#|TypeScript,FastAPI|React,GCP ACE|Azure Fundamentals,5.0,Posgrado,Backend,19.076,profiles
+PER-91352,35.0,Lima,Perú,Java|TypeScript,Spring|Flask,Unknown,3.0,Pregrado,Cloud,19959.0,profiles
+PER-91353,30.0,Concepción,Chile,Go|Java|Python,Node.js,AWS CCP|GCP ACE,2.0,Autodidacta,IA,32815.0,profiles
+PER-91354,36.0,???,Colombia,Java|TypeScript|Swift,Laravel|Vue,None|GCP ACE,4.0,Pregrado,Frontend,11785.0,profiles
+PER-91355,38.0,???,España,Swift|Go,Node.js,GCP ACE|Azure Fundamentals,6.0,Autodidacta,DevOps,57513.0,profiles
+PER-91356,18.0,NEW YORK,USA,Go|C#|Kotlin,Node.js,GCP ACE,5.0,Pregrado,DevOps,99060.0,profiles
+PER-91357,27.0,CÓRDOBA,Argentina,Kotlin|R|TypeScript,Vue|Node.js,Cisco CCNA,5.0,Posgrado,Data Science,14661.0,profiles
+PER-91358,28.0,Buenos Aires,Argentina,C#|Java|Scala,.NET,Unknown,4.0,Autodidacta,BI/Analytics,22.261,profiles
+PER-91359,23.0,Córdoba,Argentina,Java|TypeScript|Scala,Laravel|Spark,AWS CCP,1.0,Técnico,BI/Analytics,20805.0,profiles
+PER-91360,24.0,Medellín,Colombia,PHP,Angular|Vue,GCP ACE|None,4.0,Posgrado,DevOps,16701.0,profiles
+PER-91361,31.0,Seattle,USA,r|typescript,Laravel|.NET,Scrum Master|AWS CCP,3.0,Técnico,Frontend,,profiles
+PER-91362,25.0,córdoba,Argentina,PHP|TypeScript,Angular,None|Scrum Master,3.0,Autodidacta,Data Science,14229.0,profiles
+PER-91363,32.0,Concepción,Chile,Go,Spark,AWS CCP,0.0,Pregrado,DevOps,25171.0,profiles
+PER-91364,35.0,???,Perú,Scala|Kotlin|Go,Flask,None|GCP ACE,4.0,Técnico,DevOps,20.276,profiles
+PER-91365,30.0,Córdoba,Argentina,Scala|C#,React,Cisco CCNA,2.0,Pregrado,BI/Analytics,13878.0,profiles
+PER-91366,32.0,Santiago,Chile,TypeScript|PHP,Angular,Cisco CCNA,0.0,Posgrado,IA,21155.0,profiles
+PER-91367,23.0,San Francisco,USA,php|python,Laravel|Spark,Unknown,2.0,Tecnólogo,Ciberseguridad,68252.0,profiles
+PER-91368,43.0,cdmx,México,JavaScript|R|Swift,Node.js|Spark,Cisco CCNA|None,0.0,Posgrado,BI/Analytics,15354.0,profiles
+PER-91369,,Buenos Aires,Argentina,TypeScript,Laravel|Spring,Cisco CCNA|AWS CCP,2.0,Técnico,Cloud,14851.0,profiles
+PER-91370,29.0,Santiago,Chile,php|javascript|r,.NET|Flask,Azure Fundamentals,1.0,Autodidacta,DevOps,38501.0,profiles
+PER-91371,30.0,???,Chile,Swift,Flask,None|AWS CCP,2.0,Pregrado,Data Science,17088.0,profiles
+PER-91372,24.0,Medellín,Colombia,PHP|Go,Django|Spring,Azure Fundamentals,5.0,Pregrado,Frontend,13.05,profiles
+PER-91373,27.0,San Francisco,USA,Swift|TypeScript,Angular,AWS CCP|None,1.0,Técnico,Data Science,100793.0,profiles
+PER-91374,35.0,???,España,JavaScript|Swift|R,.NET,Cisco CCNA,3.0,Autodidacta,Frontend,42.107,profiles
+PER-91375,29.0,San Francisco,USA,Python|Java|Go,Spark|Laravel,Scrum Master,4.0,Tecnólogo,Backend,66503.0,profiles
+PER-91376,22.0,Bogotá,Colombia,java|php,Laravel,GCP ACE,1.0,Posgrado,Ciberseguridad,13492.0,profiles
+PER-91377,18.0,Lima,Perú,JavaScript|PHP,.NET|React,AWS CCP|Cisco CCNA,6.0,Tecnólogo,BI/Analytics,20529.0,profiles
+PER-91378,25.0,Lima,Perú,Go|Python,Spring|FastAPI,Cisco CCNA,3.0,Autodidacta,DevOps,23541.0,profiles
+PER-91379,34.0,New York,USA,PHP|JavaScript|Go,Spring,Azure Fundamentals,5.0,Pregrado,Backend,92980.0,profiles
+PER-91380,30.0,Barcelona,España,Go|Scala,Spring,Cisco CCNA,3.0,Tecnólogo,Ciberseguridad,36698.0,profiles
+PER-91381,27.0,Buenos Aires,Argentina,Python|JavaScript,React|Node.js,AWS CCP,3.0,Autodidacta,Cloud,26673.0,profiles
+PER-91382,28.0,???,USA,Scala|Java,Spark|.NET,Scrum Master|None,1.0,Autodidacta,BI/Analytics,129.486,profiles
+PER-91383,29.0,Buenos Aires,Argentina,Go|Scala|C#,.NET|Laravel,Cisco CCNA|GCP ACE,2.0,Tecnólogo,Cloud,10571.0,profiles
+PER-91384,27.0,Guadalajara,México,Scala,Flask|Vue,AWS CCP,7.0,Autodidacta,Backend,27585.0,profiles
+PER-91385,38.0,Madrid,España,Python|PHP,Node.js|.NET,AWS CCP,2.0,Pregrado,Frontend,64805.0,profiles
+PER-91386,35.0,Santiago,Chile,TypeScript,Node.js,Azure Fundamentals,2.0,Tecnólogo,BI/Analytics,14528.0,profiles
+PER-91387,29.0,New York,USA,R|Swift,Laravel,Cisco CCNA,2.0,Autodidacta,IA,67465.0,profiles
+PER-91388,34.0,Madrid,España,Java|Swift,React,GCP ACE|Scrum Master,2.0,Posgrado,IA,30565.0,profiles
+PER-91389,20.0,Arequipa,Perú,PHP|TypeScript,Vue,Scrum Master,0.0,Autodidacta,Ciberseguridad,27482.0,profiles
+PER-91390,24.0,Austin,USA,Kotlin|Swift|Java,React,Cisco CCNA,0.0,Tecnólogo,BI/Analytics,76904.0,profiles
+PER-91391,18.0,lima,Perú,Scala|JavaScript,Flask|Laravel,AWS CCP,0.0,Técnico,Backend,12682.0,profiles
+PER-91392,31.0,Buenos Aires,Argentina,Swift|Python,React|Node.js,GCP ACE|AWS CCP,4.0,Posgrado,DevOps,14701.0,profiles
+PER-91393,29.0,MEDELLÍN,Colombia,Java|Go,Node.js,GCP ACE,7.0,Autodidacta,DevOps,14992.0,profiles
+PER-91394,21.0,Arequipa,Perú,C#,Flask|Django,GCP ACE,3.0,Tecnólogo,Data Science,14692.0,profiles
+PER-91395,,Barcelona,España,Python|Go,Vue,AWS CCP,1.0,Técnico,Cloud,77696.0,profiles
+PER-91396,23.0,Cusco,Perú,TypeScript|R,Node.js|Flask,Azure Fundamentals,1.0,Posgrado,Backend,18575.0,profiles
+PER-91397,26.0,Valencia,España,Swift|Python|R,Node.js,Azure Fundamentals,2.0,Pregrado,Data Science,28012.0,profiles
+PER-91398,32.0,VALPARAÍSO,Chile,Swift|Python,.NET,GCP ACE,1.0,Pregrado,DevOps,23.697,profiles
+PER-91399,32.0,Santiago,Chile,Swift|Java,Laravel,Scrum Master,3.0,Autodidacta,Cloud,23475.0,profiles
+PER-91400,41.0,Seattle,USA,Go|JavaScript,React|.NET,Scrum Master,4.0,Pregrado,Ciberseguridad,124323.0,profiles
+PER-90072,38.0,Cali,Colombia,Java|JavaScript|Scala,Vue|Node.js,Cisco CCNA|Azure Fundamentals,6.0,Autodidacta,Cloud,9214.0,profiles
+PER-90932,32.0,Rosario,Argentina,R|PHP,Spark|Spring,AWS CCP,1.0,Técnico,Cloud,17176.0,profiles

@@ -1,0 +1,48 @@
+2025-11-16 19:39:04,833 - INFO - Starting data cleaning process
+2025-11-16 19:39:04,836 - INFO - Removed 28 duplicate rows
+2025-11-16 19:39:04,840 - INFO - Handled missing values
+2025-11-16 19:39:04,844 - INFO - Cleaned text column: Empresa
+2025-11-16 19:39:04,849 - INFO - Cleaned text column: Ciudad
+2025-11-16 19:39:04,853 - INFO - Cleaned text column: País
+2025-11-16 19:39:04,858 - INFO - Cleaned text column: Cargo
+2025-11-16 19:39:04,866 - INFO - Found 42 outliers in Salario_Anual_USD
+2025-11-16 19:39:04,867 - INFO - Cleaned numeric column: Salario_Anual_USD
+2025-11-16 19:39:04,872 - INFO - Standardized date column: Fecha_Publicación
+2025-11-16 19:39:04,872 - INFO - Data cleaning process completed
+2025-11-16 19:39:04,872 - INFO - Starting data cleaning process
+2025-11-16 19:39:04,880 - INFO - Removed 9 duplicate rows
+2025-11-16 19:39:04,883 - INFO - Handled missing values
+2025-11-16 19:39:04,887 - INFO - Cleaned text column: Organización
+2025-11-16 19:39:04,889 - INFO - Cleaned text column: Área_Tecnológica
+2025-11-16 19:39:04,892 - INFO - Cleaned text column: Ciudad
+2025-11-16 19:39:04,894 - INFO - Cleaned text column: País
+2025-11-16 19:39:04,897 - INFO - Cleaned numeric column: Inversión_USD
+2025-11-16 19:39:04,898 - INFO - Cleaned numeric column: Participantes
+2025-11-16 19:39:04,898 - INFO - Cleaned numeric column: Satisfacción_Promedio
+2025-11-16 19:39:04,898 - INFO - Data cleaning process completed
+2025-11-16 19:39:04,900 - INFO - Starting data transformation process
+2025-11-16 19:39:04,902 - INFO - Normalized column names: {'ID_Oferta': 'id_oferta', 'Empresa': 'empresa', 'Ciudad': 'ciudad', 'País': 'país', 'Cargo': 'cargo', 'Lenguaje': 'lenguaje', 'Framework': 'framework', 'Nivel_Seniority': 'nivel_seniority', 'Salario_Anual_USD': 'salario_anual_usd', 'Modalidad': 'modalidad', 'Fecha_Publicación': 'fecha_publicación'}
+2025-11-16 19:39:04,906 - INFO - Created date-based columns for fecha_publicación
+2025-11-16 19:39:04,907 - WARNING - Text column Cargo not found
+2025-11-16 19:39:04,907 - WARNING - Text column Área_Tecnológica not found
+2025-11-16 19:39:04,907 - INFO - Data transformation process completed
+2025-11-16 19:39:04,907 - INFO - Starting data transformation process
+2025-11-16 19:39:04,908 - INFO - Normalized column names: {'ID_Programa': 'id_programa', 'Organización': 'organización', 'Área_Tecnológica': 'área_tecnológica', 'Inversión_USD': 'inversión_usd', 'Participantes': 'participantes', 'Duración_Meses': 'duración_meses', 'Satisfacción_Promedio': 'satisfacción_promedio', 'Año': 'año', 'Ciudad': 'ciudad', 'País': 'país'}
+2025-11-16 19:39:04,909 - WARNING - Text column Cargo not found
+2025-11-16 19:39:04,909 - WARNING - Text column Área_Tecnológica not found
+2025-11-16 19:39:04,909 - INFO - Data transformation process completed
+2025-11-16 19:39:04,911 - INFO - Starting data validation process
+2025-11-16 19:39:04,911 - INFO - Generating validation report
+2025-11-16 19:39:04,925 - INFO - Data quality validation completed
+2025-11-16 19:39:04,927 - INFO - Business rules validation completed with status: passed
+2025-11-16 19:39:04,928 - INFO - Completeness validation completed with score: 73.58%
+2025-11-16 19:39:04,928 - INFO - Validation report generated with overall status: warning
+2025-11-16 19:39:04,929 - INFO - Reporte de validación guardado en c:\Users\Administrator\Desktop\proceso ETL\proyecto_techskills\output\reporte_calidad.txt
+2025-11-16 19:39:04,929 - INFO - Data validation process completed
+2025-11-16 19:39:04,930 - INFO - Starting data validation process
+2025-11-16 19:39:04,930 - INFO - Generating validation report
+2025-11-16 19:39:04,935 - INFO - Data quality validation completed
+2025-11-16 19:39:04,936 - INFO - Completeness validation completed with score: 99.79%
+2025-11-16 19:39:04,936 - INFO - Validation report generated with overall status: passed
+2025-11-16 19:39:04,937 - INFO - Reporte de validación guardado en c:\Users\Administrator\Desktop\proceso ETL\proyecto_techskills\output\reporte_calidad.txt
+2025-11-16 19:39:04,937 - INFO - Data validation process completed

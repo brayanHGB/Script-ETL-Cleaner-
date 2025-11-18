@@ -1,0 +1,200 @@
+{
+  "dashboard_name": "TechSkills Analytics Dashboard",
+  "version": "1.0",
+  "created_date": "2025-11-17T12:53:41.583175",
+  "datasets": [
+    "main_data",
+    "kpis",
+    "clusters",
+    "geography",
+    "technology",
+    "time_metrics"
+  ],
+  "pages": [
+    {
+      "name": "Resumen Ejecutivo",
+      "description": "KPIs principales y métricas de alto nivel",
+      "visualizations": [
+        {
+          "type": "KPI Card",
+          "title": "Total Registros",
+          "data_source": "kpis",
+          "measure": "Valor[KPI='Total Registros']"
+        },
+        {
+          "type": "KPI Card",
+          "title": "Salario Promedio",
+          "data_source": "kpis",
+          "measure": "Valor[KPI='Salario Promedio']",
+          "format": "Currency"
+        },
+        {
+          "type": "Donut Chart",
+          "title": "Distribución por Fuente de Datos",
+          "data_source": "main_data",
+          "axis": "fuente_datos",
+          "values": "COUNT(id_registro)"
+        },
+        {
+          "type": "Bar Chart",
+          "title": "Top 10 Países por Registros",
+          "data_source": "geography",
+          "axis": "pais_normalizado",
+          "values": "Total_Registros"
+        }
+      ]
+    },
+    {
+      "name": "Análisis Geográfico",
+      "description": "Distribución y métricas por ubicación",
+      "visualizations": [
+        {
+          "type": "Map",
+          "title": "Distribución Mundial de Talento Tech",
+          "data_source": "geography",
+          "location": "pais_normalizado",
+          "size": "Total_Registros",
+          "color": "Salario_Promedio"
+        },
+        {
+          "type": "Clustered Bar Chart",
+          "title": "Comparativa Salarios por País",
+          "data_source": "geography",
+          "axis": "pais_normalizado",
+          "values": [
+            "Salario_Promedio",
+            "Salario_Mediano"
+          ]
+        },
+        {
+          "type": "Scatter Plot",
+          "title": "Salario vs Edad por País",
+          "data_source": "main_data",
+          "x_axis": "edad",
+          "y_axis": "salario_usd",
+          "legend": "pais_normalizado"
+        }
+      ]
+    },
+    {
+      "name": "Análisis de Clustering",
+      "description": "Segmentación ML y perfiles profesionales",
+      "visualizations": [
+        {
+          "type": "Bubble Chart",
+          "title": "Clusters Profesionales (Edad vs Salario)",
+          "data_source": "clusters",
+          "x_axis": "Edad_Promedio",
+          "y_axis": "Salario_Promedio",
+          "size": "Cantidad_Perfiles",
+          "legend": "Pais_Predominante"
+        },
+        {
+          "type": "Donut Chart",
+          "title": "Distribución de Clusters",
+          "data_source": "clusters",
+          "axis": "Cluster_Nombre",
+          "values": "Porcentaje_Total"
+        },
+        {
+          "type": "Table",
+          "title": "Detalle de Clusters",
+          "data_source": "clusters",
+          "columns": [
+            "Cluster_Nombre",
+            "Edad_Promedio",
+            "Salario_Promedio",
+            "Pais_Predominante",
+            "Cantidad_Perfiles"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Análisis Tecnológico",
+      "description": "Tecnologías populares y correlación con salarios",
+      "visualizations": [
+        {
+          "type": "Horizontal Bar Chart",
+          "title": "Top Tecnologías por Popularidad",
+          "data_source": "technology",
+          "axis": "Tecnologia",
+          "values": "Total_Menciones",
+          "filter": "Tipo = 'Lenguaje'"
+        },
+        {
+          "type": "Scatter Plot",
+          "title": "Popularidad vs Salario Promedio",
+          "data_source": "technology",
+          "x_axis": "Total_Menciones",
+          "y_axis": "Salario_Promedio",
+          "legend": "Tipo"
+        },
+        {
+          "type": "Clustered Bar Chart",
+          "title": "Comparativa Frameworks",
+          "data_source": "technology",
+          "axis": "Tecnologia",
+          "values": [
+            "Total_Menciones",
+            "Salario_Promedio"
+          ],
+          "filter": "Tipo = 'Framework'"
+        }
+      ]
+    },
+    {
+      "name": "Tendencias Temporales",
+      "description": "Evolución y tendencias en el tiempo",
+      "visualizations": [
+        {
+          "type": "Line Chart",
+          "title": "Evolución Mensual por Fuente",
+          "data_source": "time_metrics",
+          "x_axis": "Fecha",
+          "y_axis": "Registros_Mes",
+          "legend": "Fuente_Datos"
+        },
+        {
+          "type": "Area Chart",
+          "title": "Tendencia Salarial",
+          "data_source": "time_metrics",
+          "x_axis": "Fecha",
+          "y_axis": "Salario_Promedio_Mes",
+          "legend": "Fuente_Datos"
+        }
+      ]
+    }
+  ],
+  "filters": [
+    {
+      "name": "País",
+      "field": "pais_normalizado",
+      "type": "dropdown",
+      "applies_to": "all_pages"
+    },
+    {
+      "name": "Fuente de Datos",
+      "field": "fuente_datos",
+      "type": "dropdown",
+      "applies_to": "all_pages"
+    },
+    {
+      "name": "Rango Salarial",
+      "field": "categoria_salario",
+      "type": "dropdown",
+      "applies_to": [
+        "Resumen Ejecutivo",
+        "Análisis Geográfico"
+      ]
+    }
+  ],
+  "color_palette": {
+    "primary": "#0078D4",
+    "secondary": "#106EBE",
+    "accent": "#005A9E",
+    "success": "#107C10",
+    "warning": "#FF8C00",
+    "error": "#D13438"
+  }
+}

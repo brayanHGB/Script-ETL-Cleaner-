@@ -1,0 +1,211 @@
+{
+  "metricas_etl": {
+    "fecha_ejecucion": "2025-11-17T12:53:41.586893",
+    "registros_procesados": {
+      "empleos_tech": 1502,
+      "inversiones_tech": 241,
+      "perfiles_habilidades": 1402,
+      "total_registros": 3145,
+      "warehouse_consolidado": 3145,
+      "fecha_procesamiento": "2025-11-17T12:53:41.586831",
+      "puntuacion_calidad_datos": 90.96
+    },
+    "resultados_validacion": {
+      "empleos": "warning",
+      "inversiones": "passed",
+      "perfiles": "passed"
+    },
+    "warehouse_consolidado": {
+      "resumen_general": {
+        "total_registros": 3145,
+        "fecha_generacion": "2025-11-17T12:53:41.421038",
+        "fuentes_datos": {
+          "empleos_tech": 1502,
+          "perfiles_habilidades": 1402,
+          "inversiones_tech": 241
+        }
+      },
+      "distribucion_geografica": {
+        "paises_unicos": 7,
+        "ciudades_unicas": 36,
+        "top_paises": {
+          "Usa": 485,
+          "Colombia": 459,
+          "Argentina": 454,
+          "Chile": 443,
+          "Perú": 441
+        },
+        "top_ciudades": {
+          "???": 160,
+          "Santiago": 145,
+          "Buenos Aires": 144,
+          "Lima": 143,
+          "Cusco": 140
+        }
+      },
+      "metricas_salariales": {
+        "registros_con_salario": 2799,
+        "salario_promedio": 24547.336918185065,
+        "salario_mediano": 18300.0,
+        "distribucion_rangos": {
+          "<50K": 2458,
+          "75K-100K": 138,
+          "50K-75K": 125,
+          "100K-150K": 78,
+          "150K+": 0
+        }
+      },
+      "metricas_experiencia": {
+        "registros_con_experiencia": 0,
+        "experiencia_promedio": 0,
+        "distribucion_niveles": {
+          "Junior": 0,
+          "Mid": 0,
+          "Senior": 0,
+          "Expert": 0
+        }
+      },
+      "tecnologias_populares": {
+        "lenguajes": {
+          "C#": 183,
+          "R": 182,
+          "Scala": 178,
+          "PHP": 177,
+          "Python": 162,
+          "Kotlin": 158,
+          "JavaScript": 156,
+          "Swift": 150,
+          "TypeScript": 150,
+          "Go": 149
+        },
+        "frameworks": {
+          "Spark": 214,
+          "Django": 210,
+          "React": 206,
+          "Vue": 206,
+          "Flask": 198,
+          "Laravel": 197,
+          ".NET": 195,
+          "Angular": 192,
+          "FastAPI": 191,
+          "Node.js": 191
+        }
+      }
+    },
+    "analisis_mineria_datos": {
+      "fecha_analisis": "2025-11-17T12:53:37.295288",
+      "total_registros_analizados": 3145,
+      "analisis_realizados": {
+        "asociaciones": {
+          "error": "No se encontraron patrones frecuentes"
+        },
+        "clustering": {
+          "num_clusters": 5,
+          "caracteristicas_usadas": [
+            "edad",
+            "salario_usd",
+            "pais"
+          ],
+          "distribucion_clusters": {
+            "Cluster_1": {
+              "cantidad_perfiles": 264,
+              "porcentaje": 18.83
+            },
+            "Cluster_2": {
+              "cantidad_perfiles": 346,
+              "porcentaje": 24.68
+            },
+            "Cluster_3": {
+              "cantidad_perfiles": 315,
+              "porcentaje": 22.47
+            },
+            "Cluster_4": {
+              "cantidad_perfiles": 143,
+              "porcentaje": 10.2
+            },
+            "Cluster_5": {
+              "cantidad_perfiles": 334,
+              "porcentaje": 23.82
+            }
+          },
+          "centroides_clusters": {
+            "Cluster_1": {
+              "edad_promedio": 23.93,
+              "salario_promedio": 10709.67,
+              "pais_predominante": "Perú"
+            },
+            "Cluster_2": {
+              "edad_promedio": 33.09,
+              "salario_promedio": 16466.81,
+              "pais_predominante": "Argentina"
+            },
+            "Cluster_3": {
+              "edad_promedio": 33.44,
+              "salario_promedio": 19427.06,
+              "pais_predominante": "España"
+            },
+            "Cluster_4": {
+              "edad_promedio": 28.24,
+              "salario_promedio": 91015.05,
+              "pais_predominante": "Usa"
+            },
+            "Cluster_5": {
+              "edad_promedio": 23.79,
+              "salario_promedio": 21282.3,
+              "pais_predominante": "Colombia"
+            }
+          }
+        },
+        "regresion": {
+          "error": "Datos insuficientes para regresión"
+        },
+        "clasificacion": {
+          "objetivo": "Predicción de empleos de alta demanda (salario > mediana)",
+          "modelo_random_forest": {
+            "precision": 0.71,
+            "calidad": "Media"
+          },
+          "modelo_logistic_regression": {
+            "precision": 0.5963,
+            "calidad": "Baja"
+          },
+          "mejor_modelo": "Random Forest",
+          "caracteristicas_importantes": [
+            {
+              "caracteristica": "tecnologia_principal",
+              "importancia": 0.1996
+            },
+            {
+              "caracteristica": "pais",
+              "importancia": 0.5828
+            },
+            {
+              "caracteristica": "nivel_experiencia",
+              "importancia": 0.2176
+            }
+          ]
+        }
+      },
+      "resumen_ejecucion": {
+        "analisis_exitosos": 2,
+        "total_analisis": 4,
+        "tasa_exito": "50.0%"
+      }
+    },
+    "exportacion_powerbi": {
+      "datasets_created": 6,
+      "total_records": 3196,
+      "output_directory": "c:\\Users\\Administrator\\Desktop\\proceso ETL\\proyecto_techskills\\output\\powerbi",
+      "guide_file": "c:\\Users\\Administrator\\Desktop\\proceso ETL\\proyecto_techskills\\output\\powerbi\\PowerBI_Implementation_Guide.txt",
+      "specification_file": "c:\\Users\\Administrator\\Desktop\\proceso ETL\\proyecto_techskills\\output\\powerbi\\dashboard_specification.json"
+    },
+    "resumen_calidad": {
+      "estado_general": "EXCELENTE",
+      "duplicados_eliminados": {
+        "empleos": 28,
+        "inversiones": 9,
+        "perfiles": 18
+      }
+    }
+  }
+}
