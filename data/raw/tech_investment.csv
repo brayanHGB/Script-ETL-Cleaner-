@@ -1,0 +1,251 @@
+ID_Programa,Organización,Área_Tecnológica,Inversión_USD,Participantes,Duración_Meses,Satisfacción_Promedio,Año,Ciudad,País
+PRG-5001,Universidad X,Data Science,USD 80240,117,3,4.43,2023,Cusco ,Perú
+PRG-5002,Alianza Cloud,Data Science,US$ 89.522,61,12,4.63,2022,Lima,Perú
+PRG-5003,SENA,Backend,US$ 113.156,167,12,4.09,2022,,Perú
+PRG-5004,Cámara de Comercio,Backend,US$ 136.206,115,4,4.4,2023,???,México
+PRG-5005,SENA,BI/Analytics,"$110,022",135,2,3.85,2022,Cusco,Perú
+PRG-5006,MinTIC,DevOps,"$93,261",112,12,4.18,2023,Buenos Aires,Argentina
+PRG-5007,Alianza Cloud,Ciberseguridad,$93157,210,9,4.55,2023,Bucaramanga,Colombia
+PRG-5008,Cámara de Comercio,BI/Analytics,US$ 79.731,70,9,4.19,2022,Concepción,Chile
+PRG-5009,Alianza Cloud,DevOps,$94681,151,3,4.2,2023,Guadalajara,México
+PRG-5010,Cámara de Comercio,Frontend,USD 142818,154,4,4.21,2023,,Colombia
+PRG-5011,MinTIC,IA,"$116,288",81,3,4.8,2024,Valparaíso,Chile
+PRG-5012,MinTIC,Frontend,USD 109079,131,4,3.39,2025,Buenos Aires,Argentina
+PRG-5013,SENA,IA,US$ 74.808,148,2,5.0,2023,Rosario,Argentina
+PRG-5014,Bootcamp Z,Cloud,$135336,134,4,4.13,2022,Valencia,España
+PRG-5015,Cámara de Comercio,Inteligencia Artificial,USD 64461,104,3,3.74,2022,Valparaíso,Chile
+PRG-5016,Universidad X,Backend,$113437,86,4,3.6,2025,Arequipa,Perú
+PRG-5017,Universidad X,Data Science,$113752,,4,4.31,2022,Cartagena,Colombia
+PRG-5018,Universidad X,Frontend,US$ 90.829,152,12,4.41,2025,Lima,Perú
+PRG-5019,Cámara de Comercio,Data Science,US$ 125.413,15,3,4.35,2022,Córdoba,Argentina
+PRG-5020,Fundación Datos,Frontend,"$71,809",88,12,4.15,2022,Madrid,España
+PRG-5021,Universidad X,Data Science,$45556,161,6,3.71,2023,Bucaramanga,Colombia
+PRG-5022,Cámara de Comercio,Frontend,$107587,43,9,3.85,2023,Barranquilla,Colombia
+PRG-5023,Fundación Datos,DevOps,"$46,707",129,2,4.19,2025,Valencia,España
+PRG-5024,Fundación Datos,Frontend,$58994,92,2,4.66,2024,Córdoba,Argentina
+PRG-5025,Cámara de Comercio,Backend,US$ 52.427,127,6,5.0,2022,CDMX,México
+PRG-5026,Empresa Y,Ciberseguridad,$46032,65,4,3.55,2023,Cusco,Perú
+PRG-5027,Fundación Datos,BI/Analytics,US$ 87.183,218,9,4.35,2022,Sevilla,España
+PRG-5028,Alianza Cloud,BI/Analytics,$84881,187,6,4.5,2022,Cusco,Perú
+PRG-5029,Fundación Datos,Backend,88819,222,9,4.54,2023,Valencia,España
+PRG-5030,Fundación Datos,Cloud,$85710,135,4,4.79,2023,,Perú
+PRG-5031,SENA,Frontend,$89774,157,12,3.47,2023,Bogota,Colombia
+PRG-5032,Universidad X,Data Science,USD 60989,69,12,4.21,2023,Austin,USA
+PRG-5033,Universidad X,Ciberseguridad,USD 86255,145,4,4.16,2023,CDMX,México
+PRG-5034,Alianza Cloud,BI/Analytics,US$ 92.163,143,2,4.58,2025,Monterrey,México
+PRG-5035,SENA,Cloud,$111934,17,9,5.0,2024,CUSCO,Perú
+PRG-5036,Bootcamp Z,Frontend,$68748,191,6,3.86,2024,Valencia,España
+PRG-5037,Universidad X,BI/Analytics,$121631,119,3,4.33,2024,Santiago,Chile
+PRG-5038,Empresa Y,Ciberseguridad,"$5,000",15,2,4.3,2023,San Francisco,USA
+PRG-5039,Cámara de Comercio,Ciberseguridad,US$ 33.716,264,3,3.96,2024,Miami,USA
+PRG-5040,Bootcamp Z,IA,"$90,075",123,3,4.56,2025,Sevilla,España
+PRG-5041,Empresa Y,Backend,US$ 83.768,26,9,3.94,2023,Lima,Perú
+PRG-5042,Cámara de Comercio,BI/Analytics,"$91,851",170,2,4.65,2022,Cusco,Perú
+PRG-5043,Fundación Datos,Frontend,$46864,47,12,3.92,2022,Santiago,Chile
+PRG-5044,Bootcamp Z,DevOps,USD 58556,91,12,3.7,2024,Valparaíso,Chile
+PRG-5045,Universidad X,BI/Analytics,USD 31125,84,4,4.59,2025,Rosario,Argentina
+PRG-5046,Universidad X,DevOps,"$41,613",90,12,4.26,2024,Sevilla,España
+PRG-5047,Bootcamp Z,BI/Analytics,US$ 90.401,22,3,4.05,2024,Valencia,España
+PRG-5048,Fundación Datos,Frontend,USD 95523,222,9,3.88,2022,,España
+PRG-5049,MinTIC,DevOps,83099,172,6,4.46,2024,Barranquilla,Colombia
+PRG-5050,Cámara de Comercio,Backend,"$65,733",15,4,4.01,2024,Cusco,Perú
+PRG-5051,Empresa Y,Data Science,"$46,934",195,6,4.33,2024,Arequipa,Perú
+PRG-5052,Bootcamp Z,DevOps,$37774,108,9,3.96,2023,Buenos Aires,Argentina
+PRG-5053,Bootcamp Z,Backend,US$ 73.120,150,6,4.12,2022,Valparaíso,Chile
+PRG-5054,Cámara de Comercio,DevOps,USD 81703,113,3,4.31,2023,Buenos Aires ,Argentina
+PRG-5055,Fundación Datos,IA,USD 34926,113,4,4.1,2025,Buenos Aires ,Argentina
+PRG-5056,Cámara de Comercio,BI/Analytics,$128004,123,4,3.78,2024,Valencia,España
+PRG-5057,SENA,Ciberseguridad,$62661,211,4,4.82,2022,Barranquilla,Colombia
+PRG-5058,MinTIC,Backend,USD 70277,15,9,3.25,2025,CDMX,México
+PRG-5059,Empresa Y,BI/Analytics,$65364,30,12,4.37,2024,Madrid,España
+PRG-5060,Bootcamp Z,DevOps,85732,70,4,3.85,2022,,México
+PRG-5061,Bootcamp Z,BI/Analytics,USD 60983,213,4,4.96,2025,Buenos Aires,Argentina
+PRG-5062,MinTIC,BI/Analytics,"$51,208",224,4,4.39,2024,Bogotá,Colombia
+PRG-5063,Alianza Cloud,BI/Analytics,"$122,295",89,6,4.31,2022,Cusco,Perú
+PRG-5064,Fundación Datos,Data Science,USD 72947,226,3,4.06,2024,,USA
+PRG-5065,Cámara de Comercio,Cloud,USD 82361,70,2,4.35,2023,MONTERREY,México
+PRG-5066,MinTIC,Cloud,"$87,424",120,6,4.48,2022,Bucaramanga,Colombia
+PRG-5067,SENA,Backend,USD 59215,112,4,3.78,2022,Lima,Perú
+PRG-5068,Empresa Y,Cloud,USD 68432,83,9,4.59,2023,Lima,Perú
+PRG-5069,Universidad X,Cloud,US$ 56.884,171,12,4.42,2024,concepción,Chile
+PRG-5070,Bootcamp Z,DevOps,USD 103604,63,12,3.54,2023,Buenos Aires,Argentina
+PRG-5071,Bootcamp Z,DevOps,US$ 73.414,176,3,4.28,2023,???,Chile
+PRG-5072,Cámara de Comercio,IA,$47391,111,3,4.24,2024,Rosario,Argentina
+PRG-5073,Bootcamp Z,Data Science,"$101,611",118,9,4.44,2024,Sevilla,España
+PRG-5074,SENA,Backend,"$95,671",191,3,3.73,2023,CDMX ,México
+PRG-5075,Fundación Datos,Backend,US$ 43.120,164,4,3.9,2024,MIAMI,USA
+PRG-5076,Bootcamp Z,BI/Analytics,"$54,202",122,4,4.03,2023,,USA
+PRG-5077,SENA,Cloud,US$ 60.937,178,2,3.83,2022,Sevilla,España
+PRG-5078,SENA,Data Science,"$163,971",41,9,4.01,2023,Santiago,Chile
+PRG-5079,Alianza Cloud,BI/Analytics,"$80,747",120,12,4.64,2023,Miami,USA
+PRG-5080,Fundación Datos,DevOps,$52437,84,3,4.04,2023,Lima,Perú
+PRG-5081,Universidad X,Frontend,"$36,517",72,2,3.44,2022,Córdoba,Argentina
+PRG-5082,Fundación Datos,DevOps,US$ 66.738,121,3,4.75,2025,Lima,Perú
+PRG-5083,SENA,Data Science,"$68,690",87,9,4.68,2023,Barranquilla,Colombia
+PRG-5084,Universidad X,Data Science,USD 102894,17,12,3.86,2022,Rosario,Argentina
+PRG-5085,Alianza Cloud,Cloud,USD 90606,50,9,4.24,2023,Barranquilla,Colombia
+PRG-5086,Empresa Y,Backend,86803,50,9,4.81,2024,Cusco ,Perú
+PRG-5087,MinTIC,Ciberseguridad,"$83,003",167,2,3.97,2023,Barcelona,España
+PRG-5088,Alianza Cloud,BI/Analytics,93727,113,6,4.1,2025,San Francisco ,USA
+PRG-5089,Fundación Datos,IA,108618,146,2,3.6,2023,miami,USA
+PRG-5090,Alianza Cloud,Frontend,$94529,129,12,4.09,2024,Madrid,España
+PRG-5091,Alianza Cloud,Backend,$124590,80,6,4.16,2024,LIMA,Perú
+PRG-5092,MinTIC,Cloud,USD 63342,113,2,4.07,2025,,Argentina
+PRG-5093,Empresa Y,Cloud,76460,100,12,3.6,2024,Bucaramanga,Colombia
+PRG-5094,SENA,Ciberseguridad,$60789,22,2,4.06,2022,Buenos Aires,Argentina
+PRG-5095,Universidad X,Frontend,USD 100604,84,3,4.18,2024,Concepción,Chile
+PRG-5096,Cámara de Comercio,BI/Analytics,86114,161,3,3.3,2025,,Colombia
+PRG-5097,SENA,Cloud,122503,146,12,4.25,2024,Valparaíso,Chile
+PRG-5098,SENA,DevOps,44961,,12,4.29,2022,Concepción,Chile
+PRG-5099,Alianza Cloud,Frontend,"$27,094",56,4,4.28,2022,Barranquilla,Colombia
+PRG-5100,Empresa Y,Data Science,"$70,786",168,4,4.12,2024,Arequipa,Perú
+PRG-5101,Bootcamp Z,Backend,"$126,911",78,4,4.34,2024,Cartagena,Colombia
+PRG-5102,SENA,DevOps,70355,98,3,4.24,2023,Barcelona,España
+PRG-5103,Cámara de Comercio,BI/Analytics,"$63,020",183,6,3.84,2024,Cartagena,Colombia
+PRG-5104,Universidad X,DevOps,USD 75432,136,12,3.6,2022,Bucaramanga,Colombia
+PRG-5105,Alianza Cloud,DevOps,$69750,110,12,4.03,2024,???,Chile
+PRG-5106,Alianza Cloud,BI/Analytics,"$86,101",126,3,4.85,2023,Cusco,Perú
+PRG-5107,Alianza Cloud,Backend,"$104,060",155,6,4.01,2022,Valparaíso,Chile
+PRG-5108,SENA,Data Science,59072,118,9,3.91,2024,???,USA
+PRG-5109,Universidad X,DevOps,143703,167,6,4.46,2022,Guadalajara ,México
+PRG-5110,Cámara de Comercio,Backend,USD 94928,142,6,4.5,2024,Guadalajara,México
+PRG-5111,Empresa Y,Ciberseguridad,$77270,113,6,4.44,2024,Arequipa,Perú
+PRG-5112,SENA,Backend,"$81,447",213,9,3.53,2024,Medellín,Colombia
+PRG-5113,MinTIC,DevOps,USD 85109,164,3,3.87,2022,Buenos Aires,Argentina
+PRG-5114,Bootcamp Z,Backend,"$5,000",68,3,3.88,2023,Santiago,Chile
+PRG-5115,Fundación Datos,Ciberseguridad,USD 94211,105,2,4.17,2022,Cusco,Perú
+PRG-5116,SENA,Data Science,USD 66806,59,12,4.21,2023,Rosario,Argentina
+PRG-5117,Bootcamp Z,Ciberseguridad,$87652,153,12,4.53,2023,CDMX,México
+PRG-5118,Fundación Datos,Ciberseguridad,"$85,184",15,6,4.3,2024,Córdoba,Argentina
+PRG-5119,MinTIC,Ciberseguridad,US$ 85.240,62,4,3.98,2024,Córdoba,Argentina
+PRG-5120,Empresa Y,DevOps,USD 40775,46,9,4.4,2023,San Francisco,USA
+PRG-5121,Bootcamp Z,IA,111740,153,3,4.49,2025,Miami,USA
+PRG-5122,Empresa Y,DevOps,47677,147,2,4.11,2022,Cusco,Perú
+PRG-5123,Fundación Datos,Ciberseguridad,USD 139338,102,12,3.85,2025,New York,USA
+PRG-5124,Bootcamp Z,Frontend,US$ 49.748,42,9,4.59,2022,Miami,USA
+PRG-5125,Universidad X,Backend,US$ 101.465,81,12,3.99,2023,AREQUIPA,Perú
+PRG-5126,Bootcamp Z,DevOps,"$33,906",180,6,4.02,2024,New York,USA
+PRG-5127,Alianza Cloud,Backend,US$ 72.798,154,2,3.84,2024,Seattle,USA
+PRG-5128,Empresa Y,BI/Analytics,$37934,204,4,3.86,2022,CDMX,México
+PRG-5129,SENA,DevOps,USD 130480,186,9,4.19,2022,Concepcion,Chile
+PRG-5130,Bootcamp Z,BI/Analytics,USD 41635,44,3,3.85,2024,Guadalajara,México
+PRG-5131,Alianza Cloud,BI/Analytics,USD 119407,113,4,4.56,2024,Córdoba,Argentina
+PRG-5132,Fundación Datos,Ciberseguridad,65009,176,12,4.49,2023,,México
+PRG-5133,SENA,DevOps,US$ 104.988,167,3,4.19,2025,Buenos Aires,Argentina
+PRG-5134,Fundación Datos,Frontend,"$112,926",,12,4.82,2024,Austin,USA
+PRG-5135,Cámara de Comercio,BI/Analytics,USD 90512,106,6,4.63,2023,New York,USA
+PRG-5136,Alianza Cloud,DevOps,US$ 132.318,210,9,4.21,2025,Valencia,España
+PRG-5137,MinTIC,IA,USD 44597,195,2,3.33,2022,Santiago,Chile
+PRG-5138,Bootcamp Z,BI/Analytics,$90597,94,4,3.61,2023,Madrid ,España
+PRG-5139,Cámara de Comercio,Backend,$85347,111,4,4.19,2023,Puebla,México
+PRG-5140,Alianza Cloud,BI/Analytics,$113374,136,6,4.1,2025,Austin,USA
+PRG-5141,SENA,Data Science,$96304,92,9,4.62,2024,Barcelona,España
+PRG-5142,Empresa Y,Backend,USD 120552,94,12,4.49,2024,Medellín,Colombia
+PRG-5143,Cámara de Comercio,Ciberseguridad,"$79,116",97,6,3.89,2022,Cusco,Perú
+PRG-5144,Empresa Y,Frontend,$83118,160,6,4.99,2025,Cusco,Perú
+PRG-5145,Fundación Datos,DevOps,44002,15,3,4.0,2023,Córdoba,Argentina
+PRG-5146,MinTIC,Data Science,$69313,151,12,3.92,2025,Barcelona,España
+PRG-5147,Cámara de Comercio,IA,USD 67495,,2,4.3,2022,Arequipa,Perú
+PRG-5148,Cámara de Comercio,Backend,$108978,173,3,3.59,2022,Miami,USA
+PRG-5149,Universidad X,DevOps,$93140,76,9,4.13,2023,Monterrey,México
+PRG-5150,Universidad X,Cloud,"$97,992",74,12,4.24,2024,Buenos Aires,Argentina
+PRG-5151,Alianza Cloud,Backend,$106668,147,9,4.05,2022,New York,USA
+PRG-5152,Empresa Y,Frontend,"$85,576",,12,4.31,2025,New York,USA
+PRG-5153,Empresa Y,DevOps,$32843,181,4,3.55,2024,,USA
+PRG-5154,MinTIC,Backend,$105595,52,12,4.25,2024,Santiago,Chile
+PRG-5155,Bootcamp Z,Frontend,49649,87,2,3.54,2025,Arequipa,Perú
+PRG-5156,Universidad X,BI/Analytics,$79522,137,2,4.35,2022,CDMX,México
+PRG-5157,Empresa Y,Frontend,"$88,570",174,9,4.73,2022,Seattle,USA
+PRG-5158,Universidad X,BI/Analytics,"$124,379",96,9,4.37,2022,,Perú
+PRG-5159,Bootcamp Z,BI/Analytics,USD 85463,88,9,5.0,2023,Rosario,Argentina
+PRG-5160,Universidad X,BI/Analytics,US$ 62.428,46,12,4.04,2024,Sevilla,España
+PRG-5161,SENA,IA,US$ 81.942,130,9,4.93,2024,New York,USA
+PRG-5162,Cámara de Comercio,Cloud,US$ 99.494,108,9,4.0,2024,Cartagena,Colombia
+PRG-5163,MinTIC,Ciberseguridad,75545,54,6,4.1,2022,Madrid,España
+PRG-5164,Bootcamp Z,IA,$118616,159,3,4.02,2023,Arequipa ,Perú
+PRG-5165,MinTIC,BI/Analytics,$50172,183,6,4.88,2024,Cali,Colombia
+PRG-5166,Cámara de Comercio,Backend,USD 64931,33,9,4.29,2023,Lima,Perú
+PRG-5167,Fundación Datos,Backend,$46730,97,6,4.47,2025,Guadalajara,México
+PRG-5168,SENA,DevOps,US$ 107.797,60,6,3.63,2022,Santiago,Chile
+PRG-5169,Cámara de Comercio,Cloud,$103769,179,4,4.4,2025,Seattle,USA
+PRG-5170,Alianza Cloud,Backend,"$73,605",180,4,4.17,2022,Concepción,Chile
+PRG-5171,Alianza Cloud,Data Science,$49138,186,3,4.09,2022,Barcelona,España
+PRG-5172,Empresa Y,Ciberseguridad,$72710,106,9,4.08,2025,Valparaíso,Chile
+PRG-5173,Cámara de Comercio,Cloud,US$ 78.700,15,12,4.3,2022,Seattle,USA
+PRG-5174,Universidad X,Cloud,$102105,190,9,3.96,2024,New York,USA
+PRG-5175,Bootcamp Z,Ciberseguridad,$51640,102,12,4.04,2024,Bogotá,Colombia
+PRG-5176,SENA,Frontend,$110722,82,12,4.33,2022,Santiago,Chile
+PRG-5177,SENA,Cloud,US$ 67.983,152,3,4.12,2024,Miami,USA
+PRG-5178,MinTIC,IA,$55650,147,6,4.39,2025,???,Perú
+PRG-5179,SENA,Frontend,USD 62039,168,2,4.18,2024,???,Colombia
+PRG-5180,Alianza Cloud,Ciberseguridad,US$ 127.397,68,6,4.36,2022,Valencia ,España
+PRG-5181,Fundación Datos,IA,US$ 72.880,182,2,3.85,2025,Valparaíso,Chile
+PRG-5182,MinTIC,Ciberseguridad,USD 119813,113,12,4.83,2023,Arequipa,Perú
+PRG-5183,Empresa Y,IA,$79204,164,12,4.35,2023,CDMX,México
+PRG-5184,Cámara de Comercio,Inteligencia Artificial,USD 49895,182,9,4.54,2024,Seattle,USA
+PRG-5185,SENA,Frontend,USD 87749,72,6,4.49,2024,Cali,Colombia
+PRG-5186,Universidad X,BI/Analytics,83099,136,12,4.71,2022,Barcelona,España
+PRG-5187,Cámara de Comercio,BI/Analytics,"$70,186",97,6,3.84,2025,San Francisco,USA
+PRG-5188,Cámara de Comercio,DevOps,USD 102383,131,12,4.16,2022,Concepción,Chile
+PRG-5189,SENA,Frontend,93248,15,9,4.45,2023,Cali,Colombia
+PRG-5190,MinTIC,Frontend,USD 73699,71,9,4.22,2024,Concepción,Chile
+PRG-5191,MinTIC,Frontend,"$88,177",75,9,4.24,2025,Santiago,Chile
+PRG-5192,Empresa Y,Data Science,USD 5000,53,6,3.85,2024,Santiago ,Chile
+PRG-5193,Alianza Cloud,Frontend,US$ 115.163,202,12,4.08,2025,Valencia,España
+PRG-5194,Bootcamp Z,IA,$122276,58,3,4.47,2025,New York,USA
+PRG-5195,Alianza Cloud,Ciberseguridad,US$ 134.103,192,9,4.37,2024,Guadalajara,México
+PRG-5196,Bootcamp Z,Frontend,58014,125,12,4.26,2023,Medellín,Colombia
+PRG-5197,Fundación Datos,Ciberseguridad,$111285,62,9,4.12,2023,,España
+PRG-5198,Empresa Y,Ciberseguridad,$70167,212,12,4.37,2023,Cartagena,Colombia
+PRG-5199,Cámara de Comercio,Frontend,USD 105740,74,12,3.88,2022,Austin,USA
+PRG-5200,Alianza Cloud,IA,US$ 96.154,196,2,3.49,2025,CDMX ,México
+PRG-5201,Cámara de Comercio,Backend,"$87,131",39,9,4.18,2023,Bucaramanga,Colombia
+PRG-5202,SENA,Backend,$54326,236,3,4.12,2024,Concepción,Chile
+PRG-5203,Fundación Datos,DevOps,US$ 86.925,120,3,4.87,2022,San Francisco,USA
+PRG-5204,Bootcamp Z,Ciberseguridad,"$33,619",115,2,4.82,2022,Valparaíso,Chile
+PRG-5205,SENA,BI/Analytics,"$36,675",145,6,3.94,2024,Córdoba,Argentina
+PRG-5206,Empresa Y,IA,US$ 83.980,102,4,4.52,2024,Barcelona,España
+PRG-5207,Empresa Y,Cloud,$64957,106,2,3.82,2022,Cusco,Perú
+PRG-5208,SENA,Cloud,"$82,394",110,2,4.39,2022,Barcelona,España
+PRG-5209,Fundación Datos,Cloud,US$ 54.231,15,3,4.39,2025,San Francisco,USA
+PRG-5210,SENA,Frontend,USD 106789,219,9,3.31,2024,New York,USA
+PRG-5211,Alianza Cloud,Inteligencia Artificial,USD 96715,15,4,4.22,2022,Puebla,México
+PRG-5212,Bootcamp Z,Ciberseguridad,"$138,056",123,2,3.79,2024,San Francisco,USA
+PRG-5213,Alianza Cloud,IA,83388,191,9,3.97,2022,Miami,USA
+PRG-5214,Empresa Y,IA,US$ 45.679,15,3,4.8,2025,Valencia,España
+PRG-5215,Alianza Cloud,BI/Analytics,$103757,125,9,4.43,2025,Córdoba,Argentina
+PRG-5216,Fundación Datos,Data Science,US$ 104.786,111,12,4.33,2023,,España
+PRG-5217,Universidad X,Data Science,"$70,738",109,9,3.92,2025,Santiago,Chile
+PRG-5218,Cámara de Comercio,Data Science,74649,137,3,4.64,2023,Buenos Aires,Argentina
+PRG-5219,MinTIC,Cloud,"$53,439",102,6,3.47,2025,Bogotá,Colombia
+PRG-5220,Bootcamp Z,IA,"$153,413",164,9,4.19,2023,Sevilla,España
+PRG-5221,Alianza Cloud,Ciberseguridad,107489,15,6,3.94,2022,Buenos Aires,Argentina
+PRG-5222,MinTIC,BI/Analytics,USD 90853,161,3,4.48,2025,???,Argentina
+PRG-5223,Cámara de Comercio,Frontend,"$72,142",127,6,4.62,2024,Miami,USA
+PRG-5224,Cámara de Comercio,Ciberseguridad,US$ 114.586,103,9,3.97,2025,Valparaíso,Chile
+PRG-5225,MinTIC,IA,US$ 58.230,129,9,4.57,2024,Valencia ,España
+PRG-5226,Empresa Y,Ciberseguridad,56068,80,4,4.57,2025,SANTIAGO,Chile
+PRG-5227,Empresa Y,Cloud,US$ 77.541,140,12,3.81,2023,Guadalajara,México
+PRG-5228,SENA,Frontend,USD 91690,117,12,4.46,2024,???,Argentina
+PRG-5229,Empresa Y,BI/Analytics,94628,78,4,3.46,2022,CDMX,México
+PRG-5230,Empresa Y,Data Science,53173,123,6,4.48,2024,Bogotá,Colombia
+PRG-5231,Universidad X,DevOps,US$ 147.181,94,4,4.26,2024,,Chile
+PRG-5232,Cámara de Comercio,Inteligencia Artificial,US$ 13.379,138,12,3.66,2023,Santiago,Chile
+PRG-5233,Universidad X,BI/Analytics,$59758,179,12,4.63,2023,barranquilla,Colombia
+PRG-5234,Cámara de Comercio,Data Science,$97439,77,6,3.88,2025,???,Perú
+PRG-5235,Universidad X,BI/Analytics,$99214,144,4,4.55,2022,Arequipa,Perú
+PRG-5236,Universidad X,BI/Analytics,$41441,75,9,4.41,2023,Rosario,Argentina
+PRG-5237,Universidad X,IA,USD 99208,132,12,3.72,2022,Concepción ,Chile
+PRG-5238,MinTIC,Backend,$74543,162,9,3.77,2024,Barranquilla,Colombia
+PRG-5239,Empresa Y,Frontend,"$106,542",92,9,4.26,2022,???,USA
+PRG-5240,Alianza Cloud,Data Science,USD 82140,127,12,4.04,2025,Cusco,Perú
+PRG-5229,Empresa Y,BI/Analytics,94628,78,4,3.46,2022,CDMX,México
+PRG-5195,Alianza Cloud,Ciberseguridad,US$ 134.103,192,9,4.37,2024,Guadalajara,México
+PRG-5089,Fundación Datos,IA,108618,146,2,3.6,2023,miami,USA
+PRG-5096,Cámara de Comercio,BI/Analytics,86114,161,3,3.3,2025,bucaramanga,Colombia
+PRG-5215,Alianza Cloud,BI/Analytics,$103757,125,9,4.43,2025,Córdoba,Argentina
+PRG-5005,SENA,BI/Analytics,"$110,022",135,2,3.85,2022,Cusco,Perú
+PRG-5094,SENA,Ciberseguridad,$60789,22,2,4.06,2022,Buenos Aires,Argentina
+PRG-5028,Alianza Cloud,BI/Analytics,$84881,187,6,4.5,2022,Cusco,Perú
+PRG-5171,Alianza Cloud,Data Science,$49138,186,3,4.09,2022,Barcelona,España
+PRG-5238,MinTIC,Backend,$74543,162,9,3.77,2024,Barranquilla,Colombia

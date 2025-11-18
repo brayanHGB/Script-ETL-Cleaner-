@@ -1,0 +1,1531 @@
+ID_Oferta,Empresa,Ciudad,País,Cargo,Lenguaje,Framework,Nivel_Seniority,Salario_Anual_USD,Modalidad,Fecha_Publicación
+JOB-100001,Lambda Solutions,Cartagena,Colombia,ML Engineer,R,Spark,Junior,US$ 12.034,Remoto,05/11/2024
+JOB-100002,GreenBit,Valparaiso,Chile,DevOps Engineer,Java,React,Junior,USD 18602,Remoto,2023-04-03
+JOB-100003,QuantumWare,Lima,Perú,Data Scientist,C#,Django,Senior,USD 25324,Presencial,2022/08/30
+JOB-100004,IA Factory,???,México,Data Analyst,TypeScript,Laravel,Senior,26740,Remoto,2025-03-01
+JOB-100005,RocketSoft,Rosario,Argentina,MLOps Engineer,Swift,.NET,Mid,17633,Híbrido,24/05/2023
+JOB-100006,NeoTech,Córdoba,Argentina,Data Analyst,TypeScript,Angular,Senior,USD 28008,Presencial,2022-05-30
+JOB-100007,IA Factory,Bucaramanga,Colombia,Fullstack Developer,JavaScript,FastAPI,Mid,11998,Presencial,2023/10/05
+JOB-100008,RocketSoft,Seattle,USA,BI Developer,Kotlin,Flask,Junior,"$55,996",Remoto,27-09-2023
+JOB-100009,QuantumWare,San Francisco,USA,MLOps Engineer,PHP,Django,Mid,US$ 109.501,Remoto,2023/03/23
+JOB-100010,NeoTech,Puebla,México,DevOps Engineer,R,FastAPI,Junior,15697,Remoto,2024/05/31
+JOB-100011,Vertex AI,???,Colombia,MLOps Engineer,R,React,Junior,$8699,Remoto,25-01-2022
+JOB-100012,IA Factory,Rosario,Argentina,Frontend Developer,Go,Django,Junior,USD 15588,Remoto,2024-11-21
+JOB-100013,QuantumWare,Rosario,Argentina,DevOps Engineer,R,.NET,Junior,US$ 17.212,Remoto,04-03-2023
+JOB-100014,Lambda Solutions,Santiago,Chile,BI Developer,Python,Flask,Junior,$19215,Presencial,2022-02-22
+JOB-100015,QuantumWare,Valparaíso,Chile,ML Engineer,Scala,Angular,Mid,USD 24089,Híbrido,12-08-2024
+JOB-100016,CloudForge,Seattle,USA,ML Engineer,Java,Node.js,Senior,$104007,Presencial,17/02/2022
+JOB-100017,Vertex AI,New York,USA,ML Engineer,Swift,Django,Senior,"$144,063",Presencial,22/01/2024
+JOB-100018,NeoTech,Barcelona,España,Cybersecurity Analyst,Swift,Vue,Mid,US$ 38.706,Remoto,31/03/2024
+JOB-100019,RocketSoft,Cordoba,Argentina,Fullstack Developer,Python,Django,Mid,$20823,Híbrido,2024/07/04
+JOB-100020,Vertex AI,Buenos Aires,Argentina,Data Analyst,C#,Flask,Junior,USD 12336,Presencial,2025-06-03
+JOB-100021,Vertex AI,Rosario,Argentina,MLOps Engineer,Java,Spark,Junior,US$ 19.961,Remoto,2024/06/07
+JOB-100022,QuantumWare,Guadalajara,México,Cloud Architect,R,Flask,Senior,$25783,Remoto,24-04-2025
+JOB-100023,DevOpsLab,San Francisco,USA,BI Developer,TypeScript,FastAPI,Senior,USD 125276,Remoto,2022-01-30
+JOB-100024,DevOpsLab,San Francisco,USA,DevOps Engineer,C#,React,Junior,USD 99131,Presencial,2023/10/30
+JOB-100025,DevOpsLab,Concepción,Chile,Data Scientist,PHP,FastAPI,Senior,$34761,Presencial,2022-11-07
+JOB-100026,IA Factory,Puebla,México,BI Developer,Python,Spring,Junior,11266,Presencial,2022/05/07
+JOB-100027,RocketSoft,Monterrey,México,Data Analyst,Swift,Django,Junior,$13524,Presencial,2024-07-15
+JOB-100028,CloudForge,CONCEPCIÓN,Chile,Cloud Architect,PHP,Laravel,Senior,USD 22986,Híbrido,06-11-2024
+JOB-100029,NeoTech,Puebla,México,Data Engineer,Swift,Angular,Senior,US$ 29.166,Híbrido,2024/06/24
+JOB-100030,NeoTech,New York,USA,DevOps Engineer,Java,React,Senior,US$ 124.691,Presencial,2025/08/10
+JOB-100031,DevOpsLab,Buenos Aires,Argentina,Cloud Architect,C#,Flask,Mid,"$17,772",Remoto,02-06-2024
+JOB-100032,SoftSmart,New York,USA,Fullstack Developer,PHP,Flask,Senior,"$154,395",Híbrido,07-02-2022
+JOB-100033,BluePixel,Bogotá,Colombia,Cybersecurity Analyst,Java,Flask,Junior,$7222,Remoto,08/07/2023
+JOB-100034,Atlas Systems,Valparaíso,Chile,DevOps Engineer,JavaScript,Vue,Senior,USD 37811,Híbrido,28/04/2022
+JOB-100035,CloudForge,arequipa,Perú,Frontend Developer,Python,Spark,Junior,USD 9940,Remoto,2023-06-26
+JOB-100036,Lambda Solutions,CDMX,México,Cybersecurity Analyst,R,Angular,Senior,US$ 22.697,Remoto,2022/11/27
+JOB-100037,SoftSmart,Lima,Perú,Frontend Developer,Scala,Angular,Senior,$20648,Híbrido,2023-12-12
+JOB-100038,CodeWorks,Puebla ,México,Data Scientist,Python,Vue,Senior,30726,Remoto,10-09-2025
+JOB-100039,QuantumWare,San Francisco,USA,Cybersecurity Analyst,Go,React,Junior,$96134,Híbrido,2023-12-13
+JOB-100040,DataNova,CDMX ,México,Data Analyst,Scala,Angular,Mid,USD 17110,Presencial,2025/10/05
+JOB-100041,BluePixel,SEATTLE,USA,Data Scientist,Kotlin,Spring,Junior,"$85,584",Híbrido,2025/01/25
+JOB-100042,BluePixel,SEATTLE,USA,Backend Developer,PHP,Spring,Junior,"$73,948",Presencial,05/09/2025
+JOB-100043,DataNova,Rosario,Argentina,Data Analyst,Go,Flask,Junior,US$ 17.363,Híbrido,16/09/2023
+JOB-100044,DevOpsLab,???,España,MLOps Engineer,TypeScript,.NET,Mid,US$ 33.708,Presencial,10/08/2025
+JOB-100045,GreenBit,Cusco,Perú,Data Engineer,Swift,Spring,Senior,US$ 18.742,Presencial,11/04/2025
+JOB-100046,CodeWorks,Córdoba,Argentina,ML Engineer,Scala,Node.js,Junior,USD 11672,Presencial,24/12/2024
+JOB-100047,DataNova,Bucaramanga,Colombia,Cloud Architect,Java,Vue,Senior,"$17,765",Híbrido,2022/06/02
+JOB-100048,SoftSmart,???,Perú,Backend Developer,Scala,FastAPI,Mid,US$ 24.068,Híbrido,06/04/2022
+JOB-100049,DevOpsLab,Valencia,España,Fullstack Developer,Go,Spark,Senior,USD 55349,Remoto,2024-09-14
+JOB-100050,CyberShield,Miami,USA,Data Engineer,C#,Spark,Mid,"$87,524",Híbrido,31/08/2022
+JOB-100051,CloudForge,Cartagena,Colombia,Cloud Architect,Python,Angular,Mid,$15441,Híbrido,03/03/2024
+JOB-100052,SoftSmart,Valencia,España,Data Analyst,TypeScript,Flask,Junior,$31482,Presencial,2025/07/17
+JOB-100053,Vertex AI,Medellín ,Colombia,Backend Developer,Kotlin,FastAPI,Mid,"$12,182",Presencial,12-07-2024
+JOB-100054,DevOpsLab,CALI,Colombia,DevOps Engineer,PHP,.NET,Mid,12454,Híbrido,03/09/2022
+JOB-100055,BluePixel,Rosario ,Argentina,Frontend Developer,PHP,Flask,Mid,US$ 19.602,Híbrido,2022/04/09
+JOB-100056,BluePixel,Rosario,Argentina,MLOps Engineer,JavaScript,React,Mid,$19071,Híbrido,01-03-2022
+JOB-100057,SoftSmart,Córdoba,Argentina,Data Engineer,Java,,Senior,US$ 21.973,Presencial,10-08-2023
+JOB-100058,DevOpsLab,Austin,USA,ML Engineer,Kotlin,.NET,Mid,"$102,148",Híbrido,05/09/2025
+JOB-100059,QuantumWare,,Colombia,Data Analyst,JavaScript,Spark,Junior,$9463,Presencial,27-03-2023
+JOB-100060,Orion Cloud,CDMX,México,DevOps Engineer,JavaScript,Vue,Junior,"$16,977",Remoto,16/10/2023
+JOB-100061,SoftSmart,Barcelona,España,Data Scientist,R,.NET,Mid,USD 35897,Remoto,2024/10/17
+JOB-100062,Vertex AI,barcelona,España,ML Engineer,Scala,Vue,Senior,USD 37987,Híbrido,29-03-2024
+JOB-100063,BluePixel,Sevilla,España,Data Scientist,JavaScript,Django,Mid,$37432,Remoto,30-05-2022
+JOB-100064,Orion Cloud,Guadalajara,México,Cloud Architect,C#,Flask,Junior,US$ 18.071,Presencial,18-08-2025
+JOB-100065,CodeWorks,Bucaramanga,Colombia,Data Scientist,JavaScript,React,Senior,15833,Presencial,31-05-2023
+JOB-100066,CyberShield,Santiago,Chile,Data Analyst,Java,Angular,Senior,USD 30328,Presencial,2022-01-03
+JOB-100067,Orion Cloud,rosario,Argentina,Frontend Developer,PHP,Spark,Junior,US$ 13.135,Remoto,2024/04/23
+JOB-100068,SoftSmart,Cali ,Colombia,Cloud Architect,Scala,Spark,Mid,US$ 10.109,Híbrido,10-04-2023
+JOB-100069,Lambda Solutions,BUENOS AIRES,Argentina,Data Engineer,R,Node.js,Senior,"$26,739",Presencial,2024-10-30
+JOB-100070,SoftSmart,Monterrey,México,Frontend Developer,C#,React,Mid,14814,Remoto,01-07-2025
+JOB-100071,NeoTech,Santiago,Chile,Cloud Architect,R,Spark,Junior,USD 24492,Remoto,18/02/2022
+JOB-100072,CodeWorks,New York,USA,ML Engineer,R,FastAPI,Senior,127361,Híbrido,26/01/2023
+JOB-100073,Orion Cloud,Córdoba,Argentina,Data Scientist,Go,Spark,Senior,US$ 28.456,Remoto,2022-08-12
+JOB-100074,CloudForge,Lima,Perú,Fullstack Developer,R,Flask,Senior,30636,Híbrido,2022-06-29
+JOB-100075,SoftSmart,Austin,USA,Fullstack Developer,Swift,FastAPI,Junior,"$93,137",Remoto,17-07-2025
+JOB-100076,QuantumWare,Bogotá,Colombia,Data Scientist,R,Django,Mid,"$11,617",Presencial,2023/11/26
+JOB-100077,CodeWorks,Bucaramanga,Colombia,Frontend Developer,PHP,Angular,Mid,USD 12597,Remoto,2023-04-24
+JOB-100078,Orion Cloud,???,México,DevOps Engineer,Go,.NET,Mid,"$19,984",Híbrido,06/11/2022
+JOB-100079,Lambda Solutions,Santiago,Chile,Cloud Architect,PHP,Laravel,Junior,19421,Remoto,2024-04-15
+JOB-100080,RocketSoft,Buenos Aires,Argentina,Cybersecurity Analyst,Swift,Node.js,Junior,US$ 11.732,Presencial,22/06/2022
+JOB-100081,RocketSoft,Puebla,México,Data Engineer,Kotlin,Spring,Junior,$15814,Presencial,2025-01-07
+JOB-100082,BluePixel,Austin,USA,Frontend Developer,Go,Laravel,Mid,"$107,744",Híbrido,22/05/2023
+JOB-100083,DevOpsLab,Barranquilla,Colombia,Frontend Developer,TypeScript,React,Mid,12747,Presencial,13/12/2024
+JOB-100084,CyberShield,Barranquilla,Colombia,MLOps Engineer,Kotlin,Django,Junior,$8270,Híbrido,2024-02-05
+JOB-100085,NeoTech,Cusco,Perú,Data Analyst,Python,React,Senior,USD 24459,Híbrido,15/11/2024
+JOB-100086,Atlas Systems,Concepción,Chile,MLOps Engineer,Python,Flask,Senior,US$ 31.898,Remoto,2024/01/26
+JOB-100087,SoftSmart,Barcelona,España,Frontend Developer,Python,Laravel,Senior,US$ 50.808,Híbrido,2025/10/21
+JOB-100088,BluePixel,Valparaíso,Chile,Data Analyst,C#,Django,Mid,29863,Híbrido,21/09/2025
+JOB-100089,CloudForge,Seattle,USA,MLOps Engineer,JavaScript,.NET,Senior,163515,Híbrido,2022/04/16
+JOB-100090,Vertex AI,Barcelona,España,DevOps Engineer,R,Django,Mid,$41815,Remoto,13-01-2022
+JOB-100091,GreenBit,Seattle,USA,Data Analyst,Java,.NET,Senior,143947,Remoto,16/04/2022
+JOB-100092,QuantumWare,BARCELONA,España,Data Analyst,TypeScript,Laravel,Mid,$41856,Remoto,03/12/2024
+JOB-100093,CyberShield,CDMX,México,DevOps Engineer,Kotlin,React,Mid,US$ 17.966,Híbrido,20-04-2022
+JOB-100094,IA Factory,Santiago,Chile,MLOps Engineer,C#,Laravel,Mid,"$24,716",Presencial,2023-03-23
+JOB-100095,IA Factory,Guadalajara,México,DevOps Engineer,PHP,Flask,Junior,US$ 12.944,Presencial,2022/03/20
+JOB-100096,Orion Cloud,Córdoba,Argentina,Cybersecurity Analyst,Scala,Angular,Senior,USD 27765,Híbrido,2025/09/11
+JOB-100097,Orion Cloud,Cordoba,Argentina,ML Engineer,Python,Django,Senior,USD 37491,Híbrido,03-01-2023
+JOB-100098,CloudForge,Barranquilla,Colombia,ML Engineer,PHP,.NET,Mid,US$ 13.564,Remoto,27/07/2025
+JOB-100099,Lambda Solutions,Cusco,Perú,Data Engineer,Swift,Flask,Junior,US$ 13.661,Remoto,2022-05-16
+JOB-100100,RocketSoft,CDMX,México,Frontend Developer,JavaScript,Spark,Senior,$23416,Remoto,2023/10/26
+JOB-100101,Orion Cloud,Monterrey,México,ML Engineer,Go,Vue,Mid,US$ 15.665,Híbrido,2024-02-02
+JOB-100102,QuantumWare,SEATTLE,USA,ML Engineer,Scala,Angular,Senior,,Remoto,2024-12-22
+JOB-100103,Vertex AI,Madrid,España,Cloud Architect,Swift,,Senior,"$56,324",Presencial,2024/01/31
+JOB-100104,Vertex AI,Lima,Perú,BI Developer,JavaScript,Node.js,Mid,$14103,Presencial,2022/04/09
+JOB-100105,Atlas Systems,New York,USA,Frontend Developer,Scala,Laravel,Senior,USD 142702,Remoto,19-08-2023
+JOB-100106,Vertex AI,Concepción,Chile,Data Scientist,JavaScript,FastAPI,Junior,"$18,291",Remoto,2025/03/07
+JOB-100107,Vertex AI,MIAMI,USA,Cybersecurity Analyst,C#,.NET,Senior,US$ 161.463,Presencial,30/08/2024
+JOB-100108,NeoTech,???,Colombia,Data Engineer,JavaScript,FastAPI,Junior,$9825,Híbrido,2024/04/03
+JOB-100109,CodeWorks,Sevilla,España,MLOps Engineer,Swift,Node.js,Senior,US$ 66.907,Remoto,2022-12-05
+JOB-100110,DataNova,Bogota,Colombia,DevOps Engineer,JavaScript,React,Junior,USD 8940,Presencial,08/02/2023
+JOB-100111,GreenBit,Cali,Colombia,BI Developer,JavaScript,Vue,Mid,"$11,481",Presencial,2025-01-07
+JOB-100112,GreenBit,Sevilla,España,Data Engineer,Kotlin,Flask,Senior,US$ 55.592,Híbrido,2023-04-21
+JOB-100113,Atlas Systems,,Chile,Data Engineer,Python,Angular,Senior,US$ 40.543,Híbrido,07/08/2025
+JOB-100114,DataNova,,México,ML Engineer,Go,React,Senior,27339,Remoto,2024/03/07
+JOB-100115,QuantumWare,,Argentina,MLOps Engineer,Scala,Vue,Mid,$16299,Híbrido,2023/04/24
+JOB-100116,QuantumWare,Guadalajara,México,BI Developer,TypeScript,Flask,Senior,"$25,891",Remoto,27/06/2025
+JOB-100117,DevOpsLab,CDMX,México,Data Engineer,Python,Django,Junior,US$ 14.448,Remoto,2025/04/24
+JOB-100118,CloudForge,Guadalajara,México,Data Engineer,R,Flask,Junior,USD 13473,Presencial,2022/06/29
+JOB-100119,DevOpsLab,Austin,USA,Data Analyst,Scala,React,Mid,US$ 85.764,Híbrido,2023/06/10
+JOB-100120,Vertex AI,Arequipa,Perú,Fullstack Developer,TypeScript,Vue,Mid,USD 22718,Híbrido,05-03-2022
+JOB-100121,CyberShield,Santiago,Chile,Fullstack Developer,Kotlin,Django,Senior,USD 32950,Presencial,12/08/2023
+JOB-100122,SoftSmart,Buenos Aires,Argentina,Frontend Developer,Python,Django,Mid,$17462,Híbrido,2025/04/28
+JOB-100123,Atlas Systems,Barcelona,España,BI Developer,JavaScript,Angular,Junior,$33305,Presencial,15-06-2022
+JOB-100124,CyberShield,Córdoba,Argentina,MLOps Engineer,PHP,Node.js,Junior,"$16,313",Híbrido,2025-08-15
+JOB-100125,BluePixel,Puebla,México,Frontend Developer,R,Vue,Senior,"$24,913",Híbrido,2022-09-17
+JOB-100126,Lambda Solutions,Concepción,Chile,Cybersecurity Analyst,JavaScript,FastAPI,Senior,US$ 39.101,Híbrido,11/06/2023
+JOB-100127,Orion Cloud,,USA,MLOps Engineer,C#,Vue,Junior,81570,Presencial,16/11/2022
+JOB-100128,Vertex AI,???,USA,ML Engineer,C#,Node.js,Junior,US$ 80.128,Remoto,05-02-2023
+JOB-100129,DevOpsLab,CDMX,México,Frontend Developer,Go,.NET,Mid,USD 20603,Híbrido,27-02-2023
+JOB-100130,DataNova,Valencia,España,DevOps Engineer,R,React,Senior,US$ 55.463,Híbrido,21-05-2025
+JOB-100131,NeoTech,Sevilla,España,DevOps Engineer,TypeScript,Laravel,Senior,USD 48276,Presencial,2023-01-07
+JOB-100132,Lambda Solutions,Puebla,México,Frontend Developer,Scala,Flask,Mid,USD 17021,Híbrido,17-05-2024
+JOB-100133,GreenBit,Valencia,España,Cybersecurity Analyst,Scala,Spark,Junior,"$28,024",Híbrido,2022-08-06
+JOB-100134,SoftSmart,Cartagena,Colombia,ML Engineer,C#,Vue,Mid,12377,Presencial,2024-09-01
+JOB-100135,Vertex AI,Buenos Aires,Argentina,Cybersecurity Analyst,PHP,.NET,Senior,23472,Híbrido,2024-11-18
+JOB-100136,Vertex AI,Córdoba,Argentina,MLOps Engineer,Python,Angular,Mid,USD 14502,Híbrido,2024/05/11
+JOB-100137,CyberShield,Puebla,México,Backend Developer,Go,.NET,Senior,USD 25533,Remoto,22/05/2022
+JOB-100138,NeoTech,Arequipa,Perú,ML Engineer,PHP,Spark,Senior,$20147,Presencial,23/08/2025
+JOB-100139,RocketSoft,Rosario,Argentina,Fullstack Developer,C#,Angular,Senior,US$ 19.801,Presencial,16-01-2023
+JOB-100140,Atlas Systems,Seattle,USA,Fullstack Developer,C#,Spark,Mid,$100319,Presencial,13/01/2024
+JOB-100141,QuantumWare,Lima,Perú,Data Scientist,Java,Laravel,Mid,16080,Presencial,2025-04-07
+JOB-100142,SoftSmart,Santiago,Chile,Data Analyst,Scala,Angular,Mid,$26860,Remoto,2024/07/14
+JOB-100143,SoftSmart,Madrid,España,DevOps Engineer,Swift,Spring,Senior,USD 48963,Remoto,09/10/2024
+JOB-100144,Orion Cloud,seattle,USA,MLOps Engineer,Java,Vue,Junior,USD 63209,Híbrido,2024-10-06
+JOB-100145,DevOpsLab,CDMX,México,Data Engineer,Kotlin,React,Mid,14642,Híbrido,26-02-2025
+JOB-100146,Orion Cloud,Medellín,Colombia,Fullstack Developer,R,.NET,Senior,15502,Remoto,2025-06-02
+JOB-100147,Lambda Solutions,???,Perú,Data Analyst,Swift,FastAPI,Mid,"$17,261",Híbrido,04/07/2025
+JOB-100148,Vertex AI,Lima,Perú,Fullstack Developer,Kotlin,Vue,Senior,$22087,Híbrido,2023-05-31
+JOB-100149,BluePixel,Valparaíso,Chile,Fullstack Developer,Kotlin,.NET,Mid,$23945,Remoto,02-09-2025
+JOB-100150,Lambda Solutions,Concepción,Chile,Backend Developer,PHP,Angular,Junior,USD 15391,Híbrido,09-02-2025
+JOB-100151,CodeWorks,Medellín,Colombia,DevOps Engineer,Go,Flask,Junior,$9620,Presencial,2025-09-09
+JOB-100152,QuantumWare,???,España,BI Developer,JavaScript,Spark,Senior,US$ 38.886,Presencial,26/07/2024
+JOB-100153,IA Factory,Cali,Colombia,Data Scientist,R,Flask,Senior,$16311,Híbrido,2025/02/25
+JOB-100154,IA Factory,Rosario,Argentina,DevOps Engineer,Python,Node.js,Junior,$17673,Híbrido,2025-03-08
+JOB-100155,GreenBit,Bucaramanga,Colombia,BI Developer,R,FastAPI,Junior,US$ 11.172,Híbrido,2024-04-24
+JOB-100156,RocketSoft,???,Argentina,Backend Developer,JavaScript,Spark,Junior,$20114,Remoto,30/06/2022
+JOB-100157,DevOpsLab,Santiago,Chile,Cloud Architect,Python,Angular,Senior,26829,Remoto,20/01/2024
+JOB-100158,CloudForge,Córdoba,Argentina,Frontend Developer,Scala,Vue,Senior,US$ 31.186,Remoto,2022-03-07
+JOB-100159,CloudForge,Santiago,Chile,DevOps Engineer,Go,Angular,Senior,"$41,332",Presencial,2022/05/03
+JOB-100160,Orion Cloud,Lima,Perú,Cloud Architect,Scala,Spring,Junior,"$16,518",Presencial,05-05-2024
+JOB-100161,Orion Cloud,New York,USA,Frontend Developer,TypeScript,Node.js,Mid,81757,Presencial,01/02/2022
+JOB-100162,BluePixel,Rosario,Argentina,BI Developer,R,React,Mid,"$21,235",Híbrido,2023-08-04
+JOB-100163,Atlas Systems,San Francisco,USA,DevOps Engineer,JavaScript,Laravel,Junior,"$97,204",Híbrido,26-01-2025
+JOB-100164,CloudForge,Guadalajara,México,Cybersecurity Analyst,Swift,FastAPI,Mid,13957,Presencial,20-03-2024
+JOB-100165,Atlas Systems,Santiago,Chile,BI Developer,Python,.NET,Mid,USD 26786,Remoto,22-04-2023
+JOB-100166,Atlas Systems,santiago,Chile,Cybersecurity Analyst,PHP,FastAPI,Senior,"$40,839",Remoto,2023/01/06
+JOB-100167,Vertex AI,Barranquilla,Colombia,DevOps Engineer,Swift,Spring,Junior,$8596,Híbrido,19-07-2025
+JOB-100168,DevOpsLab,Miami,USA,Fullstack Developer,TypeScript,Django,Mid,USD 103307,Remoto,24-02-2023
+JOB-100169,SoftSmart,Rosario,Argentina,Frontend Developer,Go,.NET,Junior,"$13,429",Híbrido,2022/03/19
+JOB-100170,IA Factory,Cartagena,Colombia,DevOps Engineer,Java,Django,Junior,$8430,Híbrido,12-05-2022
+JOB-100171,CloudForge,Madrid,España,Frontend Developer,PHP,Laravel,Junior,"$26,674",Remoto,07/07/2024
+JOB-100172,NeoTech,Austin,USA,Data Engineer,C#,Spring,Junior,$78192,Remoto,2022/04/07
+JOB-100173,RocketSoft,Lima,Perú,Data Scientist,Java,Spring,Mid,$17754,Presencial,26-04-2025
+JOB-100174,CyberShield,Buenos Aires,Argentina,Cloud Architect,PHP,Node.js,Mid,$22862,Remoto,22/06/2024
+JOB-100175,DataNova,Lima,Perú,Cloud Architect,C#,Django,Junior,$12368,Híbrido,14-10-2022
+JOB-100176,QuantumWare,Austin,USA,Data Scientist,Scala,Flask,Mid,US$ 93.129,Remoto,2025/07/10
+JOB-100177,NeoTech,Rosario,Argentina,Data Engineer,Python,Spring,Senior,USD 32036,Remoto,30-06-2023
+JOB-100178,DevOpsLab,San Francisco,USA,Data Scientist,Go,Laravel,Mid,US$ 102.991,Híbrido,23-07-2024
+JOB-100179,CodeWorks,córdoba,Argentina,MLOps Engineer,Scala,React,Senior,,Híbrido,2024/06/03
+JOB-100180,NeoTech,CDMX,México,Data Analyst,R,Angular,Mid,USD 19796,Remoto,2025-08-03
+JOB-100181,Lambda Solutions,Cusco,Perú,Cybersecurity Analyst,JavaScript,FastAPI,Junior,"$13,366",Híbrido,25-03-2022
+JOB-100182,IA Factory,Barcelona,España,ML Engineer,JavaScript,Vue,Junior,$32157,Remoto,31-05-2025
+JOB-100183,IA Factory,Barcelona,España,Backend Developer,JavaScript,Laravel,Senior,$55599,Remoto,15-05-2022
+JOB-100184,CodeWorks,Cusco,Perú,Cybersecurity Analyst,PHP,Node.js,Mid,$21292,Remoto,01-02-2022
+JOB-100185,RocketSoft,???,México,ML Engineer,Scala,Angular,Junior,"$14,651",Híbrido,2025-03-23
+JOB-100186,Orion Cloud,Barcelona,España,Cybersecurity Analyst,Java,Flask,Mid,"$27,433",Presencial,2024-02-21
+JOB-100187,CyberShield,Cartagena,Colombia,Data Engineer,Kotlin,FastAPI,Senior,"$13,347",Remoto,2023-05-14
+JOB-100188,IA Factory,???,Chile,ML Engineer,Java,Angular,Mid,US$ 27.741,Presencial,2023/02/04
+JOB-100189,Orion Cloud,New York,USA,Cybersecurity Analyst,C#,FastAPI,Junior,USD 73055,Híbrido,10-09-2022
+JOB-100190,Atlas Systems,Guadalajara,México,Data Analyst,Java,Flask,Mid,21072,Presencial,19-03-2025
+JOB-100191,IA Factory,Rosario,Argentina,Data Scientist,Scala,.NET,Senior,"$29,148",Híbrido,2022/04/17
+JOB-100192,NeoTech,Arequipa,Perú,Fullstack Developer,R,Laravel,Mid,$15977,Híbrido,25/11/2024
+JOB-100193,Vertex AI,cali,Colombia,Backend Developer,R,Spark,Senior,"$19,527",Remoto,27-10-2023
+JOB-100194,DataNova,Arequipa,Perú,Backend Developer,JavaScript,.NET,Mid,$15820,Remoto,2025/08/06
+JOB-100195,Atlas Systems,Cali,Colombia,MLOps Engineer,Swift,Django,Senior,"$11,627",Híbrido,2023-04-30
+JOB-100196,BluePixel,Cartagena,Colombia,Fullstack Developer,Scala,Spring,Junior,USD 12571,Remoto,13/08/2024
+JOB-100197,DevOpsLab,San Francisco,USA,Frontend Developer,R,,Mid,67771,Híbrido,03/06/2025
+JOB-100198,SoftSmart,Miami,USA,Cybersecurity Analyst,PHP,FastAPI,Senior,"$145,696",Remoto,2023/05/12
+JOB-100199,QuantumWare,Guadalajara,México,BI Developer,R,Django,Mid,$20534,Híbrido,2023/07/07
+JOB-100200,SoftSmart,Santiago,Chile,Frontend Developer,Python,Django,Junior,USD 20441,Híbrido,2025-09-09
+JOB-100201,Orion Cloud,Barcelona,España,Fullstack Developer,Java,Vue,Junior,22723,Remoto,15/10/2025
+JOB-100202,Atlas Systems,Cusco,Perú,Cybersecurity Analyst,Java,FastAPI,Mid,USD 20740,Híbrido,2022-07-31
+JOB-100203,CyberShield,Córdoba,Argentina,Cloud Architect,R,Laravel,Junior,"$12,540",Híbrido,15-07-2024
+JOB-100204,Vertex AI,Concepción,Chile,Frontend Developer,PHP,.NET,Senior,USD 27945,Remoto,20-10-2024
+JOB-100205,IA Factory,Valparaíso,Chile,Cybersecurity Analyst,Go,Spring,Mid,$23643,Híbrido,26/10/2023
+JOB-100206,SoftSmart,Miami,USA,DevOps Engineer,Python,Django,Junior,USD 84988,Presencial,02-10-2023
+JOB-100207,GreenBit,Concepción,Chile,DevOps Engineer,Kotlin,Node.js,Junior,US$ 20.900,Presencial,20/05/2022
+JOB-100208,Vertex AI,Santiago,Chile,Cybersecurity Analyst,R,Spark,Senior,$39256,Híbrido,02-04-2024
+JOB-100209,Lambda Solutions,Austin,USA,Data Engineer,Swift,Flask,Junior,US$ 70.942,Híbrido,15/11/2024
+JOB-100210,BluePixel,Barcelona,España,Data Engineer,PHP,Vue,Mid,US$ 37.018,Presencial,21-01-2023
+JOB-100211,CyberShield,Madrid,España,Fullstack Developer,TypeScript,Spark,Senior,$44125,Remoto,2023-09-21
+JOB-100212,QuantumWare,Medellin,Colombia,Data Analyst,TypeScript,Django,Senior,USD 16001,Presencial,29/06/2023
+JOB-100213,GreenBit,Concepción,Chile,BI Developer,Java,Spring,Junior,$21779,Remoto,16-12-2022
+JOB-100214,GreenBit,Cusco,Perú,Data Scientist,Scala,Django,Senior,US$ 24.066,Híbrido,19/07/2023
+JOB-100215,CyberShield,Rosario,Argentina,BI Developer,Java,Node.js,Junior,,Remoto,2024-03-21
+JOB-100216,NeoTech,Santiago,Chile,Backend Developer,C#,Django,Junior,$18280,Híbrido,2024/05/06
+JOB-100217,RocketSoft,Barcelona,España,Data Analyst,C#,Spark,Mid,$34623,Presencial,2024-09-19
+JOB-100218,NeoTech,BUENOS AIRES,Argentina,Data Analyst,JavaScript,Spring,Mid,US$ 20.117,Híbrido,2025/02/24
+JOB-100219,QuantumWare,Barranquilla,Colombia,Fullstack Developer,R,Spark,Junior,US$ 9.319,Presencial,17-05-2023
+JOB-100220,BluePixel,New York,USA,Fullstack Developer,C#,.NET,Junior,US$ 82.753,Remoto,2022-09-23
+JOB-100221,DevOpsLab,Monterrey,México,Cybersecurity Analyst,Kotlin,FastAPI,Junior,"$14,785",Híbrido,12/07/2025
+JOB-100222,RocketSoft,Barcelona,España,Cybersecurity Analyst,C#,React,Mid,USD 47919,Presencial,2024/06/20
+JOB-100223,QuantumWare,Lima,Perú,BI Developer,Swift,React,Junior,US$ 13.925,Presencial,08-07-2023
+JOB-100224,DevOpsLab,bucaramanga,Colombia,Frontend Developer,Python,.NET,Senior,US$ 16.227,Híbrido,2023-01-21
+JOB-100225,Vertex AI,VALENCIA,España,Cybersecurity Analyst,Go,React,Junior,"$25,657",Remoto,2024/03/28
+JOB-100226,Orion Cloud,CDMX,México,MLOps Engineer,Scala,Spring,Mid,"$18,061",Híbrido,21-02-2022
+JOB-100227,QuantumWare,New York,USA,Fullstack Developer,Scala,Flask,Junior,USD 83784,Presencial,2025-10-19
+JOB-100228,IA Factory,ROSARIO,Argentina,DevOps Engineer,C#,Angular,Junior,USD 14223,Presencial,31/07/2025
+JOB-100229,NeoTech,Rosario,Argentina,BI Developer,Kotlin,Vue,Mid,$19850,Remoto,2022/08/18
+JOB-100230,CodeWorks,AREQUIPA,Perú,Backend Developer,Scala,Flask,Junior,,Presencial,26-06-2022
+JOB-100231,QuantumWare,Santiago,Chile,Data Engineer,TypeScript,React,Mid,USD 24524,Híbrido,28-11-2023
+JOB-100232,SoftSmart,???,Argentina,DevOps Engineer,Scala,Vue,Junior,USD 14754,Presencial,19/06/2023
+JOB-100233,NeoTech,Monterrey,México,Cybersecurity Analyst,Go,React,Junior,US$ 16.501,Remoto,2025/07/27
+JOB-100234,RocketSoft,CDMX,México,MLOps Engineer,Kotlin,React,Senior,25566,Remoto,2025/08/05
+JOB-100235,DevOpsLab,Monterrey,México,Data Engineer,JavaScript,Laravel,Senior,26699,Presencial,19/05/2024
+JOB-100236,DevOpsLab,Bucaramanga,Colombia,BI Developer,Kotlin,.NET,Junior,US$ 11.286,Híbrido,2023-02-27
+JOB-100237,Atlas Systems,Seattle,USA,Frontend Developer,C#,Flask,Senior,USD 155849,Híbrido,30-06-2024
+JOB-100238,BluePixel,Barranquilla,Colombia,ML Engineer,Swift,Flask,Junior,US$ 9.100,Remoto,2023/11/11
+JOB-100239,RocketSoft,New York,USA,DevOps Engineer,Kotlin,React,Senior,122517,Presencial,2023/08/09
+JOB-100240,CloudForge,Lima,Perú,ML Engineer,Python,Django,Mid,US$ 18.767,Presencial,12/12/2024
+JOB-100241,BluePixel,Monterrey,México,Data Engineer,TypeScript,Node.js,Mid,$17641,Remoto,2025/02/02
+JOB-100242,Atlas Systems,Concepción,Chile,Backend Developer,Python,Django,Junior,USD 14300,Remoto,20-03-2023
+JOB-100243,IA Factory,Medellín,Colombia,Frontend Developer,TypeScript,Laravel,Senior,US$ 20.013,Remoto,26-06-2024
+JOB-100244,CodeWorks,Valencia,España,Cloud Architect,Kotlin,React,Junior,"$30,488",Presencial,21/05/2024
+JOB-100245,CodeWorks,Buenos Aires,Argentina,Cybersecurity Analyst,R,Node.js,Junior,"$17,767",Presencial,03-12-2022
+JOB-100246,Orion Cloud,PUEBLA,México,BI Developer,Scala,Node.js,Senior,$20766,Presencial,01-08-2024
+JOB-100247,DevOpsLab,Lima,Perú,DevOps Engineer,TypeScript,,Junior,USD 17182,Presencial,2025/09/10
+JOB-100248,GreenBit,Monterrey,México,Fullstack Developer,Kotlin,Spark,Senior,22976,Remoto,01-04-2023
+JOB-100249,DevOpsLab,Valparaíso,Chile,MLOps Engineer,TypeScript,Node.js,Senior,"$34,434",Presencial,22-06-2024
+JOB-100250,NeoTech,Medellín,Colombia,ML Engineer,C#,Vue,Senior,USD 13268,Presencial,14/07/2022
+JOB-100251,Atlas Systems,Buenos Aires,Argentina,Data Engineer,Kotlin,React,Senior,$27298,Presencial,2024-11-17
+JOB-100252,CloudForge,Concepción,Chile,Cloud Architect,JavaScript,Vue,Senior,USD 33793,Presencial,2024-11-21
+JOB-100253,QuantumWare,Buenos Aires,Argentina,Cybersecurity Analyst,JavaScript,React,Senior,US$ 27.221,Remoto,08/04/2024
+JOB-100254,CodeWorks,New York,USA,Data Scientist,TypeScript,React,Mid,USD 101248,Remoto,26/06/2025
+JOB-100255,Vertex AI,Madrid,España,ML Engineer,PHP,Node.js,Senior,53681,Remoto,2024/02/03
+JOB-100256,CodeWorks,Valparaíso,Chile,BI Developer,PHP,Flask,Mid,"$28,659",Remoto,14/10/2025
+JOB-100257,SoftSmart,Buenos Aires,Argentina,Data Engineer,Kotlin,Django,Senior,US$ 26.033,Remoto,2022/06/01
+JOB-100258,BluePixel,Valparaíso,Chile,MLOps Engineer,Scala,.NET,Junior,"$17,011",Híbrido,2022-01-29
+JOB-100259,DevOpsLab,Lima,Perú,Cloud Architect,Swift,FastAPI,Junior,$14358,Presencial,23-10-2025
+JOB-100260,IA Factory,Cusco,Perú,Data Engineer,Kotlin,.NET,Junior,"$15,757",Híbrido,17/12/2024
+JOB-100261,DevOpsLab,Monterrey,México,BI Developer,TypeScript,Django,Junior,$17088,Presencial,17-08-2024
+JOB-100262,Lambda Solutions,San Francisco ,USA,Data Scientist,PHP,Laravel,Mid,,Presencial,03/04/2022
+JOB-100263,DevOpsLab,Valparaíso,Chile,Frontend Developer,R,Angular,Junior,$14703,Presencial,2022-03-11
+JOB-100264,GreenBit,Austin,USA,MLOps Engineer,TypeScript,Spark,Junior,"$80,298",Remoto,2025-10-27
+JOB-100265,Lambda Solutions,Monterrey,México,Data Engineer,PHP,Vue,Senior,30720,Híbrido,2022/05/04
+JOB-100266,RocketSoft,San Francisco,USA,Cybersecurity Analyst,PHP,React,Junior,USD 76713,Presencial,17-07-2024
+JOB-100267,BluePixel,Austin,USA,ML Engineer,TypeScript,Flask,Junior,USD 70117,Remoto,2023-01-25
+JOB-100268,BluePixel,Cusco,Perú,BI Developer,PHP,FastAPI,Mid,"$18,834",Híbrido,16/10/2023
+JOB-100269,Atlas Systems,San Francisco,USA,Cybersecurity Analyst,Python,,Senior,"$122,960",Remoto,29-03-2024
+JOB-100270,BluePixel,CDMX,México,Cybersecurity Analyst,Scala,Flask,Junior,15780,Remoto,2022/05/31
+JOB-100271,DataNova,Bucaramanga,Colombia,Backend Developer,Go,Vue,Senior,$16767,Remoto,2023/10/21
+JOB-100272,DataNova,Valencia ,España,MLOps Engineer,Kotlin,.NET,Senior,$64316,Remoto,2022/06/28
+JOB-100273,QuantumWare,Miami,USA,Frontend Developer,Kotlin,Django,Junior,US$ 81.694,Remoto,2024/04/30
+JOB-100274,DataNova,Lima,Perú,ML Engineer,C#,Spring,Senior,22463,Híbrido,06/12/2023
+JOB-100275,Lambda Solutions,Buenos Aires,Argentina,Backend Developer,TypeScript,Angular,Senior,USD 30539,Presencial,30-01-2025
+JOB-100276,Vertex AI,New York,USA,Cybersecurity Analyst,Swift,Angular,Junior,$86670,Presencial,13/01/2024
+JOB-100277,NeoTech,CDMX,México,DevOps Engineer,Java,Django,Senior,"$23,051",Remoto,11/02/2025
+JOB-100278,Vertex AI,Lima,Perú,Data Engineer,JavaScript,Spring,Senior,$23590,Presencial,12-05-2023
+JOB-100279,RocketSoft,Buenos Aires,Argentina,Backend Developer,Scala,Node.js,Mid,US$ 13.084,Remoto,2025-09-13
+JOB-100280,QuantumWare,Valparaíso,Chile,MLOps Engineer,PHP,Django,Junior,US$ 22.710,Presencial,08/07/2025
+JOB-100281,DataNova,San Francisco,USA,Frontend Developer,R,React,Junior,$69299,Presencial,2023/07/25
+JOB-100282,RocketSoft,Arequipa,Perú,Backend Developer,TypeScript,,Mid,"$12,269",Híbrido,2023-08-02
+JOB-100283,RocketSoft,Concepción,Chile,Backend Developer,JavaScript,Node.js,Senior,$25713,Presencial,17/04/2022
+JOB-100284,Vertex AI,Lima,Perú,Data Scientist,Kotlin,Spring,Mid,US$ 17.398,Presencial,2022-02-20
+JOB-100285,DataNova,valencia,España,ML Engineer,Go,Spring,Senior,US$ 59.270,Híbrido,30-10-2025
+JOB-100286,Lambda Solutions,Cartagea,Colombia,MLOps Engineer,Scala,.NET,Mid,US$ 11.839,Presencial,2022-02-01
+JOB-100287,NeoTech,Bogotá,Colombia,BI Developer,R,Flask,Senior,$17988,Remoto,2022-08-14
+JOB-100288,DevOpsLab,Guadalajara,México,Cybersecurity Analyst,R,Django,Junior,$12020,Presencial,26-12-2023
+JOB-100289,CloudForge,Cali,Colombia,Fullstack Developer,C#,React,Senior,$13419,Híbrido,2023-07-05
+JOB-100290,SoftSmart,???,USA,Cybersecurity Analyst,Python,.NET,Senior,USD 150670,Remoto,30-08-2025
+JOB-100291,Lambda Solutions,Córdoba,Argentina,Data Engineer,R,Angular,Mid,$21476,Remoto,03-03-2024
+JOB-100292,DevOpsLab,Valparaíso,Chile,MLOps Engineer,Python,React,Senior,US$ 34.839,Remoto,2023-02-11
+JOB-100293,CodeWorks,Valparaíso,Chile,Data Engineer,Python,.NET,Senior,USD 41730,Presencial,2025/09/30
+JOB-100294,DataNova,,USA,Cloud Architect,Scala,FastAPI,Senior,"$114,023",Remoto,13-07-2025
+JOB-100295,CloudForge,Valencia,España,DevOps Engineer,Swift,Angular,Senior,"$49,846",Presencial,2023/04/03
+JOB-100296,RocketSoft,rosario,Argentina,Data Engineer,PHP,Vue,Senior,USD 32310,Remoto,2024/12/18
+JOB-100297,IA Factory,???,México,Fullstack Developer,C#,Spark,Junior,"$18,369",Remoto,22-10-2023
+JOB-100298,GreenBit,SEATTLE,USA,Data Analyst,R,Spring,Senior,USD 133168,Presencial,2024/12/06
+JOB-100299,CloudForge,Madrid,España,Frontend Developer,R,Angular,Mid,US$ 47.573,Presencial,24/12/2022
+JOB-100300,DevOpsLab,Monterrey,México,Fullstack Developer,Kotlin,Vue,Senior,,Híbrido,06/02/2022
+JOB-100301,Atlas Systems,Valencia,España,Data Scientist,TypeScript,Spring,Mid,US$ 39.879,Remoto,28-06-2023
+JOB-100302,RocketSoft,Arequipa,Perú,Data Analyst,C#,Spring,Mid,"$17,530",Remoto,25-06-2024
+JOB-100303,BluePixel,Arequipa,Perú,DevOps Engineer,R,Spark,Senior,$19196,Presencial,23/09/2022
+JOB-100304,Vertex AI,Lima ,Perú,Data Analyst,Scala,React,Mid,USD 18696,Híbrido,16-03-2024
+JOB-100305,DataNova,Rosario,Argentina,Data Analyst,TypeScript,Laravel,Mid,USD 22798,Híbrido,2022-12-27
+JOB-100306,RocketSoft,Guadalajara,México,ML Engineer,Swift,Django,Senior,$24639,Presencial,2023/08/26
+JOB-100307,Orion Cloud,Santiago,Chile,Data Analyst,Java,React,Junior,US$ 19.788,Remoto,01-03-2025
+JOB-100308,SoftSmart,Concepción,Chile,Data Engineer,PHP,FastAPI,Junior,"$24,178",Híbrido,13/04/2022
+JOB-100309,SoftSmart,Miami,USA,Cybersecurity Analyst,Python,Spring,Senior,USD 108068,Híbrido,2023/06/07
+JOB-100310,GreenBit,Puebla,México,MLOps Engineer,Python,Angular,Mid,US$ 13.956,Híbrido,18/02/2023
+JOB-100311,Vertex AI,Santiago,Chile,Cloud Architect,Scala,FastAPI,Senior,31566,Remoto,2024-07-23
+JOB-100312,DataNova,arequipa,Perú,Cybersecurity Analyst,Java,.NET,Senior,20676,Híbrido,21/08/2023
+JOB-100313,Orion Cloud,Medellín,Colombia,DevOps Engineer,Kotlin,React,Junior,$11538,Remoto,2022-10-08
+JOB-100314,RocketSoft,Lima,Perú,ML Engineer,Python,Vue,Senior,US$ 26.370,Remoto,30/12/2024
+JOB-100315,SoftSmart,CDMX,México,Cybersecurity Analyst,Java,FastAPI,Junior,12533,Remoto,2025/09/11
+JOB-100316,Orion Cloud,Barcelona ,España,MLOps Engineer,R,Spring,Junior,27597,Híbrido,2023/04/22
+JOB-100317,DevOpsLab,???,Perú,Frontend Developer,Go,Node.js,Senior,"$36,014",Remoto,2024-03-12
+JOB-100318,DevOpsLab,Concepción ,Chile,MLOps Engineer,Go,React,Senior,"$31,797",Remoto,12-01-2023
+JOB-100319,QuantumWare,Barcelona,España,Data Analyst,Python,,Junior,US$ 26.925,Híbrido,2024/09/30
+JOB-100320,RocketSoft,Arequipa,Perú,Data Analyst,C#,FastAPI,Mid,"$18,821",Remoto,14-10-2022
+JOB-100321,NeoTech,Santiago,Chile,BI Developer,Go,Django,Senior,,Remoto,2022/11/08
+JOB-100322,Lambda Solutions,AUSTIN,USA,Fullstack Developer,Kotlin,FastAPI,Junior,US$ 78.527,Remoto,19-02-2025
+JOB-100323,CyberShield,Bogota,Colombia,ML Engineer,TypeScript,.NET,Mid,USD 10364,Remoto,25/04/2024
+JOB-100324,Vertex AI,Monterrey,México,Data Analyst,PHP,Spark,Senior,"$20,818",Híbrido,11-01-2022
+JOB-100325,Atlas Systems,Puebla,México,Data Analyst,Java,React,Junior,US$ 15.687,Híbrido,16/08/2024
+JOB-100326,CodeWorks,Seattle,USA,Cybersecurity Analyst,Go,Node.js,Junior,$75382,Remoto,31/12/2024
+JOB-100327,DataNova,Santiago,Chile,Data Analyst,Python,FastAPI,Senior,$26382,Remoto,17/12/2022
+JOB-100328,DataNova,Cali,Colombia,DevOps Engineer,R,Laravel,Senior,"$19,750",Remoto,21/09/2025
+JOB-100329,CodeWorks,???,Colombia,Backend Developer,Java,Laravel,Mid,US$ 13.395,Remoto,2023/09/14
+JOB-100330,Orion Cloud,córdoba,Argentina,BI Developer,JavaScript,Django,Mid,US$ 19.277,Remoto,13/11/2024
+JOB-100331,Vertex AI,Valencia,España,ML Engineer,C#,React,Junior,USD 29213,Remoto,2024-09-09
+JOB-100332,Lambda Solutions,CDMX,México,Data Analyst,TypeScript,Spark,Junior,USD 14899,Remoto,2025/08/26
+JOB-100333,RocketSoft,Cusco,Perú,MLOps Engineer,Kotlin,Spring,Mid,USD 16145,Presencial,12/08/2024
+JOB-100334,BluePixel,MADRID,España,Data Engineer,TypeScript,Vue,Senior,USD 42440,Remoto,07/05/2023
+JOB-100335,NeoTech,Barranquilla,Colombia,Cloud Architect,TypeScript,Spark,Senior,$17612,Presencial,2025/10/30
+JOB-100336,QuantumWare,Arequipa,Perú,Data Analyst,C#,Spark,Senior,USD 19760,Híbrido,2022/01/10
+JOB-100337,DataNova,Valparaíso,Chile,Data Analyst,Kotlin,.NET,Mid,"$26,465",Presencial,2023-03-14
+JOB-100338,Orion Cloud,Cali ,Colombia,BI Developer,Python,Angular,Mid,US$ 9.405,Híbrido,15/09/2025
+JOB-100339,CodeWorks,San Francisco,USA,DevOps Engineer,JavaScript,.NET,Mid,"$93,586",Híbrido,03-06-2025
+JOB-100340,Lambda Solutions,rosario,Argentina,Cybersecurity Analyst,TypeScript,React,Junior,USD 15674,Remoto,19-05-2023
+JOB-100341,Atlas Systems,Concepción,Chile,Data Engineer,PHP,Spark,Junior,US$ 25.347,Remoto,03-06-2023
+JOB-100342,Lambda Solutions,Seattle,USA,Cloud Architect,Go,Angular,Mid,"$79,832",Presencial,17-10-2024
+JOB-100343,DataNova,Córdoba,Argentina,Data Scientist,Scala,Flask,Senior,US$ 22.057,Presencial,28-05-2025
+JOB-100344,Lambda Solutions,Guadalajara,México,Cloud Architect,JavaScript,Django,Mid,16255,Híbrido,2022/12/22
+JOB-100345,NeoTech,Valparaíso,Chile,Frontend Developer,Swift,Django,Mid,"$20,786",Híbrido,2024/01/08
+JOB-100346,RocketSoft,???,México,Data Scientist,Swift,Node.js,Junior,$13126,Presencial,2022/12/16
+JOB-100347,BluePixel,SEATTLE,USA,DevOps Engineer,PHP,Spring,Mid,100996,Híbrido,2024-04-05
+JOB-100348,Vertex AI,New York,USA,DevOps Engineer,PHP,.NET,Mid,106000,Híbrido,23-10-2024
+JOB-100349,Lambda Solutions,Rosario,Argentina,Data Scientist,JavaScript,Angular,Senior,"$34,970",Remoto,18-07-2023
+JOB-100350,QuantumWare,Seattle,USA,Cybersecurity Analyst,Go,Spark,Junior,"$67,601",Presencial,2025/03/06
+JOB-100351,Vertex AI,Cartagena,Colombia,Frontend Developer,C#,Flask,Senior,US$ 23.449,Presencial,2022/08/16
+JOB-100352,IA Factory,Rosario,Argentina,Data Engineer,Scala,Flask,Mid,"$25,946",Híbrido,2024/10/20
+JOB-100353,IA Factory,Valparaíso,Chile,Data Engineer,JavaScript,Vue,Senior,33931,Remoto,2023/03/13
+JOB-100354,GreenBit,Barcelona,España,Data Analyst,Swift,Django,Senior,$34914,Remoto,2025/03/20
+JOB-100355,DevOpsLab,Santiago,Chile,ML Engineer,C#,Spark,Junior,$19750,Presencial,21-08-2025
+JOB-100356,DevOpsLab,Madrid,España,MLOps Engineer,R,Laravel,Mid,"$38,413",Presencial,13/03/2023
+JOB-100357,Vertex AI,Bucaramanga,Colombia,MLOps Engineer,TypeScript,Flask,Mid,,Híbrido,2023-03-24
+JOB-100358,DevOpsLab,Rosario,Argentina,Cloud Architect,Go,Vue,Junior,US$ 16.177,Remoto,06-01-2025
+JOB-100359,NeoTech,,Chile,Frontend Developer,Scala,Node.js,Mid,"$24,249",Remoto,2023-07-31
+JOB-100360,IA Factory,New York,USA,Data Scientist,Swift,Angular,Mid,USD 83803,Presencial,2022-07-03
+JOB-100361,GreenBit,Valparaíso,Chile,Backend Developer,Scala,Django,Mid,USD 27349,Remoto,07-08-2025
+JOB-100362,GreenBit,Monterrey,México,Cloud Architect,Scala,Laravel,Mid,$20714,Híbrido,2022/12/06
+JOB-100363,CloudForge,Lima,Perú,Data Engineer,Swift,Django,Mid,16687,Híbrido,2023/02/17
+JOB-100364,DataNova,San Francisco,USA,Data Engineer,TypeScript,Django,Junior,USD 78616,Presencial,29/12/2023
+JOB-100365,Lambda Solutions,Barcelona,España,Fullstack Developer,Go,Flask,Junior,"$27,414",Remoto,2024-07-20
+JOB-100366,DevOpsLab,Austin,USA,Fullstack Developer,Kotlin,FastAPI,Junior,USD 67032,Remoto,2024/12/17
+JOB-100367,SoftSmart,Monterrey,México,Fullstack Developer,Go,Spark,Junior,$14571,Presencial,26/02/2024
+JOB-100368,GreenBit,Puebla,México,ML Engineer,JavaScript,Django,Junior,$15530,Híbrido,30/03/2022
+JOB-100369,CloudForge,Córdoba,Argentina,Fullstack Developer,PHP,Laravel,Senior,$25634,Remoto,14/05/2023
+JOB-100370,QuantumWare,Puebla,México,Data Analyst,Java,Laravel,Junior,$9618,Remoto,2025-03-13
+JOB-100371,IA Factory,Puebla,México,DevOps Engineer,Scala,Spark,Senior,$27414,Presencial,2022-10-18
+JOB-100372,QuantumWare,Rosario,Argentina,Data Analyst,C#,React,Junior,"$12,168",Presencial,2025-08-19
+JOB-100373,SoftSmart,Buenos Aires,Argentina,Data Scientist,Python,FastAPI,Junior,"$16,292",Presencial,01-04-2022
+JOB-100374,DevOpsLab,cusco,Perú,Cloud Architect,Python,FastAPI,Junior,US$ 18.242,Presencial,2022/11/30
+JOB-100375,QuantumWare,Madrid,España,Data Scientist,Java,Django,Senior,USD 53065,Presencial,2022/04/22
+JOB-100376,DataNova,Cusco,Perú,Cybersecurity Analyst,C#,Django,Junior,11830,Remoto,08/09/2022
+JOB-100377,CyberShield,new york,USA,BI Developer,Java,Vue,Senior,"$103,849",Remoto,2022/07/03
+JOB-100378,BluePixel,Valparaíso,Chile,Frontend Developer,JavaScript,FastAPI,Senior,US$ 41.144,Remoto,2022-06-03
+JOB-100379,SoftSmart,Concepción,Chile,Cybersecurity Analyst,R,FastAPI,Mid,24936,Remoto,2022-05-01
+JOB-100380,DevOpsLab,Seattle,USA,DevOps Engineer,Python,Spring,Senior,US$ 143.767,Híbrido,2023/09/08
+JOB-100381,QuantumWare,Sevilla,España,Data Analyst,JavaScript,FastAPI,Junior,USD 34623,Híbrido,2023-05-27
+JOB-100382,DataNova,arequipa,Perú,Fullstack Developer,C#,Vue,Mid,US$ 17.867,Híbrido,12/06/2022
+JOB-100383,Lambda Solutions,Cartagena ,Colombia,DevOps Engineer,Scala,Node.js,Mid,11444,Remoto,2023-03-10
+JOB-100384,NeoTech,Barcelona,España,DevOps Engineer,Swift,Spark,Junior,26080,Presencial,17-06-2023
+JOB-100385,IA Factory,Monterrey,México,BI Developer,Kotlin,Laravel,Senior,US$ 13.548,Híbrido,2023-06-11
+JOB-100386,SoftSmart,Barcelona,España,MLOps Engineer,Go,Laravel,Senior,US$ 41.086,Presencial,2024/03/12
+JOB-100387,CloudForge,Medellín,Colombia,Cybersecurity Analyst,Python,Flask,Mid,$11874,Presencial,2024/11/11
+JOB-100388,Orion Cloud,Córdoba,Argentina,ML Engineer,Java,Angular,Mid,"$19,474",Híbrido,14-07-2022
+JOB-100389,SoftSmart,Lima,Perú,Data Scientist,R,React,Junior,$15271,Híbrido,2025-07-03
+JOB-100390,CloudForge,Valparaíso,Chile,Data Analyst,JavaScript,Spark,Senior,US$ 34.334,Remoto,22-10-2022
+JOB-100391,CodeWorks,Concepción,Chile,DevOps Engineer,Go,Spark,Junior,$20478,Híbrido,2022/01/31
+JOB-100392,DevOpsLab,Guadalajara,México,Fullstack Developer,PHP,Vue,Senior,USD 28177,Híbrido,21/01/2024
+JOB-100393,CyberShield,lima,Perú,Backend Developer,JavaScript,Angular,Mid,"$15,610",Remoto,2024/02/26
+JOB-100394,RocketSoft,Sevilla,España,Frontend Developer,Python,Django,Junior,USD 29090,Híbrido,02-03-2022
+JOB-100395,CyberShield,Buenos Aires,Argentina,Data Analyst,Kotlin,Vue,Senior,USD 21249,Híbrido,22/12/2022
+JOB-100396,CodeWorks,Seattle,USA,Data Analyst,C#,Flask,Mid,USD 108863,Presencial,2022-04-28
+JOB-100397,RocketSoft,Arequipa ,Perú,Data Engineer,C#,Laravel,Senior,USD 25345,Presencial,25/04/2022
+JOB-100398,Lambda Solutions,Seattle,USA,Backend Developer,Java,Flask,Mid,$101979,Presencial,2022-09-27
+JOB-100399,Lambda Solutions,???,Perú,Data Analyst,C#,Angular,Senior,US$ 31.030,Híbrido,2024/09/13
+JOB-100400,DataNova,,España,MLOps Engineer,Scala,Vue,Junior,$35322,Presencial,20/08/2025
+JOB-100401,DevOpsLab,Arequipa,Perú,MLOps Engineer,PHP,Spring,Mid,17837,Presencial,25/08/2025
+JOB-100402,DataNova,CDMX,México,BI Developer,Kotlin,Flask,Mid,USD 20126,Remoto,2023/09/16
+JOB-100403,CloudForge,Cali,Colombia,DevOps Engineer,Python,Spark,Junior,USD 7538,Remoto,2024/09/04
+JOB-100404,RocketSoft,Puebla ,México,MLOps Engineer,C#,Laravel,Junior,US$ 15.337,Híbrido,2023/04/09
+JOB-100405,IA Factory,Cartagena,Colombia,Fullstack Developer,R,Spark,Senior,17150,Remoto,01/01/2022
+JOB-100406,Atlas Systems,Concepción,Chile,BI Developer,Kotlin,FastAPI,Senior,"$26,504",Remoto,2025-02-25
+JOB-100407,GreenBit,Valparaíso,Chile,ML Engineer,JavaScript,Vue,Junior,US$ 24.011,Remoto,25-04-2023
+JOB-100408,Orion Cloud,Guadalajara,México,DevOps Engineer,Go,Laravel,Senior,US$ 22.538,Presencial,2024-04-15
+JOB-100409,CyberShield,Lima,Perú,Data Scientist,Go,Flask,Mid,$19844,Remoto,20-12-2024
+JOB-100410,CyberShield,Concepción,Chile,Cloud Architect,C#,FastAPI,Senior,USD 32795,Presencial,17/02/2025
+JOB-100411,Atlas Systems,San Francisco,USA,BI Developer,R,Spring,Senior,152821,Presencial,2022-05-31
+JOB-100412,RocketSoft,Córdoba,Argentina,Backend Developer,Scala,Node.js,Junior,$19149,Híbrido,27/10/2023
+JOB-100413,CloudForge,Guadalajara,México,Backend Developer,Swift,.NET,Mid,$15758,Híbrido,20-09-2025
+JOB-100414,DevOpsLab,Bogotá,Colombia,Backend Developer,Scala,React,Mid,USD 9245,Presencial,2024-05-11
+JOB-100415,Orion Cloud,Seattle,USA,Fullstack Developer,TypeScript,Vue,Mid,"$93,127",Presencial,06/02/2022
+JOB-100416,CyberShield,Guadalajara,México,MLOps Engineer,Go,Vue,Senior,US$ 28.408,Híbrido,2023/09/09
+JOB-100417,CloudForge,Medellín,Colombia,BI Developer,Kotlin,Spark,Senior,US$ 15.864,Presencial,2025/02/22
+JOB-100418,DataNova,???,México,ML Engineer,Java,React,Junior,US$ 13.074,Remoto,2022-02-09
+JOB-100419,CloudForge,Cartagena,Colombia,Backend Developer,JavaScript,FastAPI,Mid,"$12,878",Híbrido,2024/09/07
+JOB-100420,CloudForge,CARTAGENA,Colombia,Frontend Developer,JavaScript,Angular,Junior,USD 7000,Remoto,2023/11/05
+JOB-100421,DevOpsLab,Lima,Perú,Backend Developer,TypeScript,Vue,Junior,"$12,964",Híbrido,2023-08-28
+JOB-100422,CloudForge,Guadalajara,México,Cloud Architect,Java,Flask,Senior,$19969,Híbrido,2023-04-19
+JOB-100423,RocketSoft,???,México,BI Developer,R,Spring,Junior,USD 15036,Híbrido,2023/05/09
+JOB-100424,Lambda Solutions,MADRID,España,Data Engineer,Python,Django,Junior,27042,Remoto,03-08-2025
+JOB-100425,IA Factory,Guadalajara ,México,Backend Developer,Go,Spark,Mid,"$14,989",Híbrido,2025/10/27
+JOB-100426,BluePixel,New York,USA,Data Scientist,TypeScript,Node.js,Junior,USD 71966,Remoto,25/12/2022
+JOB-100427,SoftSmart,Valparaíso,Chile,Fullstack Developer,Java,Vue,Senior,US$ 27.290,Presencial,2023-09-29
+JOB-100428,CloudForge,Cali,Colombia,BI Developer,R,.NET,Mid,$11976,Híbrido,14-10-2023
+JOB-100429,GreenBit,Cusco,Perú,Data Engineer,PHP,Vue,Mid,16157,Remoto,2024-07-22
+JOB-100430,Atlas Systems,Barranquilla,Colombia,ML Engineer,Python,Vue,Junior,$9056,Híbrido,2025-09-08
+JOB-100431,Lambda Solutions,???,Argentina,DevOps Engineer,Swift,Flask,Junior,$14278,Remoto,2022/03/07
+JOB-100432,DevOpsLab,puebla,México,Cybersecurity Analyst,Java,Flask,Mid,"$20,463",Híbrido,2024/05/22
+JOB-100433,NeoTech,Seattle,USA,Cloud Architect,Swift,Flask,Junior,"$74,759",Presencial,15-08-2023
+JOB-100434,SoftSmart,Cartagena,Colombia,Data Engineer,JavaScript,React,Mid,$12944,Remoto,07-06-2023
+JOB-100435,DevOpsLab,Valencia,España,BI Developer,PHP,Node.js,Junior,USD 32587,Remoto,01/01/2022
+JOB-100436,DataNova,San Francisco,USA,Frontend Developer,TypeScript,Django,Junior,66809,Híbrido,2023/09/10
+JOB-100437,QuantumWare,Bucaramanga,Colombia,DevOps Engineer,Go,Flask,Junior,$10420,Presencial,17/04/2022
+JOB-100438,BluePixel,Córdoba,Argentina,Frontend Developer,Swift,Spark,Mid,21047,Remoto,2025/01/09
+JOB-100439,CodeWorks,Cusco,Perú,Fullstack Developer,JavaScript,Node.js,Junior,USD 15077,Presencial,2024/07/22
+JOB-100440,Orion Cloud,CDMX,México,Data Engineer,C#,Node.js,Mid,"$16,923",Remoto,22/02/2022
+JOB-100441,CloudForge,Sevilla,España,Cloud Architect,Python,React,Mid,"$35,566",Híbrido,27-09-2023
+JOB-100442,Vertex AI,Cartagena,Colombia,Data Engineer,Go,Node.js,Senior,US$ 18.779,Híbrido,02-07-2024
+JOB-100443,NeoTech,New York,USA,Backend Developer,C#,Node.js,Senior,US$ 176.530,Híbrido,25-04-2025
+JOB-100444,DevOpsLab,Miami,USA,DevOps Engineer,Java,Spring,Senior,"$116,438",Remoto,2023-04-01
+JOB-100445,GreenBit,BARRANQUILLA,Colombia,ML Engineer,R,Spark,Senior,USD 18146,Híbrido,21/11/2024
+JOB-100446,DataNova,Cusco,Perú,MLOps Engineer,JavaScript,Laravel,Mid,$17011,Remoto,2022-02-05
+JOB-100447,Vertex AI,Cartagena,Colombia,Data Scientist,Python,React,Senior,USD 18777,Presencial,05/08/2024
+JOB-100448,DevOpsLab,Buenos Aires,Argentina,ML Engineer,Scala,FastAPI,Junior,USD 17051,Presencial,20/07/2023
+JOB-100449,Orion Cloud,Barcelona,España,Data Scientist,Java,Django,Mid,USD 44042,Presencial,08/06/2023
+JOB-100450,IA Factory,Concepción,Chile,Backend Developer,TypeScript,Spring,Junior,"$11,615",Presencial,01/05/2025
+JOB-100451,GreenBit,Buenos Aires,Argentina,Cybersecurity Analyst,Python,FastAPI,Junior,US$ 14.557,Remoto,18-10-2023
+JOB-100452,SoftSmart,Guadalajara ,México,Cybersecurity Analyst,PHP,.NET,Senior,"$21,464",Híbrido,20-06-2025
+JOB-100453,IA Factory,Guadalajara,México,MLOps Engineer,C#,FastAPI,Junior,USD 14166,Presencial,30/08/2023
+JOB-100454,Orion Cloud,Rosario,Argentina,BI Developer,Kotlin,FastAPI,Mid,"$17,828",Presencial,24/10/2022
+JOB-100455,Vertex AI,Cali,Colombia,Data Engineer,R,Flask,Mid,USD 10846,Híbrido,13/03/2024
+JOB-100456,DataNova,Sevilla,España,Data Scientist,Kotlin,Node.js,Senior,$58641,Remoto,2025-02-09
+JOB-100457,DevOpsLab,Arequipa,Perú,MLOps Engineer,PHP,Spark,Mid,23135,Híbrido,17-11-2022
+JOB-100458,BluePixel,Seattle,USA,Data Analyst,JavaScript,Django,Senior,"$76,664",Híbrido,2024-12-03
+JOB-100459,Lambda Solutions,Seattle,USA,MLOps Engineer,Kotlin,Flask,Mid,US$ 90.576,Remoto,29-01-2024
+JOB-100460,DataNova,puebla,México,Frontend Developer,PHP,Angular,Mid,US$ 18.842,Remoto,02/05/2022
+JOB-100461,NeoTech,Bucaramanga,Colombia,Backend Developer,Python,.NET,Mid,$12008,Remoto,2025-02-02
+JOB-100462,DevOpsLab,Rosario,Argentina,DevOps Engineer,C#,Django,Senior,$26550,Presencial,03/01/2023
+JOB-100463,CodeWorks,Bogotá,Colombia,Data Analyst,Python,Spring,Junior,US$ 7.651,Remoto,06/08/2024
+JOB-100464,SoftSmart,New York,USA,BI Developer,PHP,Spark,Junior,"$65,253",Híbrido,11-03-2024
+JOB-100465,NeoTech,guadalajara,México,Cloud Architect,Python,Spark,Senior,USD 27940,Híbrido,2025-07-06
+JOB-100466,CodeWorks,Córdoba,Argentina,Cloud Architect,Swift,Laravel,Junior,$18581,Presencial,21/03/2024
+JOB-100467,DevOpsLab,Madrid,España,Cloud Architect,JavaScript,.NET,Junior,USD 30840,Híbrido,28/04/2024
+JOB-100468,GreenBit,Monterrey,México,Fullstack Developer,Kotlin,Laravel,Senior,$22039,Híbrido,2023-03-09
+JOB-100469,Lambda Solutions,Cusco,Perú,Fullstack Developer,Scala,Vue,Mid,$18258,Híbrido,19-06-2022
+JOB-100470,CodeWorks,Córdoba,Argentina,ML Engineer,R,Flask,Senior,USD 26991,Presencial,2022-01-09
+JOB-100471,DevOpsLab,Valparaíso,Chile,Data Analyst,R,Angular,Junior,US$ 21.636,Remoto,2024/07/08
+JOB-100472,RocketSoft,Valencia,España,Data Engineer,Go,React,Junior,$30939,Remoto,06-11-2024
+JOB-100473,Atlas Systems,Sevilla,España,Cloud Architect,Scala,Node.js,Mid,US$ 34.455,Presencial,2022/10/24
+JOB-100474,DevOpsLab,Miami ,USA,Fullstack Developer,Scala,.NET,Junior,$78173,Remoto,2022-06-27
+JOB-100475,CodeWorks,Madrid,España,Backend Developer,Kotlin,Laravel,Mid,31277,Presencial,15/01/2023
+JOB-100476,CyberShield,san francisco,USA,MLOps Engineer,JavaScript,Vue,Mid,"$106,685",Híbrido,2023/04/04
+JOB-100477,CodeWorks,Lima,Perú,Backend Developer,JavaScript,Laravel,Mid,$21192,Remoto,21-07-2022
+JOB-100478,Lambda Solutions,Sevilla,España,MLOps Engineer,Python,.NET,Junior,USD 25026,Híbrido,2022-11-25
+JOB-100479,QuantumWare,Córdoba,Argentina,ML Engineer,JavaScript,FastAPI,Mid,US$ 21.263,Presencial,2024/10/15
+JOB-100480,CyberShield,Rosario,Argentina,Fullstack Developer,R,Flask,Junior,"$13,620",Híbrido,29/03/2025
+JOB-100481,DataNova,Seattle,USA,Fullstack Developer,C#,FastAPI,Junior,USD 88217,Híbrido,22/07/2025
+JOB-100482,IA Factory,Austin,USA,Fullstack Developer,C#,Laravel,Junior,USD 86306,Presencial,2025-04-16
+JOB-100483,SoftSmart,concepción,Chile,Cybersecurity Analyst,Java,React,Senior,$33791,Presencial,2022/08/15
+JOB-100484,SoftSmart,New York,USA,MLOps Engineer,TypeScript,Spark,Junior,USD 87342,Híbrido,2023-10-04
+JOB-100485,Vertex AI,cartagena,Colombia,Data Engineer,TypeScript,Vue,Junior,$8979,Remoto,28/07/2022
+JOB-100486,Atlas Systems,Córdoba,Argentina,BI Developer,Swift,Node.js,Senior,,Remoto,06-05-2025
+JOB-100487,Atlas Systems,Cusco,Perú,Cybersecurity Analyst,JavaScript,.NET,Mid,US$ 16.464,Remoto,25-05-2024
+JOB-100488,Vertex AI,miami,USA,Cybersecurity Analyst,JavaScript,Node.js,Mid,USD 92992,Remoto,2022-11-02
+JOB-100489,CyberShield,Santiago,Chile,ML Engineer,Go,Vue,Senior,33302,Híbrido,2025-01-18
+JOB-100490,NeoTech,Monterrey,México,DevOps Engineer,JavaScript,React,Junior,USD 14733,Híbrido,21-04-2025
+JOB-100491,RocketSoft,Rosario,Argentina,Data Scientist,C#,Spark,Junior,US$ 14.523,Presencial,06/01/2023
+JOB-100492,CloudForge,Barranquilla,Colombia,Fullstack Developer,Java,Node.js,Senior,18727,Presencial,04/07/2024
+JOB-100493,IA Factory,Sevilla,España,Frontend Developer,R,Node.js,Junior,$35055,Híbrido,08/09/2022
+JOB-100494,CodeWorks,Bogotá,Colombia,Frontend Developer,Swift,Django,Mid,"$11,107",Presencial,08/04/2024
+JOB-100495,SoftSmart,Medellín,Colombia,DevOps Engineer,Go,Spark,Mid,US$ 9.431,Presencial,02-04-2023
+JOB-100496,GreenBit,???,USA,Data Analyst,Swift,Spark,Mid,US$ 105.315,Presencial,08/11/2023
+JOB-100497,GreenBit,bogotá,Colombia,Data Engineer,R,Flask,Junior,"$11,239",Híbrido,2025-07-11
+JOB-100498,RocketSoft,Rosario,Argentina,Frontend Developer,C#,Flask,Senior,US$ 27.314,Remoto,21-04-2025
+JOB-100499,CloudForge,Madrid,España,Cloud Architect,R,Spring,Senior,$42933,Presencial,2022-06-03
+JOB-100500,NeoTech,AUSTIN,USA,Data Scientist,C#,Laravel,Senior,$138321,Híbrido,22/07/2023
+JOB-100501,Orion Cloud,Concepción,Chile,ML Engineer,Python,Spring,Junior,24574,Presencial,2022/11/15
+JOB-100502,CyberShield,MEDELLÍN,Colombia,DevOps Engineer,Java,Spark,Junior,$7000,Remoto,2023/09/19
+JOB-100503,Orion Cloud,???,USA,MLOps Engineer,TypeScript,Vue,Junior,"$81,448",Híbrido,2022/09/16
+JOB-100504,NeoTech,CDMX,México,BI Developer,Go,,Senior,"$24,014",Remoto,2024/12/25
+JOB-100505,Orion Cloud,Sevilla,España,Fullstack Developer,Swift,FastAPI,Junior,USD 26498,Híbrido,2022/03/07
+JOB-100506,SoftSmart,Seattle,USA,Data Engineer,Kotlin,Node.js,Senior,$142939,Presencial,01/09/2025
+JOB-100507,GreenBit,New York,USA,MLOps Engineer,Scala,Angular,Senior,US$ 107.088,Híbrido,09-01-2024
+JOB-100508,BluePixel,Bucaramanga,Colombia,Backend Developer,PHP,Node.js,Mid,US$ 12.534,Híbrido,2022/07/29
+JOB-100509,RocketSoft,Arequipa,Perú,Data Scientist,JavaScript,Node.js,Mid,21545,Híbrido,12/11/2022
+JOB-100510,Vertex AI,New York,USA,Frontend Developer,Python,Spark,Junior,US$ 78.014,Híbrido,18/05/2024
+JOB-100511,Vertex AI,Rosario,Argentina,Cybersecurity Analyst,Java,Flask,Mid,US$ 17.371,Remoto,13-03-2024
+JOB-100512,DataNova,San Francisco,USA,Data Engineer,PHP,Flask,Mid,"$69,644",Remoto,11/02/2022
+JOB-100513,SoftSmart,Concepción,Chile,Data Engineer,C#,React,Mid,USD 20192,Remoto,2025/03/16
+JOB-100514,CloudForge,Puebla,México,Cybersecurity Analyst,Kotlin,Flask,Junior,US$ 10.422,Híbrido,01/02/2022
+JOB-100515,QuantumWare,???,USA,Backend Developer,Scala,.NET,Junior,"$94,235",Remoto,2024/11/30
+JOB-100516,RocketSoft,Cordoba,Argentina,Cloud Architect,Python,Django,Senior,USD 26952,Remoto,12-05-2025
+JOB-100517,QuantumWare,Buenos Aires,Argentina,ML Engineer,Java,Angular,Senior,US$ 23.610,Presencial,2022-01-05
+JOB-100518,CloudForge,,Argentina,ML Engineer,PHP,Django,Mid,US$ 16.105,Presencial,25/01/2024
+JOB-100519,RocketSoft,Guadalajara,México,Data Analyst,PHP,Angular,Senior,"$21,165",Híbrido,2025/05/17
+JOB-100520,CloudForge,???,España,BI Developer,PHP,Flask,Mid,USD 36085,Remoto,25/11/2023
+JOB-100521,Vertex AI,Barcelona,España,Backend Developer,R,Django,Junior,"$24,551",Híbrido,2024/04/11
+JOB-100522,Orion Cloud,Buenos Aires,Argentina,ML Engineer,PHP,Django,Junior,USD 20023,Presencial,2024-04-02
+JOB-100523,RocketSoft,Barcelona,España,Backend Developer,Swift,Spring,Junior,26991,Presencial,24/10/2024
+JOB-100524,IA Factory,Concepción ,Chile,MLOps Engineer,Swift,Node.js,Mid,US$ 22.065,Presencial,2025-06-16
+JOB-100525,BluePixel,Concepción,Chile,Frontend Developer,Scala,React,Senior,$36615,Presencial,17/10/2023
+JOB-100526,Vertex AI,Lima,Perú,Cloud Architect,Kotlin,,Junior,USD 17533,Remoto,2025-06-07
+JOB-100527,DevOpsLab,Bogotá,Colombia,Frontend Developer,Java,Spring,Senior,USD 20136,Híbrido,28-06-2022
+JOB-100528,IA Factory,SANTIAGO,Chile,Backend Developer,PHP,Spark,Mid,23170,Remoto,2022-05-28
+JOB-100529,CyberShield,Austin,USA,Data Scientist,JavaScript,Angular,Senior,USD 138095,Remoto,2024/06/20
+JOB-100530,DataNova,Bucaramanga,Colombia,Data Scientist,Go,React,Mid,"$12,268",Híbrido,16-01-2025
+JOB-100531,Orion Cloud,,España,Backend Developer,C#,Angular,Mid,US$ 41.020,Híbrido,04/04/2022
+JOB-100532,Orion Cloud,???,Chile,Fullstack Developer,Kotlin,Vue,Mid,"$25,958",Presencial,02-01-2024
+JOB-100533,Vertex AI,Santiago,Chile,Cloud Architect,Scala,.NET,Junior,$17168,Híbrido,03/11/2024
+JOB-100534,SoftSmart,Lima,Perú,MLOps Engineer,C#,Node.js,Senior,"$20,436",Presencial,06-09-2022
+JOB-100535,SoftSmart,San Francisco,USA,Fullstack Developer,R,Django,Mid,97503,Presencial,2022/12/15
+JOB-100536,CyberShield,Cusco,Perú,MLOps Engineer,R,FastAPI,Mid,USD 14804,Remoto,26/07/2022
+JOB-100537,DevOpsLab,córdoba,Argentina,Fullstack Developer,C#,Spark,Mid,US$ 24.089,Presencial,28/03/2025
+JOB-100538,SoftSmart,lima,Perú,Cloud Architect,Scala,Vue,Mid,USD 18107,Híbrido,2022-03-20
+JOB-100539,SoftSmart,Santiago,Chile,Frontend Developer,Scala,Laravel,Junior,$16921,Remoto,2024-09-09
+JOB-100540,IA Factory,Concepción,Chile,Data Engineer,Go,Spring,Mid,"$23,793",Presencial,14/04/2022
+JOB-100541,CloudForge,Buenos Aires,Argentina,Frontend Developer,Go,Flask,Mid,"$18,478",Híbrido,2023/04/03
+JOB-100542,GreenBit,New York,USA,Data Analyst,C#,Django,Junior,"$74,503",Remoto,07/04/2023
+JOB-100543,Lambda Solutions,Buenos Aires,Argentina,DevOps Engineer,R,Spark,Senior,31972,Presencial,14-11-2024
+JOB-100544,RocketSoft,CDMX,México,Frontend Developer,JavaScript,.NET,Mid,US$ 14.100,Presencial,2023-05-17
+JOB-100545,Vertex AI,Sevilla,España,DevOps Engineer,Python,Django,Mid,USD 27354,Híbrido,2022/09/26
+JOB-100546,SoftSmart,Bucaramanga,Colombia,ML Engineer,Scala,.NET,Senior,"$17,651",Híbrido,28/10/2023
+JOB-100547,DevOpsLab,Cali,Colombia,Data Scientist,Scala,Flask,Mid,$11680,Remoto,2022-07-07
+JOB-100548,BluePixel,Rosario,Argentina,Data Scientist,PHP,Spring,Senior,"$28,685",Remoto,30-08-2022
+JOB-100549,Orion Cloud,Buenos Aires,Argentina,DevOps Engineer,Java,.NET,Junior,$17066,Híbrido,2024/11/29
+JOB-100550,CodeWorks,Puebla,México,MLOps Engineer,Kotlin,Angular,Junior,USD 14008,Híbrido,09/11/2022
+JOB-100551,Atlas Systems,Buenos Aires ,Argentina,Backend Developer,Java,Vue,Junior,17919,Presencial,13-09-2023
+JOB-100552,CloudForge,Concepción,Chile,Data Analyst,Java,.NET,Mid,US$ 21.651,Híbrido,17-09-2022
+JOB-100553,DataNova,Bogotá,Colombia,ML Engineer,Swift,React,Senior,USD 16962,Remoto,17-08-2023
+JOB-100554,NeoTech,Cartagena,Colombia,Fullstack Developer,Python,Laravel,Senior,$14706,Híbrido,2025-05-08
+JOB-100555,CyberShield,Monterrey,México,DevOps Engineer,Java,Laravel,Senior,US$ 20.928,Remoto,22-03-2025
+JOB-100556,Orion Cloud,Miami,USA,BI Developer,PHP,Angular,Senior,"$145,278",Híbrido,29/11/2023
+JOB-100557,Lambda Solutions,Austin,USA,Cybersecurity Analyst,Swift,Angular,Senior,$144352,Híbrido,03/05/2025
+JOB-100558,Orion Cloud,Concepcion,Chile,Frontend Developer,TypeScript,React,Junior,$14174,Remoto,2022/06/12
+JOB-100559,IA Factory,???,Argentina,Fullstack Developer,Go,Laravel,Junior,US$ 13.307,Remoto,2023-09-08
+JOB-100560,GreenBit,???,España,Data Scientist,C#,.NET,Mid,USD 39664,Presencial,2025/02/24
+JOB-100561,QuantumWare,Monterrey,México,Cybersecurity Analyst,R,React,Mid,20889,Remoto,17/06/2022
+JOB-100562,CloudForge,Arequipa,Perú,Data Engineer,Swift,Spring,Mid,16201,Híbrido,2023/11/12
+JOB-100563,IA Factory,Medellín,Colombia,Cybersecurity Analyst,Scala,Spring,Junior,USD 9335,Híbrido,2023-11-21
+JOB-100564,DevOpsLab,Arequipa,Perú,Data Engineer,Swift,React,Mid,$14183,Remoto,2024-03-19
+JOB-100565,NeoTech,Cusco,Perú,DevOps Engineer,Kotlin,Django,Mid,"$24,779",Remoto,13-04-2023
+JOB-100566,DataNova,Rosario,Argentina,BI Developer,Java,FastAPI,Senior,"$29,995",Remoto,2024/07/07
+JOB-100567,CodeWorks,???,Perú,Fullstack Developer,TypeScript,Django,Junior,$16332,Presencial,20/09/2024
+JOB-100568,DevOpsLab,???,Argentina,Cybersecurity Analyst,Kotlin,Angular,Mid,USD 21974,Presencial,2025/09/21
+JOB-100569,SoftSmart,Cartagena,Colombia,Frontend Developer,TypeScript,Spark,Mid,13679,Remoto,2023/11/14
+JOB-100570,Atlas Systems,Córdoba,Argentina,MLOps Engineer,Go,.NET,Senior,$30553,Remoto,23/06/2025
+JOB-100571,NeoTech,Guadalajara ,México,Data Engineer,Scala,,Senior,$23932,Presencial,16/11/2023
+JOB-100572,Orion Cloud,Lima,Perú,Cloud Architect,Python,Spark,Junior,US$ 16.007,Remoto,2024-07-15
+JOB-100573,RocketSoft,Buenos Aires,Argentina,Data Engineer,R,Vue,Junior,"$16,189",Presencial,21/04/2024
+JOB-100574,RocketSoft,Santiago,Chile,DevOps Engineer,R,Django,Senior,$41807,Remoto,2023/03/30
+JOB-100575,DataNova,Sevilla,España,Data Analyst,Python,.NET,Mid,US$ 33.807,Presencial,2024/02/15
+JOB-100576,QuantumWare,Barranquilla,Colombia,MLOps Engineer,Go,.NET,Senior,USD 15436,Remoto,2024-10-04
+JOB-100577,CyberShield,,Colombia,Cloud Architect,R,Vue,Senior,18466,Híbrido,04-04-2022
+JOB-100578,Atlas Systems,Miami,USA,MLOps Engineer,Python,FastAPI,Junior,"$90,587",Híbrido,2025-07-11
+JOB-100579,NeoTech,Barranquilla,Colombia,BI Developer,R,Laravel,Senior,17165,Presencial,2024/09/05
+JOB-100580,CodeWorks,Monterrey,México,Data Engineer,Go,Spark,Junior,$12860,Remoto,05/03/2022
+JOB-100581,NeoTech,Valencia,España,Data Engineer,R,React,Senior,USD 52250,Remoto,22-05-2023
+JOB-100582,QuantumWare,Cusco,Perú,Fullstack Developer,JavaScript,FastAPI,Junior,$13323,Híbrido,2022/02/08
+JOB-100583,CodeWorks,Cusco,Perú,Data Analyst,JavaScript,Django,Mid,US$ 23.121,Híbrido,2023-11-06
+JOB-100584,DevOpsLab,Barranquilla,Colombia,Frontend Developer,Swift,Django,Senior,$19064,Híbrido,05/09/2022
+JOB-100585,DevOpsLab,arequipa,Perú,Frontend Developer,C#,Django,Junior,$17131,Híbrido,2025/07/21
+JOB-100586,DevOpsLab,Barcelona,España,ML Engineer,PHP,Spark,Mid,US$ 39.718,Híbrido,31/05/2023
+JOB-100587,Vertex AI,LIMA,Perú,ML Engineer,C#,Django,Senior,US$ 23.101,Remoto,2023/09/20
+JOB-100588,BluePixel,Buenos Aires ,Argentina,MLOps Engineer,Kotlin,Vue,Junior,US$ 18.815,Remoto,28/11/2022
+JOB-100589,DataNova,Guadalajara,México,Data Analyst,Scala,.NET,Junior,US$ 17.972,Híbrido,05-07-2025
+JOB-100590,QuantumWare,Arequipa,Perú,Fullstack Developer,C#,React,Senior,$27399,Presencial,12/01/2024
+JOB-100591,CloudForge,MADRID,España,Frontend Developer,R,Angular,Mid,$37861,Híbrido,02/08/2023
+JOB-100592,RocketSoft,Barranquilla ,Colombia,Frontend Developer,R,Laravel,Junior,"$11,156",Híbrido,10-06-2023
+JOB-100593,CyberShield,Valparaíso,Chile,Backend Developer,Swift,Spark,Junior,"$18,886",Híbrido,2024/02/23
+JOB-100594,CyberShield,Barcelona,España,Cybersecurity Analyst,Scala,Flask,Mid,$42357,Híbrido,27-10-2023
+JOB-100595,BluePixel,Guadalajara,México,BI Developer,Kotlin,Laravel,Senior,$22510,Híbrido,2022/02/21
+JOB-100596,RocketSoft,,Argentina,Fullstack Developer,C#,.NET,Junior,"$13,671",Remoto,28/07/2025
+JOB-100597,SoftSmart,Sevilla,España,DevOps Engineer,PHP,Laravel,Senior,US$ 57.720,Híbrido,09/08/2022
+JOB-100598,CyberShield,Miami,USA,BI Developer,Kotlin,.NET,Senior,"$139,741",Remoto,07-07-2025
+JOB-100599,QuantumWare,Rosario,Argentina,Fullstack Developer,Kotlin,FastAPI,Junior,"$20,570",Remoto,2022/04/26
+JOB-100600,CloudForge,Rosario,Argentina,Backend Developer,C#,FastAPI,Mid,19159,Remoto,16/05/2022
+JOB-100601,CloudForge,Austin,USA,DevOps Engineer,JavaScript,Vue,Senior,"$133,467",Híbrido,02-09-2025
+JOB-100602,CodeWorks,Cusco,Perú,Data Analyst,Kotlin,Node.js,Junior,"$11,937",Híbrido,01/07/2024
+JOB-100603,Orion Cloud,San Francisco,USA,ML Engineer,JavaScript,FastAPI,Senior,"$95,707",Presencial,14/05/2022
+JOB-100604,Vertex AI,Madrid,España,MLOps Engineer,Go,Vue,Junior,US$ 22.279,Remoto,2025/06/22
+JOB-100605,Orion Cloud,Austin,USA,Data Engineer,R,Spark,Senior,USD 142239,Híbrido,2023/03/03
+JOB-100606,RocketSoft,Lima,Perú,BI Developer,PHP,.NET,Junior,11858,Presencial,21-01-2025
+JOB-100607,Lambda Solutions,Concepción,Chile,Cloud Architect,C#,.NET,Senior,"$40,915",Remoto,19/08/2024
+JOB-100608,DataNova,Barcelona,España,Data Engineer,Go,Angular,Senior,"$64,549",Presencial,02/07/2025
+JOB-100609,RocketSoft,CÓRDOBA,Argentina,BI Developer,JavaScript,React,Mid,US$ 19.143,Híbrido,31/01/2023
+JOB-100610,BluePixel,Cali,Colombia,Data Analyst,PHP,Laravel,Junior,$11988,Híbrido,08-08-2025
+JOB-100611,BluePixel,new york,USA,Data Engineer,Scala,Vue,Mid,"$98,237",Híbrido,11-02-2023
+JOB-100612,Lambda Solutions,Cartagena,Colombia,Data Scientist,Scala,Angular,Mid,US$ 14.024,Remoto,2023/03/11
+JOB-100613,Vertex AI,Córdoba ,Argentina,Fullstack Developer,Java,Vue,Junior,USD 15458,Híbrido,2023/09/17
+JOB-100614,CodeWorks,Santiago,Chile,Fullstack Developer,R,Laravel,Mid,28596,Remoto,2023/05/16
+JOB-100615,CyberShield,???,México,Backend Developer,C#,React,Junior,"$12,362",Híbrido,19-12-2023
+JOB-100616,CodeWorks,Rosario,Argentina,Backend Developer,Scala,Spark,Junior,US$ 17.494,Remoto,2023-12-05
+JOB-100617,Vertex AI,Santiago,Chile,Data Analyst,Kotlin,Spring,Senior,$32589,Presencial,29/06/2025
+JOB-100618,DevOpsLab,Buenos Aires,Argentina,Frontend Developer,C#,Laravel,Mid,US$ 19.608,Híbrido,2023/03/01
+JOB-100619,RocketSoft,Santiago,Chile,Cloud Architect,C#,React,Senior,"$38,316",Presencial,2023-04-05
+JOB-100620,DevOpsLab,Valencia,España,Data Analyst,C#,Vue,Senior,"$54,578",Híbrido,2022-08-02
+JOB-100621,QuantumWare,Miami,USA,Cloud Architect,Kotlin,Angular,Mid,"$93,940",Híbrido,2022-12-30
+JOB-100622,Vertex AI,Madrid,España,MLOps Engineer,TypeScript,.NET,Junior,US$ 33.718,Presencial,31/03/2022
+JOB-100623,RocketSoft,New York,USA,Cloud Architect,TypeScript,Spark,Mid,US$ 106.445,Presencial,2022/03/26
+JOB-100624,SoftSmart,Bucaramanga,Colombia,Data Engineer,C#,React,Junior,"$7,605",Remoto,23-09-2024
+JOB-100625,DataNova,Barranquilla,Colombia,DevOps Engineer,R,Django,Senior,$18208,Híbrido,06-10-2022
+JOB-100626,IA Factory,Valparaíso,Chile,ML Engineer,Swift,.NET,Junior,$22013,Remoto,25-08-2022
+JOB-100627,Vertex AI,Santiago,Chile,BI Developer,Java,Vue,Senior,"$31,053",Remoto,2022-02-03
+JOB-100628,Lambda Solutions,CDMX ,México,Backend Developer,Java,Django,Mid,$19041,Híbrido,06/09/2025
+JOB-100629,BluePixel,Concepción,Chile,Data Engineer,Scala,React,Junior,USD 16027,Remoto,2022/03/28
+JOB-100630,SoftSmart,Bogotá,Colombia,Fullstack Developer,Java,React,Mid,$14590,Presencial,01/12/2024
+JOB-100631,CodeWorks,Rosario,Argentina,MLOps Engineer,Go,Laravel,Junior,15429,Remoto,07-11-2023
+JOB-100632,CloudForge,Miami,USA,DevOps Engineer,C#,Vue,Senior,$131432,Híbrido,2024/01/31
+JOB-100633,CloudForge,Barranquilla,Colombia,Cloud Architect,Python,Node.js,Senior,US$ 19.817,Presencial,2022/09/03
+JOB-100634,DataNova,Valencia,España,ML Engineer,Python,Angular,Mid,"$37,186",Presencial,09-05-2023
+JOB-100635,RocketSoft,Monterrey,México,Cloud Architect,R,Flask,Junior,$15693,Presencial,29/07/2024
+JOB-100636,GreenBit,Arequipa,Perú,Data Engineer,C#,Flask,Senior,21240,Presencial,2022-09-24
+JOB-100637,DataNova,Madrid,España,DevOps Engineer,R,React,Senior,US$ 48.653,Híbrido,2023/03/22
+JOB-100638,IA Factory,Cali,Colombia,Data Engineer,Swift,Node.js,Senior,$13291,Remoto,28-05-2023
+JOB-100639,IA Factory,Buenos Aires,Argentina,MLOps Engineer,Swift,Node.js,Junior,$15500,Remoto,19/09/2023
+JOB-100640,Atlas Systems,ROSARIO,Argentina,Frontend Developer,TypeScript,Spark,Mid,$23093,Presencial,17/06/2024
+JOB-100641,IA Factory,MONTERREY,México,BI Developer,C#,FastAPI,Junior,US$ 14.882,Híbrido,30-08-2024
+JOB-100642,Vertex AI,Monterrey,México,Data Scientist,R,Spark,Mid,$20387,Híbrido,04/10/2022
+JOB-100643,Vertex AI,???,Chile,Data Engineer,Kotlin,Vue,Senior,US$ 29.612,Híbrido,2025/10/27
+JOB-100644,GreenBit,CDMX,México,ML Engineer,Java,Angular,Junior,$12492,Híbrido,10/05/2025
+JOB-100645,Atlas Systems,Madrid,España,Fullstack Developer,Scala,Django,Senior,$49484,Remoto,2025/03/05
+JOB-100646,CloudForge,Puebla,México,MLOps Engineer,TypeScript,.NET,Junior,"$15,636",Híbrido,2022/04/05
+JOB-100647,CyberShield,New York,USA,DevOps Engineer,Scala,Node.js,Senior,140110,Híbrido,2023/07/16
+JOB-100648,NeoTech,Miami ,USA,Data Scientist,Java,Laravel,Mid,94782,Híbrido,06/07/2023
+JOB-100649,BluePixel,CDMX,México,ML Engineer,TypeScript,Flask,Senior,USD 27553,Presencial,02/09/2024
+JOB-100650,GreenBit,NEW YORK,USA,BI Developer,Kotlin,Spring,Junior,$74274,Remoto,2022-02-22
+JOB-100651,DevOpsLab,Barcelona,España,Frontend Developer,Go,Flask,Senior,"$53,028",Presencial,2022/11/15
+JOB-100652,DevOpsLab,Guadalajara,México,Cloud Architect,JavaScript,FastAPI,Mid,USD 21523,Presencial,26/10/2023
+JOB-100653,CloudForge,Cusco,Perú,Cybersecurity Analyst,PHP,Laravel,Mid,US$ 16.417,Presencial,2023-06-08
+JOB-100654,Lambda Solutions,Bogotá ,Colombia,Fullstack Developer,R,Django,Senior,US$ 17.260,Híbrido,2023-10-12
+JOB-100655,Atlas Systems,San Francisco,USA,Data Engineer,Java,Node.js,Mid,"$117,970",Híbrido,2025-08-29
+JOB-100656,Lambda Solutions,New York,USA,Data Engineer,Swift,Flask,Senior,USD 135032,Presencial,2023/12/31
+JOB-100657,DevOpsLab,Barcelona,España,Data Analyst,Go,Spark,Junior,USD 33621,Remoto,2022/03/24
+JOB-100658,IA Factory,guadalajara,México,DevOps Engineer,Swift,Vue,Junior,$13089,Presencial,2024-06-24
+JOB-100659,CodeWorks,Rosario,Argentina,Backend Developer,Python,,Junior,$20695,Remoto,16-12-2024
+JOB-100660,Atlas Systems,Miami,USA,Data Scientist,C#,Spark,Mid,$62942,Remoto,16-01-2024
+JOB-100661,Orion Cloud,Valparaíso,Chile,ML Engineer,TypeScript,Laravel,Senior,US$ 29.044,Presencial,29/09/2024
+JOB-100662,RocketSoft,Bucaramanga,Colombia,Data Engineer,R,Node.js,Senior,USD 14144,Híbrido,2022-06-06
+JOB-100663,Lambda Solutions,Madrid,España,Backend Developer,Go,Spark,Mid,USD 47232,Presencial,2023/09/24
+JOB-100664,SoftSmart,Valparaíso,Chile,DevOps Engineer,Java,.NET,Junior,"$21,057",Presencial,04/03/2023
+JOB-100665,NeoTech,New York ,USA,Fullstack Developer,Python,.NET,Mid,USD 91261,Híbrido,11-10-2025
+JOB-100666,BluePixel,Puebla,México,Data Engineer,TypeScript,Spark,Senior,USD 20354,Híbrido,2022-03-24
+JOB-100667,Lambda Solutions,Cusco,Perú,ML Engineer,Scala,Vue,Junior,"$15,186",Remoto,2023/04/19
+JOB-100668,CyberShield,Seattle,USA,Fullstack Developer,Python,Laravel,Mid,$96624,Híbrido,2023/11/08
+JOB-100669,DevOpsLab,Rosario,Argentina,ML Engineer,Python,Laravel,Junior,US$ 14.336,Remoto,2024-10-24
+JOB-100670,SoftSmart,Miami,USA,DevOps Engineer,Swift,Angular,Mid,US$ 73.745,Híbrido,2025/02/22
+JOB-100671,QuantumWare,Buenos Aires,Argentina,BI Developer,Go,Django,Mid,USD 16691,Remoto,2024-01-23
+JOB-100672,NeoTech,Cartagena,Colombia,Cybersecurity Analyst,Swift,Spark,Mid,US$ 12.384,Presencial,2023/06/06
+JOB-100673,CloudForge,Monterrey,México,Data Engineer,Kotlin,FastAPI,Junior,USD 15071,Presencial,2024/08/29
+JOB-100674,SoftSmart,Cusco ,Perú,Data Analyst,Python,Vue,Senior,USD 25476,Híbrido,15-01-2023
+JOB-100675,BluePixel,Bucaramanga,Colombia,DevOps Engineer,C#,Django,Senior,16418,Híbrido,26/06/2024
+JOB-100676,DataNova,Barranquilla,Colombia,BI Developer,PHP,Node.js,Junior,"$7,053",Presencial,05-08-2022
+JOB-100677,CloudForge,CDMX,México,MLOps Engineer,C#,Flask,Junior,$14505,Híbrido,2024/06/09
+JOB-100678,IA Factory,Córdoba,Argentina,DevOps Engineer,Kotlin,Spring,Mid,USD 16902,Presencial,2025-07-08
+JOB-100679,RocketSoft,Arequipa,Perú,Data Analyst,Java,React,Senior,USD 25357,Presencial,16-10-2025
+JOB-100680,RocketSoft,Arequipa,Perú,DevOps Engineer,Scala,,Senior,$26957,Híbrido,2025-01-31
+JOB-100681,IA Factory,???,España,Fullstack Developer,PHP,React,Senior,USD 47807,Híbrido,28-10-2024
+JOB-100682,DevOpsLab,Bogotá,Colombia,Backend Developer,C#,Node.js,Mid,US$ 10.158,Remoto,04-08-2024
+JOB-100683,CloudForge,CDMX,México,BI Developer,Python,Vue,Mid,"$20,682",Remoto,06-12-2023
+JOB-100684,SoftSmart,Valparaíso,Chile,Fullstack Developer,Scala,Laravel,Junior,US$ 21.055,Remoto,2023-10-19
+JOB-100685,BluePixel,Arequipa,Perú,Data Scientist,TypeScript,Flask,Junior,$13024,Presencial,2024/06/16
+JOB-100686,DataNova,???,Chile,MLOps Engineer,TypeScript,FastAPI,Junior,"$10,999",Presencial,15-07-2025
+JOB-100687,Atlas Systems,Austin,USA,Cybersecurity Analyst,Kotlin,Django,Mid,$94299,Híbrido,09-01-2022
+JOB-100688,RocketSoft,Buenos Aires,Argentina,Data Analyst,Java,Angular,Junior,17509,Híbrido,2023-03-30
+JOB-100689,DataNova,Cusco,Perú,Data Engineer,Swift,.NET,Senior,"$29,439",Remoto,27/12/2022
+JOB-100690,Lambda Solutions,Rosario ,Argentina,Fullstack Developer,R,Django,Mid,$17966,Remoto,2023-09-15
+JOB-100691,Lambda Solutions,,México,DevOps Engineer,C#,FastAPI,Senior,USD 22769,Presencial,05/03/2024
+JOB-100692,QuantumWare,Miami,USA,Data Analyst,Java,Flask,Junior,"$70,950",Presencial,2022-06-29
+JOB-100693,DevOpsLab,Valparaíso,Chile,BI Developer,Swift,React,Senior,39399,Híbrido,2022/11/01
+JOB-100694,IA Factory,cali,Colombia,Cloud Architect,Go,Vue,Mid,9885,Híbrido,2023/09/10
+JOB-100695,DevOpsLab,Barcelona,España,Data Analyst,Java,React,Senior,USD 52299,Híbrido,2022-11-25
+JOB-100696,Vertex AI,Arequipa,Perú,DevOps Engineer,C#,FastAPI,Junior,,Remoto,2024/04/28
+JOB-100697,Lambda Solutions,Sevilla,España,ML Engineer,Python,Vue,Mid,39530,Remoto,24-08-2024
+JOB-100698,RocketSoft,santiago,Chile,ML Engineer,Java,Vue,Mid,19169,Presencial,13/01/2025
+JOB-100699,QuantumWare,Monterrey,México,Cybersecurity Analyst,Java,Spark,Junior,US$ 15.212,Remoto,2024/06/28
+JOB-100700,QuantumWare,Santiago,Chile,Frontend Developer,C#,Angular,Mid,US$ 23.137,Híbrido,21-02-2024
+JOB-100701,IA Factory,Barcelona,España,ML Engineer,JavaScript,Angular,Junior,"$29,378",Híbrido,31/12/2024
+JOB-100702,IA Factory,Austin,USA,ML Engineer,R,Flask,Mid,US$ 102.491,Remoto,2022-05-11
+JOB-100703,CyberShield,Cali,Colombia,BI Developer,TypeScript,Laravel,Junior,"$11,247",Híbrido,2024/12/20
+JOB-100704,QuantumWare,Cusco,Perú,BI Developer,R,Vue,Senior,US$ 18.785,Híbrido,24/02/2023
+JOB-100705,QuantumWare,CDMX,México,Cloud Architect,C#,.NET,Mid,$20709,Híbrido,2023/07/04
+JOB-100706,GreenBit,Madrid,España,Data Engineer,Go,Spark,Mid,US$ 41.181,Presencial,23-02-2022
+JOB-100707,BluePixel,Bogotá,Colombia,Frontend Developer,Java,FastAPI,Mid,USD 11469,Híbrido,14-12-2023
+JOB-100708,Lambda Solutions,Bucaramanga,Colombia,DevOps Engineer,TypeScript,Spring,Mid,$14527,Híbrido,2022/11/04
+JOB-100709,Lambda Solutions,lima,Perú,Data Engineer,R,FastAPI,Senior,"$25,913",Híbrido,06-04-2023
+JOB-100710,DevOpsLab,Santiago,Chile,BI Developer,Kotlin,Laravel,Senior,USD 41790,Híbrido,15/03/2022
+JOB-100711,CloudForge,Sevilla,España,Data Engineer,Go,Node.js,Mid,"$34,621",Remoto,19/07/2023
+JOB-100712,Atlas Systems,Puebla,México,ML Engineer,Kotlin,Vue,Junior,$12527,Híbrido,2024/11/01
+JOB-100713,CyberShield,Buenos Aires,Argentina,Data Analyst,PHP,FastAPI,Junior,$18939,Híbrido,12/06/2023
+JOB-100714,DevOpsLab,Rosario ,Argentina,Data Scientist,JavaScript,React,Senior,US$ 37.089,Híbrido,2024-08-17
+JOB-100715,Atlas Systems,,USA,Data Engineer,C#,Vue,Senior,$145644,Híbrido,27/07/2025
+JOB-100716,DevOpsLab,puebla,México,BI Developer,Swift,Laravel,Mid,"$20,406",Presencial,2025/01/05
+JOB-100717,CodeWorks,Córdoba,Argentina,Fullstack Developer,Kotlin,Flask,Junior,"$14,862",Presencial,21/08/2022
+JOB-100718,SoftSmart,Córdoba,Argentina,Cloud Architect,JavaScript,Flask,Mid,$16024,Remoto,2022/11/10
+JOB-100719,QuantumWare,Bogotá,Colombia,Data Scientist,TypeScript,FastAPI,Junior,"$9,274",Remoto,03/08/2022
+JOB-100720,Lambda Solutions,???,Chile,Data Analyst,Scala,Flask,Mid,USD 30626,Remoto,22/11/2024
+JOB-100721,CyberShield,Cali,Colombia,Cloud Architect,TypeScript,FastAPI,Mid,US$ 8.651,Híbrido,2022/08/06
+JOB-100722,Atlas Systems,Austin ,USA,BI Developer,Scala,Vue,Junior,US$ 70.353,Remoto,11-05-2025
+JOB-100723,SoftSmart,CDMX,México,Data Engineer,JavaScript,Django,Senior,"$17,963",Remoto,2023/06/21
+JOB-100724,CyberShield,santiago,Chile,Data Analyst,PHP,React,Senior,US$ 35.568,Presencial,2024-05-12
+JOB-100725,NeoTech,Madrid,España,ML Engineer,Scala,Django,Junior,USD 34386,Presencial,2024/03/28
+JOB-100726,CodeWorks,Buenos Aires,Argentina,BI Developer,C#,Flask,Senior,$22780,Híbrido,28-03-2025
+JOB-100727,GreenBit,valparaíso,Chile,ML Engineer,Python,Laravel,Mid,"$23,464",Remoto,2024/11/05
+JOB-100728,RocketSoft,Cali,Colombia,Cloud Architect,Scala,Flask,Mid,$14386,Presencial,03-04-2023
+JOB-100729,RocketSoft,Monterrey,México,Backend Developer,PHP,Node.js,Mid,USD 17761,Remoto,2023-09-26
+JOB-100730,DataNova,Valparaíso,Chile,Data Scientist,Scala,Angular,Mid,"$20,352",Remoto,2024/02/14
+JOB-100731,CloudForge,Medellín,Colombia,MLOps Engineer,Kotlin,Laravel,Junior,$7704,Híbrido,03-08-2025
+JOB-100732,GreenBit,New York,USA,Cloud Architect,Python,Vue,Mid,"$66,291",Híbrido,2022/01/05
+JOB-100733,SoftSmart,Valparaíso,Chile,Data Analyst,TypeScript,Django,Senior,US$ 39.059,Remoto,28-06-2022
+JOB-100734,QuantumWare,,Chile,BI Developer,Java,Spark,Senior,US$ 31.082,Presencial,06/02/2022
+JOB-100735,CyberShield,CDMX,México,MLOps Engineer,Java,Vue,Junior,US$ 16.669,Híbrido,13/10/2025
+JOB-100736,Vertex AI,Cusco,Perú,Data Scientist,Java,Flask,Senior,US$ 28.477,Presencial,2025/03/25
+JOB-100737,Lambda Solutions,cusco,Perú,ML Engineer,Kotlin,Django,Senior,$22705,Remoto,04-06-2022
+JOB-100738,RocketSoft,Barcelona,España,Data Analyst,PHP,Spring,Senior,48986,Híbrido,2025/09/18
+JOB-100739,Orion Cloud,BARCELONA,España,BI Developer,Go,.NET,Mid,US$ 42.438,Híbrido,15-01-2024
+JOB-100740,Atlas Systems,New York ,USA,Cloud Architect,Python,Angular,Senior,$135981,Remoto,2023-10-19
+JOB-100741,GreenBit,Santiago ,Chile,Cloud Architect,Scala,React,Senior,,Remoto,2025/09/19
+JOB-100742,CyberShield,Puebla,México,BI Developer,Swift,FastAPI,Mid,US$ 13.552,Presencial,21-12-2023
+JOB-100743,CloudForge,Lima,Perú,MLOps Engineer,PHP,Spring,Mid,"$20,423",Presencial,2022/11/21
+JOB-100744,NeoTech,Miami,USA,Frontend Developer,Python,.NET,Mid,USD 82526,Presencial,30-06-2023
+JOB-100745,Orion Cloud,Barcelona,España,Data Analyst,Python,Node.js,Junior,$20051,Presencial,14/06/2023
+JOB-100746,CodeWorks,Austin,USA,Fullstack Developer,Python,Laravel,Senior,"$120,692",Remoto,2022/07/22
+JOB-100747,CyberShield,Lima,Perú,Cloud Architect,C#,Node.js,Mid,"$19,139",Remoto,27/10/2025
+JOB-100748,GreenBit,Arequipa,Perú,Frontend Developer,TypeScript,Node.js,Senior,USD 33127,Remoto,2022-01-18
+JOB-100749,SoftSmart,Medellín,Colombia,Data Engineer,PHP,Vue,Mid,US$ 11.328,Remoto,15/10/2023
+JOB-100750,Vertex AI,Rosario,Argentina,ML Engineer,PHP,React,Senior,USD 22414,Híbrido,2022/05/22
+JOB-100751,SoftSmart,Bogotá,Colombia,Frontend Developer,Kotlin,Vue,Junior,$12657,Presencial,2022/12/25
+JOB-100752,Vertex AI,Rosario,Argentina,Data Analyst,Swift,React,Senior,$28672,Presencial,12-12-2024
+JOB-100753,SoftSmart,Arequipa,Perú,ML Engineer,Swift,Vue,Junior,$13835,Híbrido,2022-10-09
+JOB-100754,DevOpsLab,Arequipa,Perú,Frontend Developer,Swift,.NET,Junior,US$ 12.075,Híbrido,2024/04/04
+JOB-100755,SoftSmart,???,México,Data Engineer,JavaScript,Vue,Mid,$15289,Híbrido,2023/01/07
+JOB-100756,SoftSmart,Seattle,USA,Fullstack Developer,Swift,Vue,Junior,USD 92856,Híbrido,04-04-2023
+JOB-100757,Vertex AI,Buenos Aires,Argentina,Data Engineer,TypeScript,Spark,Mid,19187,Remoto,17/12/2023
+JOB-100758,Lambda Solutions,Buenos Aires,Argentina,Backend Developer,C#,React,Junior,USD 14709,Remoto,30-05-2022
+JOB-100759,Orion Cloud,New York,USA,Data Engineer,Java,Node.js,Mid,"$87,733",Híbrido,2022/05/09
+JOB-100760,Atlas Systems,Barcelona,España,Data Scientist,C#,Spring,Junior,$37549,Remoto,2024-06-05
+JOB-100761,SoftSmart,Valparaíso,Chile,Fullstack Developer,Go,Laravel,Mid,"$22,789",Presencial,26-10-2022
+JOB-100762,CyberShield,Arequipa,Perú,Frontend Developer,R,Laravel,Senior,$27574,Remoto,02/06/2022
+JOB-100763,DevOpsLab,Puebla,México,Cybersecurity Analyst,PHP,Django,Junior,US$ 14.974,Híbrido,2023/01/15
+JOB-100764,CodeWorks,???,Colombia,Backend Developer,C#,Spark,Junior,US$ 9.944,Presencial,2024/10/14
+JOB-100765,RocketSoft,Rosario,Argentina,Fullstack Developer,R,Vue,Junior,US$ 13.894,Híbrido,2025/04/02
+JOB-100766,IA Factory,Concepción,Chile,MLOps Engineer,R,Laravel,Junior,"$21,975",Remoto,2022-11-30
+JOB-100767,IA Factory,Concepción,Chile,Backend Developer,Scala,Laravel,Junior,,Remoto,18-04-2024
+JOB-100768,CodeWorks,Barranquilla,Colombia,Backend Developer,Kotlin,Flask,Junior,US$ 9.524,Remoto,29-03-2022
+JOB-100769,RocketSoft,Seattle,USA,BI Developer,Java,.NET,Senior,"$114,651",Híbrido,21/10/2024
+JOB-100770,CodeWorks,Lima,Perú,Data Analyst,JavaScript,Node.js,Senior,20318,Híbrido,21-08-2023
+JOB-100771,SoftSmart,Santiago,Chile,Data Scientist,Python,React,Mid,US$ 25.715,Remoto,17/03/2022
+JOB-100772,Vertex AI,Valparaíso,Chile,MLOps Engineer,R,Laravel,Junior,US$ 19.184,Presencial,03-05-2024
+JOB-100773,IA Factory,Lima,Perú,Data Engineer,Java,FastAPI,Senior,USD 24805,Híbrido,2022-07-19
+JOB-100774,IA Factory,PUEBLA,México,Fullstack Developer,Kotlin,React,Mid,USD 18031,Presencial,19/11/2024
+JOB-100775,BluePixel,Buenos Aires,Argentina,Cloud Architect,R,Django,Mid,$15573,Presencial,2024/08/21
+JOB-100776,RocketSoft,Cusco,Perú,Data Scientist,C#,Node.js,Mid,"$20,110",Remoto,2022-05-11
+JOB-100777,DevOpsLab,Valencia,España,Data Analyst,Swift,Spring,Junior,US$ 31.468,Remoto,2025/09/22
+JOB-100778,Orion Cloud,Bucaramanga,Colombia,Cybersecurity Analyst,C#,Laravel,Junior,USD 9492,Presencial,2024/07/01
+JOB-100779,IA Factory,CDMX,México,BI Developer,Swift,Spring,Mid,US$ 18.626,Remoto,20-12-2024
+JOB-100780,Orion Cloud,New York,USA,Cybersecurity Analyst,Swift,Django,Senior,,Híbrido,2024-08-29
+JOB-100781,DevOpsLab,Austin,USA,ML Engineer,Kotlin,Spring,Junior,US$ 76.609,Remoto,2023-02-16
+JOB-100782,CodeWorks,MADRID,España,ML Engineer,C#,Angular,Junior,US$ 26.522,Remoto,31-10-2024
+JOB-100783,Orion Cloud,Lima,Perú,Data Engineer,Java,FastAPI,Senior,US$ 29.608,Remoto,03/03/2025
+JOB-100784,Lambda Solutions,Santiago,Chile,Data Analyst,C#,React,Mid,"$23,375",Presencial,2024-01-12
+JOB-100785,BluePixel,Sevilla,España,Cybersecurity Analyst,PHP,Spark,Junior,$27091,Remoto,2023/04/06
+JOB-100786,DataNova,Madrid,España,ML Engineer,Scala,Vue,Mid,$29096,Presencial,2024-09-03
+JOB-100787,DevOpsLab,Guadalajara,México,Frontend Developer,TypeScript,Angular,Mid,"$18,021",Híbrido,2022/01/08
+JOB-100788,DataNova,Valparaíso,Chile,Data Engineer,Scala,Flask,Senior,US$ 29.499,Presencial,12-02-2025
+JOB-100789,RocketSoft,Barranquilla,Colombia,ML Engineer,Go,Angular,Senior,$15491,Híbrido,2023-05-24
+JOB-100790,SoftSmart,Puebla,México,Cloud Architect,R,Node.js,Senior,$26898,Híbrido,11/10/2024
+JOB-100791,Atlas Systems,Santiago,Chile,Data Engineer,Java,Vue,Senior,"$35,174",Híbrido,30-08-2023
+JOB-100792,Orion Cloud,Buenos Aires,Argentina,Data Scientist,Java,Angular,Mid,USD 23048,Híbrido,2022/09/19
+JOB-100793,GreenBit,Valparaíso,Chile,Fullstack Developer,Swift,FastAPI,Senior,USD 36601,Remoto,2022/01/10
+JOB-100794,CloudForge,Lima,Perú,Backend Developer,Swift,Spark,Senior,$23673,Presencial,2022-06-05
+JOB-100795,NeoTech,Arequipa,Perú,Data Engineer,PHP,React,Junior,US$ 13.687,Presencial,30/12/2022
+JOB-100796,RocketSoft,Barranquilla,Colombia,Data Analyst,Python,Vue,Junior,8869,Presencial,2022/09/21
+JOB-100797,Lambda Solutions,Valparaíso,Chile,Cybersecurity Analyst,TypeScript,,Senior,$38393,Híbrido,27-09-2023
+JOB-100798,CyberShield,Lima,Perú,ML Engineer,Scala,Laravel,Senior,US$ 25.281,Presencial,2023-12-31
+JOB-100799,Atlas Systems,Buenos Aires,Argentina,BI Developer,TypeScript,.NET,Mid,$18767,Híbrido,2023/08/02
+JOB-100800,CyberShield,Valencia,España,Cybersecurity Analyst,Python,React,Junior,USD 34252,Híbrido,2023/08/13
+JOB-100801,NeoTech,Seattle,USA,Backend Developer,Swift,Django,Senior,$134920,Remoto,2024/11/07
+JOB-100802,DevOpsLab,Valparaíso,Chile,Data Analyst,Java,Laravel,Junior,USD 18603,Remoto,2024-04-01
+JOB-100803,CyberShield,???,Colombia,Fullstack Developer,C#,Spring,Senior,12988,Remoto,2025/09/26
+JOB-100804,NeoTech,Cusco,Perú,DevOps Engineer,Kotlin,React,Mid,USD 19181,Remoto,20/11/2023
+JOB-100805,RocketSoft,San Francisco,USA,Data Engineer,Swift,Vue,Mid,USD 98401,Híbrido,11-01-2022
+JOB-100806,DevOpsLab,Concepción,Chile,Backend Developer,Swift,Vue,Senior,USD 35269,Presencial,2024-07-25
+JOB-100807,CodeWorks,Seattle,USA,MLOps Engineer,R,Flask,Senior,USD 124340,Remoto,2024/10/02
+JOB-100808,NeoTech,???,España,Data Engineer,Go,Node.js,Senior,$46548,Híbrido,2024-02-08
+JOB-100809,Lambda Solutions,Córdoba,Argentina,Data Engineer,JavaScript,FastAPI,Senior,$27047,Presencial,28-04-2024
+JOB-100810,Vertex AI,Medellín,Colombia,ML Engineer,PHP,Spring,Junior,US$ 9.933,Presencial,02-09-2024
+JOB-100811,GreenBit,Cali,Colombia,Backend Developer,C#,Node.js,Senior,"$16,477",Presencial,2023/08/25
+JOB-100812,QuantumWare,SANTIAGO,Chile,ML Engineer,Python,Spark,Junior,19565,Híbrido,21/07/2025
+JOB-100813,CloudForge,CDMX,México,Backend Developer,JavaScript,Spring,Junior,US$ 13.388,Presencial,16/06/2022
+JOB-100814,IA Factory,Medellín,Colombia,Data Scientist,Java,Angular,Junior,US$ 10.088,Híbrido,2025/06/26
+JOB-100815,DataNova,???,Colombia,Cybersecurity Analyst,Go,Node.js,Senior,"$17,388",Remoto,04/11/2024
+JOB-100816,SoftSmart,Madrid,España,Data Engineer,Java,Spring,Junior,US$ 26.969,Remoto,2025-01-07
+JOB-100817,CodeWorks,Buenos Aires,Argentina,Cloud Architect,Scala,Node.js,Senior,31193,Híbrido,28/11/2024
+JOB-100818,Orion Cloud,Córdoba ,Argentina,Cloud Architect,Python,React,Senior,$31323,Remoto,2023/03/29
+JOB-100819,SoftSmart,CDMX,México,MLOps Engineer,Kotlin,React,Senior,$28275,Híbrido,15/07/2024
+JOB-100820,RocketSoft,Cartagea,Colombia,MLOps Engineer,Java,Node.js,Junior,$9411,Híbrido,20/09/2025
+JOB-100821,DevOpsLab,Guadalajara,México,ML Engineer,TypeScript,Laravel,Senior,$24466,Presencial,2025/09/27
+JOB-100822,BluePixel,???,Perú,MLOps Engineer,R,Flask,Mid,"$14,870",Híbrido,2024-12-29
+JOB-100823,CloudForge,Valencia,España,Data Analyst,Swift,Laravel,Junior,US$ 33.841,Remoto,26-03-2023
+JOB-100824,Vertex AI,Madrid,España,Cybersecurity Analyst,JavaScript,.NET,Mid,$25825,Remoto,25/08/2022
+JOB-100825,IA Factory,Miami,USA,Data Analyst,Go,Laravel,Senior,USD 125200,Remoto,28/01/2023
+JOB-100826,CloudForge,Santiago,Chile,BI Developer,Kotlin,Node.js,Junior,$18980,Presencial,2025-02-03
+JOB-100827,CyberShield,New York,USA,Backend Developer,Swift,Vue,Mid,USD 107201,Presencial,2024/06/13
+JOB-100828,QuantumWare,Arequipa,Perú,Data Scientist,TypeScript,.NET,Junior,$14398,Híbrido,2024/11/02
+JOB-100829,DataNova,,Chile,DevOps Engineer,Python,React,Junior,$17106,Remoto,2023/09/26
+JOB-100830,CyberShield,Santiago,Chile,Data Scientist,Java,Flask,Mid,$19649,Remoto,13/03/2022
+JOB-100831,Lambda Solutions,Cartagena,Colombia,Fullstack Developer,JavaScript,Django,Junior,$8550,Remoto,2025/03/08
+JOB-100832,Atlas Systems,Córdoba,Argentina,ML Engineer,PHP,Spark,Mid,$20319,Remoto,2025/03/13
+JOB-100833,RocketSoft,Sevilla,España,Fullstack Developer,Swift,FastAPI,Senior,$53639,Presencial,01/10/2023
+JOB-100834,CodeWorks,Rosario,Argentina,DevOps Engineer,Scala,Node.js,Mid,USD 19407,Híbrido,18/12/2024
+JOB-100835,Vertex AI,Valparaíso,Chile,Backend Developer,Kotlin,Node.js,Mid,22433,Remoto,19-04-2025
+JOB-100836,CloudForge,New York,USA,ML Engineer,R,Spring,Mid,"$92,005",Remoto,25/04/2025
+JOB-100837,Lambda Solutions,Córdoba,Argentina,Data Scientist,Swift,Laravel,Junior,"$18,394",Híbrido,07-12-2024
+JOB-100838,Lambda Solutions,Córdoba,Argentina,Data Engineer,JavaScript,React,Mid,16698,Híbrido,2023-04-06
+JOB-100839,CyberShield,,Argentina,Cloud Architect,Scala,Laravel,Senior,28141,Presencial,02/01/2024
+JOB-100840,CodeWorks,SAN FRANCISCO,USA,DevOps Engineer,C#,Angular,Mid,US$ 118.064,Híbrido,2023/11/20
+JOB-100841,NeoTech,Medellín,Colombia,Data Analyst,Go,Spark,Mid,"$12,997",Remoto,16-09-2024
+JOB-100842,CyberShield,Cusco,Perú,Cloud Architect,C#,.NET,Senior,23476,Híbrido,2022-10-02
+JOB-100843,RocketSoft,Valencia,España,Data Scientist,JavaScript,FastAPI,Junior,USD 33414,Presencial,13/08/2024
+JOB-100844,Lambda Solutions,Medellín,Colombia,MLOps Engineer,Python,Django,Mid,10646,Híbrido,2022-02-19
+JOB-100845,SoftSmart,New York,USA,BI Developer,TypeScript,FastAPI,Mid,95100,Remoto,2025-01-05
+JOB-100846,NeoTech,???,México,Data Engineer,Python,Laravel,Mid,US$ 22.195,Híbrido,13-07-2024
+JOB-100847,CyberShield,Miami,USA,Frontend Developer,Kotlin,Angular,Mid,"$121,991",Híbrido,13-07-2024
+JOB-100848,Lambda Solutions,barcelona,España,Data Scientist,R,Angular,Senior,"$39,565",Presencial,19/07/2023
+JOB-100849,CloudForge,Lima,Perú,Data Engineer,PHP,Spark,Senior,27846,Híbrido,16-07-2023
+JOB-100850,DevOpsLab,Bucaramanga,Colombia,Cybersecurity Analyst,Swift,Angular,Junior,US$ 12.406,Híbrido,2024-07-06
+JOB-100851,DataNova,Guadalajara,México,Backend Developer,Swift,Angular,Senior,USD 23138,Remoto,2024-09-24
+JOB-100852,CloudForge,???,USA,DevOps Engineer,Scala,Vue,Senior,US$ 138.166,Remoto,28-10-2025
+JOB-100853,CyberShield,Cusco,Perú,Fullstack Developer,Go,.NET,Senior,USD 30897,Presencial,2022/04/29
+JOB-100854,CodeWorks,Valencia,España,Data Engineer,PHP,Laravel,Senior,"$49,269",Híbrido,01-12-2022
+JOB-100855,Atlas Systems,sevilla,España,Frontend Developer,R,.NET,Senior,USD 56807,Presencial,12/07/2022
+JOB-100856,DataNova,Lima,Perú,Frontend Developer,R,Spark,Senior,US$ 24.976,Presencial,2024/07/29
+JOB-100857,NeoTech,Guadalajara,México,Data Engineer,PHP,Spark,Junior,USD 10241,Presencial,2023/10/23
+JOB-100858,Atlas Systems,Sevilla,España,BI Developer,Scala,Flask,Mid,"$39,972",Híbrido,2023-12-22
+JOB-100859,DataNova,Rosario,Argentina,Cloud Architect,JavaScript,FastAPI,Senior,27226,Remoto,17-04-2023
+JOB-100860,Lambda Solutions,Valparaíso,Chile,Data Scientist,Go,Angular,Mid,USD 28480,Presencial,2022/04/04
+JOB-100861,IA Factory,Buenos Aires,Argentina,DevOps Engineer,JavaScript,Node.js,Junior,21024,Presencial,2025-10-13
+JOB-100862,DataNova,Guadalajara,México,Data Analyst,R,Angular,Mid,USD 19846,Híbrido,2025-10-29
+JOB-100863,DevOpsLab,San Francisco,USA,Cloud Architect,TypeScript,Spring,Junior,71811,Presencial,2022-03-27
+JOB-100864,BluePixel,New York,USA,Data Scientist,Java,Angular,Mid,"$101,414",Presencial,2025/06/24
+JOB-100865,Lambda Solutions,Puebla,México,Backend Developer,R,Node.js,Junior,"$14,835",Híbrido,05-11-2022
+JOB-100866,CyberShield,Arequipa,Perú,DevOps Engineer,Go,.NET,Senior,US$ 29.066,Presencial,24-12-2024
+JOB-100867,Lambda Solutions,CDMX,México,Cybersecurity Analyst,Go,Node.js,Junior,11292,Remoto,2024-01-07
+JOB-100868,Lambda Solutions,Cusco,Perú,Cloud Architect,Java,Spring,Senior,USD 20791,Híbrido,2024/10/09
+JOB-100869,RocketSoft,Lima,Perú,MLOps Engineer,Kotlin,Node.js,Senior,$17469,Remoto,08-08-2022
+JOB-100870,GreenBit,Miami,USA,BI Developer,TypeScript,Django,Senior,145111,Remoto,11-01-2024
+JOB-100871,Orion Cloud,Cusco,Perú,DevOps Engineer,TypeScript,Flask,Junior,USD 14358,Presencial,19-10-2024
+JOB-100872,Vertex AI,Barcelona,España,Cloud Architect,Kotlin,.NET,Mid,34351,Remoto,26-03-2022
+JOB-100873,Lambda Solutions,Seattle,USA,Frontend Developer,TypeScript,Spark,Junior,"$67,732",Híbrido,2023-04-16
+JOB-100874,DataNova,Cusco,Perú,Cybersecurity Analyst,Java,Spark,Junior,"$13,164",Híbrido,04/07/2024
+JOB-100875,GreenBit,Buenos Aires,Argentina,Frontend Developer,PHP,Node.js,Junior,$13773,Remoto,2022/06/13
+JOB-100876,DevOpsLab,Cartagena,Colombia,DevOps Engineer,Kotlin,React,Mid,$11421,Presencial,04/08/2025
+JOB-100877,Vertex AI,???,Colombia,Data Engineer,TypeScript,Angular,Junior,$8888,Híbrido,2025/05/17
+JOB-100878,SoftSmart,Cartagena,Colombia,Data Engineer,Scala,.NET,Junior,US$ 11.601,Presencial,28-01-2025
+JOB-100879,GreenBit,Puebla,México,BI Developer,TypeScript,.NET,Mid,$18872,Presencial,23-11-2022
+JOB-100880,DevOpsLab,New York,USA,Cloud Architect,C#,Angular,Junior,USD 66668,Híbrido,2023/07/03
+JOB-100881,IA Factory,Bucaramanga,Colombia,Cloud Architect,Go,Flask,Mid,USD 10949,Híbrido,31-03-2022
+JOB-100882,CyberShield,New York,USA,ML Engineer,Python,Node.js,Senior,USD 156918,Presencial,21/07/2022
+JOB-100883,CodeWorks,Rosario,Argentina,Data Analyst,PHP,Django,Senior,USD 29900,Híbrido,09-09-2023
+JOB-100884,Vertex AI,CDMX,México,Fullstack Developer,PHP,.NET,Mid,"$18,796",Presencial,04/09/2024
+JOB-100885,NeoTech,Guadalajara,México,Data Analyst,TypeScript,FastAPI,Senior,$27924,Híbrido,2023/04/18
+JOB-100886,Atlas Systems,Rosario,Argentina,DevOps Engineer,Kotlin,React,Senior,$34661,Híbrido,16/12/2024
+JOB-100887,BluePixel,Puebla,México,Cybersecurity Analyst,Kotlin,Laravel,Junior,"$11,770",Presencial,23-06-2023
+JOB-100888,CodeWorks,Cartagena,Colombia,Data Engineer,C#,FastAPI,Mid,$10657,Remoto,2025-05-05
+JOB-100889,RocketSoft,San Francisco,USA,Cloud Architect,R,Flask,Senior,USD 98274,Híbrido,2022/07/28
+JOB-100890,CodeWorks,Guadalajara,México,Cybersecurity Analyst,Scala,Laravel,Junior,15468,Remoto,2022-09-12
+JOB-100891,CodeWorks,Sevilla,España,Data Analyst,PHP,Spring,Senior,$50177,Remoto,07/10/2022
+JOB-100892,Lambda Solutions,Cartagena,Colombia,Cloud Architect,PHP,FastAPI,Senior,US$ 15.106,Remoto,2022-04-27
+JOB-100893,QuantumWare,Valencia,España,ML Engineer,Kotlin,Spring,Junior,$26924,Remoto,24-08-2025
+JOB-100894,DevOpsLab,Arequipa ,Perú,BI Developer,Swift,Flask,Mid,"$19,866",Remoto,2024-02-17
+JOB-100895,CodeWorks,???,México,Frontend Developer,C#,Vue,Junior,USD 14093,Remoto,22-06-2022
+JOB-100896,Vertex AI,Valparaíso,Chile,Frontend Developer,Go,Spring,Mid,"$23,010",Remoto,2022-10-01
+JOB-100897,GreenBit,Barranquilla,Colombia,Data Analyst,PHP,Vue,Mid,$14259,Presencial,2024-07-06
+JOB-100898,QuantumWare,Cali,Colombia,ML Engineer,C#,Flask,Mid,"$10,117",Híbrido,20-02-2024
+JOB-100899,GreenBit,Valparaíso,Chile,Data Scientist,JavaScript,.NET,Senior,28362,Remoto,2022/02/17
+JOB-100900,DevOpsLab,Madrid,España,MLOps Engineer,Go,Spring,Senior,USD 73905,Híbrido,2025/06/23
+JOB-100901,Orion Cloud,San Francisco,USA,Data Scientist,Go,FastAPI,Senior,US$ 125.663,Remoto,07-03-2022
+JOB-100902,Vertex AI,Cusco,Perú,ML Engineer,R,Django,Mid,USD 16532,Presencial,2022-08-25
+JOB-100903,CodeWorks,Puebla,México,Data Engineer,Java,Spark,Mid,USD 16035,Remoto,2025/09/26
+JOB-100904,GreenBit,Seattle,USA,Data Engineer,Scala,Flask,Senior,$130268,Remoto,08-12-2022
+JOB-100905,RocketSoft,Medellín,Colombia,Cybersecurity Analyst,Java,Node.js,Senior,US$ 18.772,Remoto,16/07/2025
+JOB-100906,QuantumWare,Rosario,Argentina,BI Developer,JavaScript,Laravel,Mid,,Híbrido,19-04-2022
+JOB-100907,GreenBit,Valencia,España,Data Scientist,Java,Laravel,Mid,$41101,Remoto,2024-05-15
+JOB-100908,QuantumWare,Cali,Colombia,Fullstack Developer,C#,Node.js,Junior,USD 9198,Híbrido,2025-03-08
+JOB-100909,RocketSoft,Cali,Colombia,ML Engineer,R,Django,Senior,US$ 13.045,Remoto,2022/01/28
+JOB-100910,GreenBit,Medellín,Colombia,Data Engineer,PHP,Node.js,Senior,$17513,Remoto,2022/10/25
+JOB-100911,DataNova,Santiago,Chile,Fullstack Developer,TypeScript,FastAPI,Junior,USD 24556,Híbrido,12-05-2024
+JOB-100912,DevOpsLab,???,España,Data Engineer,Scala,Laravel,Junior,35275,Remoto,2023/06/29
+JOB-100913,CloudForge,Seattle,USA,Data Engineer,Scala,Spark,Mid,"$92,602",Híbrido,26/09/2022
+JOB-100914,DevOpsLab,Cartagena,Colombia,ML Engineer,JavaScript,Angular,Junior,USD 10755,Híbrido,2025-08-06
+JOB-100915,DataNova,CARTAGENA,Colombia,ML Engineer,Swift,,Junior,$9044,Presencial,2024-09-19
+JOB-100916,SoftSmart,Austin,USA,DevOps Engineer,PHP,FastAPI,Mid,USD 94214,Remoto,2023-06-02
+JOB-100917,GreenBit,Sevilla,España,MLOps Engineer,R,Laravel,Mid,US$ 30.964,Remoto,2023/11/21
+JOB-100918,CloudForge,Puebla,México,DevOps Engineer,Java,React,Junior,"$13,718",Remoto,2022/01/24
+JOB-100919,Atlas Systems,???,Chile,Cloud Architect,R,Spring,Mid,$25527,Híbrido,15/06/2024
+JOB-100920,Atlas Systems,Monterrey,México,Data Engineer,Swift,Spring,Junior,USD 14034,Remoto,04-03-2024
+JOB-100921,Vertex AI,San Francisco,USA,Data Analyst,JavaScript,Spring,Junior,$84777,Presencial,02-02-2023
+JOB-100922,SoftSmart,CDMX,México,Data Engineer,PHP,Django,Mid,USD 23085,Híbrido,2024/08/08
+JOB-100923,NeoTech,Sevilla,España,Frontend Developer,JavaScript,.NET,Mid,USD 45533,Remoto,2025/08/02
+JOB-100924,CloudForge,Miami,USA,Frontend Developer,Kotlin,Spring,Mid,"$90,654",Híbrido,2024-04-27
+JOB-100925,IA Factory,Córdoba,Argentina,Frontend Developer,Scala,FastAPI,Mid,"$17,806",Remoto,08-04-2024
+JOB-100926,DataNova,buenos aires,Argentina,Frontend Developer,R,Laravel,Senior,USD 25258,Remoto,2022/08/02
+JOB-100927,Orion Cloud,Madrid ,España,Frontend Developer,Kotlin,Spring,Mid,"$32,426",Remoto,2023-04-02
+JOB-100928,Vertex AI,Cartagea,Colombia,Data Engineer,Kotlin,Node.js,Junior,US$ 9.648,Híbrido,2025/01/13
+JOB-100929,QuantumWare,Medellín,Colombia,Data Engineer,Java,FastAPI,Mid,US$ 12.758,Híbrido,2024-03-11
+JOB-100930,DevOpsLab,Valencia,España,MLOps Engineer,Java,React,Mid,"$39,043",Híbrido,20-10-2025
+JOB-100931,Vertex AI,Puebla,México,Backend Developer,TypeScript,FastAPI,Mid,USD 18522,Presencial,24/10/2025
+JOB-100932,Orion Cloud,Valparaíso,Chile,Frontend Developer,PHP,Vue,Junior,USD 20474,Presencial,02/04/2023
+JOB-100933,DevOpsLab,Madrid,España,ML Engineer,Java,Spark,Senior,$52146,Presencial,2023/10/19
+JOB-100934,CyberShield,Barranquilla,Colombia,Data Engineer,Python,.NET,Mid,US$ 10.663,Presencial,2024/10/22
+JOB-100935,SoftSmart,Buenos Aires ,Argentina,Fullstack Developer,TypeScript,Spark,Mid,"$25,173",Híbrido,2024/06/04
+JOB-100936,QuantumWare,Barranquilla,Colombia,DevOps Engineer,Python,Flask,Junior,US$ 11.108,Presencial,2024/06/23
+JOB-100937,CyberShield,Córdoba,Argentina,Data Engineer,Python,FastAPI,Junior,13820,Presencial,22/11/2024
+JOB-100938,BluePixel,New York,USA,MLOps Engineer,C#,.NET,Junior,"$65,680",Remoto,2022/03/04
+JOB-100939,RocketSoft,Barranquilla,Colombia,ML Engineer,Python,Spark,Senior,"$15,322",Remoto,2022-06-19
+JOB-100940,RocketSoft,Barranquilla,Colombia,Cloud Architect,TypeScript,Spring,Senior,$16883,Remoto,09-04-2024
+JOB-100941,DevOpsLab,???,Argentina,Cybersecurity Analyst,Kotlin,Spark,Senior,USD 33287,Remoto,2022-12-07
+JOB-100942,CyberShield,Cusco,Perú,Cybersecurity Analyst,Python,Node.js,Junior,USD 16592,Presencial,12/07/2022
+JOB-100943,Orion Cloud,Lima,Perú,Data Analyst,Kotlin,Flask,Senior,"$29,236",Híbrido,30/03/2023
+JOB-100944,Orion Cloud,CDMX,México,Backend Developer,C#,FastAPI,Junior,US$ 16.749,Remoto,2025-04-08
+JOB-100945,Atlas Systems,Barcelona,España,Cybersecurity Analyst,R,Django,Mid,USD 44306,Híbrido,2025-09-25
+JOB-100946,QuantumWare,Rosario ,Argentina,Data Scientist,JavaScript,Angular,Senior,$31094,Remoto,30-09-2024
+JOB-100947,BluePixel,Seattle,USA,Frontend Developer,R,React,Junior,"$81,181",Híbrido,15-07-2023
+JOB-100948,NeoTech,Buenos Aires,Argentina,Fullstack Developer,PHP,Angular,Junior,"$15,714",Presencial,20-06-2023
+JOB-100949,QuantumWare,Valparaíso,Chile,DevOps Engineer,PHP,Node.js,Junior,"$14,768",Presencial,2024/06/03
+JOB-100950,GreenBit,Buenos Aires,Argentina,Cybersecurity Analyst,Kotlin,Spring,Mid,19612,Presencial,17/11/2023
+JOB-100951,GreenBit,SEVILLA,España,Fullstack Developer,Swift,.NET,Senior,67579,Híbrido,2024/07/04
+JOB-100952,Orion Cloud,madrid,España,Cloud Architect,Swift,FastAPI,Junior,27937,Presencial,2024-12-31
+JOB-100953,Orion Cloud,Córdoba,Argentina,Cybersecurity Analyst,R,Node.js,Junior,14498,Híbrido,21-03-2023
+JOB-100954,DataNova,Sevilla,España,Data Engineer,PHP,Vue,Mid,43799,Híbrido,2024-07-21
+JOB-100955,NeoTech,Arequipa,Perú,Backend Developer,Go,Spark,Senior,"$25,504",Remoto,13/05/2023
+JOB-100956,IA Factory,???,Colombia,Data Engineer,Swift,Spring,Mid,$11135,Híbrido,2024-04-05
+JOB-100957,Vertex AI,ROSARIO,Argentina,Data Engineer,TypeScript,Spring,Junior,US$ 19.738,Remoto,26/09/2025
+JOB-100958,IA Factory,Guadalajara,México,Cybersecurity Analyst,Scala,FastAPI,Junior,15748,Remoto,11/02/2025
+JOB-100959,Lambda Solutions,seattle,USA,DevOps Engineer,Java,React,Senior,US$ 148.113,Remoto,29-09-2024
+JOB-100960,NeoTech,Puebla,México,Data Scientist,Python,.NET,Senior,USD 23065,Híbrido,30-03-2024
+JOB-100961,DevOpsLab,Arequipa,Perú,Data Scientist,Java,Node.js,Mid,US$ 19.342,Híbrido,28/03/2024
+JOB-100962,GreenBit,CDMX ,México,Data Engineer,Go,.NET,Junior,"$15,213",Presencial,2025/01/22
+JOB-100963,DataNova,buenos aires,Argentina,Backend Developer,Swift,Laravel,Mid,$22331,Remoto,09/09/2025
+JOB-100964,GreenBit,Monterrey,México,Cloud Architect,Python,React,Senior,"$29,543",Remoto,2025-02-26
+JOB-100965,Atlas Systems,rosario,Argentina,DevOps Engineer,JavaScript,Flask,Mid,US$ 23.378,Híbrido,15/04/2023
+JOB-100966,Orion Cloud,Sevilla,España,ML Engineer,Python,Spring,Senior,"$54,560",Híbrido,12/07/2022
+JOB-100967,SoftSmart,Barcelona,España,Frontend Developer,Go,Django,Senior,USD 58702,Híbrido,02/07/2023
+JOB-100968,CyberShield,San Francisco ,USA,Backend Developer,R,Angular,Senior,USD 110155,Híbrido,10/05/2024
+JOB-100969,BluePixel,Sevilla,España,Data Engineer,Java,Flask,Senior,"$58,336",Presencial,2024-05-01
+JOB-100970,NeoTech,Madrid,España,Cloud Architect,TypeScript,Django,Mid,$41900,Remoto,17-02-2024
+JOB-100971,RocketSoft,Valparaiso,Chile,BI Developer,Scala,Angular,Mid,$23541,Presencial,26-04-2025
+JOB-100972,BluePixel,Bucaramanga,Colombia,DevOps Engineer,JavaScript,Laravel,Mid,"$10,607",Presencial,2024/11/27
+JOB-100973,DataNova,Buenos Aires,Argentina,BI Developer,R,Laravel,Senior,27753,Presencial,10/06/2025
+JOB-100974,IA Factory,Concepción,Chile,BI Developer,PHP,Spring,Mid,US$ 20.449,Híbrido,26-04-2022
+JOB-100975,QuantumWare,Cali,Colombia,BI Developer,JavaScript,React,Senior,$17659,Presencial,22-03-2024
+JOB-100976,Vertex AI,Austin,USA,Frontend Developer,TypeScript,Laravel,Senior,US$ 138.879,Híbrido,2024/08/21
+JOB-100977,Orion Cloud,Bogotá,Colombia,Data Engineer,Python,Node.js,Senior,14409,Presencial,2025-02-01
+JOB-100978,DataNova,cusco,Perú,Data Analyst,Python,Node.js,Mid,$18128,Presencial,23-05-2024
+JOB-100979,BluePixel,Concepción,Chile,Cloud Architect,Java,Django,Junior,"$23,203",Híbrido,2023-05-27
+JOB-100980,SoftSmart,Córdoba,Argentina,DevOps Engineer,Kotlin,Laravel,Mid,"$23,187",Híbrido,2023/07/16
+JOB-100981,CloudForge,Cartagea,Colombia,BI Developer,R,,Mid,"$13,818",Híbrido,2023-08-14
+JOB-100982,Orion Cloud,Cusco,Perú,Cybersecurity Analyst,PHP,Spark,Mid,"$17,594",Híbrido,2023-01-10
+JOB-100983,SoftSmart,Arequipa,Perú,BI Developer,R,Node.js,Junior,US$ 13.669,Presencial,2025-02-03
+JOB-100984,GreenBit,Santiago,Chile,Data Scientist,C#,FastAPI,Mid,$23534,Híbrido,25/07/2024
+JOB-100985,RocketSoft,buenos aires,Argentina,Fullstack Developer,Java,Vue,Junior,$17422,Híbrido,12/07/2024
+JOB-100986,Lambda Solutions,Cartagea,Colombia,Fullstack Developer,Python,.NET,Senior,$22726,Híbrido,02-11-2023
+JOB-100987,GreenBit,Seattle,USA,Fullstack Developer,Scala,Node.js,Senior,"$161,029",Remoto,2024/05/14
+JOB-100988,CyberShield,Austin,USA,Data Analyst,Swift,Django,Junior,$94077,Híbrido,26-12-2024
+JOB-100989,RocketSoft,Cartagena,Colombia,Cybersecurity Analyst,Swift,Laravel,Mid,US$ 14.429,Remoto,15/01/2023
+JOB-100990,CloudForge,Buenos Aires,Argentina,Frontend Developer,Python,Django,Senior,"$21,226",Remoto,26-10-2024
+JOB-100991,DataNova,Cartagena,Colombia,DevOps Engineer,Go,Spark,Senior,$16294,Presencial,2024/03/04
+JOB-100992,Vertex AI,Arequipa,Perú,Data Scientist,Scala,FastAPI,Junior,USD 13465,Remoto,2024/04/20
+JOB-100993,NeoTech,MONTERREY,México,Cloud Architect,PHP,Flask,Junior,$17099,Presencial,24/06/2025
+JOB-100994,CyberShield,Córdoba,Argentina,Backend Developer,Go,Node.js,Senior,$35091,Remoto,2023-03-22
+JOB-100995,DataNova,Concepción,Chile,Frontend Developer,Go,Django,Mid,US$ 22.510,Híbrido,2023/03/23
+JOB-100996,Atlas Systems,Cartagena,Colombia,Cloud Architect,Scala,Vue,Senior,$16897,Híbrido,05/10/2024
+JOB-100997,BluePixel,Valparaíso,Chile,Fullstack Developer,Kotlin,Spark,Junior,US$ 21.671,Híbrido,20-12-2022
+JOB-100998,RocketSoft,Barcelona,España,Cybersecurity Analyst,TypeScript,Flask,Junior,US$ 28.172,Remoto,15-12-2022
+JOB-100999,GreenBit,Medellin,Colombia,Data Scientist,TypeScript,Flask,Senior,15216,Presencial,24-12-2023
+JOB-101000,Lambda Solutions,Cusco,Perú,ML Engineer,Swift,Spark,Senior,22639,Híbrido,22/07/2023
+JOB-101001,DataNova,CDMX ,México,DevOps Engineer,C#,Angular,Mid,USD 20389,Presencial,2023-04-14
+JOB-101002,QuantumWare,Puebla,México,Cloud Architect,PHP,Django,Junior,US$ 12.436,Remoto,2025-03-15
+JOB-101003,NeoTech,NEW YORK,USA,BI Developer,R,Laravel,Junior,"$88,942",Presencial,2025/08/16
+JOB-101004,DevOpsLab,Madrid,España,Data Scientist,Scala,Flask,Junior,"$30,796",Presencial,2023/02/13
+JOB-101005,GreenBit,SEVILLA,España,Cybersecurity Analyst,Swift,FastAPI,Senior,$59198,Híbrido,2024/11/11
+JOB-101006,IA Factory,Bucaramanga,Colombia,Backend Developer,Go,React,Junior,USD 11824,Presencial,18-12-2022
+JOB-101007,DevOpsLab,austin,USA,Fullstack Developer,C#,Node.js,Junior,$68374,Híbrido,2025-04-09
+JOB-101008,SoftSmart,Puebla,México,Backend Developer,Kotlin,Flask,Junior,,Presencial,14-05-2023
+JOB-101009,Orion Cloud,???,USA,Frontend Developer,TypeScript,Spring,Senior,USD 141513,Híbrido,09-09-2023
+JOB-101010,DevOpsLab,Puebla,México,Cloud Architect,PHP,React,Junior,"$12,171",Presencial,2022/07/02
+JOB-101011,QuantumWare,Austin,USA,DevOps Engineer,Go,Spark,Senior,$118435,Presencial,2025-05-22
+JOB-101012,BluePixel,Concepción,Chile,Cloud Architect,Swift,FastAPI,Mid,$24574,Híbrido,2024-11-25
+JOB-101013,QuantumWare,Valencia,España,DevOps Engineer,Scala,React,Junior,US$ 31.115,Remoto,11-11-2023
+JOB-101014,DevOpsLab,New York,USA,Data Scientist,Swift,FastAPI,Junior,US$ 61.825,Presencial,27/11/2022
+JOB-101015,Orion Cloud,Cali ,Colombia,Fullstack Developer,C#,Flask,Senior,$15837,Remoto,28/07/2022
+JOB-101016,Orion Cloud,Lima,Perú,MLOps Engineer,C#,Spark,Mid,USD 19572,Presencial,16-03-2024
+JOB-101017,Orion Cloud,,México,Backend Developer,Go,Spring,Mid,21626,Híbrido,27-03-2024
+JOB-101018,GreenBit,Guadalajara,México,Data Engineer,PHP,FastAPI,Mid,$12709,Híbrido,2023-03-26
+JOB-101019,CyberShield,Austin,USA,ML Engineer,Swift,Laravel,Senior,USD 159010,Híbrido,2024-02-23
+JOB-101020,Lambda Solutions,Córdoba,Argentina,MLOps Engineer,JavaScript,Laravel,Mid,USD 22639,Presencial,21-01-2024
+JOB-101021,GreenBit,Barranquilla,Colombia,DevOps Engineer,TypeScript,FastAPI,Junior,USD 8040,Remoto,10-12-2024
+JOB-101022,GreenBit,Concepción,Chile,Backend Developer,C#,Django,Senior,"$27,299",Híbrido,2024/08/11
+JOB-101023,CloudForge,Valparaíso,Chile,Fullstack Developer,Python,Angular,Mid,$26561,Presencial,2025/07/06
+JOB-101024,QuantumWare,???,Perú,Frontend Developer,PHP,,Mid,16870,Presencial,26-12-2022
+JOB-101025,CodeWorks,Santiago,Chile,Cybersecurity Analyst,Java,Flask,Mid,US$ 25.508,Remoto,05-09-2022
+JOB-101026,Lambda Solutions,San Francisco,USA,Backend Developer,PHP,Angular,Mid,$107229,Híbrido,2025-07-19
+JOB-101027,IA Factory,Santiago,Chile,Cybersecurity Analyst,TypeScript,FastAPI,Mid,USD 23609,Remoto,13/02/2024
+JOB-101028,CodeWorks,Santiago,Chile,Data Analyst,PHP,Node.js,Mid,$25606,Remoto,12-09-2022
+JOB-101029,CloudForge,Medellín,Colombia,MLOps Engineer,Kotlin,.NET,Junior,$10281,Remoto,21/09/2023
+JOB-101030,Atlas Systems,Concepción,Chile,ML Engineer,Go,Angular,Mid,28322,Híbrido,2025-09-26
+JOB-101031,Vertex AI,Cartagena,Colombia,Data Engineer,Scala,.NET,Junior,US$ 12.127,Híbrido,23/04/2022
+JOB-101032,CloudForge,Valencia,España,Frontend Developer,TypeScript,Laravel,Mid,US$ 47.658,Híbrido,01-03-2023
+JOB-101033,DataNova,???,México,Backend Developer,R,Vue,Mid,USD 18648,Remoto,2022-09-10
+JOB-101034,GreenBit,Buenos Aires,Argentina,Fullstack Developer,Swift,Angular,Senior,"$27,012",Híbrido,14-09-2022
+JOB-101035,CloudForge,Madrid,España,Cloud Architect,Go,React,Mid,$51471,Remoto,18-06-2022
+JOB-101036,CodeWorks,Arequipa,Perú,Data Scientist,TypeScript,React,Mid,$19722,Presencial,2022-12-18
+JOB-101037,Lambda Solutions,Guadalajara,México,Data Engineer,TypeScript,Spark,Senior,$26808,Remoto,2022-06-26
+JOB-101038,CyberShield,Cartagena,Colombia,Frontend Developer,PHP,Spring,Senior,US$ 14.038,Híbrido,10-05-2022
+JOB-101039,QuantumWare,Barcelona,España,BI Developer,Swift,.NET,Senior,US$ 59.386,Presencial,2024/05/28
+JOB-101040,DevOpsLab,arequipa,Perú,Cloud Architect,C#,React,Mid,US$ 15.912,Híbrido,19/02/2022
+JOB-101041,BluePixel,Guadalajara ,México,Frontend Developer,JavaScript,.NET,Senior,$23478,Remoto,18-10-2022
+JOB-101042,NeoTech,Austin,USA,Backend Developer,R,Spring,Senior,USD 106497,Presencial,2023-04-23
+JOB-101043,BluePixel,madrid,España,Cloud Architect,JavaScript,Django,Junior,USD 28047,Presencial,05-10-2022
+JOB-101044,IA Factory,Madrid,España,Data Scientist,PHP,Node.js,Senior,"$53,696",Híbrido,28/09/2022
+JOB-101045,RocketSoft,Puebla,México,Cybersecurity Analyst,Go,FastAPI,Junior,$11176,Híbrido,06-08-2024
+JOB-101046,Atlas Systems,Rosario ,Argentina,Fullstack Developer,Swift,Spark,Junior,"$13,863",Híbrido,02-05-2023
+JOB-101047,DevOpsLab,Puebla,México,Data Scientist,C#,.NET,Senior,"$24,907",Híbrido,22/06/2025
+JOB-101048,Orion Cloud,San Francisco,USA,Frontend Developer,TypeScript,FastAPI,Junior,"$61,678",Presencial,27/07/2022
+JOB-101049,BluePixel,Santiago,Chile,Data Analyst,PHP,Node.js,Senior,28460,Híbrido,15/02/2024
+JOB-101050,RocketSoft,Miami,USA,Data Analyst,Java,Spring,Junior,,Híbrido,2025-07-23
+JOB-101051,SoftSmart,Arequipa,Perú,ML Engineer,C#,Spark,Junior,11376,Híbrido,2022/08/05
+JOB-101052,CloudForge,San Francisco,USA,Data Analyst,Scala,Spring,Mid,USD 103715,Remoto,2022-04-22
+JOB-101053,Atlas Systems,Barcelona,España,Cybersecurity Analyst,TypeScript,.NET,Junior,"$25,892",Presencial,18/10/2022
+JOB-101054,Lambda Solutions,Cartagena,Colombia,ML Engineer,Python,Spark,Senior,18730,Híbrido,01/09/2025
+JOB-101055,CodeWorks,Concepción,Chile,BI Developer,Python,Django,Mid,US$ 28.453,Presencial,2025-07-23
+JOB-101056,DataNova,PUEBLA,México,Data Analyst,Swift,.NET,Junior,"$11,824",Híbrido,2022-09-25
+JOB-101057,SoftSmart,Córdoba ,Argentina,Cloud Architect,Kotlin,Angular,Junior,$16097,Híbrido,14-10-2022
+JOB-101058,DataNova,Buenos Aires,Argentina,Cybersecurity Analyst,R,Flask,Mid,$18570,Híbrido,26/01/2022
+JOB-101059,DevOpsLab,Santiago,Chile,BI Developer,Swift,Django,Senior,USD 29056,Híbrido,2023/02/01
+JOB-101060,Lambda Solutions,Santiago,Chile,Backend Developer,JavaScript,.NET,Senior,$33250,Remoto,02/05/2022
+JOB-101061,Lambda Solutions,new york,USA,Frontend Developer,PHP,Django,Mid,91577,Híbrido,29/03/2024
+JOB-101062,Lambda Solutions,???,Perú,ML Engineer,TypeScript,Angular,Junior,"$15,929",Híbrido,2023-11-05
+JOB-101063,Atlas Systems,Sevilla,España,Data Engineer,Scala,Django,Senior,"$61,352",Remoto,2025-09-21
+JOB-101064,CloudForge,New York,USA,MLOps Engineer,R,Django,Junior,US$ 63.505,Presencial,2025/02/18
+JOB-101065,Atlas Systems,Puebla,México,Frontend Developer,PHP,Spark,Senior,,Presencial,10/03/2025
+JOB-101066,NeoTech,Miami,USA,Frontend Developer,Python,Node.js,Senior,USD 143545,Híbrido,2024-08-09
+JOB-101067,QuantumWare,Bucaramanga,Colombia,Data Engineer,R,React,Mid,"$14,112",Presencial,30/01/2025
+JOB-101068,CodeWorks,Medellín,Colombia,Data Scientist,C#,.NET,Mid,US$ 7.618,Presencial,10-10-2022
+JOB-101069,IA Factory,New York,USA,Backend Developer,PHP,FastAPI,Junior,"$90,531",Híbrido,13/02/2022
+JOB-101070,GreenBit,Guadalajara,México,BI Developer,Java,Spring,Senior,24567,Remoto,2024-10-14
+JOB-101071,Atlas Systems,Córdoba,Argentina,MLOps Engineer,PHP,React,Mid,$24584,Presencial,21-09-2025
+JOB-101072,CyberShield,Madrid,España,ML Engineer,Scala,Flask,Junior,"$28,473",Presencial,04/05/2025
+JOB-101073,CloudForge,Valparaíso,Chile,Cybersecurity Analyst,Java,Vue,Mid,US$ 21.892,Híbrido,2023/07/05
+JOB-101074,DataNova,Guadalajara,México,Backend Developer,Kotlin,Flask,Mid,$18121,Remoto,2025/04/05
+JOB-101075,CloudForge,austin,USA,Data Scientist,Python,Django,Junior,US$ 89.299,Presencial,2022/07/05
+JOB-101076,BluePixel,Monterrey,México,Data Analyst,C#,Django,Junior,"$14,466",Híbrido,24-10-2024
+JOB-101077,CyberShield,Concepción,Chile,Data Engineer,R,Spring,Junior,"$12,944",Remoto,2023/08/05
+JOB-101078,RocketSoft,Concepción,Chile,Cybersecurity Analyst,Kotlin,Vue,Mid,US$ 27.559,Presencial,25-12-2023
+JOB-101079,IA Factory,Seattle,USA,Backend Developer,Java,.NET,Senior,USD 100960,Remoto,2025-09-22
+JOB-101080,QuantumWare,Concepción,Chile,ML Engineer,Python,FastAPI,Mid,"$21,338",Híbrido,2024-09-05
+JOB-101081,Atlas Systems,valencia,España,Backend Developer,TypeScript,Node.js,Junior,"$25,113",Remoto,01/01/2022
+JOB-101082,DataNova,Buenos Aires,Argentina,Fullstack Developer,TypeScript,Spark,Junior,"$11,597",Híbrido,04/06/2023
+JOB-101083,Atlas Systems,CDMX,México,Backend Developer,Python,Angular,Mid,USD 14623,Remoto,29/01/2022
+JOB-101084,CodeWorks,Lima,Perú,Fullstack Developer,Go,React,Junior,"$12,270",Remoto,2023/10/30
+JOB-101085,Atlas Systems,Puebla,México,Data Engineer,C#,FastAPI,Junior,$13079,Remoto,2025-01-25
+JOB-101086,DataNova,Santiago,Chile,MLOps Engineer,Scala,Spark,Senior,US$ 34.720,Híbrido,2024/06/02
+JOB-101087,QuantumWare,Santiago,Chile,Cloud Architect,Python,Flask,Senior,"$33,246",Híbrido,2023-09-14
+JOB-101088,QuantumWare,Cusco,Perú,DevOps Engineer,Java,Spring,Junior,$11202,Presencial,11/06/2023
+JOB-101089,CloudForge,Madrid,España,Data Engineer,R,React,Senior,USD 51750,Híbrido,2023-10-23
+JOB-101090,GreenBit,Monterrey,México,Backend Developer,JavaScript,Spring,Junior,$16501,Presencial,24-02-2024
+JOB-101091,Lambda Solutions,Córdoba,Argentina,Fullstack Developer,Swift,Flask,Junior,USD 18275,Presencial,09-09-2024
+JOB-101092,CodeWorks,San Francisco,USA,MLOps Engineer,TypeScript,Node.js,Mid,USD 96918,Híbrido,19/09/2022
+JOB-101093,CodeWorks,Arequipa,Perú,Cybersecurity Analyst,Java,FastAPI,Mid,$19672,Híbrido,2024-07-18
+JOB-101094,CloudForge,Cartagena,Colombia,ML Engineer,JavaScript,Django,Senior,$19048,Remoto,2022/10/08
+JOB-101095,DataNova,Medellín,Colombia,Fullstack Developer,Scala,.NET,Junior,11560,Remoto,01-12-2022
+JOB-101096,NeoTech,Guadalajara,México,Backend Developer,Swift,React,Junior,"$18,064",Presencial,03/03/2023
+JOB-101097,GreenBit,Guadalajara,México,Data Scientist,C#,FastAPI,Senior,"$23,989",Híbrido,24/03/2023
+JOB-101098,Lambda Solutions,Valencia ,España,Data Analyst,Kotlin,Django,Junior,$29161,Remoto,2025/06/12
+JOB-101099,GreenBit,San Francisco,USA,BI Developer,PHP,Vue,Junior,"$92,789",Remoto,2024/04/26
+JOB-101100,IA Factory,Sevilla,España,Backend Developer,Java,Vue,Mid,"$46,898",Híbrido,20/10/2023
+JOB-101101,IA Factory,austin,USA,Data Engineer,PHP,Node.js,Senior,"$163,736",Presencial,29-05-2023
+JOB-101102,CodeWorks,Guadalajara ,México,Cloud Architect,C#,Spring,Junior,$9337,Híbrido,2024-05-19
+JOB-101103,Atlas Systems,Guadalajara,México,Backend Developer,Python,.NET,Junior,$13925,Presencial,2024/04/10
+JOB-101104,Atlas Systems,Lima,Perú,Backend Developer,PHP,FastAPI,Mid,9210,Remoto,16/11/2024
+JOB-101105,SoftSmart,Valparaíso,Chile,Data Engineer,Swift,React,Junior,USD 22189,Híbrido,22-02-2024
+JOB-101106,QuantumWare,Cusco ,Perú,Frontend Developer,PHP,Spark,Senior,$25410,Híbrido,09/06/2023
+JOB-101107,DataNova,Austin ,USA,Frontend Developer,Java,Spring,Senior,USD 134040,Presencial,2024-04-05
+JOB-101108,Atlas Systems,Cusco,Perú,Fullstack Developer,Go,React,Senior,$24679,Híbrido,2023-07-27
+JOB-101109,DevOpsLab,CDMX,México,Frontend Developer,Go,Flask,Junior,$17215,Presencial,11/03/2025
+JOB-101110,DevOpsLab,Monterrey,México,Frontend Developer,Python,Laravel,Senior,$24092,Híbrido,2023-09-05
+JOB-101111,DataNova,CDMX,México,Frontend Developer,Scala,Angular,Senior,"$29,105",Remoto,2024/05/14
+JOB-101112,QuantumWare,Barcelona,España,MLOps Engineer,Kotlin,.NET,Senior,"$57,617",Remoto,2025-10-10
+JOB-101113,CyberShield,New York,USA,Cybersecurity Analyst,PHP,React,Mid,US$ 100.084,Remoto,2025/05/29
+JOB-101114,CloudForge,Arequipa,Perú,Cybersecurity Analyst,Python,Angular,Junior,US$ 15.399,Presencial,2024/09/26
+JOB-101115,BluePixel,Cusco,Perú,Data Scientist,Java,FastAPI,Junior,US$ 14.639,Híbrido,03/02/2023
+JOB-101116,SoftSmart,Santiago,Chile,Data Analyst,Swift,React,Senior,$29257,Remoto,2023-02-09
+JOB-101117,DevOpsLab,Concepción,Chile,Cloud Architect,Java,Vue,Junior,US$ 22.148,Presencial,2022/11/04
+JOB-101118,RocketSoft,Cali,Colombia,DevOps Engineer,Swift,Angular,Senior,US$ 18.597,Híbrido,05/02/2025
+JOB-101119,Lambda Solutions,Santiago,Chile,Cloud Architect,Scala,Spark,Senior,34244,Remoto,2022/07/19
+JOB-101120,CodeWorks,santiago,Chile,MLOps Engineer,PHP,Laravel,Junior,,Híbrido,2024-11-03
+JOB-101121,DataNova,San Francisco ,USA,BI Developer,R,React,Junior,86247,Híbrido,17/02/2025
+JOB-101122,Lambda Solutions,Barcelona,España,Backend Developer,JavaScript,Vue,Senior,US$ 42.973,Remoto,2022-09-28
+JOB-101123,Vertex AI,PUEBLA,México,Fullstack Developer,R,FastAPI,Senior,"$24,662",Híbrido,2024/02/24
+JOB-101124,QuantumWare,???,Colombia,Frontend Developer,Go,Spark,Senior,"$15,683",Remoto,12-05-2023
+JOB-101125,IA Factory,Barranquilla,Colombia,Cloud Architect,R,Angular,Mid,"$10,370",Híbrido,2024/07/21
+JOB-101126,DevOpsLab,Valparaíso,Chile,Cloud Architect,Kotlin,Laravel,Junior,USD 20966,Remoto,07/11/2022
+JOB-101127,RocketSoft,Arequipa,Perú,MLOps Engineer,Go,Django,Junior,"$12,578",Remoto,12/05/2025
+JOB-101128,Atlas Systems,Seattle,USA,Data Engineer,Java,Django,Mid,$88810,Presencial,05-04-2023
+JOB-101129,RocketSoft,Concepción ,Chile,Data Scientist,C#,Node.js,Senior,US$ 36.288,Remoto,2022-02-01
+JOB-101130,NeoTech,Valparaíso,Chile,Cloud Architect,R,Laravel,Junior,USD 21049,Remoto,21-05-2023
+JOB-101131,BluePixel,Puebla,México,Cybersecurity Analyst,Python,Laravel,Junior,$15094,Híbrido,13-04-2025
+JOB-101132,NeoTech,Córdoba,Argentina,MLOps Engineer,PHP,Laravel,Senior,US$ 37.382,Híbrido,18-12-2023
+JOB-101133,BluePixel,Medellín,Colombia,MLOps Engineer,R,Vue,Senior,US$ 15.530,Híbrido,2024/07/30
+JOB-101134,CyberShield,Lima,Perú,DevOps Engineer,Scala,Spring,Senior,"$26,145",Presencial,2024-04-13
+JOB-101135,DevOpsLab,???,Colombia,DevOps Engineer,PHP,Node.js,Junior,US$ 7.863,Híbrido,14/11/2023
+JOB-101136,Lambda Solutions,Austin,USA,Frontend Developer,C#,Node.js,Junior,81487,Híbrido,2023/05/07
+JOB-101137,BluePixel,Arequipa,Perú,Backend Developer,Kotlin,Django,Mid,USD 21114,Híbrido,04/05/2025
+JOB-101138,Orion Cloud,,Perú,Data Engineer,Scala,.NET,Junior,"$17,021",Presencial,30/09/2025
+JOB-101139,GreenBit,santiago,Chile,Data Engineer,Go,Flask,Mid,"$22,615",Presencial,29/06/2023
+JOB-101140,GreenBit,Buenos Aires,Argentina,Cybersecurity Analyst,Go,Spring,Junior,"$15,329",Presencial,2023-01-17
+JOB-101141,SoftSmart,Puebla,México,ML Engineer,PHP,Vue,Junior,US$ 17.126,Presencial,2023-12-06
+JOB-101142,RocketSoft,Concepción,Chile,BI Developer,PHP,Laravel,Senior,USD 34509,Presencial,2024/07/03
+JOB-101143,NeoTech,Sevilla,España,Cybersecurity Analyst,PHP,Spring,Senior,USD 60850,Remoto,06-12-2024
+JOB-101144,DataNova,Valencia,España,Data Scientist,Scala,React,Senior,,Remoto,29-05-2022
+JOB-101145,QuantumWare,Valencia,España,Data Analyst,TypeScript,Laravel,Junior,US$ 36.708,Remoto,2023/02/24
+JOB-101146,GreenBit,Valparaíso,Chile,Data Scientist,Scala,Angular,Mid,,Híbrido,23/08/2025
+JOB-101147,NeoTech,Cartagena,Colombia,BI Developer,Scala,Angular,Senior,US$ 17.969,Híbrido,2023/11/14
+JOB-101148,Vertex AI,Bogotá,Colombia,Fullstack Developer,Go,Laravel,Senior,USD 14787,Presencial,07/10/2024
+JOB-101149,Lambda Solutions,Cusco,Perú,Data Analyst,Scala,FastAPI,Junior,US$ 14.055,Remoto,28/12/2024
+JOB-101150,RocketSoft,Medellín,Colombia,Data Analyst,Swift,React,Senior,$17181,Híbrido,24-06-2025
+JOB-101151,Vertex AI,Santiago,Chile,Cloud Architect,Go,FastAPI,Junior,US$ 20.790,Remoto,27/06/2024
+JOB-101152,BluePixel,Barcelona,España,Fullstack Developer,Scala,Django,Junior,"$29,922",Remoto,21/09/2022
+JOB-101153,Vertex AI,Medellín,Colombia,Data Analyst,Scala,Django,Junior,US$ 9.285,Híbrido,2024/07/08
+JOB-101154,IA Factory,Bogotá,Colombia,Data Scientist,Swift,.NET,Senior,17284,Remoto,19-07-2023
+JOB-101155,NeoTech,Valencia,España,Cybersecurity Analyst,Scala,Laravel,Mid,45954,Híbrido,2023-01-17
+JOB-101156,DataNova,Puebla,México,Data Analyst,Java,Vue,Junior,USD 10062,Híbrido,14/12/2024
+JOB-101157,DataNova,New York,USA,Data Engineer,R,Spark,Senior,USD 105631,Presencial,2025-03-07
+JOB-101158,Orion Cloud,Rosario ,Argentina,Data Scientist,C#,Node.js,Junior,"$12,292",Híbrido,2022/08/26
+JOB-101159,Atlas Systems,ROSARIO,Argentina,Cybersecurity Analyst,Java,React,Senior,$25114,Presencial,12-11-2022
+JOB-101160,BluePixel,Lima,Perú,Data Analyst,TypeScript,.NET,Senior,18621,Remoto,16-06-2025
+JOB-101161,Orion Cloud,Cusco,Perú,Data Analyst,PHP,Spring,Senior,USD 27290,Híbrido,2022-09-24
+JOB-101162,Orion Cloud,GUADALAJARA,México,DevOps Engineer,Go,Angular,Senior,25561,Presencial,06-02-2024
+JOB-101163,Vertex AI,Guadalajara,México,MLOps Engineer,Swift,Flask,Senior,USD 24240,Remoto,25/11/2024
+JOB-101164,Atlas Systems,Valencia,España,Cloud Architect,Python,FastAPI,Mid,"$34,115",Remoto,2024/04/25
+JOB-101165,NeoTech,Córdoba,Argentina,Cloud Architect,Swift,Spring,Mid,$20470,Híbrido,04-10-2022
+JOB-101166,Vertex AI,New York,USA,Backend Developer,Java,Vue,Junior,USD 78032,Híbrido,20-06-2024
+JOB-101167,NeoTech,Guadalajara,México,Cybersecurity Analyst,C#,React,Mid,US$ 18.891,Presencial,2023-04-26
+JOB-101168,CodeWorks,Cusco,Perú,Fullstack Developer,Python,React,Senior,USD 22444,Presencial,24/09/2025
+JOB-101169,CodeWorks,medellín,Colombia,ML Engineer,C#,Angular,Senior,USD 18436,Presencial,2022/09/28
+JOB-101170,Vertex AI,???,Colombia,Data Engineer,R,Vue,Junior,USD 7485,Híbrido,28/07/2024
+JOB-101171,Orion Cloud,Córdoba,Argentina,MLOps Engineer,R,FastAPI,Senior,33247,Híbrido,2023/11/26
+JOB-101172,DataNova,Madrid,España,Data Analyst,C#,.NET,Mid,$20462,Presencial,28/08/2025
+JOB-101173,Lambda Solutions,Lima,Perú,ML Engineer,JavaScript,Django,Mid,"$16,397",Remoto,2025-05-07
+JOB-101174,BluePixel,Cusco,Perú,MLOps Engineer,JavaScript,Node.js,Senior,US$ 20.655,Remoto,2024-02-14
+JOB-101175,CloudForge,Austin,USA,Backend Developer,Swift,Angular,Junior,USD 85003,Presencial,2024-08-18
+JOB-101176,GreenBit,Cali ,Colombia,Cloud Architect,Go,Angular,Mid,"$9,326",Presencial,28-06-2022
+JOB-101177,CodeWorks,Arequipa,Perú,Cloud Architect,Kotlin,Flask,Mid,$22918,Híbrido,2023-10-02
+JOB-101178,DevOpsLab,barcelona,España,Cybersecurity Analyst,PHP,React,Junior,USD 23356,Remoto,2023/02/02
+JOB-101179,Lambda Solutions,Arequipa,Perú,ML Engineer,Java,Angular,Junior,USD 18781,Remoto,24-05-2024
+JOB-101180,GreenBit,Barcelona,España,Data Analyst,Python,Spark,Junior,US$ 32.442,Remoto,19-05-2023
+JOB-101181,IA Factory,Concepción,Chile,BI Developer,R,Node.js,Junior,US$ 20.092,Presencial,29/03/2024
+JOB-101182,CyberShield,New York,USA,DevOps Engineer,C#,Flask,Senior,141693,Remoto,03/06/2024
+JOB-101183,GreenBit,Córdoba,Argentina,ML Engineer,Python,.NET,Junior,$21262,Remoto,2022-03-22
+JOB-101184,RocketSoft,Bucaramanga,Colombia,DevOps Engineer,C#,Spark,Senior,US$ 19.050,Remoto,21-04-2022
+JOB-101185,IA Factory,Buenos Aires,Argentina,DevOps Engineer,Kotlin,Spring,Junior,$10639,Híbrido,2025/03/12
+JOB-101186,Atlas Systems,Monterrey,México,Data Scientist,R,FastAPI,Senior,29714,Híbrido,2022-12-25
+JOB-101187,IA Factory,bogotá,Colombia,Data Analyst,C#,Flask,Senior,"$17,384",Híbrido,22-12-2023
+JOB-101188,DevOpsLab,Arequipa,Perú,Cloud Architect,C#,Spring,Mid,13634,Presencial,2025/02/03
+JOB-101189,Vertex AI,Guadalajara,México,Fullstack Developer,R,Vue,Senior,$28074,Remoto,24-04-2023
+JOB-101190,DataNova,Monterrey,México,DevOps Engineer,C#,Node.js,Mid,USD 14730,Híbrido,2022/10/27
+JOB-101191,DataNova,Valparaíso,Chile,Cybersecurity Analyst,Go,Angular,Senior,USD 35951,Presencial,20/05/2024
+JOB-101192,BluePixel,Buenos Aires,Argentina,Cloud Architect,Scala,Angular,Senior,USD 28979,Híbrido,2024/10/29
+JOB-101193,DataNova,,USA,MLOps Engineer,C#,Flask,Junior,USD 68608,Presencial,11/03/2025
+JOB-101194,Lambda Solutions,CDMX,México,Cloud Architect,PHP,.NET,Mid,19748,Presencial,2023-05-24
+JOB-101195,CloudForge,Valparaíso,Chile,ML Engineer,Swift,Angular,Junior,USD 16935,Híbrido,02/02/2023
+JOB-101196,RocketSoft,Cordoba,Argentina,Frontend Developer,Python,Node.js,Senior,28802,Híbrido,2025/06/23
+JOB-101197,CodeWorks,Buenos Aires,Argentina,MLOps Engineer,Go,Vue,Mid,USD 18358,Remoto,2023-07-03
+JOB-101198,Orion Cloud,Arequipa,Perú,Data Engineer,Go,Node.js,Mid,$17506,Presencial,14/09/2022
+JOB-101199,CloudForge,Cali,Colombia,Data Analyst,TypeScript,FastAPI,Junior,US$ 12.368,Híbrido,2024-09-18
+JOB-101200,CyberShield,Lima,Perú,Data Analyst,C#,React,Senior,$25623,Presencial,06/12/2022
+JOB-101201,RocketSoft,Lima,Perú,Data Analyst,Java,Vue,Senior,USD 21089,Híbrido,2024/12/10
+JOB-101202,CodeWorks,Cartagena,Colombia,Data Analyst,C#,Vue,Senior,US$ 16.504,Híbrido,2024/11/02
+JOB-101203,BluePixel,Barcelona,España,Data Scientist,Scala,React,Junior,US$ 26.892,Remoto,2025-09-10
+JOB-101204,CloudForge,Bucaramanga,Colombia,Data Engineer,Java,Spring,Senior,US$ 16.866,Presencial,2025-09-17
+JOB-101205,DevOpsLab,San Francisco,USA,Data Analyst,Python,.NET,Junior,US$ 77.845,Remoto,2022/03/25
+JOB-101206,CodeWorks,Buenos Aires,Argentina,ML Engineer,C#,Vue,Mid,USD 20254,Presencial,31-10-2025
+JOB-101207,QuantumWare,Cusco,Perú,DevOps Engineer,Java,Angular,Senior,"$25,516",Remoto,24-02-2024
+JOB-101208,CloudForge,Guadalajara,México,Data Engineer,Kotlin,FastAPI,Mid,$16529,Remoto,2022-12-20
+JOB-101209,BluePixel,Santiago,Chile,Data Analyst,Scala,Django,Junior,$21347,Presencial,2023/02/08
+JOB-101210,NeoTech,Bogotá,Colombia,ML Engineer,TypeScript,Flask,Mid,US$ 13.903,Presencial,20/01/2023
+JOB-101211,QuantumWare,New York,USA,Cloud Architect,TypeScript,Vue,Mid,,Remoto,11-02-2023
+JOB-101212,QuantumWare,Valparaíso,Chile,Cloud Architect,JavaScript,Spring,Mid,$24780,Presencial,2023-10-11
+JOB-101213,SoftSmart,Barcelona,España,MLOps Engineer,R,Django,Mid,US$ 38.345,Presencial,2022/04/29
+JOB-101214,Orion Cloud,Santiago ,Chile,Fullstack Developer,Scala,.NET,Junior,"$23,761",Híbrido,21-02-2024
+JOB-101215,NeoTech,Arequipa,Perú,Cloud Architect,Kotlin,.NET,Senior,29279,Presencial,2022/12/07
+JOB-101216,Vertex AI,lima,Perú,Cybersecurity Analyst,R,FastAPI,Mid,USD 16028,Remoto,11-08-2024
+JOB-101217,Orion Cloud,Medellín,Colombia,MLOps Engineer,R,React,Mid,$12130,Presencial,2024-01-18
+JOB-101218,CyberShield,Córdoba,Argentina,DevOps Engineer,Scala,Django,Mid,US$ 15.518,Presencial,07-04-2023
+JOB-101219,NeoTech,Córdoba,Argentina,Cybersecurity Analyst,Python,Angular,Junior,"$13,682",Remoto,2023/03/14
+JOB-101220,SoftSmart,Valencia,España,Data Analyst,Go,FastAPI,Junior,"$30,468",Presencial,27-11-2023
+JOB-101221,CodeWorks,Miami,USA,MLOps Engineer,TypeScript,Spark,Mid,$103976,Presencial,12/11/2024
+JOB-101222,DataNova,Cusco,Perú,Frontend Developer,Kotlin,Laravel,Senior,28807,Híbrido,17/01/2024
+JOB-101223,QuantumWare,Lima,Perú,Backend Developer,TypeScript,FastAPI,Mid,US$ 17.160,Remoto,2024/09/03
+JOB-101224,DevOpsLab,Arequipa,Perú,Backend Developer,JavaScript,Laravel,Mid,USD 14347,Híbrido,2022-11-19
+JOB-101225,Atlas Systems,Rosario,Argentina,ML Engineer,Scala,React,Junior,"$16,952",Remoto,2022-07-17
+JOB-101226,DataNova,Arequipa,Perú,MLOps Engineer,C#,Angular,Junior,$14026,Presencial,2024-01-17
+JOB-101227,IA Factory,Madrid,España,Fullstack Developer,R,,Mid,$40416,Remoto,04-10-2025
+JOB-101228,QuantumWare,Barcelona,España,Data Engineer,Swift,Django,Mid,$38912,Presencial,2022-02-22
+JOB-101229,Atlas Systems,Barcelona,España,Cloud Architect,R,Spark,Junior,"$33,663",Presencial,25-01-2023
+JOB-101230,Vertex AI,Puebla,México,Fullstack Developer,Scala,Node.js,Senior,27674,Remoto,18-01-2022
+JOB-101231,Vertex AI,Barranquilla,Colombia,BI Developer,JavaScript,Angular,Junior,$10814,Híbrido,27-09-2025
+JOB-101232,Orion Cloud,Concepción,Chile,MLOps Engineer,Kotlin,Node.js,Junior,"$18,622",Remoto,16/03/2025
+JOB-101233,CloudForge,Bucaramanga,Colombia,Cybersecurity Analyst,R,Node.js,Mid,13791,Presencial,07/12/2022
+JOB-101234,Lambda Solutions,Córdoba ,Argentina,BI Developer,C#,React,Junior,14792,Remoto,2023/10/22
+JOB-101235,Atlas Systems,Seattle,USA,MLOps Engineer,Python,Spark,Junior,$76968,Híbrido,06-06-2022
+JOB-101236,QuantumWare,Buenos Aires,Argentina,Backend Developer,JavaScript,Django,Junior,20465,Híbrido,22/02/2024
+JOB-101237,DataNova,valencia,España,MLOps Engineer,Python,Laravel,Senior,$56047,Remoto,27/07/2022
+JOB-101238,Orion Cloud,San Francisco,USA,MLOps Engineer,C#,Angular,Junior,"$62,706",Presencial,2023-09-23
+JOB-101239,QuantumWare,,Perú,BI Developer,Java,Laravel,Senior,US$ 30.833,Remoto,01/09/2024
+JOB-101240,BluePixel,???,Chile,Data Scientist,Go,.NET,Senior,"$40,250",Remoto,22-04-2022
+JOB-101241,CodeWorks,Cusco,Perú,Data Scientist,R,Node.js,Senior,$29510,Presencial,2022-12-09
+JOB-101242,CloudForge,Concepción,Chile,Data Scientist,R,Node.js,Senior,$36035,Remoto,01-06-2025
+JOB-101243,IA Factory,New York,USA,Frontend Developer,R,Angular,Mid,US$ 99.927,Presencial,2025/08/30
+JOB-101244,CyberShield,Barcelona,España,Cloud Architect,Scala,Laravel,Mid,36671,Presencial,21/10/2024
+JOB-101245,RocketSoft,Rosario,Argentina,Data Scientist,JavaScript,Django,Mid,"$17,900",Híbrido,2024-11-23
+JOB-101246,DataNova,CUSCO,Perú,Data Analyst,Kotlin,React,Junior,17704,Presencial,2024-10-02
+JOB-101247,BluePixel,Arequipa,Perú,Fullstack Developer,Kotlin,Django,Mid,,Presencial,01-03-2023
+JOB-101248,Atlas Systems,Monterrey,México,Fullstack Developer,PHP,Flask,Mid,USD 16702,Presencial,02/05/2022
+JOB-101249,BluePixel,rosario,Argentina,Backend Developer,Python,Angular,Mid,18669,Híbrido,2023-10-18
+JOB-101250,Orion Cloud,Puebla,México,Fullstack Developer,C#,Node.js,Senior,US$ 32.239,Presencial,2024-09-07
+JOB-101251,NeoTech,???,Colombia,MLOps Engineer,C#,Laravel,Mid,USD 13580,Remoto,2024/07/10
+JOB-101252,BluePixel,Madrid,España,Cybersecurity Analyst,Kotlin,FastAPI,Mid,"$35,902",Híbrido,09/11/2022
+JOB-101253,IA Factory,CDMX,México,BI Developer,Scala,Django,Senior,$25027,Híbrido,26/05/2022
+JOB-101254,IA Factory,Concepción,Chile,Fullstack Developer,R,Spring,Senior,$37679,Remoto,2023/11/22
+JOB-101255,GreenBit,Monterrey,México,Data Engineer,Kotlin,Spring,Mid,US$ 20.371,Presencial,2025/09/12
+JOB-101256,SoftSmart,Barcelona,España,BI Developer,Go,Vue,Junior,US$ 23.056,Remoto,23-04-2025
+JOB-101257,Vertex AI,Puebla,México,Backend Developer,Kotlin,Django,Mid,"$20,440",Presencial,2024/05/26
+JOB-101258,DevOpsLab,Madrid,España,Data Scientist,Go,Node.js,Senior,US$ 51.460,Híbrido,2024-08-31
+JOB-101259,Orion Cloud,Valparaíso,Chile,Data Analyst,Go,Laravel,Senior,$31398,Híbrido,2023-06-17
+JOB-101260,Atlas Systems,Córdoba,Argentina,Backend Developer,TypeScript,FastAPI,Senior,USD 26360,Remoto,21-06-2024
+JOB-101261,DevOpsLab,Rosario,Argentina,Frontend Developer,PHP,Laravel,Junior,US$ 17.900,Presencial,21/09/2024
+JOB-101262,CodeWorks,Arequipa,Perú,Fullstack Developer,C#,React,Mid,USD 22747,Remoto,2022-03-15
+JOB-101263,DataNova,Córdoba,Argentina,Cybersecurity Analyst,PHP,Spring,Mid,20443,Presencial,17-02-2023
+JOB-101264,IA Factory,Lima,Perú,ML Engineer,Swift,React,Senior,US$ 27.305,Remoto,2024/04/22
+JOB-101265,Atlas Systems,Barranquilla,Colombia,ML Engineer,Scala,Spark,Junior,8427,Presencial,13/07/2025
+JOB-101266,RocketSoft,Concepción,Chile,Fullstack Developer,PHP,Node.js,Junior,"$21,474",Remoto,2022/10/03
+JOB-101267,GreenBit,Medellin,Colombia,Data Analyst,Python,Laravel,Junior,10784,Híbrido,2022/11/18
+JOB-101268,CodeWorks,???,Perú,Data Analyst,JavaScript,Angular,Senior,"$19,575",Remoto,2025/08/20
+JOB-101269,Lambda Solutions,Barcelona,España,Cloud Architect,Python,React,Mid,USD 35076,Remoto,06-05-2025
+JOB-101270,CloudForge,Buenos Aires,Argentina,Data Analyst,Scala,Spark,Mid,USD 22372,Híbrido,09-01-2025
+JOB-101271,Vertex AI,Santiago,Chile,Frontend Developer,R,Spring,Mid,$18404,Remoto,2023-10-16
+JOB-101272,CodeWorks,???,España,Frontend Developer,Kotlin,Node.js,Mid,US$ 35.868,Híbrido,2024/01/13
+JOB-101273,SoftSmart,Cusco ,Perú,Data Engineer,Swift,Angular,Junior,USD 15697,Híbrido,2022-10-27
+JOB-101274,QuantumWare,Buenos Aires,Argentina,BI Developer,Scala,FastAPI,Senior,US$ 20.899,Híbrido,2022-05-07
+JOB-101275,RocketSoft,Monterrey ,México,Cloud Architect,R,Vue,Senior,USD 23700,Híbrido,11-09-2023
+JOB-101276,IA Factory,Lima,Perú,ML Engineer,C#,Django,Junior,14518,Remoto,2022/05/09
+JOB-101277,QuantumWare,San Francisco,USA,Cybersecurity Analyst,TypeScript,Spark,Junior,US$ 86.150,Híbrido,2023-06-03
+JOB-101278,CloudForge,Rosario,Argentina,Cybersecurity Analyst,Go,React,Senior,USD 22629,Híbrido,2023-05-10
+JOB-101279,Atlas Systems,New York,USA,BI Developer,Swift,Spark,Mid,USD 110810,Híbrido,2024-05-12
+JOB-101280,Atlas Systems,Sevilla,España,DevOps Engineer,R,Node.js,Senior,55639,Remoto,2022-03-17
+JOB-101281,CodeWorks,Barranquilla,Colombia,BI Developer,C#,Angular,Mid,US$ 14.154,Remoto,20-01-2025
+JOB-101282,Atlas Systems,Rosario,Argentina,BI Developer,Kotlin,React,Junior,"$18,791",Presencial,27-03-2025
+JOB-101283,BluePixel,Arequipa,Perú,Data Analyst,C#,Angular,Mid,USD 18920,Híbrido,03-11-2023
+JOB-101284,Vertex AI,Bogotá,Colombia,BI Developer,Go,Angular,Junior,"$10,299",Híbrido,2025/10/03
+JOB-101285,DevOpsLab,Cusco,Perú,Cloud Architect,TypeScript,React,Junior,"$10,642",Híbrido,10-04-2022
+JOB-101286,DataNova,Concepción,Chile,Cloud Architect,JavaScript,Node.js,Mid,US$ 19.936,Híbrido,2025-05-24
+JOB-101287,CloudForge,Puebla,México,Data Engineer,PHP,Django,Mid,15285,Remoto,10/01/2022
+JOB-101288,CyberShield,New York,USA,ML Engineer,Go,.NET,Senior,US$ 126.057,Híbrido,2023/10/04
+JOB-101289,SoftSmart,monterrey,México,Data Scientist,Swift,Flask,Junior,"$16,415",Híbrido,02-03-2023
+JOB-101290,DataNova,Austin,USA,Frontend Developer,TypeScript,React,Senior,USD 97420,Híbrido,15/09/2022
+JOB-101291,CloudForge,MEDELLÍN,Colombia,ML Engineer,JavaScript,Vue,Senior,USD 15993,Presencial,30-06-2024
+JOB-101292,DevOpsLab,???,Perú,DevOps Engineer,Python,Laravel,Junior,$11546,Híbrido,2024/02/18
+JOB-101293,DevOpsLab,Puebla,México,DevOps Engineer,Kotlin,Flask,Junior,US$ 11.035,Presencial,13/11/2022
+JOB-101294,QuantumWare,New York,USA,DevOps Engineer,JavaScript,Laravel,Senior,USD 162464,Híbrido,2025/01/07
+JOB-101295,RocketSoft,Cusco,Perú,DevOps Engineer,Scala,Vue,Senior,USD 25572,Remoto,2024-09-03
+JOB-101296,GreenBit,Valparaiso,Chile,Backend Developer,Java,Laravel,Senior,US$ 43.584,Presencial,2023/01/15
+JOB-101297,Atlas Systems,CDMX,México,Frontend Developer,R,,Junior,$16957,Remoto,2024-04-01
+JOB-101298,DataNova,AREQUIPA,Perú,Data Scientist,R,.NET,Junior,12409,Híbrido,2024/02/09
+JOB-101299,CyberShield,Bogotá,Colombia,DevOps Engineer,Scala,Vue,Mid,US$ 8.661,Híbrido,07-04-2025
+JOB-101300,DataNova,Monterrey,México,Data Analyst,C#,Django,Junior,$18871,Remoto,20-01-2025
+JOB-101301,NeoTech,Rosario,Argentina,Backend Developer,Scala,.NET,Mid,"$18,784",Híbrido,14/08/2023
+JOB-101302,QuantumWare,Lima,Perú,DevOps Engineer,Java,Spark,Junior,USD 11927,Híbrido,05-02-2023
+JOB-101303,SoftSmart,Valparaíso ,Chile,Cloud Architect,R,Angular,Mid,$27591,Presencial,2025/03/20
+JOB-101304,DevOpsLab,Cartagena,Colombia,Cloud Architect,Scala,Spark,Senior,USD 17143,Remoto,29-07-2023
+JOB-101305,IA Factory,Córdoba,Argentina,BI Developer,Kotlin,Flask,Mid,$17985,Presencial,30-03-2023
+JOB-101306,QuantumWare,Guadalajara,México,Data Analyst,Go,Spring,Mid,US$ 17.066,Remoto,10/05/2024
+JOB-101307,IA Factory,???,USA,Data Scientist,Java,Angular,Mid,US$ 97.298,Presencial,08-10-2025
+JOB-101308,NeoTech,Monterrey,México,Data Engineer,Swift,Spark,Junior,US$ 14.559,Híbrido,13/03/2023
+JOB-101309,Lambda Solutions,MADRID,España,DevOps Engineer,Kotlin,Django,Junior,,Presencial,2022/01/02
+JOB-101310,CyberShield,???,España,Data Engineer,Swift,Laravel,Junior,USD 28788,Remoto,03-04-2023
+JOB-101311,QuantumWare,Valencia,España,Cybersecurity Analyst,PHP,Vue,Junior,US$ 28.835,Remoto,22/10/2024
+JOB-101312,GreenBit,Córdoba,Argentina,DevOps Engineer,C#,Flask,Mid,21801,Híbrido,2023/03/14
+JOB-101313,Orion Cloud,Buenos Aires,Argentina,Data Analyst,R,Spark,Senior,US$ 29.314,Híbrido,2023-03-07
+JOB-101314,Orion Cloud,Rosario,Argentina,Fullstack Developer,Java,Spring,Junior,USD 18626,Híbrido,26/03/2023
+JOB-101315,SoftSmart,BOGOTÁ,Colombia,Fullstack Developer,Python,Node.js,Junior,US$ 9.240,Híbrido,18-10-2024
+JOB-101316,BluePixel,Córdoba,Argentina,ML Engineer,Go,Laravel,Junior,US$ 15.763,Híbrido,02-08-2023
+JOB-101317,DataNova,Buenos Aires,Argentina,DevOps Engineer,Scala,Spark,Junior,US$ 13.225,Presencial,2022-08-19
+JOB-101318,IA Factory,Rosario,Argentina,Cybersecurity Analyst,JavaScript,React,Senior,34296,Híbrido,11-04-2025
+JOB-101319,BluePixel,Sevilla,España,Data Engineer,JavaScript,Spring,Senior,USD 42077,Híbrido,02/08/2024
+JOB-101320,QuantumWare,Cartagena,Colombia,BI Developer,TypeScript,React,Senior,USD 17309,Presencial,2022/07/19
+JOB-101321,NeoTech,Austin,USA,Fullstack Developer,C#,FastAPI,Junior,$65831,Híbrido,2024/10/14
+JOB-101322,Atlas Systems,Rosario,Argentina,Data Analyst,C#,.NET,Mid,$21012,Remoto,21-09-2022
+JOB-101323,DataNova,???,USA,Data Analyst,R,Spring,Mid,105607,Híbrido,10/11/2024
+JOB-101324,Orion Cloud,Bogotá,Colombia,DevOps Engineer,Python,Node.js,Senior,"$12,668",Híbrido,15/02/2023
+JOB-101325,BluePixel,Madrid,España,Backend Developer,PHP,Spring,Junior,"$29,438",Remoto,2023/12/30
+JOB-101326,Orion Cloud,Austin,USA,Cloud Architect,Swift,Laravel,Mid,USD 69966,Presencial,2022/09/13
+JOB-101327,RocketSoft,Cartagena,Colombia,DevOps Engineer,Kotlin,Flask,Junior,"$11,622",Híbrido,15-01-2022
+JOB-101328,NeoTech,Miami,USA,Data Analyst,Kotlin,Vue,Junior,70948,Híbrido,2022/02/07
+JOB-101329,NeoTech,,España,Fullstack Developer,PHP,Spring,Mid,US$ 29.013,Híbrido,2022/04/03
+JOB-101330,NeoTech,Medellín,Colombia,Frontend Developer,Java,React,Junior,USD 8589,Híbrido,2025-01-20
+JOB-101331,DevOpsLab,Valparaíso,Chile,BI Developer,Kotlin,Angular,Junior,"$23,933",Híbrido,13-05-2024
+JOB-101332,Vertex AI,Valencia,España,Cybersecurity Analyst,JavaScript,Spark,Mid,"$46,479",Remoto,2024-01-12
+JOB-101333,GreenBit,Cusco,Perú,Cloud Architect,R,Spark,Mid,,Presencial,2022-07-10
+JOB-101334,CodeWorks,Austin,USA,Data Engineer,Go,Spring,Senior,US$ 117.352,Híbrido,08-08-2022
+JOB-101335,Orion Cloud,Córdoba,Argentina,Data Analyst,Python,FastAPI,Mid,US$ 19.543,Presencial,19-08-2022
+JOB-101336,QuantumWare,Barranquilla,Colombia,BI Developer,R,.NET,Mid,14942,Presencial,04/01/2022
+JOB-101337,Lambda Solutions,Seattle,USA,Data Scientist,JavaScript,Spring,Mid,US$ 84.574,Presencial,11-06-2024
+JOB-101338,Vertex AI,Puebla,México,Data Scientist,Swift,Django,Senior,$23934,Híbrido,2024/09/25
+JOB-101339,Atlas Systems,Concepción,Chile,Data Scientist,JavaScript,Vue,Senior,$29992,Híbrido,2024/12/25
+JOB-101340,DataNova,Monterrey,México,Data Engineer,Swift,Laravel,Junior,"$11,885",Híbrido,2022/07/06
+JOB-101341,IA Factory,concepción,Chile,MLOps Engineer,Swift,Flask,Junior,US$ 23.618,Híbrido,04-01-2023
+JOB-101342,GreenBit,Bogotá,Colombia,Cybersecurity Analyst,JavaScript,Node.js,Mid,,Remoto,21-01-2025
+JOB-101343,Lambda Solutions,Valparaíso,Chile,Frontend Developer,TypeScript,Vue,Mid,USD 26686,Híbrido,21-03-2025
+JOB-101344,Vertex AI,Concepción,Chile,Cybersecurity Analyst,Python,Django,Junior,"$21,738",Remoto,18/04/2025
+JOB-101345,SoftSmart,Rosario,Argentina,Data Analyst,C#,Angular,Mid,23063,Remoto,29/04/2022
+JOB-101346,Atlas Systems,???,Chile,MLOps Engineer,R,React,Mid,"$30,663",Híbrido,2023-08-18
+JOB-101347,Vertex AI,Buenos Aires,Argentina,Data Analyst,C#,Spark,Mid,USD 19978,Remoto,2023-11-27
+JOB-101348,SoftSmart,LIMA,Perú,Backend Developer,Kotlin,Django,Senior,US$ 23.911,Presencial,13-01-2025
+JOB-101349,RocketSoft,Bucaramanga,Colombia,MLOps Engineer,Java,Angular,Senior,US$ 14.219,Híbrido,2024-07-28
+JOB-101350,Orion Cloud,Puebla,México,Backend Developer,JavaScript,Angular,Junior,$16737,Presencial,22-09-2022
+JOB-101351,Vertex AI,Madrid,España,Backend Developer,Java,Spark,Mid,USD 35064,Híbrido,08-05-2022
+JOB-101352,QuantumWare,Medellín ,Colombia,ML Engineer,Java,Laravel,Mid,US$ 9.309,Híbrido,09-01-2022
+JOB-101353,DevOpsLab,Lima,Perú,BI Developer,JavaScript,FastAPI,Senior,"$24,183",Remoto,2022-09-10
+JOB-101354,QuantumWare,San Francisco,USA,Data Analyst,PHP,Angular,Mid,95346,Remoto,02-04-2023
+JOB-101355,Orion Cloud,Lima,Perú,Data Scientist,PHP,Laravel,Senior,USD 28346,Remoto,2023/06/20
+JOB-101356,DevOpsLab,Valencia,España,MLOps Engineer,JavaScript,Spring,Junior,$34977,Remoto,02/06/2025
+JOB-101357,Vertex AI,Buenos Aires,Argentina,ML Engineer,Python,Flask,Senior,USD 24929,Remoto,2022-12-15
+JOB-101358,DevOpsLab,valparaíso,Chile,Fullstack Developer,TypeScript,Vue,Junior,$17599,Remoto,21/10/2023
+JOB-101359,BluePixel,Concepción,Chile,Backend Developer,PHP,FastAPI,Senior,USD 33277,Híbrido,2022/02/25
+JOB-101360,Lambda Solutions,Santiago,Chile,DevOps Engineer,TypeScript,Laravel,Senior,$28640,Presencial,24-09-2023
+JOB-101361,CodeWorks,Córdoba,Argentina,Data Engineer,Python,Flask,Junior,15736,Presencial,2022-06-19
+JOB-101362,CyberShield,Córdoba,Argentina,Data Scientist,R,Spring,Junior,USD 17106,Remoto,23/10/2023
+JOB-101363,CodeWorks,Valencia,España,Frontend Developer,Java,Laravel,Mid,"$38,244",Remoto,2024/09/09
+JOB-101364,BluePixel,Bogotá,Colombia,Data Analyst,C#,Spark,Mid,9095,Híbrido,26/07/2023
+JOB-101365,Lambda Solutions,Guadalajara,México,BI Developer,JavaScript,Vue,Junior,$11825,Híbrido,20/06/2023
+JOB-101366,SoftSmart,Cartagena,Colombia,Backend Developer,Kotlin,Django,Mid,14314,Híbrido,10/02/2022
+JOB-101367,NeoTech,Valparaíso,Chile,Backend Developer,JavaScript,FastAPI,Senior,29679,Híbrido,2023-08-28
+JOB-101368,GreenBit,Guadalajara,México,Fullstack Developer,TypeScript,React,Junior,US$ 15.995,Híbrido,2023/10/12
+JOB-101369,GreenBit,Cusco,Perú,Backend Developer,JavaScript,.NET,Mid,$19706,Presencial,2023/04/14
+JOB-101370,CloudForge,San Francisco,USA,BI Developer,Scala,Laravel,Mid,USD 90410,Presencial,2022-09-13
+JOB-101371,DevOpsLab,Cusco,Perú,Cloud Architect,C#,Node.js,Junior,12246,Híbrido,08/11/2023
+JOB-101372,Vertex AI,Cali,Colombia,MLOps Engineer,Scala,,Senior,17330,Remoto,2022-01-16
+JOB-101373,RocketSoft,Guadalajara,México,MLOps Engineer,Python,Angular,Senior,21850,Remoto,2023-01-09
+JOB-101374,Orion Cloud,Concepción,Chile,Backend Developer,PHP,Vue,Mid,"$24,340",Remoto,24/03/2025
+JOB-101375,Vertex AI,Lima,Perú,BI Developer,Python,React,Senior,$25600,Remoto,2022/08/26
+JOB-101376,Lambda Solutions,Córdoba,Argentina,Data Engineer,R,Laravel,Mid,"$17,849",Remoto,2024/04/30
+JOB-101377,IA Factory,Buenos Aires,Argentina,Backend Developer,Python,Django,Mid,USD 19319,Híbrido,2025/05/28
+JOB-101378,Atlas Systems,???,México,Cloud Architect,R,Spark,Senior,24034,Remoto,2022/04/12
+JOB-101379,GreenBit,Santiago,Chile,Frontend Developer,Scala,Flask,Mid,"$20,366",Híbrido,2024-01-28
+JOB-101380,DataNova,Austin,USA,MLOps Engineer,C#,Django,Senior,$129197,Presencial,17/01/2025
+JOB-101381,DataNova,???,México,MLOps Engineer,R,Flask,Mid,USD 16279,Remoto,03/05/2024
+JOB-101382,CodeWorks,Guadalajara,México,ML Engineer,Swift,Spark,Senior,18304,Híbrido,2024-10-18
+JOB-101383,GreenBit,Guadalajara,México,Fullstack Developer,Kotlin,FastAPI,Mid,$17088,Híbrido,2025-02-25
+JOB-101384,NeoTech,Cartagena,Colombia,ML Engineer,Swift,React,Mid,$11490,Remoto,13-03-2024
+JOB-101385,Lambda Solutions,Lima,Perú,Frontend Developer,C#,Django,Senior,US$ 22.913,Remoto,14/05/2024
+JOB-101386,NeoTech,Lima,Perú,DevOps Engineer,Python,Node.js,Junior,9946,Híbrido,02/12/2023
+JOB-101387,Lambda Solutions,Puebla,México,Data Analyst,Scala,Spring,Mid,US$ 20.095,Presencial,03/06/2025
+JOB-101388,IA Factory,Guadalajara,México,DevOps Engineer,Kotlin,FastAPI,Mid,$19845,Remoto,26/05/2024
+JOB-101389,DevOpsLab,Santiago,Chile,Data Analyst,Scala,Spring,Mid,27439,Remoto,29/08/2025
+JOB-101390,QuantumWare,Cusco,Perú,Fullstack Developer,Kotlin,,Mid,USD 18877,Presencial,2025-02-13
+JOB-101391,Atlas Systems,Monterrey,México,Fullstack Developer,Go,Vue,Junior,$11685,Híbrido,2023/05/22
+JOB-101392,IA Factory,Córdoba,Argentina,Data Engineer,JavaScript,Vue,Senior,US$ 28.516,Remoto,2022-12-17
+JOB-101393,RocketSoft,Lima,Perú,ML Engineer,Python,React,Mid,15495,Híbrido,2024/01/04
+JOB-101394,Atlas Systems,Seattle,USA,MLOps Engineer,Swift,Angular,Junior,100937,Híbrido,2022-02-01
+JOB-101395,QuantumWare,Barcelona,España,Data Scientist,Kotlin,Flask,Mid,USD 35032,Remoto,18-07-2024
+JOB-101396,DataNova,Sevilla,España,Data Scientist,Scala,Laravel,Junior,$33444,Presencial,12-02-2022
+JOB-101397,DataNova,Miami,USA,Backend Developer,Python,Flask,Mid,"$72,876",Híbrido,22/05/2022
+JOB-101398,IA Factory,Puebla,México,MLOps Engineer,Java,Flask,Mid,14815,Híbrido,30/07/2022
+JOB-101399,CloudForge,Cusco,Perú,Frontend Developer,PHP,Spring,Junior,$13241,Híbrido,2024-10-19
+JOB-101400,IA Factory,San Francisco,USA,Backend Developer,Kotlin,Spark,Junior,"$84,008",Híbrido,06-11-2022
+JOB-101401,Lambda Solutions,Lima,Perú,Backend Developer,Swift,Node.js,Senior,$27270,Remoto,2023/11/22
+JOB-101402,BluePixel,Valencia,España,BI Developer,C#,Laravel,Junior,31714,Presencial,2023/05/30
+JOB-101403,CloudForge,Concepción,Chile,MLOps Engineer,JavaScript,Spring,Senior,USD 25266,Presencial,16/05/2022
+JOB-101404,GreenBit,Austin,USA,Frontend Developer,Scala,Django,Junior,$88897,Híbrido,06-09-2024
+JOB-101405,Lambda Solutions,Barranquilla,Colombia,ML Engineer,JavaScript,Spring,Mid,$10332,Presencial,2024/01/20
+JOB-101406,GreenBit,Barcelona,España,DevOps Engineer,PHP,Node.js,Senior,USD 66090,Híbrido,06-02-2025
+JOB-101407,NeoTech,Guadalajara,México,Fullstack Developer,C#,Node.js,Senior,USD 32254,Híbrido,16-12-2024
+JOB-101408,BluePixel,Valencia,España,MLOps Engineer,PHP,,Mid,USD 42709,Híbrido,29/07/2024
+JOB-101409,CloudForge,New York,USA,Cloud Architect,Kotlin,Node.js,Mid,"$109,084",Híbrido,30-03-2025
+JOB-101410,Atlas Systems,Cartagena,Colombia,Data Analyst,Python,Spark,Junior,USD 7783,Presencial,2022/07/27
+JOB-101411,IA Factory,Seattle,USA,Frontend Developer,PHP,Node.js,Senior,US$ 184.491,Remoto,2025/09/25
+JOB-101412,IA Factory,ROSARIO,Argentina,Cybersecurity Analyst,R,Angular,Junior,16522,Remoto,2024/10/28
+JOB-101413,BluePixel,Valencia,España,Fullstack Developer,PHP,Angular,Senior,"$61,178",Híbrido,16-03-2023
+JOB-101414,CodeWorks,Arequipa,Perú,ML Engineer,JavaScript,React,Senior,USD 21956,Remoto,2022/12/23
+JOB-101415,Atlas Systems,Seattle,USA,Cloud Architect,JavaScript,.NET,Mid,"$94,073",Presencial,2023/04/19
+JOB-101416,Orion Cloud,,Argentina,Data Scientist,Go,React,Mid,USD 16439,Híbrido,30/07/2023
+JOB-101417,CyberShield,Cali,Colombia,Data Engineer,Scala,Angular,Senior,$16195,Remoto,09/02/2022
+JOB-101418,BluePixel,Valencia,España,Cybersecurity Analyst,Go,Spring,Mid,$38088,Remoto,2023-12-19
+JOB-101419,Orion Cloud,New York,USA,Data Engineer,R,.NET,Mid,"$98,645",Presencial,08-11-2023
+JOB-101420,CloudForge,Cusco,Perú,Backend Developer,Swift,,Mid,21768,Remoto,2022-07-13
+JOB-101421,DataNova,Córdoba,Argentina,Backend Developer,Scala,Django,Junior,USD 17154,Remoto,2023/06/15
+JOB-101422,QuantumWare,Puebla,México,Data Scientist,Go,Spring,Senior,$26121,Remoto,2025/07/24
+JOB-101423,Vertex AI,Santiago,Chile,DevOps Engineer,Kotlin,Vue,Mid,US$ 25.144,Remoto,2025/08/10
+JOB-101424,RocketSoft,Cali,Colombia,Fullstack Developer,Java,FastAPI,Senior,$21866,Presencial,2022-01-04
+JOB-101425,DataNova,Cartagena,Colombia,Data Engineer,Scala,Laravel,Senior,15340,Híbrido,2022/05/07
+JOB-101426,Lambda Solutions,Cusco,Perú,Data Scientist,JavaScript,Angular,Junior,USD 16966,Remoto,16/09/2024
+JOB-101427,DevOpsLab,Buenos Aires,Argentina,Cloud Architect,Kotlin,Flask,Junior,11292,Remoto,03-02-2025
+JOB-101428,GreenBit,CDMX,México,Cybersecurity Analyst,Python,React,Senior,US$ 21.881,Híbrido,2022-12-26
+JOB-101429,CodeWorks,Austin,USA,Frontend Developer,Python,FastAPI,Junior,USD 80679,Presencial,2022/10/09
+JOB-101430,Atlas Systems,Madrid,España,ML Engineer,PHP,Spark,Mid,$37082,Presencial,2025/04/30
+JOB-101431,SoftSmart,Concepción,Chile,Backend Developer,R,Spring,Mid,US$ 36.277,Presencial,2025/05/18
+JOB-101432,CloudForge,Guadalajara,México,MLOps Engineer,Scala,.NET,Junior,US$ 19.971,Presencial,2024-12-13
+JOB-101433,NeoTech,Concepción,Chile,DevOps Engineer,Kotlin,.NET,Junior,US$ 15.442,Presencial,16-12-2023
+JOB-101434,Orion Cloud,Guadalajara ,México,Backend Developer,TypeScript,Node.js,Senior,US$ 21.152,Híbrido,2023/11/28
+JOB-101435,IA Factory,Concepción,Chile,Cloud Architect,Java,,Junior,"$19,573",Presencial,2023/11/25
+JOB-101436,SoftSmart,Lima ,Perú,Data Analyst,Python,Vue,Mid,USD 22698,Híbrido,2025/05/16
+JOB-101437,BluePixel,Sevilla,España,Frontend Developer,C#,Angular,Junior,35583,Híbrido,2022/07/25
+JOB-101438,GreenBit,Bogotá,Colombia,Data Scientist,Python,Flask,Mid,USD 12589,Híbrido,2023/01/04
+JOB-101439,Atlas Systems,Valparaíso,Chile,Backend Developer,R,FastAPI,Mid,USD 19696,Presencial,30/10/2024
+JOB-101440,Lambda Solutions,Arequipa,Perú,Data Scientist,Python,Node.js,Junior,US$ 12.576,Híbrido,28/12/2024
+JOB-101441,IA Factory,Cusco,Perú,BI Developer,JavaScript,Flask,Junior,8603,Híbrido,2025-07-30
+JOB-101442,DevOpsLab,concepción,Chile,Cloud Architect,Go,Laravel,Senior,USD 26942,Híbrido,2022/04/06
+JOB-101443,GreenBit,Miami,USA,Data Scientist,Go,React,Senior,"$141,553",Híbrido,2025/01/14
+JOB-101444,QuantumWare,Concepción,Chile,ML Engineer,Scala,Vue,Junior,"$22,376",Remoto,2022-05-09
+JOB-101445,DevOpsLab,Puebla,México,Frontend Developer,Python,Vue,Junior,$11590,Remoto,21-10-2025
+JOB-101446,Lambda Solutions,VALPARAÍSO,Chile,Data Scientist,R,Laravel,Senior,"$35,586",Híbrido,2024-05-28
+JOB-101447,Orion Cloud,Cusco,Perú,Data Analyst,Swift,Laravel,Junior,"$17,921",Híbrido,2024/07/24
+JOB-101448,GreenBit,Barcelona,España,Cloud Architect,Swift,Spring,Junior,$31163,Presencial,14-12-2023
+JOB-101449,QuantumWare,Puebla,México,Cybersecurity Analyst,PHP,Angular,Junior,"$13,747",Remoto,25/11/2023
+JOB-101450,BluePixel,Puebla ,México,MLOps Engineer,C#,FastAPI,Mid,19664,Remoto,30/05/2022
+JOB-101451,CodeWorks,Arequipa,Perú,Data Scientist,R,Flask,Junior,$15550,Híbrido,2022-02-07
+JOB-101452,IA Factory,Cusco,Perú,Data Scientist,Scala,Laravel,Mid,US$ 18.231,Presencial,2024/06/05
+JOB-101453,GreenBit,Córdoba,Argentina,Data Analyst,Kotlin,React,Senior,$25772,Híbrido,2022/03/25
+JOB-101454,QuantumWare,???,Argentina,Frontend Developer,TypeScript,Vue,Mid,$18742,Remoto,30-10-2024
+JOB-101455,BluePixel,puebla,México,MLOps Engineer,JavaScript,Flask,Mid,US$ 18.257,Presencial,22/05/2022
+JOB-101456,DataNova,Monterrey,México,BI Developer,C#,React,Senior,"$23,143",Presencial,2022/11/07
+JOB-101457,RocketSoft,CDMX,México,Data Scientist,Scala,.NET,Senior,US$ 30.258,Remoto,19/10/2025
+JOB-101458,BluePixel,CDMX,México,Frontend Developer,Python,Vue,Mid,US$ 20.425,Híbrido,01/09/2022
+JOB-101459,Orion Cloud,Rosario,Argentina,Data Scientist,JavaScript,React,Junior,USD 18622,Híbrido,2023-10-05
+JOB-101460,QuantumWare,Seattle,USA,Data Scientist,Kotlin,React,Junior,USD 99175,Remoto,2025-10-13
+JOB-101461,GreenBit,lima,Perú,Frontend Developer,R,Spark,Mid,$22277,Remoto,2023/04/06
+JOB-101462,Vertex AI,Austin,USA,Backend Developer,Python,Spring,Junior,$92226,Presencial,26/11/2024
+JOB-101463,RocketSoft,Santiago,Chile,MLOps Engineer,TypeScript,Spring,Mid,"$26,410",Remoto,15-01-2022
+JOB-101464,DataNova,Medellín ,Colombia,MLOps Engineer,JavaScript,Spring,Mid,"$11,661",Presencial,22/03/2024
+JOB-101465,RocketSoft,Buenos Aires,Argentina,Fullstack Developer,Swift,Flask,Junior,USD 21533,Híbrido,2023-11-23
+JOB-101466,Orion Cloud,Córdoba,Argentina,BI Developer,JavaScript,Django,Senior,$25189,Remoto,2022/10/04
+JOB-101467,RocketSoft,Bogotá,Colombia,Frontend Developer,PHP,,Junior,US$ 8.714,Presencial,11/06/2025
+JOB-101468,SoftSmart,Valparaíso ,Chile,ML Engineer,PHP,React,Junior,"$17,405",Híbrido,2025-02-17
+JOB-101469,CloudForge,Cusco,Perú,Data Engineer,PHP,.NET,Junior,$14874,Presencial,13-06-2025
+JOB-101470,RocketSoft,???,USA,DevOps Engineer,TypeScript,Laravel,Mid,US$ 101.022,Remoto,18/04/2025
+JOB-101471,CodeWorks,Sevilla,España,Data Engineer,JavaScript,Laravel,Senior,US$ 61.452,Híbrido,2025/08/16
+JOB-101472,Vertex AI,,Colombia,Backend Developer,Java,.NET,Senior,16243,Remoto,17/12/2024
+JOB-101473,Vertex AI,Miami ,USA,Data Analyst,R,FastAPI,Senior,$98486,Híbrido,2024/10/31
+JOB-101474,CyberShield,Córdoba ,Argentina,Frontend Developer,Kotlin,Django,Senior,USD 29355,Híbrido,2025/10/05
+JOB-101475,GreenBit,Lima,Perú,Cybersecurity Analyst,Go,Flask,Mid,$20640,Presencial,23-07-2023
+JOB-101476,CloudForge,Monterrey,México,Data Scientist,TypeScript,Spring,Senior,"$25,335",Remoto,2025-09-02
+JOB-101477,Vertex AI,Madrid,España,Backend Developer,Go,Spark,Senior,$52167,Remoto,2024-10-12
+JOB-101478,SoftSmart,Córdoba,Argentina,Backend Developer,Java,Laravel,Senior,$30379,Remoto,04/05/2024
+JOB-101479,CodeWorks,???,Argentina,Data Analyst,C#,Laravel,Mid,$24310,Remoto,14/09/2023
+JOB-101480,SoftSmart,Sevilla,España,ML Engineer,Swift,Laravel,Junior,USD 30116,Presencial,2024/02/03
+JOB-101481,RocketSoft,Arequipa,Perú,Backend Developer,R,.NET,Mid,US$ 14.176,Presencial,24-09-2025
+JOB-101482,DevOpsLab,ROSARIO,Argentina,Fullstack Developer,Go,Vue,Junior,USD 14654,Remoto,10-01-2023
+JOB-101483,QuantumWare,Cartagena,Colombia,MLOps Engineer,Go,Django,Senior,16391,Remoto,2024-12-29
+JOB-101484,DataNova,Barranquilla,Colombia,DevOps Engineer,Go,Laravel,Mid,US$ 8.764,Remoto,30/03/2023
+JOB-101485,GreenBit,???,Perú,Backend Developer,Python,Spark,Junior,US$ 16.069,Presencial,09/01/2024
+JOB-101486,Atlas Systems,New York,USA,Frontend Developer,Scala,,Junior,US$ 67.288,Remoto,2022/01/07
+JOB-101487,Orion Cloud,Madrid,España,Cybersecurity Analyst,TypeScript,React,Senior,$57278,Híbrido,22-01-2022
+JOB-101488,QuantumWare,Santiago,Chile,Backend Developer,JavaScript,Spark,Junior,"$20,592",Híbrido,2024/06/12
+JOB-101489,Vertex AI,Cusco,Perú,Data Analyst,JavaScript,Angular,Junior,$13733,Remoto,03/05/2024
+JOB-101490,BluePixel,,España,Data Analyst,Python,.NET,Mid,USD 47293,Remoto,2024/07/29
+JOB-101491,Orion Cloud,Córdoba,Argentina,Data Analyst,R,React,Senior,"$25,651",Presencial,13-11-2022
+JOB-101492,Lambda Solutions,???,España,Data Scientist,PHP,Angular,Mid,$34178,Híbrido,2024-10-24
+JOB-101493,CodeWorks,Madrid,España,Frontend Developer,Go,React,Mid,US$ 39.680,Presencial,29/01/2024
+JOB-101494,Atlas Systems,Valencia,España,DevOps Engineer,Go,Laravel,Junior,US$ 34.235,Presencial,2025-02-16
+JOB-101495,SoftSmart,San Francisco,USA,Data Analyst,R,.NET,Junior,US$ 75.995,Remoto,14/03/2025
+JOB-101496,CyberShield,Valencia,España,Cloud Architect,PHP,Vue,Junior,US$ 25.927,Remoto,2023/08/23
+JOB-101497,Vertex AI,Madrid,España,Backend Developer,Swift,.NET,Senior,$58727,Híbrido,2025/05/09
+JOB-101498,CodeWorks,Barranquilla,Colombia,Data Analyst,Go,Vue,Junior,US$ 10.471,Presencial,2022/11/20
+JOB-101499,CyberShield,Medellín,Colombia,Fullstack Developer,Kotlin,Node.js,Junior,"$12,589",Remoto,2025-06-06
+JOB-101500,DataNova,Córdoba,Argentina,Cybersecurity Analyst,R,Django,Junior,15472,Presencial,2024-10-12
+JOB-100391,CodeWorks,Concepción,Chile,DevOps Engineer,Go,Spark,Junior,$20478,Híbrido,2022/01/31
+JOB-100638,IA Factory,Cali,Colombia,Data Engineer,Swift,Node.js,Senior,$13291,Remoto,28-05-2023
+JOB-101426,Lambda Solutions,Cusco,Perú,Data Scientist,JavaScript,Angular,Junior,USD 16966,Remoto,16/09/2024
+JOB-100445,GreenBit,BARRANQUILLA,Colombia,ML Engineer,R,Spark,Senior,USD 18146,Híbrido,21/11/2024
+JOB-100568,DevOpsLab,???,Argentina,Cybersecurity Analyst,Kotlin,Angular,Mid,USD 21974,Presencial,2025/09/21
+JOB-101141,SoftSmart,Puebla,México,ML Engineer,PHP,Vue,Junior,US$ 17.126,Presencial,2023-12-06
+JOB-100239,RocketSoft,New York,USA,DevOps Engineer,Kotlin,React,Senior,122517,Presencial,2023/08/09
+JOB-100057,SoftSmart,Córdoba,Argentina,Data Engineer,Java,Django,Senior,US$ 21.973,Presencial,10-08-2023
+JOB-100616,CodeWorks,Rosario,Argentina,Backend Developer,Scala,Spark,Junior,US$ 17.494,Remoto,2023-12-05
+JOB-101206,CodeWorks,Buenos Aires,Argentina,ML Engineer,C#,Vue,Mid,USD 20254,Presencial,31-10-2025
+JOB-100733,SoftSmart,Valparaíso,Chile,Data Analyst,TypeScript,Django,Senior,US$ 39.059,Remoto,28-06-2022
+JOB-100622,Vertex AI,Madrid,España,MLOps Engineer,TypeScript,.NET,Junior,US$ 33.718,Presencial,31/03/2022
+JOB-101420,CloudForge,Cusco,Perú,Backend Developer,Swift,Vue,Mid,21768,Remoto,2022-07-13
+JOB-100030,NeoTech,New York,USA,DevOps Engineer,Java,React,Senior,US$ 124.691,Presencial,2025/08/10
+JOB-100317,DevOpsLab,???,Perú,Frontend Developer,Go,Node.js,Senior,"$36,014",Remoto,2024-03-12
+JOB-100209,Lambda Solutions,Austin,USA,Data Engineer,Swift,Flask,Junior,US$ 70.942,Híbrido,15/11/2024
+JOB-100049,DevOpsLab,Valencia,España,Fullstack Developer,Go,Spark,Senior,USD 55349,Remoto,2024-09-14
+JOB-100704,QuantumWare,Cusco,Perú,BI Developer,R,Vue,Senior,US$ 18.785,Híbrido,24/02/2023
+JOB-100390,CloudForge,Valparaíso,Chile,Data Analyst,JavaScript,Spark,Senior,US$ 34.334,Remoto,22-10-2022
+JOB-101130,NeoTech,Valparaíso,Chile,Cloud Architect,R,Laravel,Junior,USD 21049,Remoto,21-05-2023
+JOB-101097,GreenBit,Guadalajara,México,Data Scientist,C#,FastAPI,Senior,"$23,989",Híbrido,24/03/2023
+JOB-100643,Vertex AI,???,Chile,Data Engineer,Kotlin,Vue,Senior,US$ 29.612,Híbrido,2025/10/27
+JOB-101168,CodeWorks,Cusco,Perú,Fullstack Developer,Python,React,Senior,USD 22444,Presencial,24/09/2025
+JOB-101253,IA Factory,CDMX,México,BI Developer,Scala,Django,Senior,$25027,Híbrido,26/05/2022
+JOB-100805,RocketSoft,San Francisco,USA,Data Engineer,Swift,Vue,Mid,USD 98401,Híbrido,11-01-2022
+JOB-100552,CloudForge,Concepción,Chile,Data Analyst,Java,.NET,Mid,US$ 21.651,Híbrido,17-09-2022
+JOB-100623,RocketSoft,New York,USA,Cloud Architect,TypeScript,Spark,Mid,US$ 106.445,Presencial,2022/03/26
+JOB-100421,DevOpsLab,Lima,Perú,Backend Developer,TypeScript,Vue,Junior,"$12,964",Híbrido,2023-08-28
+JOB-100252,CloudForge,Concepción,Chile,Cloud Architect,JavaScript,Vue,Senior,USD 33793,Presencial,2024-11-21
+JOB-100899,GreenBit,Valparaíso,Chile,Data Scientist,JavaScript,.NET,Senior,28362,Remoto,2022/02/17

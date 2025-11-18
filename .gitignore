@@ -41,7 +41,7 @@ venv.bak/
 logs/*.log
 
 # Datos sensibles (mantener estructura pero no datos reales)
-data/raw/*.csv
+# data/raw/*.csv - Comentado para incluir datos de ejemplo
 data/interim/*.csv
 
 # Archivos temporales

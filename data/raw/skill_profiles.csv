@@ -1,0 +1,1421 @@
+ID_Persona,Edad,Ciudad,País,Lenguajes_Dominio,Frameworks_Dominio,Certificaciones,Años_Experiencia,Nivel_Educativo,Área_Trabajo_Actual,Salario_Actual_USD
+PER-90001,23,San Francisco,USA,Python|Swift|Scala,React,AWS CCP,1.0,Autodidacta,Backend,$94479
+PER-90002,30,Madrid,España,TypeScript|Python,Flask|FastAPI,None,,Posgrado,IA,USD 38159
+PER-90003,36,Valparaíso,Chile,Scala,Spark,Azure Fundamentals,3.0,Posgrado,Cloud,US$ 38.569
+PER-90004,18,SAN FRANCISCO,USA,Python|PHP|Go,Node.js|FastAPI,GCP ACE,5.0,Tecnólogo,Data Science,"$71,658"
+PER-90005,27,CDMX,México,C#|JavaScript,Spark|Angular,GCP ACE ,2.0,Autodidacta,BI/Analytics,US$ 18.612
+PER-90006,22,Puebla,México,Java|R,.NET|Vue,AWS CCP,0.0,Pregrado,Backend,$11325
+PER-90007,26,Bogotá,Colombia,C#|PHP,Angular,AWS CCP,5.0,Autodidacta,Backend,US$ 14.884
+PER-90008,31,Bogotá,Colombia,javascript|swift,Spring|FastAPI,Cisco CCNA,5.0,Técnico,Frontend,"$18,182"
+PER-90009,27,Barranquilla,Colombia,Python|PHP|Swift,Laravel|Flask,Scrum Master|None,0.0,Autodidacta,Ciberseguridad,USD 10187
+PER-90010,31,Valparaíso,Chile,Scala|Java,React|Flask,AWS CCP,0.0,Tecnólogo,Data Science,US$ 15.137
+PER-90011,35,Monterrey,México,Swift|C#,Vue,None|GCP ACE,0.0,Autodidacta,DevOps,US$ 15.759
+PER-90012,27,Santiago,Chile,Java|PHP,Angular,GCP ACE|None,3.0,Pregrado,BI/Analytics,"$40,271"
+PER-90013,32,Córdoba,Argentina,PHP,.NET,Azure Fundamentals|Cisco CCNA,1.0,Pregrado,Data Science,USD 16715
+PER-90014,21,Valparaíso,Chile,Python|R|Kotlin,Spring,AWS CCP|Cisco CCNA,0.0,Tecnólogo,Data Science,US$ 21.691
+PER-90015,26,Puebla,México,PHP|Java,React|FastAPI,Cisco CCNA,1.0,Autodidacta,Backend,15888
+PER-90016,26,Sevilla,España,JavaScript,Spark,Scrum Master,1.0,Tecnólogo,Cloud,$61231
+PER-90017,30,San Francisco,USA,R|Swift,Laravel|Django,GCP ACE,4.0,Pregrado,Frontend,$116398
+PER-90018,23,Buenos Aires,Argentina,R,Spring,AWS CCP,0.0,Técnico,Data Science,"$15,242"
+PER-90019,31,Valparaíso,Chile,Go|TypeScript,FastAPI|Spark,GCP ACE,1.0,Tecnólogo,Frontend,US$ 21.216
+PER-90020,27,Valencia,España,JavaScript,.NET,AWS CCP,2.0,Técnico,Data Science,US$ 56.718
+PER-90021,27,Austin,USA,Kotlin|TypeScript,React|Spring,None,1.0,Técnico,Data Science,USD 153996
+PER-90022,28,Bogotá,Colombia,Python|Kotlin|TypeScript,Spring|Flask,AWS CCP ,4.0,Pregrado,BI/Analytics,US$ 17.958
+PER-90023,33,CDMX,México,Scala|C#|Swift,Spring|Node.js,Azure Fundamentals ,2.0,Tecnólogo,Frontend,$17113
+PER-90024,39,Lima,Perú,C#|Python,Node.js,Scrum Master,3.0,Pregrado,Data Science,"$19,743"
+PER-90025,22,Cartagena,Colombia,C#,React|Spring,None,2.0,Autodidacta,DevOps,$16650
+PER-90026,19,Santiago,Chile,TypeScript|PHP,Flask,Cisco CCNA,5.0,Técnico,Cloud,$16343
+PER-90027,28,Cartagena,Colombia,Swift,FastAPI|Spark,Scrum Master,0.0,Pregrado,Cloud,$16532
+PER-90028,25,Seattle,USA,PHP|Java,Spring|Vue,Azure Fundamentals,1.0,Posgrado,Ciberseguridad,US$ 109.488
+PER-90029,27,Cali,Colombia,PHP,Spring,Scrum Master|Azure Fundamentals,6.0,Pregrado,BI/Analytics,$14234
+PER-90030,26,Monterrey,México,php|python|r,Spark,None,4.0,Pregrado,Cloud,USD 12729
+PER-90031,36,Valparaíso,Chile,JavaScript|Java,Angular|React,GCP ACE|None,0.0,Pregrado,Cloud,"$17,555"
+PER-90032,23,Lima,Perú,TypeScript|R,Node.js|Flask,Scrum Master|AWS CCP,3.0,Posgrado,Cloud,USD 15978
+PER-90033,21,Valencia,España,C#|Java,Angular|.NET,Azure Fundamentals,6.0,Pregrado,BI/Analytics,USD 46214
+PER-90034,23,BUENOS AIRES,Argentina,JavaScript,Laravel,Azure Fundamentals|GCP ACE,5.0,Autodidacta,Cloud,USD 24773
+PER-90035,31,Barcelona,España,r|swift,Flask|Angular,AWS CCP,5.0,Pregrado,IA,$49518
+PER-90036,34,Valparaíso,Chile,R|Scala,Flask,GCP ACE,1.0,Pregrado,Data Science,$20562
+PER-90037,28,PUEBLA,México,Kotlin,Node.js|React,Scrum Master|Cisco CCNA,6.0,Pregrado,IA,US$ 15.807
+PER-90038,25,Córdoba,Argentina,TypeScript,Flask,Azure Fundamentals,1.0,Autodidacta,Data Science,US$ 17.751
+PER-90039,,Buenos Aires,Argentina,Go|Scala,Node.js,Scrum Master|GCP ACE,5.0,Pregrado,Backend,USD 23387
+PER-90040,19,Puebla ,México,C#|JavaScript|Python,Spring|Angular,Scrum Master,3.0,Técnico,Backend,$16799
+PER-90041,22,Buenos Aires,Argentina,javascript|python|r,Angular|.NET,AWS CCP,4.0,Pregrado,Data Science,USD 18865
+PER-90042,23,Concepción,Chile,PHP,.NET|Vue,GCP ACE,3.0,Tecnólogo,Backend,"$21,658"
+PER-90043,33,Cusco,Perú,Java|TypeScript,Node.js,AWS CCP,2.0,Tecnólogo,BI/Analytics,"$22,858"
+PER-90044,23,SANTIAGO,Chile,swift|java,Spark,GCP ACE,3.0,Autodidacta,Cloud,US$ 27.353
+PER-90045,31,Arequipa,Perú,Swift|Python,Spring|Angular,Azure Fundamentals,1.0,Posgrado,Ciberseguridad,US$ 13.684
+PER-90046,34,Miami ,USA,C#|TypeScript,Vue|React,Scrum Master,4.0,Posgrado,IA,US$ 136.256
+PER-90047,38,Santiago,Chile,scala|python,Vue|Django,Cisco CCNA|AWS CCP,3.0,Autodidacta,IA,40824
+PER-90048,32,Buenos Aires,Argentina,Swift|Scala,Flask,None,1.0,Pregrado,BI/Analytics,12677
+PER-90049,27,Córdoba,Argentina,c#|php,Vue|.NET,Azure Fundamentals,4.0,Tecnólogo,Data Science,$14790
+PER-90050,20,VALPARAÍSO,Chile,C#,Flask,Cisco CCNA,1.0,Autodidacta,Backend,$30098
+PER-90051,34,Bucaramanga,Colombia,Swift|Python,FastAPI,AWS CCP,4.0,Pregrado,Data Science,$13059
+PER-90052,18,Arequipa ,Perú,Kotlin|Go|Python,.NET,Azure Fundamentals ,4.0,Autodidacta,Backend,$22824
+PER-90053,27,Cusco,Perú,Kotlin|TypeScript|R,Spring,AWS CCP,4.0,Técnico,Backend,US$ 14.408
+PER-90054,29,Valparaíso,Chile,Scala|Python,Laravel,Scrum Master|Cisco CCNA,1.0,Posgrado,DevOps,USD 22253
+PER-90055,29,Lima,Perú,c#,Angular|Flask,None,3.0,Posgrado,Backend,"$15,257"
+PER-90056,18,MIAMI,USA,Kotlin,.NET,GCP ACE,7.0,Técnico,Ciberseguridad,"$68,954"
+PER-90057,25,Córdoba,Argentina,R|Kotlin,Flask,None,0.0,Tecnólogo,Frontend,$31216
+PER-90058,39,Monterrey,México,JavaScript,Django,Cisco CCNA,1.0,Técnico,Backend,USD 13712
+PER-90059,35,santiago,Chile,PHP|JavaScript,.NET,GCP ACE,1.0,Posgrado,DevOps,USD 25666
+PER-90060,31,Miami,USA,kotlin|c#,.NET|Node.js,AWS CCP|GCP ACE,3.0,Posgrado,Backend,USD 73314
+PER-90061,41,Concepción,Chile,C#|TypeScript,Angular,GCP ACE ,4.0,Posgrado,BI/Analytics,"$20,401"
+PER-90062,24,New York ,USA,R|Go,Angular,AWS CCP,2.0,Tecnólogo,Frontend,69371
+PER-90063,,Buenos Aires,Argentina,JavaScript|Kotlin,FastAPI,Azure Fundamentals|None,2.0,Técnico,IA,36761
+PER-90064,20,???,México,Kotlin|TypeScript,Angular,AWS CCP|Cisco CCNA,2.0,Autodidacta,Backend,23279
+PER-90065,29,Barcelona,España,Scala,Vue|Spark,None,6.0,Pregrado,Backend,$32030
+PER-90066,30,Concepción,Chile,python|javascript,Node.js,Scrum Master|Cisco CCNA,1.0,Pregrado,DevOps,US$ 26.849
+PER-90067,39,New York,USA,Swift,React,AWS CCP,1.0,Pregrado,BI/Analytics,USD 69058
+PER-90068,38,Concepción,Chile,C#,Laravel|Angular,GCP ACE|Cisco CCNA,2.0,Autodidacta,Data Science,US$ 28.346
+PER-90069,34,Córdoba ,Argentina,PHP|Scala,Vue,GCP ACE ,4.0,Tecnólogo,DevOps,US$ 22.504
+PER-90070,29,CDMX,México,Scala|JavaScript,Angular,Cisco CCNA,2.0,Tecnólogo,IA,"$21,090"
+PER-90071,26,Cusco,Perú,Python|Java,FastAPI,Azure Fundamentals,5.0,Pregrado,DevOps,US$ 22.978
+PER-90072,38,???,Colombia,Java|JavaScript|Scala,Vue|Node.js,Cisco CCNA|Azure Fundamentals,6.0,Autodidacta,Cloud,$9214
+PER-90073,34,Puebla,México,Swift,Spark|FastAPI,None,0.0,Posgrado,Data Science,"$19,880"
+PER-90074,27,Madrid,España,C#,Spark,GCP ACE|Cisco CCNA,5.0,Tecnólogo,DevOps,"$33,778"
+PER-90075,40,San Francisco,USA,JavaScript|TypeScript,Flask,Azure Fundamentals ,6.0,Técnico,Backend,US$ 79.273
+PER-90076,36,Concepción,Chile,R|Kotlin|Swift,Node.js|Laravel,Scrum Master|GCP ACE,2.0,Posgrado,Ciberseguridad,USD 22906
+PER-90077,32,Guadalajara,México,Kotlin,Spring|Laravel,None,0.0,Pregrado,BI/Analytics,"$22,230"
+PER-90078,32,Valencia,España,swift,.NET,None ,3.0,Técnico,Data Science,38380
+PER-90079,38,Arequipa,Perú,Java|TypeScript,Flask|FastAPI,Cisco CCNA,3.0,Posgrado,Cloud,"$12,363"
+PER-90080,33,Concepción,Chile,Swift,Laravel|.NET,None ,0.0,Técnico,Frontend,$36452
+PER-90081,22,Cusco,Perú,Scala|Go,Vue,Cisco CCNA|GCP ACE ,1.0,Autodidacta,Ciberseguridad,USD 30211
+PER-90082,21,Córdoba,Argentina,JavaScript|Kotlin,Django,Azure Fundamentals,2.0,Tecnólogo,Cloud,USD 14305
+PER-90083,18,AUSTIN,USA,PHP|Kotlin,Laravel,Cisco CCNA,4.0,Autodidacta,BI/Analytics,99049
+PER-90084,22,Valparaíso,Chile,Scala|Java|Kotlin,Node.js,Scrum Master,2.0,Autodidacta,Frontend,"$19,474"
+PER-90085,36,Barranquilla,Colombia,python,Node.js,Scrum Master|AWS CCP,,Técnico,Data Science,"$18,963"
+PER-90086,25,Valparaíso ,Chile,PHP|TypeScript,.NET|Spring,Azure Fundamentals,4.0,Pregrado,Backend,US$ 21.477
+PER-90087,23,Austin,USA,Kotlin|R,Spark|.NET,None|Azure Fundamentals,4.0,Pregrado,Cloud,"$91,345"
+PER-90088,30,Valparaíso,Chile,PHP,Flask,Azure Fundamentals,6.0,Autodidacta,Cloud,33024
+PER-90089,18,Santiago,Chile,R,.NET,Scrum Master|Azure Fundamentals,5.0,Técnico,DevOps,USD 27319
+PER-90090,24,Lima,Perú,TypeScript|Scala,Spring,Scrum Master|Azure Fundamentals,3.0,Pregrado,Data Science,USD 19212
+PER-90091,31,???,Argentina,JavaScript|Go|Swift,Spark,Scrum Master,0.0,Autodidacta,Cloud,"$16,194"
+PER-90092,36,Medellín,Colombia,JavaScript|Swift,Vue|Spring,AWS CCP,7.0,Tecnólogo,IA,"$9,567"
+PER-90093,24,Sevilla,España,TypeScript|PHP|JavaScript,Spark,Scrum Master|Cisco CCNA,0.0,Posgrado,Data Science,$49122
+PER-90094,39,???,España,Swift|PHP|Python,Angular|FastAPI,Cisco CCNA ,3.0,Posgrado,Frontend,$24201
+PER-90095,38,New York,USA,Java|Swift,Laravel|Angular,Cisco CCNA|Azure Fundamentals ,5.0,Pregrado,Frontend,"$58,868"
+PER-90096,27,Cartagena,Colombia,Swift|JavaScript,Vue|FastAPI,AWS CCP,3.0,Posgrado,BI/Analytics,11641
+PER-90097,32,New York,USA,Scala,Django,Scrum Master,0.0,Tecnólogo,Frontend,$150743
+PER-90098,28,New York,USA,Python,Flask|React,Scrum Master ,5.0,Posgrado,Frontend,119630
+PER-90099,33,Guadalajara,México,Scala,Laravel,Scrum Master,3.0,Técnico,Backend,USD 14274
+PER-90100,31,Cartagena,Colombia,C#|TypeScript,Spark|Vue,Azure Fundamentals|None,1.0,Tecnólogo,DevOps,USD 9006
+PER-90101,37,???,USA,swift|php,Spark|Angular,Azure Fundamentals,2.0,Técnico,DevOps,73388
+PER-90102,,Buenos Aires,Argentina,C#|Go,Vue|Flask,Cisco CCNA,0.0,Técnico,DevOps,12630
+PER-90103,26,Buenos Aires,Argentina,TypeScript|Kotlin|Scala,Vue,None ,4.0,Técnico,IA,$19060
+PER-90104,20,Córdoba,Argentina,Go|TypeScript|R,Node.js,Cisco CCNA ,0.0,Tecnólogo,Data Science,US$ 16.123
+PER-90105,29,Barcelona,España,Go,Django|Node.js,Scrum Master,6.0,Autodidacta,Backend,"$44,892"
+PER-90106,32,Valparaíso,Chile,Go|Java,Django|FastAPI,GCP ACE ,0.0,Tecnólogo,Ciberseguridad,USD 22530
+PER-90107,30,Puebla,México,Java|TypeScript,Vue,AWS CCP,2.0,Pregrado,IA,US$ 14.065
+PER-90108,28,Arequipa,Perú,Java|Python,Vue|Flask,None|AWS CCP,2.0,Pregrado,BI/Analytics,"$20,841"
+PER-90109,28,Seattle,USA,PHP,Angular,Scrum Master,2.0,Pregrado,Frontend,71314
+PER-90110,31,Córdoba,Argentina,kotlin|php,Spring,Scrum Master,6.0,Técnico,Ciberseguridad,$17615
+PER-90111,39,Barranquilla,Colombia,R|Java,Laravel|Node.js,Cisco CCNA,2.0,Tecnólogo,Cloud,US$ 10.326
+PER-90112,26,Guadalajara,México,Java|JavaScript,Laravel,GCP ACE,0.0,Técnico,BI/Analytics,$21258
+PER-90113,20,Santiago,Chile,Swift|Kotlin,Laravel|Angular,Azure Fundamentals|Cisco CCNA,0.0,Técnico,IA,USD 17091
+PER-90114,24,SEATTLE,USA,r|kotlin,Vue,AWS CCP,4.0,Posgrado,Ciberseguridad,78479
+PER-90115,31,Concepción,Chile,Java|R,Django|Spring,AWS CCP|GCP ACE ,2.0,Tecnólogo,DevOps,21469
+PER-90116,33,Cusco ,Perú,Kotlin|TypeScript,Spark,AWS CCP|Azure Fundamentals,1.0,Técnico,IA,US$ 19.605
+PER-90117,32,Cali,Colombia,JavaScript,Django,GCP ACE|None,3.0,Técnico,Frontend,$14384
+PER-90118,18,New York,USA,c#|php,Spark|Django,Azure Fundamentals|Scrum Master,4.0,Autodidacta,BI/Analytics,81367
+PER-90119,31,Austin,USA,TypeScript|PHP|Scala,Flask|FastAPI,GCP ACE,4.0,Posgrado,Cloud,"$72,865"
+PER-90120,29,Buenos Aires,Argentina,Go|Swift|JavaScript,Node.js,Cisco CCNA,1.0,Pregrado,BI/Analytics,37479
+PER-90121,36,Buenos Aires,Argentina,Go|PHP|Swift,.NET|Spark,Azure Fundamentals,3.0,Tecnólogo,Cloud,16665
+PER-90122,28,BARRANQUILLA,Colombia,C#|Python,Angular|Django,Azure Fundamentals,3.0,Posgrado,Cloud,9197
+PER-90123,26,Barranquilla,Colombia,Kotlin|Java,.NET,AWS CCP|None ,5.0,Pregrado,Backend,14101
+PER-90124,,LIMA,Perú,Swift|C#|JavaScript,Django,GCP ACE|Azure Fundamentals,1.0,Autodidacta,Ciberseguridad,"$23,379"
+PER-90125,26,Cusco,Perú,C#|Python|Java,React,AWS CCP ,4.0,Tecnólogo,Cloud,US$ 25.598
+PER-90126,29,???,Colombia,PHP|R,FastAPI,Scrum Master,2.0,Autodidacta,Frontend,US$ 17.420
+PER-90127,18,Medellín,Colombia,R|C#,FastAPI|Angular,Azure Fundamentals ,2.0,Autodidacta,Backend,US$ 21.857
+PER-90128,36,Miami,USA,Go,.NET|Spark,None|Cisco CCNA,3.0,Autodidacta,BI/Analytics,US$ 102.220
+PER-90129,31,Santiago,Chile,JavaScript|PHP,Spring|Node.js,AWS CCP,0.0,Posgrado,DevOps,USD 25427
+PER-90130,22,San Francisco,USA,Java|Go,Flask,None|AWS CCP ,4.0,Técnico,Backend,148474
+PER-90131,28,Cali,Colombia,JavaScript,Django,GCP ACE|Cisco CCNA,1.0,Técnico,IA,$15500
+PER-90132,27,Valparaíso,Chile,c#|typescript,Node.js,AWS CCP,4.0,Posgrado,Backend,24483
+PER-90133,31,Guadalajara,México,TypeScript|Kotlin,Flask,Scrum Master|Cisco CCNA,7.0,Pregrado,Frontend,USD 19902
+PER-90134,18,???,USA,C#|Java,Flask,Scrum Master,3.0,Tecnólogo,DevOps,USD 93879
+PER-90135,18,Buenos Aires,Argentina,Swift|Python,Vue|Django,AWS CCP,0.0,Tecnólogo,BI/Analytics,"$15,419"
+PER-90136,27,Madrid,España,Swift,Django|Spring,None,1.0,Posgrado,DevOps,"$40,788"
+PER-90137,26,Concepción,Chile,typescript|javascript|kotlin,FastAPI|Spring,None,0.0,Autodidacta,Frontend,US$ 37.532
+PER-90138,32,Cusco,Perú,TypeScript|Scala,Angular,AWS CCP ,5.0,Pregrado,Ciberseguridad,13954
+PER-90139,31,CDMX,México,Kotlin,Spring,Scrum Master,3.0,Pregrado,Data Science,$20418
+PER-90140,31,Monterrey,México,R|Java|Go,Spark|Flask,Cisco CCNA,1.0,Técnico,Data Science,"$18,427"
+PER-90141,24,Puebla,México,C#|Swift,Node.js,Cisco CCNA ,4.0,Autodidacta,IA,US$ 27.730
+PER-90142,27,Barranquilla,Colombia,Scala|Go,Flask,Cisco CCNA|AWS CCP,5.0,Posgrado,DevOps,"$11,286"
+PER-90143,19,Bucaramanga,Colombia,Scala|Go,.NET,AWS CCP|Cisco CCNA,1.0,Autodidacta,Ciberseguridad,USD 17300
+PER-90144,20,CDMX,México,r|kotlin,.NET|Laravel,Cisco CCNA,5.0,Autodidacta,DevOps,"$27,468"
+PER-90145,33,Valparaíso,Chile,JavaScript|C#,Vue|Laravel,Cisco CCNA,,Autodidacta,Ciberseguridad,US$ 29.004
+PER-90146,21,Monterrey,México,R|Scala,Django,Cisco CCNA|GCP ACE,1.0,Autodidacta,Data Science,"$27,345"
+PER-90147,18,Puebla,México,Scala|TypeScript,.NET,Cisco CCNA,1.0,Posgrado,DevOps,18956
+PER-90148,31,Córdoba,Argentina,TypeScript|JavaScript|Kotlin,Vue,AWS CCP,2.0,Autodidacta,Data Science,12332
+PER-90149,33,Valparaíso,Chile,Scala,.NET|Spark,Scrum Master|AWS CCP,0.0,Tecnólogo,BI/Analytics,35995
+PER-90150,28,Sevilla,España,PHP,.NET,None,4.0,Pregrado,BI/Analytics,USD 58778
+PER-90151,23,Córdoba,Argentina,TypeScript|Python,Node.js,Azure Fundamentals|Cisco CCNA,5.0,Técnico,Backend,USD 26271
+PER-90152,25,San Francisco,USA,R|PHP,React,None,3.0,Pregrado,Backend,$80192
+PER-90153,34,austin,USA,php|scala,Django|.NET,GCP ACE,3.0,Tecnólogo,DevOps,"$118,413"
+PER-90154,30,???,Chile,Python|JavaScript,.NET|Node.js,Azure Fundamentals,0.0,Posgrado,BI/Analytics,USD 44920
+PER-90155,18,Miami ,USA,PHP,Spark,AWS CCP|GCP ACE,1.0,Tecnólogo,BI/Analytics,"$82,173"
+PER-90156,40,Concepción,Chile,Scala|PHP,Laravel|Node.js,Scrum Master|Azure Fundamentals,0.0,Posgrado,Backend,USD 38714
+PER-90157,29,seattle,USA,C#,Vue,None|AWS CCP,4.0,Tecnólogo,Data Science,$104399
+PER-90158,25,MONTERREY,México,PHP|Java|Go,Vue|.NET,None|AWS CCP,0.0,Posgrado,BI/Analytics,US$ 16.292
+PER-90159,,Santiago,Chile,TypeScript,Django,GCP ACE|AWS CCP,5.0,Técnico,Frontend,"$38,940"
+PER-90160,33,SEVILLA,España,TypeScript|JavaScript,Node.js|Django,None|AWS CCP,0.0,Tecnólogo,Frontend,US$ 27.144
+PER-90161,32,Miami,USA,Python|Java|Swift,Vue|Angular,GCP ACE ,5.0,Pregrado,Frontend,83258
+PER-90162,35,Valencia,España,swift|java,Django|React,None ,0.0,Posgrado,Data Science,23743
+PER-90163,28,Lima,Perú,PHP|Scala,Django|Angular,None,3.0,Técnico,Ciberseguridad,USD 15538
+PER-90164,19,Lima,Perú,Swift|C#|Go,Laravel|Spring,AWS CCP,2.0,Posgrado,Backend,US$ 19.357
+PER-90165,25,Cartagena,Colombia,C#|Go,Spring,Azure Fundamentals|AWS CCP,3.0,Pregrado,Ciberseguridad,USD 12747
+PER-90166,27,Cusco,Perú,C#,Spring,AWS CCP,3.0,Técnico,Backend,USD 17785
+PER-90167,26,Córdoba,Argentina,Swift,FastAPI,Scrum Master,0.0,Autodidacta,IA,USD 15984
+PER-90168,31,Buenos Aires,Argentina,r|python|php,React,AWS CCP ,4.0,Posgrado,Ciberseguridad,$28791
+PER-90169,36,Barranquilla,Colombia,PHP,Spring,Cisco CCNA ,2.0,Posgrado,Frontend,$10211
+PER-90170,27,Madrid,España,R|Scala,Node.js|FastAPI,Scrum Master,1.0,Técnico,Data Science,32675
+PER-90171,,Barranquilla,Colombia,Go,.NET|Angular,Azure Fundamentals ,0.0,Pregrado,Cloud,US$ 12.279
+PER-90172,19,Lima,Perú,typescript|c#,Flask|React,GCP ACE,2.0,Posgrado,DevOps,$14085
+PER-90173,24,Rosario,Argentina,r|java,Vue|Node.js,None|GCP ACE,3.0,Posgrado,IA,"$18,908"
+PER-90174,26,Concepción,Chile,php,Angular,AWS CCP|Azure Fundamentals,1.0,Pregrado,BI/Analytics,"$18,490"
+PER-90175,30,ROSARIO,Argentina,R|Kotlin,Flask,None|Scrum Master,0.0,Tecnólogo,Ciberseguridad,26424
+PER-90176,33,Miami,USA,Go|TypeScript|Kotlin,.NET,Scrum Master ,3.0,Pregrado,DevOps,"$120,398"
+PER-90177,31,Guadalajara,México,Swift|Go,Laravel,GCP ACE,5.0,Tecnólogo,Cloud,USD 11942
+PER-90178,24,Buenos Aires,Argentina,go,.NET,None|GCP ACE,0.0,Tecnólogo,Data Science,15878
+PER-90179,25,Arequipa,Perú,Python,FastAPI|Node.js,None,3.0,Pregrado,Cloud,"$11,804"
+PER-90180,28,Seattle,USA,Python,FastAPI|Flask,Azure Fundamentals ,0.0,Posgrado,Ciberseguridad,USD 74445
+PER-90181,21,Puebla,México,Kotlin|C#,Flask,GCP ACE,4.0,Técnico,DevOps,"$17,696"
+PER-90182,26,Valparaíso,Chile,TypeScript,Spark,None,4.0,Técnico,Ciberseguridad,$24446
+PER-90183,24,Cusco,Perú,Go|PHP,Angular,Cisco CCNA,3.0,Autodidacta,Backend,US$ 15.109
+PER-90184,28,Miami,USA,R|Java|C#,Spring|FastAPI,Cisco CCNA|AWS CCP,1.0,Autodidacta,Frontend,$105807
+PER-90185,33,Sevilla ,España,TypeScript|Go|R,.NET,GCP ACE,5.0,Técnico,BI/Analytics,$43913
+PER-90186,31,Santiago,Chile,Python|Swift|Go,Angular|Laravel,Cisco CCNA|None,2.0,Pregrado,Cloud,24877
+PER-90187,41,San Francisco,USA,TypeScript|C#,Angular|Django,None,3.0,Tecnólogo,Backend,$99744
+PER-90188,27,Valencia,España,Scala|TypeScript,Django|FastAPI,AWS CCP|None,3.0,Autodidacta,Backend,"$48,110"
+PER-90189,29,Sevilla,España,Java|C#,Spark|Django,GCP ACE|Azure Fundamentals ,4.0,Autodidacta,Frontend,$56591
+PER-90190,28,Bogotá,Colombia,Go,.NET|Node.js,Scrum Master,1.0,Autodidacta,IA,$16866
+PER-90191,35,CDMX,México,Swift|Scala|PHP,Django|Node.js,Cisco CCNA|Azure Fundamentals,1.0,Posgrado,DevOps,"$23,678"
+PER-90192,18,San Francisco,USA,PHP,Django,Azure Fundamentals,4.0,Tecnólogo,Data Science,"$112,335"
+PER-90193,27,Rosario,Argentina,r|php|kotlin,Django|Node.js,AWS CCP|Azure Fundamentals,0.0,Posgrado,BI/Analytics,20720
+PER-90194,18,Valparaíso,Chile,PHP|JavaScript|Go,Node.js|Flask,None|AWS CCP,1.0,Autodidacta,Frontend,USD 16678
+PER-90195,25,Cusco,Perú,c#|swift,FastAPI,Cisco CCNA|Azure Fundamentals,5.0,Posgrado,Backend,"$28,944"
+PER-90196,39,Cali,Colombia,Python|Java,Flask,Cisco CCNA,3.0,Pregrado,DevOps,"$9,726"
+PER-90197,24,Concepción,Chile,Swift|Go,Django|Spark,None,4.0,Autodidacta,Cloud,USD 27199
+PER-90198,36,Medellín,Colombia,Swift|Scala|C#,Flask,Azure Fundamentals,4.0,Tecnólogo,IA,$7691
+PER-90199,,Concepción,Chile,Java|Kotlin,React|Node.js,Azure Fundamentals,1.0,Pregrado,Frontend,$25918
+PER-90200,23,Barcelona,España,C#|Kotlin|TypeScript,React|FastAPI,GCP ACE,3.0,Pregrado,DevOps,US$ 68.551
+PER-90201,39,Puebla,México,JavaScript|TypeScript,Spark,Scrum Master|None,3.0,Pregrado,IA,15935
+PER-90202,33,New York,USA,Java|R,Node.js|Spring,None,3.0,Autodidacta,Backend,$70827
+PER-90203,,???,España,javascript|kotlin|typescript,Spring|Spark,Cisco CCNA,4.0,Pregrado,Cloud,$59073
+PER-90204,27,Santiago,Chile,Swift|JavaScript|Python,Spark,AWS CCP|GCP ACE,3.0,Autodidacta,Ciberseguridad,$22788
+PER-90205,23,Barcelona,España,Kotlin|C#,React|Spark,AWS CCP,1.0,Tecnólogo,DevOps,US$ 44.896
+PER-90206,25,Sevilla,España,Kotlin,Spring|React,Scrum Master|GCP ACE,4.0,Tecnólogo,BI/Analytics,28180
+PER-90207,26,Barcelona,España,Scala|Java,.NET|Spring,GCP ACE|AWS CCP,4.0,Técnico,Frontend,"$26,254"
+PER-90208,39,Valencia,España,C#|TypeScript,Spark|.NET,GCP ACE,2.0,Autodidacta,IA,$39317
+PER-90209,26,New York,USA,C#|Kotlin,Angular,Cisco CCNA|AWS CCP,0.0,Tecnólogo,Frontend,"$60,611"
+PER-90210,31,???,Argentina,Go|Swift|Java,FastAPI,AWS CCP|Scrum Master,4.0,Posgrado,Data Science,15368
+PER-90211,23,Córdoba,Argentina,Scala|Kotlin,.NET|React,Cisco CCNA,3.0,Pregrado,Data Science,USD 21234
+PER-90212,29,Valencia,España,javascript|scala,Node.js,GCP ACE,1.0,Autodidacta,Backend,"$57,709"
+PER-90213,22,Puebla,México,Java,Node.js,AWS CCP|Azure Fundamentals,1.0,Pregrado,Frontend,US$ 15.986
+PER-90214,32,Barcelona,España,PHP|TypeScript,FastAPI,Azure Fundamentals|AWS CCP,3.0,Posgrado,Ciberseguridad,$59253
+PER-90215,22,Cusco,Perú,Python|Go|Scala,.NET|FastAPI,Scrum Master,4.0,Técnico,Data Science,$13688
+PER-90216,24,Medellín ,Colombia,R,Flask|Node.js,None|AWS CCP,1.0,Pregrado,Frontend,13067
+PER-90217,25,Córdoba,Argentina,Kotlin,Node.js|React,Scrum Master,,Pregrado,Data Science,US$ 16.054
+PER-90218,28,Buenos Aires ,Argentina,python|php,Angular|Node.js,AWS CCP,2.0,Técnico,Data Science,20748
+PER-90219,26,Concepción,Chile,python|java|r,Spring|Django,Azure Fundamentals|None,0.0,Pregrado,Ciberseguridad,$31625
+PER-90220,28,New York,USA,R|Go,Angular|Django,Azure Fundamentals|GCP ACE,3.0,Posgrado,IA,$120713
+PER-90221,31,BOGOTÁ,Colombia,Kotlin,Vue|React,GCP ACE|Scrum Master,0.0,Técnico,Cloud,USD 10404
+PER-90222,36,Santiago ,Chile,Go|C#,Spark,AWS CCP|None,1.0,Tecnólogo,Cloud,US$ 32.941
+PER-90223,23,Puebla,México,Swift|Kotlin,Vue,Cisco CCNA,2.0,Tecnólogo,BI/Analytics,USD 17917
+PER-90224,31,Miami,USA,C#|JavaScript,Spark,GCP ACE,4.0,Tecnólogo,Data Science,USD 70943
+PER-90225,30,CDMX,México,r|c#|scala,Angular,Scrum Master,4.0,Posgrado,IA,US$ 19.639
+PER-90226,18,Madrid,España,PHP|C#,FastAPI|React,Scrum Master,0.0,Posgrado,DevOps,US$ 17.824
+PER-90227,42,CDMX,México,PHP|Java,Spark,AWS CCP|Cisco CCNA,3.0,Autodidacta,BI/Analytics,"$26,987"
+PER-90228,34,Bogotá,Colombia,Kotlin|TypeScript,Angular,AWS CCP|Scrum Master ,5.0,Pregrado,Data Science,"$11,565"
+PER-90229,25,Cusco,Perú,Scala,Angular|Spark,Scrum Master,5.0,Autodidacta,IA,$14225
+PER-90230,26,Valencia,España,JavaScript|Kotlin,Django|Node.js,None,3.0,Tecnólogo,IA,$38342
+PER-90231,29,Cartagena,Colombia,PHP|TypeScript|C#,Spring|Spark,Azure Fundamentals,3.0,Pregrado,Backend,$16494
+PER-90232,,San Francisco,USA,Scala|C#|R,Angular|FastAPI,AWS CCP|Cisco CCNA,0.0,Posgrado,Cloud,USD 89461
+PER-90233,23,???,España,R|PHP,Laravel|FastAPI,Azure Fundamentals|GCP ACE,0.0,Autodidacta,Backend,40856
+PER-90234,37,Valparaíso,Chile,go|c#|r,Flask,AWS CCP|Azure Fundamentals,4.0,Técnico,Ciberseguridad,30026
+PER-90235,27,Lima,Perú,Go|Python,Spring|Spark,None|AWS CCP,8.0,Técnico,IA,US$ 20.614
+PER-90236,27,San Francisco,USA,kotlin|typescript,Angular,AWS CCP,4.0,Autodidacta,BI/Analytics,"$64,561"
+PER-90237,20,Bucaramanga,Colombia,PHP|Swift,Laravel|Spark,None|GCP ACE,0.0,Posgrado,Data Science,USD 22117
+PER-90238,28,Barcelona ,España,C#,Laravel|Django,Cisco CCNA ,6.0,Tecnólogo,Data Science,US$ 36.576
+PER-90239,32,bogotá,Colombia,c#|kotlin|php,FastAPI|Flask,Azure Fundamentals,3.0,Tecnólogo,Backend,$18957
+PER-90240,30,Arequipa,Perú,TypeScript|Kotlin,Flask|Django,Azure Fundamentals ,0.0,Pregrado,Backend,USD 29201
+PER-90241,30,seattle,USA,C#,Spark|Laravel,GCP ACE ,5.0,Posgrado,Cloud,"$123,828"
+PER-90242,22,guadalajara,México,Python|Scala|Java,Node.js|Laravel,None|Scrum Master,2.0,Técnico,DevOps,USD 16626
+PER-90243,37,Lima,Perú,TypeScript|Java,Django,GCP ACE,0.0,Pregrado,Backend,USD 16176
+PER-90244,29,Valencia,España,r|typescript,Django,Cisco CCNA,2.0,Autodidacta,Frontend,US$ 26.973
+PER-90245,30,Rosario,Argentina,C#|Java,.NET|Vue,Cisco CCNA,5.0,Autodidacta,Data Science,$19690
+PER-90246,34,Buenos Aires,Argentina,Python|Java,.NET|Spring,Azure Fundamentals,0.0,Autodidacta,Cloud,$24323
+PER-90247,32,Arequipa,Perú,Go|PHP,Angular,Cisco CCNA|AWS CCP,2.0,Tecnólogo,Ciberseguridad,$9668
+PER-90248,37,Rosario,Argentina,C#,Laravel|FastAPI,AWS CCP,0.0,Tecnólogo,BI/Analytics,23137
+PER-90249,25,ROSARIO,Argentina,Kotlin|PHP,Spring|Django,Scrum Master ,1.0,Pregrado,IA,"$14,518"
+PER-90250,24,Miami,USA,C#,Laravel|React,AWS CCP,3.0,Tecnólogo,IA,$72286
+PER-90251,31,Cali,Colombia,Kotlin|Swift|JavaScript,Vue,GCP ACE ,3.0,Posgrado,BI/Analytics,US$ 11.309
+PER-90252,40,Valparaíso,Chile,r|javascript,FastAPI|Django,AWS CCP ,1.0,Autodidacta,Data Science,US$ 17.505
+PER-90253,35,???,Chile,Kotlin|Java|PHP,Node.js|Laravel,AWS CCP ,3.0,Técnico,Backend,34751
+PER-90254,31,Rosario,Argentina,Scala|C#,Spark|Spring,GCP ACE|None,2.0,Tecnólogo,BI/Analytics,USD 27015
+PER-90255,21,Miami,USA,Go,FastAPI,Scrum Master|Cisco CCNA,2.0,Pregrado,Backend,$82550
+PER-90256,18,Barranquilla,Colombia,typescript|php,Angular|Vue,GCP ACE,4.0,Posgrado,Backend,$17924
+PER-90257,27,Guadalajara,México,Scala|Swift,Angular|Spring,AWS CCP,5.0,Pregrado,Cloud,$25674
+PER-90258,25,valparaíso,Chile,php,Spring,Scrum Master,0.0,Tecnólogo,Cloud,USD 34243
+PER-90259,32,Arequipa,Perú,R|Swift|Scala,React|Laravel,None|AWS CCP,5.0,Pregrado,IA,US$ 15.373
+PER-90260,31,Miami,USA,Java|PHP,Django,Cisco CCNA,5.0,Posgrado,IA,USD 112343
+PER-90261,27,Valparaíso,Chile,Java|Kotlin|PHP,Vue,None,1.0,Autodidacta,BI/Analytics,"$17,145"
+PER-90262,23,Santiago,Chile,C#|TypeScript,React,GCP ACE|Azure Fundamentals,,Pregrado,Frontend,US$ 20.470
+PER-90263,26,Guadalajara,México,R|PHP,Laravel|Angular,AWS CCP,5.0,Autodidacta,Cloud,USD 23944
+PER-90264,37,Puebla,México,Python|C#,Spring,Cisco CCNA,3.0,Tecnólogo,DevOps,17298
+PER-90265,30,New York,USA,Java|Kotlin|C#,React,None|AWS CCP,5.0,Autodidacta,Cloud,110115
+PER-90266,18,Valencia,España,JavaScript|C#|Scala,Spring,None,0.0,Tecnólogo,Data Science,$31334
+PER-90267,33,Seattle,USA,javascript|kotlin,Spring,None,2.0,Técnico,IA,$114784
+PER-90268,41,Sevilla,España,R|PHP,Laravel|.NET,AWS CCP|GCP ACE,2.0,Pregrado,IA,"$29,069"
+PER-90269,26,???,USA,PHP|Kotlin,Django,Cisco CCNA|None,5.0,Tecnólogo,Cloud,163417
+PER-90270,27,Lima,Perú,Swift|PHP,Spring,Azure Fundamentals,5.0,Autodidacta,Frontend,10753
+PER-90271,18,Concepción,Chile,Kotlin,Vue,Scrum Master,4.0,Pregrado,Data Science,"$19,023"
+PER-90272,,Monterrey,México,JavaScript|C#,Spark|Flask,AWS CCP|Cisco CCNA,4.0,Pregrado,IA,USD 17909
+PER-90273,36,Monterrey,México,R|TypeScript,Spring|.NET,Scrum Master,1.0,Tecnólogo,BI/Analytics,$22046
+PER-90274,32,Bucaramanga,Colombia,Scala|C#,Angular,None,0.0,Posgrado,Ciberseguridad,USD 17716
+PER-90275,32,New York,USA,JavaScript,Vue,AWS CCP|GCP ACE,3.0,Pregrado,Backend,"$81,777"
+PER-90276,33,Puebla,México,R|TypeScript,Laravel|Angular,Cisco CCNA ,3.0,Autodidacta,Cloud,USD 20832
+PER-90277,26,Sevilla,España,R|C#,Laravel|.NET,Azure Fundamentals|Scrum Master,5.0,Autodidacta,Ciberseguridad,US$ 31.844
+PER-90278,26,Puebla,México,Go|R|JavaScript,Django,Azure Fundamentals,3.0,Pregrado,Backend,"$21,086"
+PER-90279,31,Rosario,Argentina,Java|R,FastAPI,None|Cisco CCNA,2.0,Autodidacta,DevOps,$30990
+PER-90280,18,Medellín,Colombia,TypeScript|Java,React|.NET,Cisco CCNA,1.0,Pregrado,Cloud,USD 8262
+PER-90281,29,Guadalajara,México,php|python,Node.js|Angular,AWS CCP|None,2.0,Autodidacta,BI/Analytics,"$27,796"
+PER-90282,30,Rosario,Argentina,go|python,Spark,Cisco CCNA,3.0,Tecnólogo,BI/Analytics,$17333
+PER-90283,,???,Chile,swift|r,Node.js,Scrum Master,4.0,Pregrado,BI/Analytics,USD 35554
+PER-90284,27,Cartagena,Colombia,Kotlin|JavaScript|Python,React,Azure Fundamentals,6.0,Posgrado,IA,US$ 12.688
+PER-90285,28,Puebla,México,Swift|PHP|C#,Spring|Node.js,None,2.0,Autodidacta,Cloud,US$ 27.568
+PER-90286,38,Barcelona,España,PHP|TypeScript|Python,.NET,None,6.0,Pregrado,IA,US$ 56.527
+PER-90287,27,bogotá,Colombia,Java,FastAPI,Azure Fundamentals|AWS CCP,0.0,Pregrado,Cloud,US$ 22.125
+PER-90288,39,Cusco,Perú,TypeScript|PHP,React,Scrum Master,1.0,Autodidacta,Cloud,13838
+PER-90289,37,Austin,USA,typescript|kotlin|scala,Node.js|Laravel,Scrum Master,4.0,Técnico,DevOps,$97586
+PER-90290,38,Miami,USA,Kotlin,Node.js|Spring,GCP ACE,1.0,Posgrado,Cloud,USD 82604
+PER-90291,31,Cartagena,Colombia,r|kotlin|php,Laravel,None,5.0,Pregrado,Data Science,14775
+PER-90292,21,Buenos Aires,Argentina,C#|Python|JavaScript,Spark|Node.js,Cisco CCNA,3.0,Autodidacta,Ciberseguridad,27927
+PER-90293,26,CDMX,México,TypeScript,Laravel|Flask,Azure Fundamentals,3.0,Posgrado,Cloud,US$ 17.838
+PER-90294,32,Santiago,Chile,JavaScript|TypeScript,FastAPI|Flask,Scrum Master,4.0,Pregrado,Backend,USD 21784
+PER-90295,32,Miami,USA,Swift|Go,Flask,GCP ACE,2.0,Autodidacta,Backend,$136466
+PER-90296,23,Lima ,Perú,R|Swift,Django|Laravel,GCP ACE,2.0,Pregrado,Frontend,$11593
+PER-90297,26,CDMX,México,JavaScript|TypeScript|R,Vue|FastAPI,AWS CCP,1.0,Tecnólogo,DevOps,$16255
+PER-90298,35,Barranquilla,Colombia,Go|Scala|Python,.NET,AWS CCP,2.0,Tecnólogo,DevOps,8219
+PER-90299,30,Santiago,Chile,Go|PHP,Laravel|Node.js,None|AWS CCP,4.0,Técnico,Cloud,$32547
+PER-90300,18,Austin,USA,swift|kotlin|c#,Node.js,Scrum Master,3.0,Técnico,Frontend,"$107,652"
+PER-90301,29,Rosario,Argentina,PHP|Java|TypeScript,React,Azure Fundamentals|Scrum Master,4.0,Pregrado,Data Science,$16017
+PER-90302,25,Puebla,México,TypeScript|Java|JavaScript,FastAPI|React,Azure Fundamentals,3.0,Posgrado,Frontend,$27865
+PER-90303,37,Arequipa,Perú,C#,Spark|Laravel,AWS CCP,7.0,Técnico,DevOps,USD 11790
+PER-90304,38,Valparaiso,Chile,python,Vue|Spring,GCP ACE,6.0,Posgrado,Data Science,"$24,383"
+PER-90305,24,Santiago,Chile,Kotlin,.NET,AWS CCP|GCP ACE,2.0,Posgrado,Ciberseguridad,$33750
+PER-90306,29,???,Colombia,Scala|PHP,Laravel|.NET,Cisco CCNA,0.0,Posgrado,IA,$16350
+PER-90307,20,Concepción,Chile,JavaScript|Java,Angular|FastAPI,AWS CCP|Cisco CCNA,4.0,Pregrado,Cloud,"$21,865"
+PER-90308,28,Austin,USA,Swift|Scala,.NET|Django,Azure Fundamentals|GCP ACE,1.0,Autodidacta,DevOps,"$86,407"
+PER-90309,26,???,España,TypeScript|Scala,Spark,Cisco CCNA|AWS CCP,3.0,Posgrado,Ciberseguridad,$30946
+PER-90310,36,Guadalajara,México,kotlin|c#,Vue,AWS CCP,5.0,Técnico,DevOps,31274
+PER-90311,37,Austin,USA,Python|Go,FastAPI,GCP ACE,5.0,Técnico,Ciberseguridad,$80881
+PER-90312,27,???,Colombia,TypeScript|R|Go,Django|React,AWS CCP,1.0,Técnico,BI/Analytics,US$ 15.568
+PER-90313,27,???,Perú,Kotlin|Swift|Java,Laravel|Vue,Azure Fundamentals,5.0,Tecnólogo,Frontend,US$ 13.769
+PER-90314,30,Cartagena,Colombia,Python|JavaScript,React|Flask,GCP ACE|None,4.0,Pregrado,Ciberseguridad,11708
+PER-90315,31,barcelona,España,JavaScript|Java|TypeScript,Vue,None|AWS CCP,2.0,Tecnólogo,BI/Analytics,$41985
+PER-90316,28,Medellín,Colombia,PHP|TypeScript|Kotlin,Spring|Node.js,GCP ACE|Scrum Master,4.0,Pregrado,Frontend,US$ 10.343
+PER-90317,31,Cartagena,Colombia,Java|TypeScript,Laravel,GCP ACE|AWS CCP,1.0,Posgrado,Backend,9057
+PER-90318,42,Valencia,España,scala|typescript|php,FastAPI|Vue,None,0.0,Posgrado,IA,$42226
+PER-90319,23,???,Perú,PHP|Scala,FastAPI,GCP ACE,4.0,Autodidacta,Ciberseguridad,"$18,026"
+PER-90320,34,Valencia,España,Swift|Scala,Laravel|Django,GCP ACE|Scrum Master,1.0,Autodidacta,Ciberseguridad,US$ 61.204
+PER-90321,27,BARRANQUILLA,Colombia,Go,Node.js|.NET,GCP ACE,4.0,Pregrado,Backend,17770
+PER-90322,28,Barcelona,España,R,Vue|Spark,Scrum Master,0.0,Pregrado,DevOps,40149
+PER-90323,34,Rosario ,Argentina,Python|JavaScript,React,AWS CCP|GCP ACE ,0.0,Autodidacta,DevOps,17703
+PER-90324,39,Cusco,Perú,Scala|Go,Vue|Laravel,GCP ACE,3.0,Tecnólogo,Ciberseguridad,$14334
+PER-90325,33,Concepción ,Chile,Python|PHP,Django,None|Scrum Master,4.0,Pregrado,DevOps,US$ 22.409
+PER-90326,26,Cali,Colombia,R|Java,FastAPI|.NET,None,3.0,Autodidacta,Ciberseguridad,20918
+PER-90327,26,Seattle,USA,Kotlin,FastAPI|Django,Azure Fundamentals,1.0,Técnico,Backend,"$79,527"
+PER-90328,33,Madrid,España,JavaScript,Flask,None|AWS CCP ,3.0,Tecnólogo,Backend,"$36,968"
+PER-90329,31,medellín,Colombia,C#|R,Django,GCP ACE|AWS CCP,5.0,Técnico,Cloud,USD 9099
+PER-90330,27,CDMX,México,Go|Python|Kotlin,FastAPI,Cisco CCNA|None,1.0,Técnico,Backend,$9617
+PER-90331,30,Madrid,España,kotlin|python,Django,Cisco CCNA,2.0,Técnico,DevOps,"$37,471"
+PER-90332,22,Barcelona,España,TypeScript,Django,Azure Fundamentals|Cisco CCNA,4.0,Autodidacta,DevOps,"$32,618"
+PER-90333,30,Cartagena ,Colombia,JavaScript|Scala,Laravel|Vue,Cisco CCNA,4.0,Tecnólogo,Frontend,"$10,801"
+PER-90334,31,cusco,Perú,JavaScript|Go,Django,Cisco CCNA|Azure Fundamentals,6.0,Tecnólogo,IA,$13842
+PER-90335,36,Madrid,España,Go|TypeScript|JavaScript,Django,AWS CCP,2.0,Tecnólogo,Ciberseguridad,USD 74863
+PER-90336,28,???,Argentina,JavaScript|PHP|Go,React|.NET,None,2.0,Pregrado,Data Science,USD 36344
+PER-90337,18,Santiago,Chile,Kotlin|Java,Node.js|Django,Azure Fundamentals|Cisco CCNA,5.0,Pregrado,DevOps,21335
+PER-90338,28,santiago,Chile,TypeScript,Node.js|Flask,Scrum Master|Cisco CCNA,,Pregrado,Backend,"$18,636"
+PER-90339,26,Buenos Aires,Argentina,Swift,Node.js,None ,2.0,Autodidacta,Frontend,USD 24860
+PER-90340,30,CDMX,México,Java|Go|C#,.NET|Angular,None,6.0,Posgrado,Frontend,$25815
+PER-90341,,Arequipa,Perú,C#|JavaScript,Django,Cisco CCNA,3.0,Posgrado,Ciberseguridad,"$18,231"
+PER-90342,27,Cusco,Perú,TypeScript,FastAPI,AWS CCP|GCP ACE,5.0,Tecnólogo,IA,US$ 13.773
+PER-90343,38,Lima ,Perú,PHP|Kotlin,React,None,3.0,Pregrado,Ciberseguridad,US$ 26.476
+PER-90344,21,BUCARAMANGA,Colombia,Swift|Kotlin,Node.js,AWS CCP,1.0,Tecnólogo,IA,$13318
+PER-90345,44,???,Chile,Kotlin|C#|PHP,Angular|Flask,Scrum Master ,5.0,Posgrado,Backend,27051
+PER-90346,31,monterrey,México,PHP|Go|JavaScript,Spark|FastAPI,Azure Fundamentals,3.0,Técnico,IA,$32209
+PER-90347,31,Cusco,Perú,Swift,Django|Spark,Scrum Master,0.0,Posgrado,IA,USD 18115
+PER-90348,34,Rosario,Argentina,scala|python|typescript,Django,Azure Fundamentals|Cisco CCNA ,4.0,Tecnólogo,Backend,"$18,680"
+PER-90349,39,San Francisco,USA,Scala,Vue,Cisco CCNA,5.0,Posgrado,Data Science,78471
+PER-90350,30,Cartagena,Colombia,R|Scala|C#,Laravel|FastAPI,None|Azure Fundamentals,4.0,Tecnólogo,Cloud,USD 19532
+PER-90351,22,Miami,USA,c#|javascript|php,Angular,Azure Fundamentals,0.0,Tecnólogo,Backend,USD 84831
+PER-90352,29,Lima,Perú,Swift|Kotlin|JavaScript,FastAPI|React,Scrum Master,7.0,Autodidacta,Data Science,$17783
+PER-90353,18,CDMX,México,Go|Scala,Vue,Scrum Master|Azure Fundamentals,3.0,Posgrado,IA,US$ 20.116
+PER-90354,,???,España,Python,React|Django,GCP ACE,3.0,Pregrado,Data Science,US$ 34.186
+PER-90355,26,Valencia,España,Python|Swift|R,Laravel|React,Scrum Master|GCP ACE,4.0,Pregrado,IA,US$ 24.908
+PER-90356,31,Santiago,Chile,php,.NET|Node.js,GCP ACE,2.0,Posgrado,DevOps,15501
+PER-90357,24,Sevilla,España,python,Laravel|Django,GCP ACE|None,2.0,Técnico,Cloud,USD 40359
+PER-90358,22,San Francisco,USA,Scala|PHP,Node.js|Spring,GCP ACE,4.0,Tecnólogo,Backend,73959
+PER-90359,24,Buenos Aires ,Argentina,Scala,Django|React,Azure Fundamentals,3.0,Tecnólogo,Frontend,$22361
+PER-90360,29,Córdoba,Argentina,Java|Scala,Laravel|Node.js,AWS CCP|Scrum Master ,4.0,Posgrado,Backend,32814
+PER-90361,27,Valencia,España,JavaScript|Python,Flask,Azure Fundamentals,3.0,Autodidacta,Cloud,US$ 41.992
+PER-90362,27,Concepción,Chile,C#|TypeScript,Django,GCP ACE,3.0,Técnico,Cloud,"$24,245"
+PER-90363,25,Cali,Colombia,Python|Go|TypeScript,FastAPI|Spring,Cisco CCNA,5.0,Pregrado,DevOps,$11608
+PER-90364,34,Arequipa ,Perú,JavaScript,Spark|FastAPI,GCP ACE|Cisco CCNA,0.0,Pregrado,BI/Analytics,20905
+PER-90365,21,Arequipa,Perú,Scala,Spark|Vue,Cisco CCNA,5.0,Tecnólogo,Frontend,29145
+PER-90366,34,Barcelona,España,R|Java|Kotlin,React|Flask,None,3.0,Autodidacta,DevOps,"$26,172"
+PER-90367,28,Arequipa,Perú,kotlin|python|java,Flask,Cisco CCNA|GCP ACE,2.0,Pregrado,BI/Analytics,USD 31270
+PER-90368,35,???,México,Swift|Python,Vue,Azure Fundamentals,3.0,Tecnólogo,Frontend,28188
+PER-90369,27,Austin,USA,Swift|Java|TypeScript,FastAPI|React,Scrum Master|GCP ACE,5.0,Autodidacta,Cloud,"$66,962"
+PER-90370,30,Córdoba,Argentina,Kotlin,Flask|Django,AWS CCP|Azure Fundamentals,0.0,Tecnólogo,DevOps,US$ 38.256
+PER-90371,,Arequipa,Perú,Scala,Django|Flask,Azure Fundamentals|Scrum Master,0.0,Tecnólogo,Frontend,"$20,867"
+PER-90372,28,Córdoba,Argentina,Go,Vue|Spark,AWS CCP,5.0,Técnico,Data Science,US$ 34.085
+PER-90373,32,???,USA,C#,Laravel|Spark,GCP ACE,4.0,Pregrado,Data Science,$148747
+PER-90374,26,Madrid,España,Scala|R,Spark|Laravel,Azure Fundamentals,2.0,Pregrado,Frontend,USD 34213
+PER-90375,20,Austin,USA,C#|R|Swift,Laravel,AWS CCP,2.0,Pregrado,Data Science,US$ 122.935
+PER-90376,25,Arequipa,Perú,Go|Scala,Spark|Django,None,0.0,Tecnólogo,BI/Analytics,22572
+PER-90377,33,???,Perú,Go,Node.js|Django,Scrum Master,2.0,Posgrado,Backend,USD 19737
+PER-90378,32,Valencia,España,Swift,Node.js|Django,None,3.0,Posgrado,Backend,56108
+PER-90379,27,Buenos Aires,Argentina,Scala|Go|C#,React|Django,Cisco CCNA,5.0,Autodidacta,Data Science,USD 21573
+PER-90380,18,Córdoba,Argentina,TypeScript|Python|Scala,.NET,None,0.0,Tecnólogo,Data Science,17727
+PER-90381,25,BARRANQUILLA,Colombia,R|C#|TypeScript,Angular|Spark,Cisco CCNA,5.0,Técnico,Frontend,"$11,851"
+PER-90382,36,Cusco,Perú,java|c#,FastAPI,None|Azure Fundamentals,7.0,Posgrado,Frontend,$11107
+PER-90383,33,Valencia,España,Java|PHP,Vue,AWS CCP|Cisco CCNA,2.0,Tecnólogo,Frontend,$35110
+PER-90384,18,valencia,España,PHP|Scala|Swift,React|Angular,AWS CCP|Scrum Master,5.0,Técnico,Data Science,32028
+PER-90385,30,Valparaíso,Chile,Go|JavaScript,Flask,GCP ACE,4.0,Posgrado,BI/Analytics,25731
+PER-90386,24,Lima,Perú,Java|Swift,Vue|Spark,Cisco CCNA,2.0,Posgrado,Data Science,"$22,194"
+PER-90387,39,BUENOS AIRES,Argentina,Swift|Scala,Flask,AWS CCP|Cisco CCNA,3.0,Autodidacta,Cloud,"$35,181"
+PER-90388,37,Valparaíso,Chile,Java|Go|JavaScript,Laravel|Vue,Scrum Master,0.0,Posgrado,DevOps,USD 25635
+PER-90389,25,Concepción,Chile,Java|R,Angular|Spring,AWS CCP,2.0,Pregrado,Frontend,$14763
+PER-90390,22,Córdoba,Argentina,TypeScript|Scala,Vue,Cisco CCNA,2.0,Autodidacta,Data Science,USD 21787
+PER-90391,24,Arequipa,Perú,Scala|Python,Laravel,GCP ACE|AWS CCP,1.0,Posgrado,Backend,$20126
+PER-90392,29,Austin,USA,JavaScript,Django|Spring,None,4.0,Tecnólogo,Data Science,US$ 87.202
+PER-90393,31,Seattle ,USA,PHP|TypeScript,Node.js|Flask,None,2.0,Técnico,BI/Analytics,$91473
+PER-90394,37,???,España,C#,Flask,None ,3.0,Posgrado,BI/Analytics,US$ 32.103
+PER-90395,25,Santiago,Chile,Go|Swift,.NET,AWS CCP ,1.0,Técnico,Frontend,$35165
+PER-90396,30,Rosario,Argentina,Scala,.NET,AWS CCP,1.0,Técnico,BI/Analytics,"$23,868"
+PER-90397,23,???,México,kotlin|javascript|c#,Flask|Laravel,AWS CCP,1.0,Tecnólogo,DevOps,"$13,238"
+PER-90398,20,Bogotá,Colombia,Java,.NET|Django,None,3.0,Autodidacta,BI/Analytics,USD 13569
+PER-90399,28,Cusco,Perú,kotlin,.NET,Azure Fundamentals|Scrum Master,4.0,Autodidacta,Cloud,US$ 28.178
+PER-90400,36,Valencia,España,Kotlin,Vue,Cisco CCNA,2.0,Posgrado,Backend,US$ 40.104
+PER-90401,18,Barranquilla,Colombia,C#|Python,Django,Scrum Master,2.0,Autodidacta,IA,10871
+PER-90402,23,Arequipa,Perú,Go,Flask|Spring,Azure Fundamentals,2.0,Autodidacta,Cloud,"$15,434"
+PER-90403,37,Concepción,Chile,Kotlin|Java|Python,FastAPI,AWS CCP|Cisco CCNA,0.0,Posgrado,Backend,USD 39929
+PER-90404,41,Concepción,Chile,Go|JavaScript,Django,Azure Fundamentals ,1.0,Pregrado,IA,US$ 31.381
+PER-90405,34,New York,USA,PHP,FastAPI|Django,None,5.0,Tecnólogo,Frontend,$129503
+PER-90406,34,Bogotá,Colombia,R|Java,Node.js|Laravel,Scrum Master,4.0,Tecnólogo,BI/Analytics,US$ 19.890
+PER-90407,,Puebla ,México,Kotlin|Python,Vue,Azure Fundamentals|Cisco CCNA,0.0,Técnico,IA,USD 27205
+PER-90408,34,Miami,USA,Swift|TypeScript|Kotlin,Spring,Azure Fundamentals,0.0,Tecnólogo,Cloud,135446
+PER-90409,39,Madrid ,España,R|TypeScript,Vue|.NET,Cisco CCNA,5.0,Tecnólogo,BI/Analytics,$40025
+PER-90410,34,CALI,Colombia,Java,Node.js,AWS CCP,8.0,Pregrado,Frontend,"$18,691"
+PER-90411,23,Valparaiso,Chile,Kotlin|R|Go,Spring|Node.js,Azure Fundamentals|GCP ACE,5.0,Autodidacta,IA,$20872
+PER-90412,19,Valencia,España,Java|R,Node.js|Laravel,GCP ACE|Azure Fundamentals,1.0,Tecnólogo,BI/Analytics,$47296
+PER-90413,30,Bogotá,Colombia,Go|Kotlin,Spring,Azure Fundamentals,3.0,Técnico,Ciberseguridad,8071
+PER-90414,28,Córdoba,Argentina,Python|JavaScript|Swift,Flask,AWS CCP,2.0,Tecnólogo,DevOps,$13402
+PER-90415,40,???,México,Java|Swift,Flask,None|Scrum Master,5.0,Pregrado,DevOps,USD 24988
+PER-90416,25,Cartagea,Colombia,Python|Kotlin|Swift,Django|.NET,None ,0.0,Técnico,Frontend,$11727
+PER-90417,37,Concepción,Chile,TypeScript|Go,Vue|Angular,Cisco CCNA,0.0,Pregrado,Backend,US$ 37.737
+PER-90418,23,???,Perú,Python|Kotlin|TypeScript,Node.js|Laravel,AWS CCP|Azure Fundamentals,0.0,Tecnólogo,Frontend,US$ 27.565
+PER-90419,29,Lima,Perú,Kotlin|PHP,Spring,Scrum Master,4.0,Autodidacta,DevOps,US$ 26.423
+PER-90420,29,Puebla,México,Go|C#,Django,Scrum Master,6.0,Posgrado,IA,"$21,239"
+PER-90421,28,Bogotá,Colombia,php|c#|r,React|Vue,Cisco CCNA|None,3.0,Posgrado,IA,$9640
+PER-90422,29,Arequipa,Perú,Kotlin|Scala,React|Vue,GCP ACE|Azure Fundamentals,0.0,Técnico,DevOps,$13601
+PER-90423,20,Austin,USA,R|Python,Flask,None|Cisco CCNA,1.0,Autodidacta,BI/Analytics,USD 97211
+PER-90424,37,Arequipa ,Perú,Scala,Vue|FastAPI,Azure Fundamentals,0.0,Técnico,Frontend,"$25,925"
+PER-90425,26,Santiago,Chile,C#|JavaScript|Go,.NET,None,4.0,Pregrado,Backend,$22716
+PER-90426,30,???,Argentina,C#|Go,Flask,Azure Fundamentals,7.0,Autodidacta,IA,$21627
+PER-90427,25,Concepción,Chile,Go|PHP,.NET,Azure Fundamentals|AWS CCP,6.0,Pregrado,Cloud,US$ 31.337
+PER-90428,21,Guadalajara,México,Go,Vue,Cisco CCNA,1.0,Autodidacta,Frontend,28722
+PER-90429,24,Valparaíso,Chile,R|Java,React|FastAPI,GCP ACE,3.0,Técnico,Cloud,$34464
+PER-90430,22,AREQUIPA,Perú,Java,Vue|Angular,Azure Fundamentals|None,3.0,Posgrado,Ciberseguridad,"$15,150"
+PER-90431,34,Santiago,Chile,Java,Vue|Flask,None,3.0,Autodidacta,IA,$29517
+PER-90432,34,Madrid,España,R|Swift,Flask|Angular,GCP ACE ,3.0,Autodidacta,Cloud,US$ 30.211
+PER-90433,34,Concepción,Chile,Swift|JavaScript|PHP,React,None|AWS CCP,6.0,Autodidacta,IA,$39583
+PER-90434,32,Sevilla,España,Scala|PHP|Java,Angular,Cisco CCNA,4.0,Pregrado,Ciberseguridad,$30575
+PER-90435,21,Cusco,Perú,C#|Java|Scala,FastAPI,GCP ACE,4.0,Tecnólogo,Data Science,US$ 11.795
+PER-90436,20,Cartagena,Colombia,Kotlin,Flask,Cisco CCNA,4.0,Autodidacta,Ciberseguridad,USD 11691
+PER-90437,18,BUENOS AIRES,Argentina,Kotlin|Java,.NET|React,GCP ACE,2.0,Autodidacta,Ciberseguridad,"$18,627"
+PER-90438,42,Valencia,España,Kotlin|Go,Laravel,Scrum Master|Cisco CCNA,4.0,Posgrado,Cloud,31919
+PER-90439,28,Puebla,México,C#,.NET,Azure Fundamentals|Cisco CCNA,2.0,Posgrado,DevOps,$15918
+PER-90440,20,Barcelona,España,Kotlin|JavaScript|Swift,Angular|Django,GCP ACE ,0.0,Autodidacta,IA,$33055
+PER-90441,25,Barranquilla,Colombia,Java|Scala,Django,None|Cisco CCNA,4.0,Posgrado,Data Science,"$9,545"
+PER-90442,31,Medellín,Colombia,python,Angular|Flask,Cisco CCNA,,Tecnólogo,BI/Analytics,"$19,091"
+PER-90443,24,Medellín,Colombia,R,Node.js|Vue,Cisco CCNA,3.0,Posgrado,IA,"$7,000"
+PER-90444,28,Cusco,Perú,Scala|Python,Spring|Angular,Scrum Master|Cisco CCNA,5.0,Pregrado,BI/Analytics,$13587
+PER-90445,31,Rosario,Argentina,Java|Swift|Go,Laravel|React,None,3.0,Pregrado,Frontend,"$22,629"
+PER-90446,37,Santiago,Chile,Java|PHP|R,Django,Azure Fundamentals|Cisco CCNA,0.0,Tecnólogo,BI/Analytics,US$ 22.349
+PER-90447,24,Valencia,España,Scala|Kotlin|Python,Spring|Vue,AWS CCP,5.0,Pregrado,IA,53129
+PER-90448,35,???,Chile,JavaScript|Java,Laravel|Flask,None,4.0,Técnico,Data Science,"$19,384"
+PER-90449,29,Cartagena,Colombia,PHP|Java,Laravel|Flask,None|GCP ACE,3.0,Autodidacta,Ciberseguridad,"$14,486"
+PER-90450,32,New York,USA,Java|Swift|JavaScript,Django,None|Scrum Master,3.0,Pregrado,DevOps,$121593
+PER-90451,28,Austin,USA,JavaScript|TypeScript|Java,Vue|Angular,AWS CCP|GCP ACE ,0.0,Tecnólogo,IA,$93213
+PER-90452,36,Bogotá,Colombia,R|TypeScript,Vue,AWS CCP,2.0,Pregrado,BI/Analytics,13841
+PER-90453,29,Valparaíso,Chile,C#|Java,FastAPI,GCP ACE|Cisco CCNA,4.0,Técnico,Data Science,USD 17493
+PER-90454,25,Córdoba,Argentina,Scala|Java,Vue,None,3.0,Pregrado,IA,$26027
+PER-90455,22,Cusco,Perú,Go|JavaScript,FastAPI|Node.js,Scrum Master,0.0,Pregrado,Cloud,"$10,539"
+PER-90456,23,Córdoba,Argentina,R|Python,Spark|Vue,None,0.0,Posgrado,BI/Analytics,US$ 16.202
+PER-90457,36,Concepción,Chile,PHP,.NET,None ,3.0,Pregrado,Ciberseguridad,$24290
+PER-90458,27,Rosario,Argentina,Swift|Scala|Kotlin,React,AWS CCP ,0.0,Posgrado,BI/Analytics,16273
+PER-90459,21,New York,USA,Kotlin|C#,Spark|Node.js,Azure Fundamentals,1.0,Técnico,BI/Analytics,"$87,868"
+PER-90460,33,???,Colombia,C#|Go,Flask,GCP ACE,2.0,Posgrado,Cloud,"$11,785"
+PER-90461,36,SANTIAGO,Chile,Scala,Vue,Scrum Master,4.0,Tecnólogo,Ciberseguridad,28652
+PER-90462,,Buenos Aires,Argentina,scala,Node.js,GCP ACE|Scrum Master,1.0,Posgrado,Backend,USD 17551
+PER-90463,32,Lima,Perú,python|swift|typescript,Flask|Django,GCP ACE,2.0,Posgrado,DevOps,"$19,113"
+PER-90464,27,???,España,php,Flask|FastAPI,Azure Fundamentals,7.0,Autodidacta,IA,$39819
+PER-90465,24,Concepción,Chile,Kotlin,React|Angular,Azure Fundamentals,4.0,Autodidacta,Data Science,"$34,816"
+PER-90466,33,Córdoba,Argentina,php|r,Spring|FastAPI,Scrum Master,2.0,Autodidacta,IA,15142
+PER-90467,30,Sevilla,España,c#|kotlin,Spark|FastAPI,Azure Fundamentals|AWS CCP,5.0,Pregrado,Ciberseguridad,33555
+PER-90468,19,New York,USA,C#|Swift,React|FastAPI,Scrum Master,2.0,Posgrado,Cloud,$106803
+PER-90469,18,Cali,Colombia,C#|PHP,Node.js,AWS CCP,0.0,Posgrado,Backend,US$ 11.861
+PER-90470,21,Bucaramanga,Colombia,PHP|Scala,Spring,Cisco CCNA,4.0,Autodidacta,Data Science,USD 18967
+PER-90471,31,austin,USA,TypeScript,.NET|Spark,AWS CCP|GCP ACE,4.0,Pregrado,Cloud,US$ 115.624
+PER-90472,26,Concepción ,Chile,Kotlin|PHP|JavaScript,.NET|FastAPI,GCP ACE,5.0,Pregrado,Ciberseguridad,USD 18210
+PER-90473,21,Monterrey,México,php|r|go,Flask,GCP ACE,3.0,Pregrado,Frontend,17320
+PER-90474,36,Córdoba,Argentina,C#,Spring,Scrum Master,8.0,Posgrado,Frontend,$16770
+PER-90475,27,Medellín,Colombia,JavaScript|Swift|Kotlin,Angular,Cisco CCNA,4.0,Pregrado,IA,"$9,991"
+PER-90476,29,buenos aires,Argentina,Python|Java,React,Cisco CCNA|Azure Fundamentals,2.0,Pregrado,Cloud,$28707
+PER-90477,30,Puebla,México,TypeScript|Scala,FastAPI,Cisco CCNA|AWS CCP ,3.0,Pregrado,Backend,16438
+PER-90478,18,???,Colombia,JavaScript,Flask|.NET,None|GCP ACE ,4.0,Autodidacta,IA,USD 16553
+PER-90479,29,Miami,USA,Swift|JavaScript|TypeScript,Spring,Cisco CCNA|AWS CCP ,7.0,Tecnólogo,DevOps,$86158
+PER-90480,23,MONTERREY,México,Kotlin|R,Vue,Azure Fundamentals|Scrum Master,5.0,Tecnólogo,Ciberseguridad,US$ 15.077
+PER-90481,25,Miami,USA,Swift|Go,React,Cisco CCNA,4.0,Autodidacta,Data Science,$75764
+PER-90482,31,Santiago,Chile,Java|Python,Spark,AWS CCP,5.0,Tecnólogo,Data Science,"$29,365"
+PER-90483,21,Buenos Aires,Argentina,Scala|TypeScript,Vue|React,Cisco CCNA|Azure Fundamentals,0.0,Posgrado,Cloud,US$ 11.965
+PER-90484,25,Miami,USA,Scala,Laravel,AWS CCP,2.0,Autodidacta,DevOps,US$ 105.756
+PER-90485,29,Barcelona,España,r,Spark,Scrum Master,1.0,Posgrado,Cloud,$32039
+PER-90486,33,CÓRDOBA,Argentina,Go|C#,Spark|FastAPI,Scrum Master,3.0,Pregrado,Ciberseguridad,"$32,384"
+PER-90487,30,San Francisco,USA,JavaScript|Java|Go,.NET|FastAPI,Azure Fundamentals,0.0,Tecnólogo,Frontend,"$103,742"
+PER-90488,,???,USA,Swift|JavaScript,Django|React,None,3.0,Posgrado,Cloud,USD 129827
+PER-90489,29,Barranquilla,Colombia,scala|php,Django|Node.js,Azure Fundamentals,4.0,Posgrado,BI/Analytics,US$ 9.517
+PER-90490,30,Santiago,Chile,R|C#,Flask|Spring,AWS CCP,1.0,Técnico,Ciberseguridad,"$13,630"
+PER-90491,23,Lima,Perú,Kotlin,FastAPI|Spring,Cisco CCNA,3.0,Pregrado,DevOps,US$ 19.363
+PER-90492,35,Cusco ,Perú,TypeScript,Flask,Scrum Master,1.0,Técnico,Data Science,16279
+PER-90493,37,Monterrey,México,JavaScript|Kotlin,Spark|Laravel,Scrum Master,0.0,Autodidacta,Data Science,"$15,585"
+PER-90494,37,Valparaíso,Chile,kotlin,Laravel,AWS CCP|Cisco CCNA,4.0,Tecnólogo,Frontend,$20027
+PER-90495,25,Buenos Aires,Argentina,JavaScript|Java,Laravel|FastAPI,Scrum Master|None,1.0,Técnico,Backend,US$ 18.295
+PER-90496,32,Lima,Perú,TypeScript,Laravel,None,5.0,Pregrado,Backend,US$ 25.389
+PER-90497,31,Medellín,Colombia,TypeScript|Python|Kotlin,Vue|FastAPI,AWS CCP|GCP ACE ,1.0,Técnico,DevOps,13111
+PER-90498,29,santiago,Chile,TypeScript,FastAPI,Azure Fundamentals,5.0,Pregrado,BI/Analytics,"$20,070"
+PER-90499,37,Monterrey,México,R|PHP|JavaScript,React|Spring,Azure Fundamentals,4.0,Técnico,BI/Analytics,$12736
+PER-90500,32,Lima,Perú,scala|php,Spark|React,Cisco CCNA,3.0,Pregrado,Cloud,US$ 19.079
+PER-90501,24,Barranquilla,Colombia,C#|Java,Angular,GCP ACE ,0.0,Tecnólogo,Ciberseguridad,US$ 17.890
+PER-90502,37,Concepción,Chile,java|swift,Angular|Django,Cisco CCNA|Azure Fundamentals,1.0,Posgrado,Ciberseguridad,USD 21484
+PER-90503,24,Cusco,Perú,Python|PHP,React,Cisco CCNA,2.0,Autodidacta,Cloud,"$28,284"
+PER-90504,18,sevilla,España,C#|Swift,Angular,Scrum Master,4.0,Autodidacta,Frontend,$31871
+PER-90505,33,GUADALAJARA,México,Kotlin|PHP,React|Vue,GCP ACE|None,4.0,Posgrado,Backend,$12235
+PER-90506,36,Seattle,USA,Java|PHP|TypeScript,.NET|Spring,Azure Fundamentals|None,3.0,Posgrado,Ciberseguridad,$111731
+PER-90507,,Valencia,España,java,Flask,Cisco CCNA,3.0,Técnico,IA,USD 45527
+PER-90508,26,Valparaíso,Chile,Python|C#,Node.js,Cisco CCNA|Scrum Master ,1.0,Pregrado,BI/Analytics,$31971
+PER-90509,31,Seattle,USA,Kotlin|PHP|JavaScript,Angular|Node.js,None,5.0,Tecnólogo,DevOps,"$73,485"
+PER-90510,30,Santiago,Chile,Java|JavaScript|Swift,FastAPI,Azure Fundamentals,3.0,Técnico,DevOps,"$24,453"
+PER-90511,,Buenos Aires,Argentina,C#|Scala,Vue,Azure Fundamentals|AWS CCP,,Pregrado,IA,US$ 15.850
+PER-90512,18,valencia,España,Go|Python,FastAPI|Django,Azure Fundamentals|Scrum Master,2.0,Técnico,BI/Analytics,"$54,163"
+PER-90513,26,Valencia,España,Swift|Go,Node.js|Angular,AWS CCP ,1.0,Tecnólogo,Cloud,USD 27802
+PER-90514,31,CONCEPCIÓN,Chile,Go|JavaScript,Spark|Spring,Scrum Master|GCP ACE,4.0,Técnico,Ciberseguridad,US$ 20.418
+PER-90515,33,Cartagena,Colombia,Swift|R,Flask|Spark,Scrum Master|None,2.0,Posgrado,Frontend,USD 20662
+PER-90516,41,Lima,Perú,Python,Node.js,GCP ACE,3.0,Pregrado,Data Science,"$11,581"
+PER-90517,26,ROSARIO,Argentina,R|Kotlin,Flask|Node.js,Cisco CCNA|GCP ACE,4.0,Pregrado,Frontend,US$ 17.002
+PER-90518,31,Córdoba,Argentina,swift|php|kotlin,FastAPI,Cisco CCNA,2.0,Autodidacta,DevOps,$31366
+PER-90519,30,Barcelona,España,C#,Angular|Node.js,Azure Fundamentals,1.0,Tecnólogo,Ciberseguridad,US$ 37.745
+PER-90520,32,Rosario,Argentina,Scala|Python,Spring,Azure Fundamentals|GCP ACE,3.0,Tecnólogo,Data Science,US$ 29.063
+PER-90521,26,Cartagena,Colombia,R,.NET,Azure Fundamentals,0.0,Tecnólogo,Data Science,$16287
+PER-90522,26,Madrid,España,javascript|python,Spark,Scrum Master|None,5.0,Tecnólogo,Backend,54749
+PER-90523,30,Cartagena,Colombia,kotlin|python|swift,Django|Laravel,Azure Fundamentals,2.0,Tecnólogo,Backend,13956
+PER-90524,34,Santiago,Chile,java,Node.js|Angular,Scrum Master|AWS CCP,1.0,Tecnólogo,Frontend,21626
+PER-90525,34,San Francisco,USA,Python|R,Laravel,None|AWS CCP ,4.0,Posgrado,DevOps,USD 145149
+PER-90526,18,Rosario,Argentina,Swift|JavaScript,Laravel,Azure Fundamentals,5.0,Autodidacta,Ciberseguridad,USD 35220
+PER-90527,22,Madrid,España,JavaScript|R,Flask|Angular,Cisco CCNA,0.0,Posgrado,IA,35144
+PER-90528,32,Rosario,Argentina,JavaScript|Scala,Django,GCP ACE,5.0,Tecnólogo,Backend,$20564
+PER-90529,25,Cusco,Perú,Java|R,Django,Scrum Master,1.0,Posgrado,DevOps,US$ 13.229
+PER-90530,28,Valencia,España,TypeScript,Django|React,AWS CCP,2.0,Posgrado,BI/Analytics,"$53,698"
+PER-90531,32,BARCELONA,España,Swift|Java|C#,Node.js,None|Scrum Master,0.0,Técnico,Frontend,"$55,944"
+PER-90532,34,Seattle,USA,Python|PHP|R,Angular|Flask,None,2.0,Pregrado,Ciberseguridad,158800
+PER-90533,32,Córdoba,Argentina,Python|PHP,FastAPI,Scrum Master|GCP ACE,6.0,Posgrado,Frontend,$18288
+PER-90534,33,Santiago,Chile,PHP|C#|Kotlin,Laravel,Scrum Master|Azure Fundamentals,4.0,Autodidacta,Backend,USD 24103
+PER-90535,24,Lima,Perú,Python|Java,FastAPI,Cisco CCNA,4.0,Posgrado,IA,USD 21659
+PER-90536,33,Bogotá,Colombia,Kotlin|JavaScript,Angular,GCP ACE,4.0,Autodidacta,Backend,US$ 20.410
+PER-90537,28,Sevilla,España,Java|R,FastAPI,AWS CCP|None,2.0,Pregrado,Frontend,$35541
+PER-90538,32,Buenos Aires,Argentina,Scala,Angular,Scrum Master,4.0,Pregrado,DevOps,US$ 18.430
+PER-90539,18,Miami,USA,Python|Java|JavaScript,Angular|Spark,Scrum Master ,6.0,Tecnólogo,DevOps,"$117,094"
+PER-90540,33,Santiago,Chile,R|Scala,Django,Cisco CCNA,0.0,Técnico,Frontend,$17748
+PER-90541,28,Barcelona,España,C#|Java|PHP,Laravel|Angular,AWS CCP|Cisco CCNA ,1.0,Técnico,DevOps,"$33,043"
+PER-90542,35,San Francisco,USA,Java,Angular,AWS CCP|Azure Fundamentals,4.0,Técnico,Cloud,103116
+PER-90543,39,New York,USA,Kotlin|Java,FastAPI|Flask,GCP ACE,2.0,Posgrado,Cloud,USD 91192
+PER-90544,36,CDMX,México,Swift,React|.NET,Azure Fundamentals,1.0,Autodidacta,Cloud,US$ 14.736
+PER-90545,34,Buenos Aires,Argentina,Python,Laravel|Django,None|Scrum Master,4.0,Autodidacta,Frontend,11918
+PER-90546,34,Barcelona,España,Kotlin|Java,Laravel,Azure Fundamentals ,2.0,Pregrado,BI/Analytics,US$ 54.949
+PER-90547,28,???,México,Python|Java,Spark|Node.js,Scrum Master|AWS CCP,0.0,Posgrado,Frontend,$18772
+PER-90548,27,Monterrey,México,PHP,Angular|Django,Azure Fundamentals|None,2.0,Posgrado,IA,$15827
+PER-90549,38,Seattle,USA,Java|TypeScript|Scala,FastAPI,AWS CCP,2.0,Autodidacta,Data Science,USD 92179
+PER-90550,19,Valencia,España,Kotlin|Swift,Node.js|Laravel,Azure Fundamentals,1.0,Tecnólogo,Frontend,"$30,140"
+PER-90551,35,Austin,USA,Java|R,FastAPI|Spark,Scrum Master|Cisco CCNA,6.0,Tecnólogo,Cloud,127513
+PER-90552,31,Arequipa,Perú,Java|Kotlin,FastAPI,GCP ACE,1.0,Pregrado,BI/Analytics,USD 14190
+PER-90553,34,concepción,Chile,Go,Spring|Flask,Azure Fundamentals,4.0,Técnico,BI/Analytics,$32986
+PER-90554,31,Miami,USA,Scala|JavaScript,FastAPI|Node.js,GCP ACE,5.0,Pregrado,Backend,USD 95665
+PER-90555,18,Lima,Perú,Java|JavaScript,Spark,Azure Fundamentals,6.0,Tecnólogo,Cloud,$27345
+PER-90556,34,valencia,España,PHP|Python|Java,Flask,Scrum Master|AWS CCP,2.0,Tecnólogo,Backend,US$ 37.893
+PER-90557,28,VALPARAÍSO,Chile,Java|TypeScript,Flask,AWS CCP,5.0,Posgrado,Cloud,US$ 22.343
+PER-90558,27,Madrid,España,Kotlin|JavaScript,Django|FastAPI,Scrum Master,5.0,Autodidacta,Frontend,$34516
+PER-90559,28,Concepción,Chile,R|Python,Node.js,Cisco CCNA,3.0,Tecnólogo,Frontend,$18026
+PER-90560,20,Arequipa,Perú,PHP,Spark|Node.js,Scrum Master|GCP ACE,4.0,Pregrado,Backend,$10869
+PER-90561,21,Cartagena,Colombia,JavaScript,Spark,GCP ACE,3.0,Autodidacta,Ciberseguridad,$11734
+PER-90562,28,Córdoba,Argentina,swift|c#,Angular,AWS CCP ,4.0,Pregrado,Cloud,"$16,130"
+PER-90563,33,???,Chile,javascript|swift|scala,Spring,Cisco CCNA,0.0,Pregrado,BI/Analytics,$19165
+PER-90564,27,???,USA,Java|TypeScript,Node.js|Vue,None,0.0,Posgrado,DevOps,US$ 119.961
+PER-90565,37,???,Perú,PHP|Go,Spring,Cisco CCNA,2.0,Tecnólogo,Data Science,USD 16082
+PER-90566,38,Buenos Aires,Argentina,Swift|TypeScript|PHP,Spark|Django,GCP ACE,1.0,Autodidacta,Frontend,US$ 22.711
+PER-90567,30,Buenos Aires,Argentina,go|c#,Django,Azure Fundamentals|AWS CCP,2.0,Técnico,DevOps,"$16,360"
+PER-90568,33,Arequipa,Perú,R|Kotlin,Node.js,Azure Fundamentals|GCP ACE ,2.0,Pregrado,Backend,US$ 17.527
+PER-90569,25,medellín,Colombia,Scala,Spark|Laravel,None,3.0,Técnico,Ciberseguridad,$8480
+PER-90570,21,Rosario,Argentina,C#|TypeScript|Kotlin,Angular,Azure Fundamentals,2.0,Tecnólogo,Frontend,$15701
+PER-90571,36,Barranquilla,Colombia,JavaScript|Kotlin,Vue|Spring,None|GCP ACE,0.0,Técnico,Cloud,18453
+PER-90572,31,Lima,Perú,Python,Node.js|Django,Cisco CCNA,0.0,Autodidacta,DevOps,US$ 27.439
+PER-90573,39,Arequipa,Perú,R|JavaScript|C#,Django,Scrum Master,2.0,Autodidacta,Data Science,$20925
+PER-90574,39,Concepción,Chile,TypeScript,Node.js|Spring,Azure Fundamentals|None,3.0,Posgrado,BI/Analytics,"$22,225"
+PER-90575,32,New York,USA,R,.NET|React,Scrum Master,0.0,Tecnólogo,DevOps,US$ 107.518
+PER-90576,36,Cusco,Perú,python,Spring|.NET,None|GCP ACE,2.0,Autodidacta,Backend,US$ 18.379
+PER-90577,25,Rosario,Argentina,Go|TypeScript|PHP,Vue,None ,2.0,Pregrado,Cloud,US$ 22.613
+PER-90578,41,Valencia,España,R,.NET,Scrum Master|None,2.0,Pregrado,Backend,US$ 53.994
+PER-90579,37,Valencia,España,Kotlin|Scala,Laravel,None|Scrum Master,2.0,Tecnólogo,BI/Analytics,$38201
+PER-90580,31,cdmx,México,TypeScript|Go,Flask,Scrum Master ,4.0,Técnico,Frontend,$13055
+PER-90581,18,Lima,Perú,Java|PHP,Flask|React,GCP ACE,3.0,Pregrado,Cloud,14287
+PER-90582,33,Miami,USA,Swift|Java|R,Vue|.NET,None,1.0,Autodidacta,Backend,USD 89051
+PER-90583,20,Córdoba,Argentina,JavaScript|Java,Spark,GCP ACE,4.0,Posgrado,BI/Analytics,$12428
+PER-90584,32,Concepción,Chile,C#|JavaScript,FastAPI|Flask,None|AWS CCP,4.0,Pregrado,DevOps,20887
+PER-90585,38,Rosario,Argentina,C#|Go,Vue|Node.js,None,3.0,Técnico,IA,USD 22476
+PER-90586,22,Rosario,Argentina,Python|TypeScript,Laravel,Scrum Master,1.0,Posgrado,Frontend,24896
+PER-90587,36,Bogotá,Colombia,Python|PHP,.NET,Azure Fundamentals,5.0,Posgrado,DevOps,"$9,857"
+PER-90588,23,Santiago,Chile,Kotlin,.NET|Flask,Cisco CCNA ,2.0,Tecnólogo,Backend,$36818
+PER-90589,31,Valencia,España,R|Kotlin,Vue,Scrum Master|Azure Fundamentals,4.0,Posgrado,Backend,$42191
+PER-90590,21,Guadalajara,México,Kotlin|JavaScript|TypeScript,Spark,Scrum Master,0.0,Autodidacta,DevOps,USD 28995
+PER-90591,34,Madrid,España,C#|Java,Laravel|Node.js,GCP ACE ,4.0,Posgrado,Backend,44699
+PER-90592,48,Puebla,México,Python|Go|Java,Laravel|Django,Azure Fundamentals ,4.0,Técnico,Cloud,"$20,900"
+PER-90593,26,Miami,USA,C#|Scala,Vue,Cisco CCNA|Azure Fundamentals,0.0,Autodidacta,Cloud,99430
+PER-90594,22,Seattle,USA,typescript|scala,React|Vue,Scrum Master|Cisco CCNA,3.0,Tecnólogo,Frontend,$126410
+PER-90595,29,Puebla,México,javascript,.NET|Django,None|Azure Fundamentals,3.0,Tecnólogo,Data Science,US$ 23.217
+PER-90596,34,???,Perú,PHP|JavaScript,Spark,None|Cisco CCNA,3.0,Pregrado,Backend,$26728
+PER-90597,34,???,Perú,kotlin,Spark,Cisco CCNA|Scrum Master,5.0,Tecnólogo,Data Science,US$ 16.948
+PER-90598,20,Valencia,España,Java|Python,Django,Cisco CCNA,0.0,Técnico,BI/Analytics,US$ 26.123
+PER-90599,28,Monterrey,México,Java,Laravel,GCP ACE,4.0,Pregrado,Ciberseguridad,"$12,582"
+PER-90600,35,Guadalajara,México,Python|Go,.NET,Cisco CCNA,0.0,Tecnólogo,Backend,$17848
+PER-90601,25,Bogotá,Colombia,TypeScript|Python,Django|Node.js,None|Cisco CCNA,3.0,Autodidacta,Cloud,7494
+PER-90602,24,Lima,Perú,C#|TypeScript,Flask,Azure Fundamentals,3.0,Autodidacta,Frontend,USD 15639
+PER-90603,39,Monterrey,México,Python,Node.js,Scrum Master,0.0,Pregrado,DevOps,"$18,300"
+PER-90604,30,Buenos Aires,Argentina,PHP|JavaScript,Spark,None,3.0,Autodidacta,BI/Analytics,"$14,521"
+PER-90605,30,Medellín,Colombia,java|php,Vue|Spring,GCP ACE|None,1.0,Autodidacta,Data Science,"$12,924"
+PER-90606,22,Lima,Perú,Kotlin,Node.js|React,GCP ACE|AWS CCP,2.0,Pregrado,Frontend,US$ 22.677
+PER-90607,22,Lima,Perú,JavaScript,Vue|Flask,AWS CCP|None,1.0,Autodidacta,Cloud,$23061
+PER-90608,37,Cartagena,Colombia,c#|java,Spring,GCP ACE,2.0,Autodidacta,Cloud,$11790
+PER-90609,26,Concepción,Chile,C#|Java,.NET|Laravel,None ,2.0,Pregrado,Data Science,USD 16689
+PER-90610,27,Barcelona,España,Scala|PHP,React|FastAPI,None|GCP ACE,3.0,Tecnólogo,BI/Analytics,US$ 39.460
+PER-90611,18,SEVILLA,España,Kotlin,Vue|Flask,None,2.0,Técnico,BI/Analytics,USD 32400
+PER-90612,24,Lima ,Perú,Go|Python|Scala,.NET,Scrum Master,2.0,Técnico,Frontend,"$26,316"
+PER-90613,25,???,España,TypeScript|Scala,React|Node.js,Azure Fundamentals,3.0,Posgrado,Data Science,US$ 29.906
+PER-90614,33,Guadalajara,México,TypeScript|Kotlin,Spark,Azure Fundamentals|GCP ACE,,Técnico,DevOps,$12365
+PER-90615,28,Arequipa,Perú,Kotlin|Scala|C#,React,GCP ACE,2.0,Autodidacta,Frontend,US$ 11.629
+PER-90616,29,Buenos Aires,Argentina,R,Spark|React,Cisco CCNA,2.0,Autodidacta,Ciberseguridad,US$ 15.896
+PER-90617,40,Bogotá,Colombia,Go|PHP,Angular|Node.js,Scrum Master|None,5.0,Posgrado,Cloud,$11975
+PER-90618,31,Puebla,México,scala|javascript|typescript,.NET|Node.js,Scrum Master,3.0,Pregrado,Backend,$14882
+PER-90619,28,New York,USA,JavaScript|PHP,Node.js|Angular,None,1.0,Pregrado,BI/Analytics,US$ 59.444
+PER-90620,46,Rosario,Argentina,Java|Go|Python,Vue,Scrum Master,0.0,Técnico,IA,USD 19420
+PER-90621,23,santiago,Chile,r|java|kotlin,Django,GCP ACE ,5.0,Tecnólogo,BI/Analytics,USD 36639
+PER-90622,38,Valencia,España,R|Swift|Go,React,GCP ACE,0.0,Posgrado,Ciberseguridad,$32350
+PER-90623,25,Guadalajara,México,TypeScript,Angular,AWS CCP,2.0,Posgrado,Frontend,US$ 16.978
+PER-90624,,Santiago,Chile,JavaScript|Scala,Spring|Laravel,GCP ACE ,5.0,Técnico,Ciberseguridad,"$18,504"
+PER-90625,23,santiago,Chile,Go|R,.NET|Laravel,None,0.0,Posgrado,Backend,US$ 26.044
+PER-90626,38,Buenos Aires,Argentina,PHP,Spark|Spring,AWS CCP|Cisco CCNA,0.0,Pregrado,Backend,22093
+PER-90627,28,CDMX,México,Swift|PHP,Spark,Cisco CCNA,4.0,Técnico,IA,USD 15628
+PER-90628,29,Arequipa ,Perú,Swift,React,GCP ACE|Scrum Master,3.0,Pregrado,Cloud,USD 21300
+PER-90629,34,???,Perú,Go|PHP,Angular,Cisco CCNA,4.0,Pregrado,DevOps,"$13,052"
+PER-90630,24,San Francisco,USA,javascript|c#,Flask|Node.js,GCP ACE ,2.0,Pregrado,DevOps,105769
+PER-90631,24,Concepcion,Chile,Scala|TypeScript,Spring,Scrum Master ,2.0,Posgrado,DevOps,31786
+PER-90632,23,Guadalajara,México,PHP|Swift,Angular|Spark,Azure Fundamentals,3.0,Tecnólogo,BI/Analytics,$29540
+PER-90633,25,Cordoba,Argentina,C#|R|Java,Django|Angular,GCP ACE,2.0,Posgrado,Frontend,12677
+PER-90634,25,Miami,USA,R,FastAPI,GCP ACE,2.0,Tecnólogo,Frontend,"$85,624"
+PER-90635,32,Bucaramanga,Colombia,typescript,Node.js|Flask,None|Cisco CCNA,3.0,Pregrado,Ciberseguridad,17695
+PER-90636,31,Sevilla,España,Python,Node.js,GCP ACE,3.0,Posgrado,IA,US$ 39.803
+PER-90637,41,Monterrey,México,Python|TypeScript,Node.js|Django,None|Azure Fundamentals,2.0,Tecnólogo,Cloud,USD 13694
+PER-90638,33,Madrid,España,Go,Vue,Azure Fundamentals,0.0,Técnico,DevOps,$37027
+PER-90639,35,Arequipa,Perú,swift|java,Vue,GCP ACE|None,2.0,Técnico,Frontend,12550
+PER-90640,18,Austin,USA,C#|Go,Laravel|Flask,Cisco CCNA,0.0,Autodidacta,Frontend,"$121,143"
+PER-90641,33,Arequipa,Perú,PHP,Spark|FastAPI,None|AWS CCP ,2.0,Tecnólogo,Ciberseguridad,USD 12271
+PER-90642,35,Valencia ,España,TypeScript,Laravel|Spring,Azure Fundamentals|GCP ACE,1.0,Autodidacta,Cloud,US$ 45.662
+PER-90643,19,Arequipa,Perú,Python|TypeScript,Laravel,Scrum Master,4.0,Técnico,BI/Analytics,20890
+PER-90644,28,Valencia ,España,Go|Swift,Laravel|Flask,AWS CCP,3.0,Posgrado,Frontend,US$ 25.531
+PER-90645,27,Arequipa ,Perú,swift|typescript,.NET|Spark,Azure Fundamentals|Scrum Master,2.0,Tecnólogo,IA,US$ 23.479
+PER-90646,29,Valencia,España,Python|TypeScript,Angular|Django,Cisco CCNA,0.0,Pregrado,IA,36563
+PER-90647,37,Concepción,Chile,java|r|typescript,Laravel,Cisco CCNA,4.0,Pregrado,Frontend,$20687
+PER-90648,27,Seattle,USA,PHP|Scala,FastAPI|Django,None,5.0,Posgrado,Frontend,US$ 90.013
+PER-90649,22,Lima,Perú,typescript,.NET,None,0.0,Técnico,Data Science,US$ 20.836
+PER-90650,25,Valencia,España,Swift,FastAPI|Laravel,GCP ACE|Cisco CCNA,4.0,Técnico,Cloud,$68203
+PER-90651,24,CDMX,México,PHP|Kotlin|Scala,Laravel,Azure Fundamentals|GCP ACE,5.0,Autodidacta,Backend,US$ 24.506
+PER-90652,35,Lima,Perú,php|javascript|kotlin,Angular,AWS CCP,0.0,Posgrado,IA,30789
+PER-90653,28,CDMX,México,JavaScript|Swift,Flask|Angular,Cisco CCNA ,0.0,Autodidacta,Data Science,USD 37551
+PER-90654,28,Buenos Aires,Argentina,Kotlin|R,Laravel|Node.js,None|Cisco CCNA,1.0,Técnico,Cloud,18120
+PER-90655,37,Sevilla,España,JavaScript,FastAPI,GCP ACE,3.0,Técnico,Data Science,$42472
+PER-90656,24,Valparaíso,Chile,Go|Java,Spring,AWS CCP|Azure Fundamentals ,1.0,Posgrado,BI/Analytics,US$ 32.702
+PER-90657,34,Cusco,Perú,Go|JavaScript|R,FastAPI|Flask,Cisco CCNA|Scrum Master,5.0,Pregrado,BI/Analytics,$25234
+PER-90658,31,Cusco,Perú,typescript|java|go,Laravel|Node.js,GCP ACE|AWS CCP ,0.0,Pregrado,Data Science,"$27,191"
+PER-90659,31,Austin,USA,R|PHP,Django,Scrum Master,0.0,Pregrado,Frontend,"$85,024"
+PER-90660,35,Rosario,Argentina,JavaScript|TypeScript|Swift,Laravel|FastAPI,AWS CCP|GCP ACE,5.0,Tecnólogo,IA,"$22,944"
+PER-90661,31,San Francisco,USA,Java|R,Flask,AWS CCP,3.0,Pregrado,Ciberseguridad,65785
+PER-90662,25,Cusco,Perú,JavaScript|Swift,Node.js|React,Cisco CCNA,3.0,Técnico,Ciberseguridad,US$ 14.137
+PER-90663,26,Monterrey,México,Scala|PHP,.NET,None|GCP ACE,,Técnico,DevOps,US$ 11.926
+PER-90664,35,New York,USA,Kotlin|Scala,Angular|React,AWS CCP|Scrum Master,3.0,Tecnólogo,Cloud,USD 133496
+PER-90665,30,Concepción,Chile,Swift,Angular|FastAPI,Scrum Master,4.0,Pregrado,Cloud,$30307
+PER-90666,24,San Francisco,USA,Go,Django,Cisco CCNA ,4.0,Técnico,DevOps,US$ 105.213
+PER-90667,39,Barranquilla,Colombia,Go|PHP,Laravel,AWS CCP,1.0,Posgrado,Data Science,US$ 23.492
+PER-90668,24,Austin,USA,Java|Python|C#,Spring|React,AWS CCP|Azure Fundamentals,4.0,Pregrado,DevOps,"$86,974"
+PER-90669,32,Bogotá,Colombia,Java,Vue|Laravel,Scrum Master,2.0,Autodidacta,Frontend,"$14,074"
+PER-90670,29,CALI,Colombia,Swift|JavaScript,Angular|Spark,GCP ACE|None,3.0,Pregrado,DevOps,$11690
+PER-90671,28,Valencia,España,Python|Java|Scala,React|Spring,None,5.0,Técnico,BI/Analytics,$40366
+PER-90672,39,Barcelona,España,Kotlin|Scala|Python,Django|Spring,GCP ACE,1.0,Tecnólogo,Frontend,USD 33155
+PER-90673,32,San Francisco,USA,Java|TypeScript,React,Azure Fundamentals|Scrum Master ,2.0,Autodidacta,Backend,94115
+PER-90674,21,Guadalajara,México,Go|R,Angular,AWS CCP,1.0,Técnico,DevOps,US$ 27.174
+PER-90675,31,Barcelona,España,Scala|PHP|Swift,Laravel|Angular,Azure Fundamentals,2.0,Tecnólogo,DevOps,$28045
+PER-90676,38,Valparaíso,Chile,Go,Vue|FastAPI,Scrum Master,2.0,Pregrado,BI/Analytics,US$ 19.094
+PER-90677,41,Valencia,España,Kotlin|Go|Scala,.NET,AWS CCP|Cisco CCNA,4.0,Técnico,Frontend,US$ 46.999
+PER-90678,31,Concepción,Chile,Kotlin|Go,Spark,GCP ACE|None,1.0,Tecnólogo,Frontend,"$25,754"
+PER-90679,24,Cali,Colombia,PHP|Kotlin,.NET,Scrum Master|Azure Fundamentals,0.0,Técnico,BI/Analytics,USD 13992
+PER-90680,38,Santiago,Chile,Scala|JavaScript|Java,.NET,None,2.0,Tecnólogo,Data Science,36875
+PER-90681,29,Puebla,México,TypeScript|Java|R,Angular|React,Azure Fundamentals|None,6.0,Técnico,Backend,US$ 26.155
+PER-90682,30,New York,USA,JavaScript|Python,React|.NET,Cisco CCNA,4.0,Posgrado,DevOps,US$ 137.515
+PER-90683,21,Concepción,Chile,R,Flask,AWS CCP,3.0,Posgrado,BI/Analytics,USD 20142
+PER-90684,20,Lima,Perú,Swift|TypeScript,Django,Scrum Master|Cisco CCNA,2.0,Técnico,Cloud,USD 18357
+PER-90685,28,New York,USA,Python|C#|PHP,Spark,Cisco CCNA,3.0,Autodidacta,IA,$96304
+PER-90686,33,Rosario,Argentina,JavaScript,Angular,Azure Fundamentals,1.0,Posgrado,DevOps,$15497
+PER-90687,39,Bogotá,Colombia,TypeScript|PHP,Spring|Node.js,Azure Fundamentals,6.0,Tecnólogo,IA,$8408
+PER-90688,34,Cali,Colombia,TypeScript|Python,Spark|Node.js,Cisco CCNA,5.0,Posgrado,Frontend,US$ 16.740
+PER-90689,18,Barcelona,España,JavaScript,Spring,None|Azure Fundamentals,3.0,Técnico,Cloud,$32037
+PER-90690,29,AREQUIPA,Perú,TypeScript,Flask|Spring,Scrum Master|Azure Fundamentals,4.0,Pregrado,DevOps,US$ 14.805
+PER-90691,35,Seattle,USA,PHP,React,Cisco CCNA|AWS CCP,2.0,Posgrado,Data Science,$161265
+PER-90692,22,Monterrey,México,Swift|Kotlin|Java,Node.js|Flask,Scrum Master,2.0,Posgrado,Cloud,US$ 13.493
+PER-90693,27,Sevilla,España,Kotlin|Java,Node.js|FastAPI,Cisco CCNA,3.0,Técnico,Data Science,$56120
+PER-90694,32,Medellín,Colombia,Java|C#,FastAPI,Scrum Master,4.0,Técnico,Cloud,US$ 11.383
+PER-90695,25,CDMX,México,Java,Node.js,AWS CCP|None,3.0,Autodidacta,BI/Analytics,USD 18075
+PER-90696,29,Barranquilla,Colombia,go|r|c#,Vue|Angular,Azure Fundamentals,0.0,Pregrado,Backend,US$ 9.915
+PER-90697,18,Madrid,España,scala|javascript|typescript,Django,None|AWS CCP,0.0,Técnico,Frontend,37899
+PER-90698,24,Cusco,Perú,JavaScript,FastAPI,None,2.0,Autodidacta,IA,"$24,347"
+PER-90699,18,Córdoba ,Argentina,JavaScript,.NET|Django,Cisco CCNA,2.0,Tecnólogo,Frontend,"$20,397"
+PER-90700,19,???,USA,Swift|Go|Kotlin,Spark,None|Cisco CCNA,0.0,Pregrado,DevOps,US$ 92.667
+PER-90701,22,Santiago,Chile,Scala|JavaScript|Go,Spark,Azure Fundamentals|AWS CCP ,2.0,Técnico,Ciberseguridad,$20251
+PER-90702,26,Cali,Colombia,JavaScript|C#,React,AWS CCP,1.0,Autodidacta,DevOps,US$ 11.022
+PER-90703,40,Lima,Perú,R|Scala,Django,None,0.0,Autodidacta,IA,USD 12755
+PER-90704,31,Cusco,Perú,Kotlin|Swift,Node.js|React,None,6.0,Tecnólogo,Data Science,"$17,772"
+PER-90705,18,Cusco,Perú,TypeScript|PHP,Angular|Node.js,GCP ACE,4.0,Tecnólogo,Ciberseguridad,USD 18782
+PER-90706,23,New York,USA,C#|Go|Java,.NET|Vue,None,0.0,Posgrado,IA,US$ 140.334
+PER-90707,25,New York,USA,PHP,Node.js|FastAPI,None|Azure Fundamentals,6.0,Tecnólogo,Data Science,"$153,814"
+PER-90708,34,Monterrey,México,Java|C#,FastAPI,GCP ACE|Azure Fundamentals ,6.0,Autodidacta,Backend,US$ 25.212
+PER-90709,25,Sevilla,España,R|Python,Flask,AWS CCP,2.0,Técnico,Cloud,US$ 35.861
+PER-90710,18,Madrid,España,PHP,Spark|Django,None,3.0,Posgrado,Frontend,42956
+PER-90711,35,New York,USA,TypeScript|Swift,Flask|Laravel,AWS CCP,0.0,Posgrado,Backend,US$ 85.271
+PER-90712,,Sevilla,España,Scala|Go|Swift,.NET|Spark,Cisco CCNA,3.0,Pregrado,Frontend,"$43,427"
+PER-90713,28,Córdoba,Argentina,PHP,FastAPI|Flask,Cisco CCNA ,,Tecnólogo,Cloud,$16712
+PER-90714,25,Puebla,México,JavaScript|Swift,Spring|.NET,None ,2.0,Pregrado,IA,USD 23960
+PER-90715,21,Guadalajara,México,Scala|Go,Vue|Laravel,Scrum Master|Azure Fundamentals,3.0,Técnico,BI/Analytics,$19635
+PER-90716,30,CDMX,México,Go|C#,Angular|.NET,Scrum Master,5.0,Autodidacta,DevOps,USD 18951
+PER-90717,26,San Francisco,USA,typescript,Flask,Cisco CCNA,0.0,Técnico,BI/Analytics,77680
+PER-90718,32,bucaramanga,Colombia,Python|Java,Laravel,AWS CCP,2.0,Posgrado,Cloud,US$ 19.582
+PER-90719,31,Seattle,USA,c#,FastAPI|Angular,Azure Fundamentals ,3.0,Pregrado,Ciberseguridad,111961
+PER-90720,26,Lima,Perú,PHP,Node.js|React,Scrum Master,1.0,Técnico,DevOps,US$ 15.650
+PER-90721,32,ROSARIO,Argentina,R|PHP,Node.js,Azure Fundamentals|Scrum Master,3.0,Posgrado,Frontend,19440
+PER-90722,27,???,México,Java,Django|FastAPI,Azure Fundamentals|GCP ACE,5.0,Tecnólogo,Cloud,US$ 26.851
+PER-90723,33,CDMX,México,javascript|go,Spark|Laravel,GCP ACE|AWS CCP,3.0,Autodidacta,Cloud,14697
+PER-90724,25,???,Chile,Java,.NET,Scrum Master,1.0,Técnico,Ciberseguridad,US$ 27.873
+PER-90725,31,Guadalajara,México,Swift|Python,Flask|.NET,AWS CCP,5.0,Posgrado,Data Science,25920
+PER-90726,30,Rosario,Argentina,Java|Swift,Spark,GCP ACE,3.0,Técnico,Data Science,17192
+PER-90727,38,Miami,USA,PHP,Spring|Laravel,AWS CCP,,Pregrado,IA,US$ 134.158
+PER-90728,30,Córdoba,Argentina,Swift|TypeScript,FastAPI|Laravel,Cisco CCNA,0.0,Técnico,Cloud,$21304
+PER-90729,30,Córdoba,Argentina,R|TypeScript,Spring,GCP ACE,2.0,Tecnólogo,IA,USD 34717
+PER-90730,23,CDMX,México,R|TypeScript,.NET,Cisco CCNA,0.0,Autodidacta,Data Science,USD 22673
+PER-90731,23,Santiago,Chile,Go|Python|Scala,Vue,Cisco CCNA,3.0,Pregrado,DevOps,USD 15391
+PER-90732,18,Miami,USA,TypeScript,Angular|.NET,AWS CCP,1.0,Pregrado,IA,USD 134644
+PER-90733,26,Rosario,Argentina,java|typescript,Angular|Spring,Cisco CCNA|Azure Fundamentals,5.0,Tecnólogo,Backend,US$ 15.295
+PER-90734,41,sevilla,España,Kotlin|Swift|TypeScript,Django|Spark,Cisco CCNA,2.0,Posgrado,Data Science,$27119
+PER-90735,33,Bucaramanga,Colombia,typescript,Vue,Scrum Master,,Posgrado,Frontend,US$ 9.526
+PER-90736,29,Buenos Aires,Argentina,Scala|C#|TypeScript,React|FastAPI,GCP ACE|AWS CCP,2.0,Autodidacta,Frontend,USD 25235
+PER-90737,26,Sevilla,España,PHP,FastAPI|Flask,Cisco CCNA,2.0,Autodidacta,Data Science,"$54,010"
+PER-90738,22,Seattle,USA,python|java,.NET,Scrum Master,0.0,Posgrado,Frontend,97841
+PER-90739,32,Cali,Colombia,JavaScript|Kotlin,Django|Flask,GCP ACE,4.0,Posgrado,BI/Analytics,7525
+PER-90740,22,CDMX,México,PHP,React,None|Scrum Master ,4.0,Tecnólogo,IA,"$18,362"
+PER-90741,26,Rosario,Argentina,PHP|Kotlin,React|.NET,Scrum Master|GCP ACE,4.0,Pregrado,Data Science,US$ 20.364
+PER-90742,27,Monterrey,México,scala|javascript|java,React|FastAPI,AWS CCP|Cisco CCNA,2.0,Técnico,Frontend,US$ 21.385
+PER-90743,31,Cusco,Perú,Go|Java|Scala,Flask,Azure Fundamentals,1.0,Posgrado,Cloud,"$14,142"
+PER-90744,22,Valparaíso,Chile,PHP|Swift|Go,Spring|Vue,None|Scrum Master,5.0,Técnico,Data Science,USD 37841
+PER-90745,25,Lima,Perú,TypeScript|Swift|Go,.NET,AWS CCP,1.0,Técnico,Backend,US$ 12.518
+PER-90746,19,San Francisco,USA,R|PHP|C#,Spring|Angular,Cisco CCNA,0.0,Autodidacta,Frontend,US$ 78.377
+PER-90747,35,Sevilla,España,TypeScript|PHP|C#,Angular,AWS CCP,5.0,Pregrado,Data Science,USD 40321
+PER-90748,26,Austin,USA,R|Python|TypeScript,Laravel,Azure Fundamentals,4.0,Posgrado,Ciberseguridad,$115397
+PER-90749,27,Barranquilla,Colombia,Kotlin|TypeScript|C#,Flask,Cisco CCNA|GCP ACE ,3.0,Posgrado,Data Science,"$15,975"
+PER-90750,34,Cartagena,Colombia,Scala|PHP,Laravel,Azure Fundamentals|Cisco CCNA,3.0,Posgrado,Data Science,$11168
+PER-90751,33,Córdoba,Argentina,Swift,.NET|Laravel,Scrum Master|Azure Fundamentals,1.0,Tecnólogo,Frontend,19809
+PER-90752,18,Concepción,Chile,c#,Vue|Node.js,Cisco CCNA,3.0,Tecnólogo,Cloud,US$ 22.520
+PER-90753,18,Seattle,USA,TypeScript,Node.js|.NET,Scrum Master ,4.0,Tecnólogo,Backend,USD 79991
+PER-90754,36,???,México,Java|Swift,Spring,None,4.0,Técnico,Cloud,"$15,307"
+PER-90755,24,Puebla,México,TypeScript|Swift,Angular,Cisco CCNA|Azure Fundamentals ,3.0,Tecnólogo,Ciberseguridad,US$ 15.382
+PER-90756,27,Lima,Perú,Go|Scala,.NET,Scrum Master|GCP ACE,3.0,Posgrado,Frontend,$22026
+PER-90757,28,Austin,USA,Python|JavaScript,Angular,Azure Fundamentals,4.0,Técnico,DevOps,US$ 66.967
+PER-90758,32,Cali,Colombia,PHP|Swift,FastAPI|.NET,Scrum Master,1.0,Pregrado,Backend,$10450
+PER-90759,29,Santiago,Chile,Scala|Kotlin|Go,Spark,AWS CCP,3.0,Tecnólogo,IA,USD 16725
+PER-90760,32,Miami,USA,Kotlin|TypeScript,React|Flask,GCP ACE,4.0,Posgrado,Frontend,"$95,734"
+PER-90761,,???,España,Kotlin|Swift|C#,FastAPI|Vue,GCP ACE,4.0,Autodidacta,DevOps,USD 38352
+PER-90762,35,Cartagena,Colombia,Scala,FastAPI,Scrum Master|None,3.0,Autodidacta,Cloud,USD 18119
+PER-90763,28,Rosario,Argentina,C#,Vue,Azure Fundamentals,4.0,Tecnólogo,IA,US$ 20.939
+PER-90764,32,Santiago,Chile,PHP|Go,Angular|.NET,GCP ACE|None,0.0,Tecnólogo,Backend,US$ 28.605
+PER-90765,28,Buenos Aires,Argentina,Go|R|TypeScript,React,GCP ACE,2.0,Pregrado,Ciberseguridad,USD 26944
+PER-90766,24,Cusco,Perú,Go|R,Spark|.NET,Azure Fundamentals,1.0,Técnico,Ciberseguridad,US$ 22.004
+PER-90767,21,cusco,Perú,Kotlin|Go,React,Azure Fundamentals,6.0,Posgrado,IA,$16077
+PER-90768,24,Cali,Colombia,TypeScript|R|Java,Django|React,GCP ACE|None,0.0,Tecnólogo,IA,9514
+PER-90769,27,Miami,USA,PHP,Flask|React,Scrum Master,5.0,Tecnólogo,Backend,$69160
+PER-90770,28,Rosario,Argentina,Swift|PHP|JavaScript,Django|React,Azure Fundamentals,3.0,Posgrado,Ciberseguridad,"$28,757"
+PER-90771,33,Lima,Perú,javascript|scala,Spark,GCP ACE|None,5.0,Técnico,Data Science,"$13,398"
+PER-90772,25,Córdoba,Argentina,JavaScript,.NET|Angular,Cisco CCNA|AWS CCP,1.0,Técnico,Frontend,23601
+PER-90773,27,???,Colombia,Kotlin|C#,Django,Azure Fundamentals|Cisco CCNA ,2.0,Pregrado,Backend,USD 19283
+PER-90774,33,???,Perú,Python|Go|Kotlin,Vue,Azure Fundamentals ,1.0,Autodidacta,IA,$18782
+PER-90775,21,Valencia,España,Java|C#,Vue,Azure Fundamentals|None,3.0,Técnico,Frontend,26694
+PER-90776,23,Cartagena,Colombia,Kotlin|Scala,Flask,GCP ACE|Scrum Master,0.0,Autodidacta,Ciberseguridad,$19715
+PER-90777,28,Buenos Aires,Argentina,TypeScript|C#,Node.js|Django,GCP ACE|Cisco CCNA,2.0,Tecnólogo,DevOps,USD 20928
+PER-90778,25,Arequipa,Perú,Python|C#,Laravel,Azure Fundamentals,1.0,Autodidacta,Ciberseguridad,$28455
+PER-90779,33,Miami,USA,JavaScript|Go,Spring,AWS CCP,2.0,Tecnólogo,Frontend,US$ 109.745
+PER-90780,20,Guadalajara,México,Python|JavaScript,Spark|Django,None|Scrum Master ,6.0,Tecnólogo,Backend,15605
+PER-90781,29,Rosario,Argentina,JavaScript|Java,Angular,AWS CCP,2.0,Tecnólogo,IA,"$15,736"
+PER-90782,33,Lima,Perú,Python|JavaScript,Vue|FastAPI,AWS CCP,0.0,Técnico,Backend,US$ 22.273
+PER-90783,27,Monterrey,México,php|swift,.NET|Flask,GCP ACE,0.0,Posgrado,Data Science,"$15,328"
+PER-90784,23,new york,USA,Swift|TypeScript|Java,React|Spring,Azure Fundamentals|Cisco CCNA,2.0,Técnico,Cloud,"$73,401"
+PER-90785,23,???,Colombia,go,Vue|Django,AWS CCP|GCP ACE,0.0,Tecnólogo,Backend,$10068
+PER-90786,38,Seattle,USA,Python,Spring,Cisco CCNA|Azure Fundamentals,0.0,Pregrado,IA,US$ 107.759
+PER-90787,30,Puebla,México,python,Django|Flask,Cisco CCNA,4.0,Técnico,Backend,US$ 26.245
+PER-90788,35,Bogotá,Colombia,Kotlin|C#,FastAPI|Flask,AWS CCP,3.0,Posgrado,Cloud,14090
+PER-90789,22,???,Chile,Scala|C#,Spring|.NET,Azure Fundamentals|None,2.0,Autodidacta,IA,16767
+PER-90790,35,Buenos Aires,Argentina,scala|java,Spring|Spark,None,1.0,Posgrado,IA,$19278
+PER-90791,,Guadalajara,México,PHP|C#,Laravel,Scrum Master|Azure Fundamentals,2.0,Técnico,Cloud,"$18,563"
+PER-90792,38,Arequipa,Perú,C#|JavaScript|Kotlin,Angular|.NET,None,5.0,Tecnólogo,Ciberseguridad,$26457
+PER-90793,34,Cali,Colombia,JavaScript|TypeScript,React,GCP ACE,4.0,Pregrado,Data Science,US$ 18.341
+PER-90794,18,Lima,Perú,Go|TypeScript|Java,Spark,Scrum Master|GCP ACE,3.0,Autodidacta,Backend,$14441
+PER-90795,32,Monterrey,México,Go|Kotlin|Swift,Vue,Scrum Master|AWS CCP,0.0,Técnico,DevOps,$25011
+PER-90796,26,Austin,USA,Swift|Python,Spark|Vue,None,6.0,Pregrado,Cloud,US$ 68.048
+PER-90797,25,Arequipa,Perú,C#,FastAPI,Azure Fundamentals,3.0,Pregrado,IA,$26401
+PER-90798,20,New York,USA,Swift|R,Spring,AWS CCP,0.0,Pregrado,DevOps,"$105,946"
+PER-90799,18,Rosario,Argentina,TypeScript,Node.js|Spark,Scrum Master,5.0,Autodidacta,Frontend,$18180
+PER-90800,29,Seattle,USA,TypeScript|Python|Go,Spark,AWS CCP|None ,4.0,Pregrado,Ciberseguridad,89191
+PER-90801,28,Buenos Aires ,Argentina,TypeScript|Scala|C#,Flask,GCP ACE|Cisco CCNA ,3.0,Autodidacta,BI/Analytics,US$ 32.786
+PER-90802,27,Cartagena,Colombia,typescript|python,Angular|Spark,Scrum Master|Cisco CCNA,4.0,Tecnólogo,DevOps,US$ 19.242
+PER-90803,30,NEW YORK,USA,TypeScript,Vue,Azure Fundamentals,4.0,Tecnólogo,Ciberseguridad,96414
+PER-90804,25,Barcelona,España,Go|PHP|Scala,FastAPI|React,AWS CCP,4.0,Posgrado,Ciberseguridad,$65652
+PER-90805,18,Córdoba,Argentina,Go|JavaScript|Swift,.NET,Azure Fundamentals|GCP ACE,2.0,Tecnólogo,DevOps,USD 19092
+PER-90806,28,Buenos Aires,Argentina,Scala|C#,Laravel|Spring,GCP ACE,3.0,Pregrado,DevOps,USD 18367
+PER-90807,22,Buenos Aires,Argentina,Go|Kotlin,Laravel,Azure Fundamentals,1.0,Pregrado,DevOps,26080
+PER-90808,29,Miami,USA,Java|TypeScript,Django|Laravel,Cisco CCNA,4.0,Posgrado,Data Science,US$ 141.330
+PER-90809,,arequipa,Perú,Swift|Python,Spark,Azure Fundamentals|AWS CCP,4.0,Tecnólogo,BI/Analytics,18476
+PER-90810,34,New York,USA,C#,Flask|Node.js,Scrum Master|None,5.0,Autodidacta,Frontend,USD 151709
+PER-90811,31,Sevilla,España,typescript|javascript|r,Flask,Cisco CCNA|None,0.0,Posgrado,BI/Analytics,USD 33371
+PER-90812,23,Santiago,Chile,Go|TypeScript|R,Laravel,GCP ACE ,1.0,Autodidacta,Ciberseguridad,"$37,442"
+PER-90813,25,AUSTIN,USA,c#,.NET|Node.js,Scrum Master|GCP ACE,4.0,Técnico,IA,USD 72763
+PER-90814,24,Valparaíso,Chile,kotlin|php|c#,Flask,Cisco CCNA ,1.0,Tecnólogo,BI/Analytics,US$ 31.068
+PER-90815,23,Medellín,Colombia,R|Swift,Django,GCP ACE,0.0,Pregrado,IA,$18221
+PER-90816,25,Buenos Aires,Argentina,R|Swift,Vue,GCP ACE,2.0,Tecnólogo,DevOps,14453
+PER-90817,36,Cartagena,Colombia,JavaScript|Kotlin,FastAPI,Cisco CCNA,1.0,Tecnólogo,Data Science,$7459
+PER-90818,24,Córdoba,Argentina,R|Python,Laravel,GCP ACE,,Tecnólogo,DevOps,"$26,015"
+PER-90819,23,???,México,TypeScript|Java,Vue|Angular,Scrum Master|AWS CCP,1.0,Pregrado,Ciberseguridad,US$ 17.910
+PER-90820,27,Arequipa,Perú,R|Kotlin,React|Angular,AWS CCP,4.0,Autodidacta,Data Science,US$ 21.075
+PER-90821,35,Guadalajara,México,Kotlin|C#|JavaScript,Django|React,Scrum Master,1.0,Tecnólogo,BI/Analytics,$18555
+PER-90822,32,Rosario,Argentina,php|go|scala,Vue|FastAPI,None,0.0,Tecnólogo,Frontend,"$19,638"
+PER-90823,37,???,Argentina,Scala|TypeScript,Node.js,Scrum Master|Cisco CCNA,0.0,Pregrado,Backend,USD 19683
+PER-90824,26,Barcelona,España,swift,.NET|Laravel,None ,4.0,Pregrado,DevOps,45571
+PER-90825,29,AREQUIPA,Perú,typescript,Node.js|Spring,Cisco CCNA|GCP ACE,2.0,Autodidacta,Cloud,"$30,834"
+PER-90826,28,Rosario,Argentina,Python|C#,Spring,GCP ACE,2.0,Tecnólogo,DevOps,23641
+PER-90827,41,Valparaíso,Chile,r|go|java,Spark,AWS CCP,0.0,Tecnólogo,Cloud,$33164
+PER-90828,33,Arequipa,Perú,Kotlin|C#,Laravel,GCP ACE,2.0,Tecnólogo,Data Science,24989
+PER-90829,23,Barcelona,España,r|c#,Spring|Spark,AWS CCP|Scrum Master ,3.0,Tecnólogo,BI/Analytics,US$ 35.821
+PER-90830,29,Monterrey,México,Swift,React,Scrum Master,4.0,Autodidacta,Backend,20974
+PER-90831,31,Barcelona,España,c#|swift|r,Vue,GCP ACE,0.0,Tecnólogo,Frontend,US$ 33.821
+PER-90832,26,Cartagena,Colombia,Go|C#|Python,FastAPI,Azure Fundamentals|None,5.0,Autodidacta,Cloud,USD 15120
+PER-90833,28,Sevilla,España,Python,Vue|Laravel,AWS CCP ,3.0,Pregrado,DevOps,33113
+PER-90834,26,Valparaíso,Chile,TypeScript|Kotlin,Vue|FastAPI,Azure Fundamentals ,1.0,Posgrado,Frontend,34880
+PER-90835,33,Rosario,Argentina,Scala|PHP|C#,React,AWS CCP,1.0,Tecnólogo,Frontend,US$ 24.433
+PER-90836,21,Santiago,Chile,python|go,FastAPI|Django,AWS CCP,1.0,Tecnólogo,Cloud,"$19,798"
+PER-90837,18,Lima,Perú,scala|java|c#,Node.js,GCP ACE,2.0,Tecnólogo,Frontend,"$22,453"
+PER-90838,37,Santiago,Chile,JavaScript|R,FastAPI|Angular,Azure Fundamentals,2.0,Autodidacta,Ciberseguridad,USD 23748
+PER-90839,28,Buenos Aires,Argentina,TypeScript|R|Scala,Angular,AWS CCP|None,2.0,Posgrado,Ciberseguridad,$31224
+PER-90840,31,bucaramanga,Colombia,PHP,Flask,None,1.0,Autodidacta,Backend,"$9,985"
+PER-90841,32,Austin,USA,Go|Python|R,.NET|FastAPI,GCP ACE|Cisco CCNA,4.0,Posgrado,BI/Analytics,"$93,132"
+PER-90842,33,Lima,Perú,Kotlin|Go,Angular|.NET,Azure Fundamentals|GCP ACE,6.0,Autodidacta,Ciberseguridad,14334
+PER-90843,26,Valparaíso,Chile,Java|Swift,Spark,GCP ACE,2.0,Autodidacta,DevOps,"$25,946"
+PER-90844,21,Puebla,México,Java|Swift,.NET,GCP ACE,5.0,Tecnólogo,Ciberseguridad,$17346
+PER-90845,26,Buenos Aires,Argentina,Python|R,Vue,AWS CCP|None,6.0,Pregrado,IA,US$ 15.750
+PER-90846,28,Córdoba,Argentina,JavaScript|TypeScript,.NET|Spark,Cisco CCNA|None,1.0,Autodidacta,Backend,$18632
+PER-90847,31,CDMX,México,Scala,Vue,None,4.0,Autodidacta,Cloud,USD 15205
+PER-90848,29,Cusco ,Perú,Java,Vue,AWS CCP,2.0,Tecnólogo,Data Science,10224
+PER-90849,29,San Francisco,USA,Python,FastAPI|Spring,Azure Fundamentals|AWS CCP,2.0,Pregrado,DevOps,USD 84000
+PER-90850,29,Lima,Perú,TypeScript|Kotlin|C#,Django,None|Cisco CCNA ,0.0,Autodidacta,IA,USD 31145
+PER-90851,26,Cali,Colombia,java|c#|r,Flask,Azure Fundamentals,4.0,Técnico,DevOps,US$ 14.030
+PER-90852,26,Cali,Colombia,Go|Python,FastAPI,AWS CCP,1.0,Técnico,Data Science,US$ 13.010
+PER-90853,32,guadalajara,México,javascript,Angular,AWS CCP,5.0,Técnico,IA,$27299
+PER-90854,28,Buenos Aires,Argentina,swift,Laravel,AWS CCP,2.0,Tecnólogo,DevOps,$26551
+PER-90855,28,Medellín,Colombia,Swift|C#|Java,FastAPI,None|Scrum Master,4.0,Técnico,BI/Analytics,13245
+PER-90856,27,Seattle,USA,R|JavaScript,Django|Flask,Scrum Master,1.0,Tecnólogo,BI/Analytics,"$139,724"
+PER-90857,34,Santiago,Chile,C#|Scala,Spark|Angular,GCP ACE,1.0,Técnico,Data Science,22460
+PER-90858,24,Guadalajara,México,Scala,Flask,Cisco CCNA,0.0,Pregrado,Ciberseguridad,14538
+PER-90859,34,San Francisco,USA,C#|JavaScript|TypeScript,Django,Azure Fundamentals,4.0,Tecnólogo,IA,"$86,236"
+PER-90860,19,Valparaíso,Chile,Scala|JavaScript,Vue,Cisco CCNA,1.0,Tecnólogo,DevOps,US$ 23.430
+PER-90861,34,Barranquilla,Colombia,Swift|Scala|C#,Vue,Cisco CCNA|Azure Fundamentals,4.0,Autodidacta,BI/Analytics,USD 15807
+PER-90862,29,Sevilla,España,php,Angular|Laravel,None,1.0,Pregrado,Frontend,$43217
+PER-90863,27,Puebla,México,scala|kotlin|typescript,React|Laravel,Azure Fundamentals|AWS CCP,0.0,Pregrado,Ciberseguridad,$29106
+PER-90864,28,guadalajara,México,Kotlin|R,Vue,None|Scrum Master,4.0,Técnico,BI/Analytics,$14606
+PER-90865,,Seattle,USA,Kotlin|Swift|Java,Laravel|.NET,Azure Fundamentals,3.0,Autodidacta,Data Science,76418
+PER-90866,29,Cusco,Perú,Swift|PHP|Python,Angular|Django,None,0.0,Posgrado,DevOps,$25738
+PER-90867,29,Seattle,USA,Java,React|Laravel,Scrum Master,3.0,Pregrado,Backend,USD 107389
+PER-90868,36,Medellín,Colombia,R|Python,Laravel|.NET,None,2.0,Pregrado,BI/Analytics,7000
+PER-90869,35,Guadalajara,México,PHP|Python,Laravel|Angular,Azure Fundamentals|Cisco CCNA,3.0,Autodidacta,IA,$18763
+PER-90870,32,Monterrey,México,C#|Swift,Node.js,AWS CCP ,1.0,Técnico,Cloud,US$ 26.834
+PER-90871,33,Buenos Aires,Argentina,Kotlin|C#,Spark|.NET,None ,0.0,Autodidacta,DevOps,US$ 17.058
+PER-90872,37,Cartagena,Colombia,TypeScript|Swift,.NET|Flask,AWS CCP|Scrum Master,2.0,Tecnólogo,BI/Analytics,9711
+PER-90873,24,Valparaíso,Chile,C#|TypeScript,Flask,Azure Fundamentals,2.0,Pregrado,Frontend,US$ 22.294
+PER-90874,32,Bucaramanga,Colombia,Python|TypeScript|Scala,Node.js,GCP ACE,4.0,Posgrado,Cloud,"$12,242"
+PER-90875,19,Austin,USA,php|python,FastAPI,Azure Fundamentals,1.0,Posgrado,Frontend,"$115,020"
+PER-90876,29,Puebla,México,C#,Django|Spring,Azure Fundamentals,4.0,Posgrado,BI/Analytics,$16577
+PER-90877,31,Cali,Colombia,TypeScript|JavaScript,Laravel|Node.js,Cisco CCNA,4.0,Técnico,Ciberseguridad,$17786
+PER-90878,30,BARCELONA,España,Java|Kotlin,FastAPI,None|AWS CCP,5.0,Autodidacta,DevOps,44803
+PER-90879,27,Bucaramanga,Colombia,R,Node.js,AWS CCP,4.0,Pregrado,BI/Analytics,US$ 16.690
+PER-90880,38,Lima ,Perú,C#|JavaScript,Vue,Scrum Master,2.0,Pregrado,DevOps,"$16,916"
+PER-90881,25,Bogotá,Colombia,kotlin|java,Spark|.NET,Scrum Master,2.0,Técnico,DevOps,"$9,388"
+PER-90882,34,Barcelona,España,Python|C#,.NET|React,Azure Fundamentals|GCP ACE,5.0,Pregrado,Frontend,"$41,506"
+PER-90883,23,Madrid,España,PHP,Vue,Azure Fundamentals|None,3.0,Tecnólogo,Data Science,USD 34743
+PER-90884,23,Miami,USA,C#,React|Vue,Azure Fundamentals,2.0,Técnico,BI/Analytics,USD 65759
+PER-90885,30,Rosario,Argentina,Kotlin|R,Vue|.NET,Azure Fundamentals,0.0,Posgrado,IA,$30707
+PER-90886,25,Rosario,Argentina,Swift,Vue|React,Cisco CCNA,2.0,Autodidacta,Cloud,US$ 22.667
+PER-90887,30,Monterrey,México,Swift|R,Laravel,GCP ACE|Scrum Master,2.0,Tecnólogo,Backend,"$14,734"
+PER-90888,32,Arequipa,Perú,swift|typescript,FastAPI,None,1.0,Pregrado,BI/Analytics,USD 27366
+PER-90889,34,Cusco,Perú,Swift|Kotlin|Python,FastAPI|Vue,None,1.0,Autodidacta,Data Science,"$20,794"
+PER-90890,45,Córdoba,Argentina,Java|TypeScript|C#,Angular|FastAPI,Scrum Master|None,5.0,Pregrado,IA,23669
+PER-90891,35,Cordoba,Argentina,Go|Python|TypeScript,Angular|Flask,None,3.0,Posgrado,IA,17213
+PER-90892,34,Cusco,Perú,TypeScript|C#,React|Flask,GCP ACE|AWS CCP,5.0,Posgrado,Backend,13359
+PER-90893,27,Medellín,Colombia,PHP|Java|Kotlin,Django,Cisco CCNA ,1.0,Técnico,Frontend,US$ 9.780
+PER-90894,28,Córdoba,Argentina,TypeScript|Go,Spark|.NET,GCP ACE,3.0,Tecnólogo,Ciberseguridad,$13961
+PER-90895,26,Rosario,Argentina,JavaScript|Scala|Python,Node.js,Scrum Master,6.0,Tecnólogo,IA,USD 19326
+PER-90896,26,Valparaíso,Chile,PHP|Kotlin,React|Django,Scrum Master|Azure Fundamentals,4.0,Tecnólogo,Data Science,USD 20540
+PER-90897,42,Madrid,España,C#|PHP,.NET,GCP ACE|AWS CCP,7.0,Técnico,Frontend,"$36,016"
+PER-90898,18,Córdoba,Argentina,R|Kotlin,Vue|.NET,GCP ACE|Cisco CCNA,1.0,Tecnólogo,IA,USD 17172
+PER-90899,23,Rosario,Argentina,Scala|PHP,Django,None,4.0,Técnico,BI/Analytics,$20732
+PER-90900,20,Arequipa,Perú,TypeScript,Spark,None|Azure Fundamentals,1.0,Posgrado,BI/Analytics,25377
+PER-90901,24,Santiago,Chile,JavaScript,Vue|.NET,GCP ACE ,3.0,Autodidacta,DevOps,US$ 19.604
+PER-90902,38,Valencia,España,Scala,Spring,Cisco CCNA,1.0,Técnico,Ciberseguridad,US$ 43.416
+PER-90903,18,Seattle,USA,Java,React|.NET,None|Scrum Master,3.0,Posgrado,Cloud,"$91,338"
+PER-90904,29,???,Argentina,Python|PHP|Kotlin,Angular|React,Cisco CCNA,0.0,Posgrado,Data Science,US$ 25.011
+PER-90905,33,Bucaramanga,Colombia,Kotlin|PHP,Flask|FastAPI,Azure Fundamentals,5.0,Autodidacta,BI/Analytics,US$ 10.596
+PER-90906,29,CONCEPCIÓN,Chile,C#|TypeScript,Django|Flask,GCP ACE,5.0,Autodidacta,Frontend,$23721
+PER-90907,19,Miami,USA,JavaScript|Python|PHP,Node.js,Azure Fundamentals,2.0,Pregrado,Cloud,USD 131037
+PER-90908,28,CDMX,México,swift|scala|typescript,Vue|Spring,GCP ACE,2.0,Pregrado,Ciberseguridad,USD 23610
+PER-90909,23,Cartagena,Colombia,Java|Python,Angular|Flask,Scrum Master|None,5.0,Autodidacta,BI/Analytics,$16213
+PER-90910,29,Barranquilla,Colombia,javascript|c#|typescript,Django|Angular,Scrum Master,2.0,Posgrado,Backend,$10304
+PER-90911,35,Lima,Perú,Scala|Swift,Spring,Cisco CCNA,4.0,Autodidacta,Data Science,$28020
+PER-90912,25,Puebla,México,Swift,Django,None|Azure Fundamentals ,2.0,Pregrado,Ciberseguridad,13659
+PER-90913,25,Arequipa,Perú,Scala|PHP|Kotlin,Spark|Angular,AWS CCP,4.0,Posgrado,Data Science,$31094
+PER-90914,31,ROSARIO,Argentina,PHP|Swift|TypeScript,Spark,Azure Fundamentals,3.0,Técnico,Ciberseguridad,USD 21749
+PER-90915,35,Santiago,Chile,Swift|Go,Django,Scrum Master ,5.0,Tecnólogo,BI/Analytics,"$15,738"
+PER-90916,25,medellín,Colombia,Go,Laravel,Cisco CCNA,2.0,Autodidacta,DevOps,US$ 14.726
+PER-90917,29,Miami,USA,PHP,Vue|Flask,GCP ACE,3.0,Autodidacta,BI/Analytics,US$ 106.293
+PER-90918,35,Madrid ,España,JavaScript|Java,React,Scrum Master,2.0,Técnico,DevOps,"$47,206"
+PER-90919,23,San Francisco,USA,Kotlin|JavaScript,.NET|Angular,None|GCP ACE,1.0,Posgrado,Backend,USD 122967
+PER-90920,30,Santiago,Chile,Scala|Java,Vue|Node.js,Scrum Master,0.0,Autodidacta,Data Science,$47617
+PER-90921,21,Seattle,USA,JavaScript|Swift,Spark|React,None|Cisco CCNA,2.0,Tecnólogo,Frontend,$140417
+PER-90922,29,New York,USA,Scala|Swift|R,Node.js|.NET,GCP ACE,5.0,Tecnólogo,Backend,"$71,627"
+PER-90923,24,Valparaíso,Chile,PHP|Swift,Angular,Cisco CCNA|Scrum Master,5.0,Pregrado,Cloud,USD 24140
+PER-90924,44,Buenos Aires,Argentina,java|go,FastAPI|Spark,Cisco CCNA|Scrum Master,5.0,Técnico,BI/Analytics,15267
+PER-90925,36,miami,USA,kotlin|scala|c#,Node.js,Scrum Master,0.0,Técnico,Frontend,USD 100276
+PER-90926,29,Barranquilla,Colombia,kotlin|r,Node.js,Cisco CCNA,0.0,Tecnólogo,Ciberseguridad,13045
+PER-90927,19,Cusco,Perú,Kotlin|TypeScript,Angular,Azure Fundamentals,0.0,Pregrado,DevOps,$19011
+PER-90928,30,Guadalajara,México,TypeScript,Django|Spark,None ,3.0,Posgrado,Cloud,USD 12356
+PER-90929,18,Guadalajara,México,Python|R,Angular,GCP ACE ,2.0,Tecnólogo,IA,USD 14817
+PER-90930,34,Arequipa,Perú,scala,Angular|FastAPI,None,3.0,Autodidacta,Frontend,25275
+PER-90931,32,San Francisco,USA,TypeScript|Java,Laravel|.NET,Cisco CCNA|GCP ACE,3.0,Pregrado,Backend,"$114,149"
+PER-90932,32,???,Argentina,R|PHP,Spark|Spring,AWS CCP,1.0,Técnico,Cloud,"$17,176"
+PER-90933,33,Concepción,Chile,JavaScript|R,Spring|Angular,AWS CCP,1.0,Pregrado,Ciberseguridad,USD 27500
+PER-90934,29,Córdoba,Argentina,Scala|Java,Angular|Vue,Scrum Master,4.0,Tecnólogo,Backend,$14536
+PER-90935,30,Sevilla,España,Scala,FastAPI|Node.js,Scrum Master,3.0,Tecnólogo,BI/Analytics,"$38,854"
+PER-90936,18,Valparaíso,Chile,C#|Python,.NET,Scrum Master,1.0,Tecnólogo,BI/Analytics,$25721
+PER-90937,31,Lima,Perú,JavaScript|Swift|TypeScript,Django|Node.js,Azure Fundamentals,4.0,Tecnólogo,IA,"$13,040"
+PER-90938,18,Valencia,España,typescript|c#,Django,Scrum Master,1.0,Técnico,BI/Analytics,USD 28753
+PER-90939,31,???,España,JavaScript|Scala,React|.NET,AWS CCP,5.0,Autodidacta,IA,US$ 47.678
+PER-90940,38,Guadalajara,México,python,Angular|Flask,AWS CCP,3.0,Tecnólogo,Ciberseguridad,US$ 18.932
+PER-90941,35,New York,USA,typescript|java,Django,Cisco CCNA|AWS CCP,6.0,Tecnólogo,Cloud,US$ 108.700
+PER-90942,32,CDMX,México,TypeScript|JavaScript,React|Flask,Scrum Master|GCP ACE,3.0,Técnico,Frontend,"$16,261"
+PER-90943,25,BUENOS AIRES,Argentina,Go|TypeScript,Spring,AWS CCP,2.0,Técnico,Ciberseguridad,$16711
+PER-90944,36,Cordoba,Argentina,javascript|swift|python,Flask,Cisco CCNA|GCP ACE,3.0,Posgrado,DevOps,$18194
+PER-90945,28,Sevilla,España,Java|PHP|Go,Vue|Node.js,None,3.0,Tecnólogo,Ciberseguridad,US$ 35.752
+PER-90946,31,Córdoba,Argentina,go|python,Spring|Flask,Azure Fundamentals,1.0,Técnico,Frontend,"$29,653"
+PER-90947,27,???,México,R|Java|Python,.NET,None,2.0,Pregrado,BI/Analytics,$17569
+PER-90948,39,Barranquilla ,Colombia,TypeScript|PHP,Spark,Scrum Master|AWS CCP,1.0,Posgrado,Cloud,US$ 16.001
+PER-90949,39,Concepción,Chile,Java|Python,React|Vue,GCP ACE,2.0,Posgrado,IA,22232
+PER-90950,31,New York,USA,R|Go,Django|Laravel,AWS CCP|Azure Fundamentals,3.0,Técnico,IA,US$ 170.872
+PER-90951,28,Lima,Perú,PHP,Spring,Scrum Master,5.0,Pregrado,Ciberseguridad,"$27,424"
+PER-90952,18,Cartagena,Colombia,Python,Laravel,AWS CCP ,4.0,Autodidacta,Cloud,"$9,431"
+PER-90953,20,Córdoba,Argentina,C#|Scala,Laravel,AWS CCP,3.0,Tecnólogo,DevOps,USD 16953
+PER-90954,34,Valencia,España,scala,Spring|.NET,Azure Fundamentals,3.0,Pregrado,BI/Analytics,US$ 38.478
+PER-90955,31,Buenos Aires,Argentina,Swift|Kotlin,Spark,Cisco CCNA|AWS CCP,2.0,Posgrado,DevOps,"$15,374"
+PER-90956,27,Rosario,Argentina,TypeScript,Node.js,None,6.0,Pregrado,Cloud,15010
+PER-90957,33,Valencia,España,Swift,Spark,AWS CCP,3.0,Posgrado,Cloud,US$ 31.912
+PER-90958,31,Puebla,México,Swift|Go|JavaScript,Spark|.NET,Azure Fundamentals,4.0,Tecnólogo,Cloud,15444
+PER-90959,18,Monterrey,México,Java|JavaScript|Scala,Flask|Django,AWS CCP|GCP ACE,0.0,Pregrado,DevOps,US$ 15.925
+PER-90960,31,Monterrey,México,javascript|r|go,Angular,None,4.0,Tecnólogo,IA,17046
+PER-90961,31,Madrid,España,Go|PHP|Scala,Spring,Cisco CCNA,4.0,Tecnólogo,Cloud,US$ 30.753
+PER-90962,24,Concepción,Chile,Swift|JavaScript|PHP,React,None|GCP ACE,9.0,Técnico,Backend,$21080
+PER-90963,37,Córdoba,Argentina,PHP|Go,Vue|.NET,Cisco CCNA,3.0,Tecnólogo,Frontend,US$ 32.979
+PER-90964,26,Rosario,Argentina,javascript,Spring,GCP ACE,3.0,Técnico,Data Science,$20601
+PER-90965,33,Lima,Perú,kotlin|typescript,Laravel|Node.js,None,3.0,Posgrado,DevOps,$24030
+PER-90966,21,Valparaíso,Chile,JavaScript|PHP,Vue|Spring,None,0.0,Posgrado,Cloud,US$ 24.878
+PER-90967,22,Córdoba,Argentina,Java,.NET|React,Scrum Master|Azure Fundamentals,5.0,Tecnólogo,Ciberseguridad,"$17,473"
+PER-90968,34,Barranquilla,Colombia,R|PHP|Python,Angular|Laravel,AWS CCP|Scrum Master,3.0,Tecnólogo,Ciberseguridad,"$13,258"
+PER-90969,32,Córdoba,Argentina,TypeScript|Kotlin|C#,Laravel|Django,None,5.0,Autodidacta,Cloud,17869
+PER-90970,28,CDMX,México,PHP|C#|Kotlin,.NET,None,4.0,Posgrado,Ciberseguridad,US$ 18.132
+PER-90971,38,Buenos Aires,Argentina,javascript,Laravel,GCP ACE,0.0,Posgrado,Frontend,US$ 21.212
+PER-90972,30,Córdoba ,Argentina,Java|TypeScript|Go,Flask|FastAPI,Cisco CCNA,1.0,Posgrado,IA,USD 34142
+PER-90973,23,Monterrey,México,go|r|swift,Django,AWS CCP,0.0,Pregrado,DevOps,USD 13697
+PER-90974,35,Santiago,Chile,python|scala|c#,Angular|.NET,Scrum Master,0.0,Autodidacta,Frontend,"$22,210"
+PER-90975,28,Córdoba,Argentina,Scala|Kotlin,Vue,None,3.0,Técnico,Frontend,"$32,479"
+PER-90976,29,Monterrey,México,Java|Python|TypeScript,Flask,GCP ACE,5.0,Tecnólogo,Backend,$27073
+PER-90977,,Arequipa,Perú,c#,Spark|.NET,None,3.0,Autodidacta,Ciberseguridad,US$ 17.819
+PER-90978,26,Cusco,Perú,TypeScript|Java,FastAPI|.NET,None|Cisco CCNA,3.0,Tecnólogo,Data Science,US$ 14.295
+PER-90979,33,Bogotá,Colombia,Go|PHP|Kotlin,Spark,Scrum Master,2.0,Autodidacta,IA,USD 15919
+PER-90980,35,Madrid,España,TypeScript|Kotlin|R,Spring,AWS CCP,2.0,Posgrado,IA,USD 39513
+PER-90981,39,Bucaramanga ,Colombia,PHP|Swift,Vue,Azure Fundamentals|Scrum Master ,1.0,Autodidacta,Data Science,13006
+PER-90982,29,Valparaíso,Chile,Python|JavaScript|R,Angular|Vue,Azure Fundamentals,3.0,Autodidacta,BI/Analytics,$22637
+PER-90983,18,Valparaíso,Chile,JavaScript|Java|TypeScript,Spark,Azure Fundamentals|GCP ACE,0.0,Posgrado,Data Science,"$33,344"
+PER-90984,33,Lima,Perú,Swift,Angular,Scrum Master,7.0,Posgrado,Frontend,"$11,430"
+PER-90985,29,Lima,Perú,TypeScript|JavaScript|Swift,Angular,GCP ACE,3.0,Tecnólogo,BI/Analytics,26759
+PER-90986,30,Puebla,México,Go|Scala,FastAPI,GCP ACE|Cisco CCNA,4.0,Tecnólogo,Ciberseguridad,$16087
+PER-90987,33,Cartagena,Colombia,R|Scala,Spring|Vue,None,4.0,Autodidacta,Ciberseguridad,US$ 17.045
+PER-90988,18,Seattle,USA,PHP|JavaScript,.NET,Cisco CCNA,1.0,Pregrado,IA,USD 131572
+PER-90989,44,Seattle,USA,PHP|C#,React,Scrum Master,3.0,Autodidacta,DevOps,USD 95401
+PER-90990,30,Valencia,España,Python|Scala,Node.js|Spark,None|AWS CCP,0.0,Pregrado,DevOps,US$ 36.682
+PER-90991,,New York,USA,R|Swift,Laravel|.NET,Azure Fundamentals|GCP ACE,3.0,Tecnólogo,DevOps,$91128
+PER-90992,39,Bogotá,Colombia,JavaScript|Python|R,Node.js|Angular,AWS CCP,2.0,Posgrado,Data Science,US$ 9.718
+PER-90993,18,Cali,Colombia,go|c#,Django|React,Cisco CCNA|AWS CCP,0.0,Pregrado,Data Science,"$9,615"
+PER-90994,27,Cartagena,Colombia,JavaScript,Spark,None|Scrum Master,0.0,Autodidacta,BI/Analytics,$12220
+PER-90995,,Austin,USA,Scala|C#|R,FastAPI,Scrum Master,7.0,Tecnólogo,Cloud,$191611
+PER-90996,33,Barranquilla,Colombia,Java|Go,Spark,Cisco CCNA,0.0,Pregrado,IA,"$12,396"
+PER-90997,34,Barcelona,España,Java|JavaScript,.NET|Spark,None,1.0,Posgrado,DevOps,32405
+PER-90998,33,Sevilla,España,Scala,FastAPI,None|Azure Fundamentals,5.0,Tecnólogo,BI/Analytics,$35276
+PER-90999,34,Valencia,España,JavaScript|Kotlin,React,GCP ACE,5.0,Posgrado,Data Science,USD 38149
+PER-91000,18,Valencia,España,R,Django,Cisco CCNA,1.0,Pregrado,Ciberseguridad,USD 53023
+PER-91001,27,Arequipa,Perú,r,Flask|Vue,None|Scrum Master,6.0,Autodidacta,DevOps,USD 21400
+PER-91002,21,Guadalajara,México,Swift|Scala,.NET,Azure Fundamentals|Scrum Master,1.0,Tecnólogo,Data Science,USD 27108
+PER-91003,25,Arequipa,Perú,typescript|java|swift,Spark,None ,1.0,Técnico,IA,28174
+PER-91004,32,Santiago,Chile,JavaScript|TypeScript,Vue,GCP ACE,1.0,Pregrado,Cloud,USD 24424
+PER-91005,32,rosario,Argentina,C#|Swift,Angular,GCP ACE ,5.0,Pregrado,DevOps,16904
+PER-91006,37,Puebla,México,Python|R,.NET,GCP ACE|AWS CCP,1.0,Tecnólogo,Data Science,"$15,088"
+PER-91007,31,Cusco,Perú,C#,Laravel,Scrum Master,1.0,Tecnólogo,IA,"$22,582"
+PER-91008,24,Cusco,Perú,Go,FastAPI,Scrum Master,2.0,Tecnólogo,Frontend,$21766
+PER-91009,18,MEDELLÍN,Colombia,C#|TypeScript|Scala,Angular,Scrum Master|GCP ACE,3.0,Autodidacta,IA,USD 9813
+PER-91010,19,Austin,USA,python|r,React|Angular,GCP ACE,2.0,Tecnólogo,DevOps,US$ 137.499
+PER-91011,19,Medellín,Colombia,Python,Vue,Cisco CCNA,3.0,Tecnólogo,DevOps,15949
+PER-91012,30,New York,USA,Swift|R,Laravel|FastAPI,AWS CCP,2.0,Posgrado,DevOps,$140854
+PER-91013,22,New York,USA,R|Scala,Laravel|Spark,AWS CCP,6.0,Pregrado,Ciberseguridad,US$ 140.352
+PER-91014,32,Arequipa,Perú,Java|Go,React,AWS CCP|None ,,Autodidacta,BI/Analytics,"$28,250"
+PER-91015,25,Sevilla,España,TypeScript|C#,FastAPI,None|Cisco CCNA ,3.0,Pregrado,Backend,USD 22435
+PER-91016,43,Puebla,México,C#,Flask|Spark,Scrum Master,0.0,Pregrado,IA,USD 23586
+PER-91017,24,New York,USA,JavaScript|TypeScript,Spark,Scrum Master,3.0,Técnico,Backend,$84448
+PER-91018,34,Rosario,Argentina,Scala|Kotlin,FastAPI,None|AWS CCP,2.0,Autodidacta,IA,$31589
+PER-91019,25,Valparaíso,Chile,Python|PHP,Angular,AWS CCP,6.0,Autodidacta,Ciberseguridad,USD 25054
+PER-91020,26,Buenos Aires,Argentina,typescript|r|python,.NET|Spark,Azure Fundamentals,1.0,Autodidacta,Data Science,USD 35681
+PER-91021,22,New York,USA,Python|Swift|R,Laravel,Cisco CCNA|AWS CCP,1.0,Pregrado,Backend,$128192
+PER-91022,32,Valencia ,España,scala,Spring,Scrum Master|GCP ACE,5.0,Tecnólogo,DevOps,$43636
+PER-91023,30,SAN FRANCISCO,USA,TypeScript|Swift,FastAPI,GCP ACE,,Posgrado,BI/Analytics,115754
+PER-91024,39,Guadalajara,México,swift|r|scala,Spring,Scrum Master|AWS CCP,3.0,Tecnólogo,Data Science,USD 26492
+PER-91025,31,Monterrey,México,Swift|JavaScript,React,None|Azure Fundamentals,2.0,Autodidacta,Frontend,US$ 30.559
+PER-91026,25,Rosario,Argentina,TypeScript|Kotlin|R,FastAPI,Cisco CCNA ,2.0,Pregrado,IA,"$21,235"
+PER-91027,24,Cartagena,Colombia,Go,Spark|Django,Scrum Master,2.0,Autodidacta,Backend,$7787
+PER-91028,25,Seattle,USA,typescript|r,Spark,None ,1.0,Técnico,BI/Analytics,"$150,420"
+PER-91029,34,New York,USA,swift|python|java,.NET,GCP ACE,3.0,Pregrado,BI/Analytics,$105460
+PER-91030,18,Valparaíso,Chile,JavaScript|C#,Vue|Laravel,AWS CCP|Cisco CCNA,1.0,Autodidacta,IA,31456
+PER-91031,37,Rosario,Argentina,Java|R,FastAPI|Laravel,None,5.0,Técnico,Ciberseguridad,US$ 18.016
+PER-91032,35,Austin,USA,kotlin|python,Django,AWS CCP,0.0,Pregrado,Cloud,USD 80764
+PER-91033,32,Valencia,España,R|TypeScript|Python,Angular|Laravel,Cisco CCNA|None,6.0,Autodidacta,Backend,32122
+PER-91034,26,Lima,Perú,TypeScript|Swift,FastAPI|Angular,AWS CCP,1.0,Autodidacta,BI/Analytics,US$ 15.412
+PER-91035,23,Miami,USA,python,React,Scrum Master|GCP ACE,7.0,Autodidacta,IA,$107676
+PER-91036,31,Monterrey,México,JavaScript|R,Vue|Angular,Cisco CCNA,2.0,Tecnólogo,DevOps,"$12,550"
+PER-91037,30,???,Chile,C#|Java,Laravel|Spark,GCP ACE,3.0,Tecnólogo,Backend,US$ 35.951
+PER-91038,25,Cartagena,Colombia,C#,Node.js|.NET,Scrum Master,4.0,Técnico,Data Science,10897
+PER-91039,23,Seattle,USA,Swift|Java,.NET|Django,Scrum Master|GCP ACE,0.0,Autodidacta,IA,$112310
+PER-91040,33,Cali,Colombia,Kotlin,Spring,AWS CCP,3.0,Pregrado,BI/Analytics,$15559
+PER-91041,28,Santiago,Chile,Java|Swift,Spring,GCP ACE|AWS CCP,5.0,Pregrado,Frontend,USD 27165
+PER-91042,37,Rosario,Argentina,C#|JavaScript,Vue|Angular,Scrum Master|AWS CCP,2.0,Técnico,Frontend,31420
+PER-91043,33,Cali,Colombia,JavaScript|Java,Vue|Spark,Scrum Master ,0.0,Técnico,Ciberseguridad,USD 10582
+PER-91044,25,Rosario,Argentina,Swift|C#|Java,Spring|Vue,AWS CCP,3.0,Posgrado,Frontend,$19780
+PER-91045,32,Puebla,México,Python,.NET|Django,GCP ACE,0.0,Tecnólogo,DevOps,"$33,284"
+PER-91046,35,Bucaramanga,Colombia,Swift|PHP|Kotlin,Flask|React,Scrum Master|GCP ACE,1.0,Técnico,Frontend,"$11,530"
+PER-91047,31,Cusco,Perú,Python|Go,Spark,Azure Fundamentals,4.0,Tecnólogo,Backend,"$17,245"
+PER-91048,27,Cartagena,Colombia,JavaScript|TypeScript,Flask|FastAPI,Cisco CCNA|Azure Fundamentals,1.0,Autodidacta,Cloud,$14660
+PER-91049,33,Córdoba,Argentina,C#,Angular|FastAPI,AWS CCP,2.0,Posgrado,Data Science,$19176
+PER-91050,28,Concepción,Chile,C#|Scala,Flask,Cisco CCNA|Azure Fundamentals,0.0,Posgrado,BI/Analytics,USD 24763
+PER-91051,24,Madrid,España,PHP,Laravel,Azure Fundamentals|Cisco CCNA,0.0,Autodidacta,Ciberseguridad,"$34,121"
+PER-91052,23,Guadalajara,México,Java|R,Angular,AWS CCP,3.0,Pregrado,Cloud,USD 15972
+PER-91053,42,Cartagena,Colombia,Java|Go,FastAPI|Node.js,Azure Fundamentals|AWS CCP,3.0,Tecnólogo,Cloud,12244
+PER-91054,31,Bucaramanga,Colombia,PHP|TypeScript,Django|FastAPI,GCP ACE|Azure Fundamentals,3.0,Pregrado,DevOps,"$9,436"
+PER-91055,27,Austin,USA,PHP|Scala,Node.js|FastAPI,Scrum Master|GCP ACE,1.0,Tecnólogo,DevOps,USD 108472
+PER-91056,26,Valencia ,España,C#|Kotlin,Django,GCP ACE|Scrum Master,1.0,Posgrado,BI/Analytics,USD 51414
+PER-91057,31,Barcelona,España,R|Go,Spark,AWS CCP,1.0,Posgrado,Backend,US$ 27.850
+PER-91058,35,Lima,Perú,TypeScript|Go|Python,Django,AWS CCP,6.0,Tecnólogo,BI/Analytics,US$ 31.735
+PER-91059,18,Santiago,Chile,php|kotlin,Spark,AWS CCP,6.0,Tecnólogo,IA,$41078
+PER-91060,18,Bucaramanga,Colombia,Scala|PHP|Kotlin,FastAPI|Spark,Cisco CCNA,7.0,Posgrado,Frontend,US$ 9.419
+PER-91061,33,Lima,Perú,typescript|javascript,React,AWS CCP|Azure Fundamentals,2.0,Pregrado,BI/Analytics,$23404
+PER-91062,19,Rosario,Argentina,JavaScript|Kotlin,React,Azure Fundamentals,6.0,Posgrado,Data Science,US$ 11.561
+PER-91063,33,Lima,Perú,php|c#,FastAPI,None,1.0,Posgrado,Cloud,13020
+PER-91064,22,PUEBLA,México,Go|C#,Django|Vue,AWS CCP,1.0,Posgrado,BI/Analytics,$12029
+PER-91065,26,Valparaíso,Chile,Java|Go,Spark,Scrum Master ,2.0,Técnico,DevOps,USD 28240
+PER-91066,33,Rosario,Argentina,Go|TypeScript|JavaScript,.NET,AWS CCP|GCP ACE,,Pregrado,Cloud,"$22,023"
+PER-91067,27,CDMX,México,TypeScript,Laravel,AWS CCP|Azure Fundamentals,3.0,Pregrado,Backend,"$29,227"
+PER-91068,22,Buenos Aires,Argentina,JavaScript|Kotlin,Vue|Laravel,GCP ACE,4.0,Técnico,Frontend,"$14,016"
+PER-91069,34,Buenos Aires,Argentina,Python,Django|Vue,Azure Fundamentals,3.0,Pregrado,IA,US$ 31.204
+PER-91070,26,Concepcion,Chile,Swift,Spark,AWS CCP,4.0,Autodidacta,IA,$23067
+PER-91071,26,CÓRDOBA,Argentina,C#|Java,Angular,Scrum Master ,1.0,Pregrado,Ciberseguridad,$19471
+PER-91072,34,Sevilla,España,Python|Kotlin,Flask,Azure Fundamentals,6.0,Técnico,Frontend,USD 37083
+PER-91073,38,Rosario,Argentina,python,Node.js,Scrum Master,2.0,Autodidacta,Frontend,"$18,425"
+PER-91074,25,Monterrey,México,Swift|C#|Go,Node.js,Scrum Master|Azure Fundamentals,5.0,Técnico,DevOps,USD 27052
+PER-91075,39,San Francisco,USA,Python|PHP|JavaScript,.NET|React,AWS CCP,3.0,Tecnólogo,Cloud,$86942
+PER-91076,23,Arequipa ,Perú,c#,React,None,2.0,Posgrado,Backend,USD 15685
+PER-91077,30,Lima,Perú,typescript,.NET|Node.js,Scrum Master,3.0,Tecnólogo,Ciberseguridad,USD 20717
+PER-91078,39,Bucaramanga,Colombia,JavaScript,FastAPI,Cisco CCNA,6.0,Autodidacta,DevOps,$14100
+PER-91079,23,Guadalajara,México,PHP|Python,Spark,AWS CCP,2.0,Posgrado,Data Science,"$12,673"
+PER-91080,39,Concepción,Chile,PHP|Swift|R,Spark|Vue,AWS CCP,1.0,Tecnólogo,IA,USD 38553
+PER-91081,32,Miami,USA,Go,.NET|Vue,Scrum Master|Cisco CCNA,2.0,Técnico,BI/Analytics,"$104,678"
+PER-91082,31,CDMX,México,Scala,Vue,GCP ACE,2.0,Autodidacta,Frontend,"$20,719"
+PER-91083,23,San Francisco,USA,C#|PHP,Django,Azure Fundamentals|GCP ACE,3.0,Posgrado,Ciberseguridad,US$ 81.019
+PER-91084,20,Miami,USA,C#|Kotlin,Angular|.NET,GCP ACE,1.0,Pregrado,Frontend,"$179,132"
+PER-91085,25,Cusco,Perú,PHP,FastAPI,Scrum Master,4.0,Técnico,Cloud,15501
+PER-91086,25,Valparaíso,Chile,R,Spring,Cisco CCNA|AWS CCP,4.0,Tecnólogo,BI/Analytics,"$26,111"
+PER-91087,26,Barcelona,España,php|r|javascript,Flask,None,4.0,Autodidacta,BI/Analytics,USD 32299
+PER-91088,30,Cartagena,Colombia,JavaScript|Go,Angular|Django,AWS CCP,2.0,Técnico,DevOps,"$15,282"
+PER-91089,45,Córdoba,Argentina,Python,Node.js,None|Scrum Master ,1.0,Autodidacta,DevOps,$27485
+PER-91090,35,CARTAGENA,Colombia,Swift|JavaScript,Spark,Scrum Master,1.0,Tecnólogo,Cloud,$7000
+PER-91091,18,Sevilla ,España,PHP|R|Swift,Spark,Azure Fundamentals|Scrum Master,7.0,Tecnólogo,BI/Analytics,US$ 50.138
+PER-91092,32,Concepción,Chile,R,Node.js,GCP ACE,4.0,Posgrado,Ciberseguridad,"$30,995"
+PER-91093,26,Madrid,España,R,FastAPI|.NET,Cisco CCNA,0.0,Posgrado,IA,$60525
+PER-91094,20,Valencia,España,JavaScript|Kotlin,Spring|Spark,AWS CCP|Azure Fundamentals,1.0,Pregrado,BI/Analytics,$43174
+PER-91095,19,Concepción,Chile,php,Angular,AWS CCP|Scrum Master,2.0,Autodidacta,DevOps,"$23,669"
+PER-91096,31,CDMX,México,C#|Scala,FastAPI|.NET,Cisco CCNA,,Técnico,DevOps,USD 16581
+PER-91097,31,Bogotá,Colombia,TypeScript,Laravel,AWS CCP|Azure Fundamentals,3.0,Autodidacta,IA,$12058
+PER-91098,29,Miami,USA,Scala|TypeScript|Kotlin,Laravel|Angular,AWS CCP|None,0.0,Posgrado,IA,"$65,584"
+PER-91099,32,New York,USA,C#|Scala,Laravel,AWS CCP,5.0,Pregrado,Data Science,128627
+PER-91100,25,Rosario,Argentina,JavaScript|PHP,React|Vue,AWS CCP,1.0,Autodidacta,Data Science,15604
+PER-91101,27,Monterrey,México,Java|Python|Swift,Angular,None,4.0,Tecnólogo,Frontend,US$ 22.851
+PER-91102,32,Concepción,Chile,Swift|C#|R,Node.js,GCP ACE|Cisco CCNA,3.0,Tecnólogo,BI/Analytics,US$ 35.756
+PER-91103,25,San Francisco,USA,R|Swift,Django|FastAPI,Scrum Master,3.0,Tecnólogo,Frontend,USD 84290
+PER-91104,37,Concepción,Chile,Python,.NET,Azure Fundamentals,0.0,Posgrado,Cloud,USD 27790
+PER-91105,27,Arequipa,Perú,TypeScript,Vue|FastAPI,GCP ACE|None,6.0,Pregrado,BI/Analytics,27865
+PER-91106,22,Sevilla,España,java|swift,Spark|React,Cisco CCNA,1.0,Pregrado,DevOps,US$ 35.774
+PER-91107,,Miami,USA,typescript|kotlin,Spring,AWS CCP,4.0,Pregrado,Cloud,165621
+PER-91108,34,Lima,Perú,Kotlin|Go|Scala,React|Angular,None,0.0,Posgrado,Frontend,14878
+PER-91109,35,Cali,Colombia,swift|r,FastAPI|Node.js,None|AWS CCP,4.0,Técnico,Data Science,"$24,120"
+PER-91110,25,San Francisco,USA,Go|Scala,Django,Cisco CCNA ,3.0,Pregrado,Ciberseguridad,US$ 106.381
+PER-91111,35,Cusco,Perú,Java|Go,Node.js|.NET,None,2.0,Autodidacta,DevOps,USD 18389
+PER-91112,20,Valparaíso,Chile,r|java,Spring,Scrum Master,6.0,Tecnólogo,Ciberseguridad,"$38,265"
+PER-91113,31,Cusco,Perú,Scala|C#|Kotlin,Flask|Django,Azure Fundamentals|None,0.0,Posgrado,Frontend,15838
+PER-91114,27,Sevilla,España,scala|python,Spark|.NET,None,1.0,Autodidacta,Cloud,US$ 31.186
+PER-91115,32,Guadalajara,México,Kotlin|C#|TypeScript,Flask|Angular,AWS CCP|Cisco CCNA,1.0,Técnico,Cloud,$13773
+PER-91116,36,San Francisco,USA,javascript|go,Laravel|FastAPI,GCP ACE,0.0,Pregrado,Frontend,US$ 69.545
+PER-91117,24,Valparaíso,Chile,TypeScript,Spring|Node.js,GCP ACE|Scrum Master,0.0,Técnico,Ciberseguridad,"$20,210"
+PER-91118,18,madrid,España,c#|kotlin,Django,None,1.0,Autodidacta,BI/Analytics,"$32,593"
+PER-91119,41,Buenos Aires,Argentina,Scala|R,FastAPI|Angular,Scrum Master,4.0,Tecnólogo,Frontend,$19472
+PER-91120,30,PUEBLA,México,Go,React,Cisco CCNA,,Posgrado,IA,US$ 31.903
+PER-91121,34,Austin,USA,JavaScript|PHP,Spark|Angular,Azure Fundamentals,3.0,Autodidacta,Backend,109883
+PER-91122,29,Bogota,Colombia,Java|C#,Angular|FastAPI,GCP ACE,3.0,Tecnólogo,Cloud,10006
+PER-91123,26,Córdoba,Argentina,c#|typescript,React|.NET,Azure Fundamentals|AWS CCP,1.0,Técnico,DevOps,USD 24417
+PER-91124,31,Austin,USA,C#|PHP,Laravel,Cisco CCNA|Azure Fundamentals,3.0,Tecnólogo,IA,US$ 171.291
+PER-91125,25,New York ,USA,Kotlin|Java|TypeScript,Spark,None,2.0,Posgrado,BI/Analytics,"$78,433"
+PER-91126,19,BARRANQUILLA,Colombia,Kotlin,React|Spark,Cisco CCNA|GCP ACE ,4.0,Técnico,Frontend,$17126
+PER-91127,22,Guadalajara,México,typescript,Spark|.NET,AWS CCP ,1.0,Técnico,Frontend,25689
+PER-91128,43,Sevilla,España,Scala|R,Node.js,None,3.0,Posgrado,Cloud,"$40,078"
+PER-91129,32,New York,USA,Scala|C#,Angular|Vue,AWS CCP,2.0,Tecnólogo,Cloud,110175
+PER-91130,24,Guadalajara,México,Kotlin,.NET,Azure Fundamentals|AWS CCP,2.0,Técnico,DevOps,$19342
+PER-91131,29,CDMX,México,Java|Swift,Spark|Vue,None,0.0,Tecnólogo,Backend,"$14,429"
+PER-91132,22,Arequipa,Perú,kotlin|php|r,FastAPI|Spark,Scrum Master,2.0,Autodidacta,BI/Analytics,USD 12362
+PER-91133,30,Barranquilla,Colombia,C#|Kotlin|R,Node.js|Angular,None|GCP ACE,5.0,Posgrado,IA,11303
+PER-91134,23,Monterrey,México,Kotlin|PHP|Java,FastAPI|Django,AWS CCP,4.0,Autodidacta,DevOps,"$23,535"
+PER-91135,28,Bucaramanga,Colombia,JavaScript,Vue,Azure Fundamentals|None ,2.0,Técnico,Ciberseguridad,US$ 9.335
+PER-91136,31,Medellín,Colombia,TypeScript|Python|JavaScript,Vue|Angular,Azure Fundamentals|Scrum Master,3.0,Técnico,BI/Analytics,$13597
+PER-91137,29,Lima,Perú,Python|Kotlin,Spring|FastAPI,Azure Fundamentals,5.0,Autodidacta,Backend,"$25,219"
+PER-91138,24,Córdoba,Argentina,java|c#|python,Spring|Django,None|Scrum Master,0.0,Tecnólogo,Cloud,22944
+PER-91139,31,Valparaíso,Chile,TypeScript|Swift|JavaScript,Vue,Scrum Master,0.0,Técnico,Data Science,35771
+PER-91140,28,Medellin,Colombia,Scala,Flask,None,3.0,Autodidacta,Frontend,"$10,864"
+PER-91141,21,Barcelona,España,C#,FastAPI|Node.js,Scrum Master,0.0,Pregrado,IA,39770
+PER-91142,29,Barranquilla,Colombia,Go,Node.js,GCP ACE,3.0,Pregrado,Data Science,$12696
+PER-91143,31,Concepción,Chile,PHP|C#|Go,Django|Vue,Azure Fundamentals|Cisco CCNA,1.0,Técnico,Cloud,USD 22678
+PER-91144,24,PUEBLA,México,Swift|C#,Angular,Cisco CCNA,3.0,Pregrado,Data Science,$25791
+PER-91145,25,Medellín,Colombia,Scala|Swift,Spring,GCP ACE ,2.0,Autodidacta,IA,US$ 7.791
+PER-91146,31,GUADALAJARA,México,java,Node.js,AWS CCP,5.0,Posgrado,Backend,$11581
+PER-91147,27,???,Argentina,Go,Vue|.NET,None|GCP ACE,1.0,Autodidacta,Frontend,USD 14827
+PER-91148,25,Bucaramanga,Colombia,Python|Scala|Kotlin,.NET|Node.js,Azure Fundamentals|None,3.0,Pregrado,BI/Analytics,$7728
+PER-91149,36,Austin,USA,C#|R|Go,Spring|.NET,Scrum Master,4.0,Posgrado,Backend,$104224
+PER-91150,29,Arequipa,Perú,Python,Laravel,AWS CCP|None,4.0,Técnico,IA,14007
+PER-91151,23,Barcelona,España,PHP|C#,Spark|Spring,Azure Fundamentals,0.0,Pregrado,BI/Analytics,$49030
+PER-91152,34,Puebla,México,JavaScript|Swift|C#,Flask,None|Scrum Master,4.0,Posgrado,Cloud,USD 17048
+PER-91153,18,Barranquilla,Colombia,swift,Spark|Angular,AWS CCP|Azure Fundamentals,1.0,Tecnólogo,Ciberseguridad,"$13,504"
+PER-91154,23,Buenos Aires,Argentina,Go|R|TypeScript,Spark,None,1.0,Tecnólogo,IA,US$ 17.223
+PER-91155,38,Bogotá,Colombia,Python|R|JavaScript,React,None,4.0,Tecnólogo,IA,"$14,420"
+PER-91156,25,Austin,USA,Go|PHP,Django,GCP ACE|Azure Fundamentals,5.0,Técnico,BI/Analytics,USD 71438
+PER-91157,34,Valparaíso,Chile,Swift|Go,Angular|FastAPI,Azure Fundamentals,2.0,Autodidacta,IA,US$ 33.239
+PER-91158,27,Santiago,Chile,Kotlin|Python|R,.NET|Angular,Azure Fundamentals|GCP ACE,4.0,Posgrado,Data Science,USD 36726
+PER-91159,25,CUSCO,Perú,Kotlin|TypeScript|Go,Vue|FastAPI,Scrum Master,0.0,Tecnólogo,Frontend,$13128
+PER-91160,28,???,España,Kotlin,Spark|Angular,Scrum Master|Azure Fundamentals,1.0,Autodidacta,BI/Analytics,$57720
+PER-91161,22,New York,USA,PHP|Scala|Swift,React|FastAPI,None,3.0,Posgrado,Frontend,62080
+PER-91162,40,Valparaíso,Chile,go|r,Laravel|Spring,Scrum Master|Cisco CCNA,2.0,Posgrado,Backend,$36247
+PER-91163,32,Rosario,Argentina,go,Spark,AWS CCP,0.0,Posgrado,BI/Analytics,US$ 14.045
+PER-91164,20,Arequipa,Perú,Swift|Python|PHP,.NET|Spring,GCP ACE,1.0,Tecnólogo,Data Science,"$15,029"
+PER-91165,31,Medellín,Colombia,C#|Go,FastAPI,Azure Fundamentals,2.0,Pregrado,IA,$8808
+PER-91166,18,CARTAGENA,Colombia,Java,React|.NET,None,7.0,Técnico,Ciberseguridad,US$ 8.912
+PER-91167,24,Valencia,España,PHP,React,GCP ACE|AWS CCP,6.0,Pregrado,Frontend,US$ 54.289
+PER-91168,32,Santiago,Chile,R|JavaScript,Laravel|FastAPI,None,0.0,Posgrado,BI/Analytics,USD 22914
+PER-91169,29,Monterrey,México,javascript,React|Spark,Scrum Master,4.0,Autodidacta,DevOps,US$ 17.549
+PER-91170,18,Concepción,Chile,R|Go,Flask|React,GCP ACE|Scrum Master,0.0,Pregrado,Backend,$46057
+PER-91171,30,Santiago ,Chile,PHP|TypeScript|C#,Vue|Spring,Scrum Master,2.0,Pregrado,BI/Analytics,US$ 39.085
+PER-91172,39,Valencia,España,R|Scala,Vue,Scrum Master,2.0,Posgrado,Cloud,US$ 31.900
+PER-91173,23,Valparaíso,Chile,Swift|TypeScript,Spark,None|Cisco CCNA,2.0,Pregrado,Data Science,USD 17839
+PER-91174,23,Valparaíso,Chile,scala,Node.js,Scrum Master,2.0,Posgrado,Data Science,USD 40001
+PER-91175,18,Seattle,USA,c#|python,React,Azure Fundamentals|GCP ACE,4.0,Autodidacta,BI/Analytics,US$ 119.633
+PER-91176,18,Seattle,USA,R,.NET,AWS CCP,5.0,Técnico,BI/Analytics,USD 101610
+PER-91177,32,Seattle,USA,Kotlin|C#,FastAPI|Angular,AWS CCP,3.0,Posgrado,DevOps,"$137,498"
+PER-91178,26,Arequipa,Perú,Python|C#|R,React,Scrum Master,2.0,Tecnólogo,Frontend,USD 18585
+PER-91179,28,???,Argentina,Java|C#,Spring|Vue,Scrum Master,0.0,Técnico,Frontend,"$36,618"
+PER-91180,24,Lima,Perú,C#|PHP|Java,Spark,Scrum Master|None,2.0,Autodidacta,Backend,22034
+PER-91181,27,Santiago,Chile,Scala,FastAPI|Flask,None|Azure Fundamentals,2.0,Autodidacta,Frontend,USD 26898
+PER-91182,22,Valencia,España,TypeScript,Vue,AWS CCP,,Pregrado,IA,USD 38326
+PER-91183,26,austin,USA,Scala|Swift|Kotlin,FastAPI|Django,Azure Fundamentals ,5.0,Tecnólogo,DevOps,USD 97752
+PER-91184,29,Rosario,Argentina,Python|Kotlin,Spring,GCP ACE,2.0,Pregrado,Data Science,"$21,013"
+PER-91185,28,Madrid,España,Go|C#,Spark,Azure Fundamentals|Scrum Master,3.0,Pregrado,BI/Analytics,US$ 43.515
+PER-91186,31,San Francisco,USA,Go|C#,Spark|Vue,GCP ACE,0.0,Pregrado,Frontend,US$ 85.295
+PER-91187,29,Valencia ,España,Python|Go|PHP,Vue,GCP ACE,1.0,Posgrado,Data Science,US$ 41.541
+PER-91188,24,Arequipa,Perú,PHP|R,Laravel|.NET,AWS CCP|Scrum Master,4.0,Técnico,IA,14161
+PER-91189,29,CUSCO,Perú,C#,React|Laravel,GCP ACE|Scrum Master,3.0,Tecnólogo,Data Science,US$ 22.495
+PER-91190,27,Arequipa,Perú,R|Java,Spark|FastAPI,AWS CCP,4.0,Posgrado,Ciberseguridad,US$ 25.336
+PER-91191,21,Seattle,USA,Kotlin|Swift|Python,Spark|Angular,GCP ACE,4.0,Autodidacta,BI/Analytics,USD 129280
+PER-91192,27,Bogotá,Colombia,Swift|Go,Laravel|Django,GCP ACE,1.0,Posgrado,Frontend,USD 8960
+PER-91193,29,CDMX,México,R|Go|TypeScript,Flask,GCP ACE,4.0,Pregrado,Cloud,US$ 28.475
+PER-91194,27,Guadalajara,México,R|Swift,Vue,GCP ACE|AWS CCP,,Posgrado,Cloud,US$ 21.741
+PER-91195,,rosario,Argentina,c#|python,Angular,GCP ACE,2.0,Autodidacta,DevOps,USD 13708
+PER-91196,37,Rosario,Argentina,JavaScript|Go,Laravel,Azure Fundamentals,0.0,Autodidacta,IA,25998
+PER-91197,26,santiago,Chile,Scala,Spark|Spring,Scrum Master|GCP ACE,2.0,Tecnólogo,Cloud,US$ 25.641
+PER-91198,29,Lima ,Perú,Kotlin|Java,Laravel|Node.js,Scrum Master|None,1.0,Autodidacta,BI/Analytics,USD 15285
+PER-91199,36,Guadalajara,México,TypeScript|Python,Django|Node.js,AWS CCP|Scrum Master,4.0,Autodidacta,Cloud,$14919
+PER-91200,19,Valencia,España,R,Flask|Vue,AWS CCP|Scrum Master,2.0,Pregrado,Backend,US$ 23.262
+PER-91201,25,Guadalajara,México,Scala|Go|Python,FastAPI,GCP ACE|AWS CCP,1.0,Posgrado,Backend,13792
+PER-91202,19,Monterrey,México,R|Swift,Spark|Node.js,AWS CCP,2.0,Posgrado,Ciberseguridad,US$ 19.998
+PER-91203,29,Monterrey,México,R|TypeScript,Laravel|React,Azure Fundamentals|Scrum Master,2.0,Pregrado,Backend,$19148
+PER-91204,31,Santiago,Chile,JavaScript,Django,None|AWS CCP,4.0,Pregrado,Frontend,"$21,174"
+PER-91205,27,Bogotá,Colombia,kotlin|php,React,GCP ACE|AWS CCP,0.0,Tecnólogo,Cloud,USD 10865
+PER-91206,18,Barcelona,España,Swift|Java,FastAPI,Cisco CCNA,2.0,Técnico,BI/Analytics,"$60,864"
+PER-91207,25,Santiago ,Chile,python,Flask|FastAPI,AWS CCP,2.0,Posgrado,Data Science,US$ 26.693
+PER-91208,31,Seattle,USA,Kotlin|Scala,Django|Spark,Cisco CCNA,3.0,Técnico,IA,$80010
+PER-91209,36,Buenos Aires,Argentina,Go|C#|Swift,.NET|Spark,Cisco CCNA|None,3.0,Técnico,Ciberseguridad,24197
+PER-91210,35,Valparaíso,Chile,PHP|TypeScript|Python,Laravel|Vue,AWS CCP|Scrum Master,3.0,Pregrado,Backend,$41132
+PER-91211,31,Santiago,Chile,javascript|php|python,Vue|React,None,4.0,Autodidacta,Frontend,US$ 35.438
+PER-91212,32,sevilla,España,Scala|PHP|Go,.NET|Angular,AWS CCP,5.0,Pregrado,Frontend,$31620
+PER-91213,43,Santiago,Chile,Go,Node.js|Flask,GCP ACE,3.0,Tecnólogo,IA,22652
+PER-91214,20,Madrid,España,JavaScript|C#,Spark,Azure Fundamentals,3.0,Tecnólogo,BI/Analytics,USD 30101
+PER-91215,38,Monterrey,México,Swift,Angular|Django,Azure Fundamentals|GCP ACE,3.0,Autodidacta,BI/Analytics,$15615
+PER-91216,30,Bucaramanga,Colombia,TypeScript|Swift,Vue|Angular,Scrum Master|Azure Fundamentals,3.0,Posgrado,Cloud,"$16,714"
+PER-91217,21,Madrid,España,C#|Go,Flask|.NET,GCP ACE,6.0,Pregrado,DevOps,30123
+PER-91218,27,Guadalajara,México,PHP,.NET,AWS CCP,4.0,Técnico,Ciberseguridad,15945
+PER-91219,26,???,España,Scala|Swift,Vue|Laravel,None|GCP ACE,4.0,Técnico,BI/Analytics,39831
+PER-91220,39,New York,USA,javascript,React|FastAPI,AWS CCP,6.0,Pregrado,Cloud,112751
+PER-91221,34,Cusco,Perú,Kotlin|Swift|JavaScript,.NET|Laravel,Azure Fundamentals,0.0,Tecnólogo,Backend,$15808
+PER-91222,35,New York,USA,Scala|Java,.NET|Spark,GCP ACE,2.0,Técnico,Data Science,USD 90891
+PER-91223,35,Valparaíso,Chile,javascript|go,Laravel|Angular,Azure Fundamentals,5.0,Autodidacta,DevOps,USD 22302
+PER-91224,27,New York,USA,Scala,Spark|Spring,Cisco CCNA,5.0,Autodidacta,DevOps,USD 151802
+PER-91225,36,Cusco,Perú,TypeScript,Spring,Cisco CCNA,2.0,Autodidacta,Frontend,USD 25303
+PER-91226,24,Córdoba,Argentina,Scala,Spark|Vue,Cisco CCNA,2.0,Técnico,DevOps,US$ 13.887
+PER-91227,19,Lima,Perú,swift|php,Flask|Vue,AWS CCP|GCP ACE ,1.0,Pregrado,Data Science,US$ 29.769
+PER-91228,38,Valparaiso,Chile,JavaScript|TypeScript,Django,GCP ACE,1.0,Posgrado,BI/Analytics,US$ 26.817
+PER-91229,25,new york,USA,Swift|PHP,Spark,AWS CCP,5.0,Posgrado,Frontend,US$ 146.299
+PER-91230,24,Barranquilla,Colombia,Kotlin|Swift,Django|.NET,Azure Fundamentals,0.0,Técnico,Ciberseguridad,$13354
+PER-91231,37,Miami,USA,Python|C#,Vue,GCP ACE|None,5.0,Técnico,IA,USD 131580
+PER-91232,24,Monterrey,México,PHP|TypeScript|Python,Vue,None,6.0,Tecnólogo,Cloud,USD 17097
+PER-91233,35,Lima,Perú,Kotlin|TypeScript,Laravel,Cisco CCNA,4.0,Pregrado,BI/Analytics,"$10,738"
+PER-91234,33,Madrid,España,Python,FastAPI,AWS CCP|None,1.0,Autodidacta,Backend,36835
+PER-91235,30,Lima,Perú,Python,Django,Cisco CCNA,4.0,Autodidacta,BI/Analytics,"$24,099"
+PER-91236,31,Lima,Perú,Kotlin|C#,Django|.NET,GCP ACE|Scrum Master,5.0,Posgrado,Data Science,USD 15703
+PER-91237,28,Madrid,España,JavaScript,Django|Spring,GCP ACE|AWS CCP,2.0,Técnico,DevOps,$30102
+PER-91238,25,San Francisco,USA,Swift|R,Node.js|Spark,Azure Fundamentals,7.0,Autodidacta,IA,"$89,880"
+PER-91239,18,Rosario ,Argentina,R|JavaScript,Spring,None|Cisco CCNA,2.0,Técnico,Cloud,$17167
+PER-91240,29,New York,USA,PHP|C#|JavaScript,Flask|Spring,Azure Fundamentals|None,4.0,Autodidacta,Data Science,US$ 93.502
+PER-91241,24,Sevilla,España,typescript,React,Azure Fundamentals,2.0,Tecnólogo,Data Science,57475
+PER-91242,29,Madrid,España,TypeScript,Spark,None|Azure Fundamentals,2.0,Posgrado,Data Science,"$36,441"
+PER-91243,28,Guadalajara,México,TypeScript|JavaScript,FastAPI,Scrum Master,0.0,Autodidacta,Frontend,USD 14842
+PER-91244,26,Austin,USA,Scala|TypeScript,Laravel|Spark,Azure Fundamentals,1.0,Autodidacta,Ciberseguridad,77519
+PER-91245,18,MADRID,España,Java|Swift|R,FastAPI|Spark,GCP ACE,0.0,Técnico,Frontend,USD 70759
+PER-91246,29,Puebla,México,Java|Swift,Angular,Cisco CCNA,1.0,Posgrado,Backend,21229
+PER-91247,28,Lima,Perú,Java|TypeScript,Node.js|.NET,Azure Fundamentals,5.0,Pregrado,BI/Analytics,US$ 22.134
+PER-91248,21,Seattle,USA,R|Kotlin,Node.js,GCP ACE|Scrum Master,0.0,Tecnólogo,Backend,$133155
+PER-91249,31,Rosario,Argentina,JavaScript|TypeScript,Laravel|Vue,Cisco CCNA|GCP ACE,0.0,Autodidacta,BI/Analytics,$22193
+PER-91250,32,Valparaiso,Chile,typescript|java,Vue|Spark,GCP ACE,0.0,Tecnólogo,IA,USD 35994
+PER-91251,18,Guadalajara,México,JavaScript|Swift|Kotlin,.NET|Laravel,Scrum Master,2.0,Pregrado,Cloud,USD 19974
+PER-91252,29,Córdoba,Argentina,Python,Spark,Azure Fundamentals,4.0,Técnico,DevOps,USD 23725
+PER-91253,25,Buenos Aires,Argentina,TypeScript,.NET|Spring,Cisco CCNA,2.0,Posgrado,BI/Analytics,$23463
+PER-91254,27,Valencia,España,TypeScript|Scala,Spark|Angular,None,3.0,Tecnólogo,Ciberseguridad,USD 41629
+PER-91255,24,cartagena,Colombia,JavaScript|Go|Java,Spring,AWS CCP,5.0,Técnico,Frontend,"$11,976"
+PER-91256,33,Buenos Aires,Argentina,Swift|Python|Java,Laravel,Azure Fundamentals|Scrum Master ,1.0,Pregrado,Frontend,USD 26236
+PER-91257,33,Valencia,España,C#|TypeScript|Kotlin,Django,None|Azure Fundamentals,4.0,Técnico,DevOps,US$ 46.235
+PER-91258,18,Cartagena,Colombia,Java,Vue,AWS CCP,1.0,Autodidacta,BI/Analytics,USD 11161
+PER-91259,38,Cusco,Perú,python|java,Spring,None|Cisco CCNA,2.0,Pregrado,Backend,$25585
+PER-91260,32,Puebla,México,Kotlin|Java,React|Flask,AWS CCP|Azure Fundamentals,2.0,Tecnólogo,Frontend,US$ 24.067
+PER-91261,39,Seattle,USA,R,Node.js,Azure Fundamentals ,0.0,Técnico,IA,USD 89806
+PER-91262,29,Cusco,Perú,R,Node.js|FastAPI,AWS CCP,1.0,Autodidacta,BI/Analytics,$13994
+PER-91263,30,???,Chile,Python|Java|Swift,Vue|FastAPI,Azure Fundamentals|AWS CCP,3.0,Técnico,IA,USD 16199
+PER-91264,30,Seattle,USA,Swift|Java,Spark,Scrum Master,1.0,Posgrado,Ciberseguridad,USD 99658
+PER-91265,29,Monterrey,México,R|JavaScript,Angular,GCP ACE,3.0,Posgrado,Data Science,US$ 13.794
+PER-91266,28,Concepción,Chile,PHP|Go|Java,Node.js|Spring,Azure Fundamentals,0.0,Pregrado,DevOps,32272
+PER-91267,26,Rosario,Argentina,Swift|TypeScript,Angular,GCP ACE|None,2.0,Posgrado,BI/Analytics,USD 18555
+PER-91268,23,Arequipa,Perú,Go|Python,Node.js,None|Azure Fundamentals ,6.0,Posgrado,Ciberseguridad,US$ 21.568
+PER-91269,28,Valparaíso,Chile,Swift|Kotlin,FastAPI,AWS CCP,0.0,Posgrado,IA,$27321
+PER-91270,27,Valencia ,España,Scala|C#,Vue|React,Azure Fundamentals|None,4.0,Autodidacta,BI/Analytics,USD 58902
+PER-91271,30,Medellín,Colombia,typescript|python,.NET|FastAPI,Scrum Master,0.0,Pregrado,Backend,13488
+PER-91272,32,Bucaramanga,Colombia,Python|TypeScript,Node.js,GCP ACE|AWS CCP,6.0,Autodidacta,BI/Analytics,$14184
+PER-91273,38,puebla,México,Swift|Scala|PHP,Spring|.NET,Scrum Master,3.0,Pregrado,Ciberseguridad,"$27,147"
+PER-91274,20,New York,USA,Python|Kotlin,Node.js|Angular,Scrum Master ,1.0,Pregrado,Data Science,"$38,529"
+PER-91275,35,New York ,USA,PHP|JavaScript,Spark,AWS CCP|GCP ACE,7.0,Técnico,Cloud,$110759
+PER-91276,21,Medellín,Colombia,PHP|Python,Flask,None,0.0,Posgrado,Backend,11406
+PER-91277,32,Cali,Colombia,Python|Kotlin,.NET,Cisco CCNA|None,3.0,Técnico,Data Science,"$11,534"
+PER-91278,29,???,España,Go,Vue|Django,Scrum Master,4.0,Tecnólogo,Frontend,"$26,982"
+PER-91279,25,puebla,México,JavaScript,Flask|FastAPI,GCP ACE|Cisco CCNA,5.0,Posgrado,Ciberseguridad,$24858
+PER-91280,35,San Francisco,USA,kotlin,Vue,None,3.0,Posgrado,DevOps,$131928
+PER-91281,18,Puebla,México,R|Scala,FastAPI|Spring,AWS CCP,2.0,Técnico,Cloud,US$ 20.463
+PER-91282,30,Barcelona ,España,Go|Python|C#,Django,Azure Fundamentals|Cisco CCNA,0.0,Tecnólogo,Ciberseguridad,40646
+PER-91283,24,Valencia,España,javascript|swift,Django,Azure Fundamentals,4.0,Pregrado,Cloud,US$ 29.697
+PER-91284,,Cali,Colombia,Go|C#,Node.js|Spring,AWS CCP ,5.0,Tecnólogo,DevOps,14947
+PER-91285,31,LIMA,Perú,Java|TypeScript,Node.js|Vue,GCP ACE ,1.0,Posgrado,Cloud,$11853
+PER-91286,31,Buenos Aires,Argentina,Swift,React,Scrum Master ,2.0,Autodidacta,Data Science,$19315
+PER-91287,31,Cali,Colombia,PHP|TypeScript,Angular,Scrum Master,3.0,Técnico,DevOps,USD 10002
+PER-91288,25,Barranquilla,Colombia,Go|PHP,Spark,Cisco CCNA|None,3.0,Autodidacta,IA,"$9,105"
+PER-91289,23,Santiago,Chile,Kotlin|Swift,Flask|Vue,AWS CCP,1.0,Tecnólogo,Frontend,US$ 19.935
+PER-91290,18,Sevilla,España,Swift|C#|Python,FastAPI|Node.js,AWS CCP,3.0,Posgrado,BI/Analytics,US$ 63.178
+PER-91291,29,Valencia,España,python|typescript,.NET,Cisco CCNA ,1.0,Posgrado,Backend,$39422
+PER-91292,34,Bucaramanga,Colombia,Go|Kotlin|R,Laravel,Cisco CCNA|None,3.0,Posgrado,Frontend,"$15,484"
+PER-91293,23,Madrid,España,PHP,Node.js,None,0.0,Técnico,Data Science,41739
+PER-91294,25,CÓRDOBA,Argentina,Java|JavaScript|C#,Node.js,GCP ACE,4.0,Autodidacta,Data Science,$24342
+PER-91295,29,Sevilla,España,Java,Laravel|Spring,Scrum Master,0.0,Pregrado,BI/Analytics,US$ 53.438
+PER-91296,35,???,México,TypeScript|JavaScript|Scala,.NET,None,1.0,Posgrado,BI/Analytics,$19588
+PER-91297,29,Concepción,Chile,python,Spark,Azure Fundamentals,6.0,Autodidacta,Cloud,USD 25039
+PER-91298,29,Valencia,España,R|Scala,.NET,Cisco CCNA,3.0,Técnico,Cloud,"$32,802"
+PER-91299,31,Cartagena,Colombia,TypeScript|Go,Vue,Scrum Master,0.0,Posgrado,Cloud,$10305
+PER-91300,34,Barranquilla,Colombia,R|PHP,FastAPI|Vue,AWS CCP,1.0,Posgrado,Frontend,US$ 7.511
+PER-91301,31,Valparaíso,Chile,java,FastAPI|.NET,GCP ACE,5.0,Posgrado,Ciberseguridad,USD 40836
+PER-91302,33,Valparaíso,Chile,R,.NET|React,Azure Fundamentals ,,Tecnólogo,Cloud,$19199
+PER-91303,25,Cali,Colombia,Swift|Java,React|Spark,None,2.0,Técnico,DevOps,"$8,940"
+PER-91304,33,santiago,Chile,typescript|javascript,Spark,Azure Fundamentals|GCP ACE,0.0,Tecnólogo,Ciberseguridad,$19058
+PER-91305,37,Valparaíso,Chile,Scala|Kotlin|PHP,React,Cisco CCNA,2.0,Tecnólogo,Backend,US$ 37.611
+PER-91306,30,Medellín,Colombia,R|PHP|Kotlin,React,GCP ACE,5.0,Pregrado,BI/Analytics,14807
+PER-91307,29,Cusco,Perú,JavaScript|Go,Django,None,,Tecnólogo,Backend,"$18,545"
+PER-91308,26,???,USA,Java,React,GCP ACE,0.0,Autodidacta,Backend,"$82,426"
+PER-91309,30,Guadalajara,México,TypeScript|Go,Laravel|Vue,Scrum Master,2.0,Técnico,Data Science,32473
+PER-91310,26,Medellín,Colombia,Scala|Python,Spring|Laravel,Cisco CCNA|GCP ACE,3.0,Autodidacta,Cloud,"$13,797"
+PER-91311,18,Barcelona,España,typescript|go|python,Node.js|Angular,Cisco CCNA,3.0,Pregrado,Backend,US$ 35.286
+PER-91312,37,CDMX,México,TypeScript|C#,Flask,None,0.0,Autodidacta,Frontend,12028
+PER-91313,32,Barranquilla,Colombia,JavaScript|Go,Flask,None,3.0,Pregrado,Data Science,$10886
+PER-91314,26,Valparaíso,Chile,JavaScript|Go,Django,Azure Fundamentals,3.0,Tecnólogo,IA,"$20,055"
+PER-91315,29,Santiago,Chile,r|kotlin,.NET,None,1.0,Posgrado,IA,US$ 17.463
+PER-91316,29,Medellín,Colombia,PHP|TypeScript,Vue|Django,AWS CCP|Cisco CCNA,3.0,Pregrado,Frontend,$8787
+PER-91317,27,CDMX,México,JavaScript,Flask,Scrum Master,4.0,Tecnólogo,BI/Analytics,"$13,367"
+PER-91318,27,Arequipa,Perú,Scala,.NET,Cisco CCNA,1.0,Tecnólogo,Frontend,USD 13870
+PER-91319,31,Concepción,Chile,php,Spring,Scrum Master,2.0,Posgrado,Frontend,USD 16786
+PER-91320,34,???,México,C#|Java,FastAPI,Scrum Master,1.0,Autodidacta,Backend,US$ 28.077
+PER-91321,29,Austin ,USA,Scala|Java,.NET|Angular,None|Azure Fundamentals,2.0,Técnico,IA,"$123,528"
+PER-91322,25,Buenos Aires,Argentina,Kotlin|Scala|JavaScript,Spring,AWS CCP|GCP ACE,4.0,Posgrado,Data Science,USD 32141
+PER-91323,25,Barranquilla,Colombia,TypeScript|Swift,.NET|Node.js,None,4.0,Pregrado,DevOps,"$11,218"
+PER-91324,36,Barcelona,España,Scala|R|C#,Vue|Angular,None|Azure Fundamentals,0.0,Posgrado,Data Science,US$ 31.671
+PER-91325,18,???,México,Kotlin,.NET,AWS CCP|Scrum Master ,2.0,Técnico,DevOps,"$11,415"
+PER-91326,18,Puebla,México,TypeScript|Java,Spark|React,None,1.0,Pregrado,Data Science,$13626
+PER-91327,36,Madrid,España,r|java,Node.js,Azure Fundamentals|AWS CCP,4.0,Autodidacta,Frontend,"$32,653"
+PER-91328,18,Miami,USA,Swift|R|JavaScript,React|Flask,AWS CCP|GCP ACE,2.0,Tecnólogo,IA,US$ 119.440
+PER-91329,32,CDMX,México,Swift|JavaScript,Django,Azure Fundamentals,3.0,Técnico,IA,US$ 17.404
+PER-91330,37,???,Argentina,PHP|Go,React,None,2.0,Posgrado,DevOps,$23380
+PER-91331,34,Seattle,USA,C#|TypeScript|R,Spark|Node.js,Scrum Master|AWS CCP,5.0,Posgrado,BI/Analytics,USD 66041
+PER-91332,24,Valparaíso,Chile,PHP|Kotlin,Laravel|Flask,AWS CCP,3.0,Posgrado,Ciberseguridad,"$23,265"
+PER-91333,24,Valencia,España,Scala|Go|R,Laravel,Scrum Master,6.0,Técnico,Backend,"$27,563"
+PER-91334,26,CÓRDOBA,Argentina,R|Python,Flask|FastAPI,None,4.0,Técnico,Data Science,USD 24890
+PER-91335,,Cartagena,Colombia,C#|TypeScript|JavaScript,React,Cisco CCNA|None,5.0,Autodidacta,Ciberseguridad,$16470
+PER-91336,34,Santiago,Chile,PHP|Kotlin|Java,FastAPI,GCP ACE,2.0,Pregrado,Backend,$29412
+PER-91337,37,Bucaramanga ,Colombia,swift,React,Azure Fundamentals,3.0,Tecnólogo,BI/Analytics,"$12,323"
+PER-91338,36,???,Chile,Python|R,FastAPI,None|Azure Fundamentals,2.0,Tecnólogo,Frontend,18987
+PER-91339,37,Córdoba,Argentina,php,Laravel|Django,Scrum Master,2.0,Tecnólogo,Frontend,USD 35318
+PER-91340,26,Austin,USA,swift|r|go,FastAPI|Spring,None,0.0,Autodidacta,Frontend,$126126
+PER-91341,19,Valencia,España,C#,.NET,GCP ACE|Cisco CCNA,0.0,Pregrado,Ciberseguridad,$67055
+PER-91342,34,Austin,USA,Scala,React,GCP ACE|Cisco CCNA ,2.0,Tecnólogo,IA,$136480
+PER-91343,31,Miami,USA,C#|Scala|Swift,Spark|Angular,GCP ACE,3.0,Autodidacta,Cloud,US$ 142.498
+PER-91344,28,Cali,Colombia,php|java|javascript,Vue,GCP ACE|Scrum Master,4.0,Autodidacta,BI/Analytics,"$11,348"
+PER-91345,40,puebla,México,TypeScript|R,.NET,AWS CCP|Scrum Master,5.0,Posgrado,Frontend,"$30,143"
+PER-91346,18,Arequipa,Perú,JavaScript|C#,Spark|Vue,Cisco CCNA ,2.0,Técnico,BI/Analytics,$19703
+PER-91347,31,Rosario,Argentina,PHP|Swift,Angular,Scrum Master,0.0,Pregrado,DevOps,US$ 23.946
+PER-91348,25,Puebla,México,Go,Laravel,Scrum Master,5.0,Pregrado,Frontend,$23028
+PER-91349,26,monterrey,México,Swift|Scala,Spark|Vue,Cisco CCNA|GCP ACE ,0.0,Técnico,Backend,US$ 18.868
+PER-91350,34,Bogotá,Colombia,Kotlin,React|Spring,Scrum Master,2.0,Técnico,BI/Analytics,23103
+PER-91351,28,Arequipa,Perú,C#|TypeScript,FastAPI|React,GCP ACE|Azure Fundamentals,5.0,Posgrado,Backend,US$ 19.076
+PER-91352,35,Lima,Perú,Java|TypeScript,Spring|Flask,None,3.0,Pregrado,Cloud,"$19,959"
+PER-91353,30,Concepción,Chile,Go|Java|Python,Node.js,AWS CCP|GCP ACE,2.0,Autodidacta,IA,"$32,815"
+PER-91354,36,???,Colombia,Java|TypeScript|Swift,Laravel|Vue,None|GCP ACE,4.0,Pregrado,Frontend,11785
+PER-91355,38,???,España,Swift|Go,Node.js,GCP ACE|Azure Fundamentals,6.0,Autodidacta,DevOps,USD 57513
+PER-91356,18,NEW YORK,USA,Go|C#|Kotlin,Node.js,GCP ACE,5.0,Pregrado,DevOps,"$99,060"
+PER-91357,27,CÓRDOBA,Argentina,Kotlin|R|TypeScript,Vue|Node.js,Cisco CCNA,5.0,Posgrado,Data Science,14661
+PER-91358,28,Buenos Aires,Argentina,C#|Java|Scala,.NET,None,4.0,Autodidacta,BI/Analytics,US$ 22.261
+PER-91359,23,Córdoba,Argentina,Java|TypeScript|Scala,Laravel|Spark,AWS CCP,1.0,Técnico,BI/Analytics,USD 20805
+PER-91360,24,Medellín,Colombia,PHP,Angular|Vue,GCP ACE|None,4.0,Posgrado,DevOps,USD 16701
+PER-91361,31,Seattle,USA,r|typescript,Laravel|.NET,Scrum Master|AWS CCP,,Técnico,Frontend,$132000
+PER-91362,25,córdoba,Argentina,PHP|TypeScript,Angular,None|Scrum Master,3.0,Autodidacta,Data Science,14229
+PER-91363,32,Concepción,Chile,Go,Spark,AWS CCP,0.0,Pregrado,DevOps,USD 25171
+PER-91364,35,???,Perú,Scala|Kotlin|Go,Flask,None|GCP ACE,4.0,Técnico,DevOps,US$ 20.276
+PER-91365,30,Córdoba,Argentina,Scala|C#,React,Cisco CCNA,2.0,Pregrado,BI/Analytics,$13878
+PER-91366,32,Santiago,Chile,TypeScript|PHP,Angular,Cisco CCNA,0.0,Posgrado,IA,$21155
+PER-91367,23,San Francisco,USA,php|python,Laravel|Spark,None,2.0,Tecnólogo,Ciberseguridad,$68252
+PER-91368,43,cdmx,México,JavaScript|R|Swift,Node.js|Spark,Cisco CCNA|None,0.0,Posgrado,BI/Analytics,"$15,354"
+PER-91369,,Buenos Aires,Argentina,TypeScript,Laravel|Spring,Cisco CCNA|AWS CCP,2.0,Técnico,Cloud,14851
+PER-91370,29,Santiago,Chile,php|javascript|r,.NET|Flask,Azure Fundamentals,1.0,Autodidacta,DevOps,USD 38501
+PER-91371,30,???,Chile,Swift,Flask,None|AWS CCP,2.0,Pregrado,Data Science,17088
+PER-91372,24,Medellín,Colombia,PHP|Go,Django|Spring,Azure Fundamentals,5.0,Pregrado,Frontend,US$ 13.050
+PER-91373,27,San Francisco,USA,Swift|TypeScript,Angular,AWS CCP|None,1.0,Técnico,Data Science,100793
+PER-91374,35,???,España,JavaScript|Swift|R,.NET,Cisco CCNA,,Autodidacta,Frontend,US$ 42.107
+PER-91375,29,San Francisco ,USA,Python|Java|Go,Spark|Laravel,Scrum Master,4.0,Tecnólogo,Backend,66503
+PER-91376,22,Bogotá,Colombia,java|php,Laravel,GCP ACE,1.0,Posgrado,Ciberseguridad,USD 13492
+PER-91377,18,Lima,Perú,JavaScript|PHP,.NET|React,AWS CCP|Cisco CCNA,6.0,Tecnólogo,BI/Analytics,20529
+PER-91378,25,Lima,Perú,Go|Python,Spring|FastAPI,Cisco CCNA,3.0,Autodidacta,DevOps,"$23,541"
+PER-91379,34,New York,USA,PHP|JavaScript|Go,Spring,Azure Fundamentals,5.0,Pregrado,Backend,USD 92980
+PER-91380,30,Barcelona,España,Go|Scala,Spring,Cisco CCNA,,Tecnólogo,Ciberseguridad,USD 36698
+PER-91381,27,Buenos Aires,Argentina,Python|JavaScript,React|Node.js,AWS CCP ,3.0,Autodidacta,Cloud,26673
+PER-91382,28,???,USA,Scala|Java,Spark|.NET,Scrum Master|None,1.0,Autodidacta,BI/Analytics,US$ 129.486
+PER-91383,29,Buenos Aires,Argentina,Go|Scala|C#,.NET|Laravel,Cisco CCNA|GCP ACE,2.0,Tecnólogo,Cloud,"$10,571"
+PER-91384,27,Guadalajara,México,Scala,Flask|Vue,AWS CCP,7.0,Autodidacta,Backend,27585
+PER-91385,38,Madrid,España,Python|PHP,Node.js|.NET,AWS CCP,2.0,Pregrado,Frontend,$64805
+PER-91386,35,Santiago,Chile,TypeScript,Node.js,Azure Fundamentals,2.0,Tecnólogo,BI/Analytics,14528
+PER-91387,29,New York,USA,R|Swift,Laravel,Cisco CCNA,2.0,Autodidacta,IA,$67465
+PER-91388,34,Madrid,España,Java|Swift,React,GCP ACE|Scrum Master,2.0,Posgrado,IA,USD 30565
+PER-91389,20,Arequipa,Perú,PHP|TypeScript,Vue,Scrum Master,0.0,Autodidacta,Ciberseguridad,USD 27482
+PER-91390,24,Austin,USA,Kotlin|Swift|Java,React,Cisco CCNA,0.0,Tecnólogo,BI/Analytics,"$76,904"
+PER-91391,18,lima,Perú,Scala|JavaScript,Flask|Laravel,AWS CCP,0.0,Técnico,Backend,USD 12682
+PER-91392,31,Buenos Aires,Argentina,Swift|Python,React|Node.js,GCP ACE|AWS CCP,4.0,Posgrado,DevOps,14701
+PER-91393,29,MEDELLÍN,Colombia,Java|Go,Node.js,GCP ACE,7.0,Autodidacta,DevOps,USD 14992
+PER-91394,21,Arequipa,Perú,C#,Flask|Django,GCP ACE,3.0,Tecnólogo,Data Science,USD 14692
+PER-91395,47,Barcelona,España,Python|Go,Vue,AWS CCP,1.0,Técnico,Cloud,$77696
+PER-91396,23,Cusco,Perú,TypeScript|R,Node.js|Flask,Azure Fundamentals,1.0,Posgrado,Backend,"$18,575"
+PER-91397,26,Valencia,España,Swift|Python|R,Node.js,Azure Fundamentals ,2.0,Pregrado,Data Science,$28012
+PER-91398,32,VALPARAÍSO,Chile,Swift|Python,.NET,GCP ACE,1.0,Pregrado,DevOps,US$ 23.697
+PER-91399,32,Santiago,Chile,Swift|Java,Laravel,Scrum Master,3.0,Autodidacta,Cloud,$23475
+PER-91400,41,Seattle,USA,Go|JavaScript,React|.NET,Scrum Master,4.0,Pregrado,Ciberseguridad,$124323
+PER-90933,33,Concepción,Chile,JavaScript|R,Spring|Angular,AWS CCP,1.0,Pregrado,Ciberseguridad,USD 27500
+PER-90072,38,Cali,Colombia,Java|JavaScript|Scala,Vue|Node.js,Cisco CCNA|Azure Fundamentals,6.0,Autodidacta,Cloud,$9214
+PER-91365,30,Córdoba,Argentina,Scala|C#,React,Cisco CCNA,2.0,Pregrado,BI/Analytics,$13878
+PER-90601,25,Bogotá,Colombia,TypeScript|Python,Django|Node.js,None|Cisco CCNA,3.0,Autodidacta,Cloud,7494
+PER-91195,,rosario,Argentina,c#|python,Angular,GCP ACE,2.0,Autodidacta,DevOps,USD 13708
+PER-90725,31,Guadalajara,México,Swift|Python,Flask|.NET,AWS CCP,5.0,Posgrado,Data Science,25920
+PER-91227,19,Lima,Perú,swift|php,Flask|Vue,AWS CCP|GCP ACE ,1.0,Pregrado,Data Science,US$ 29.769
+PER-90862,29,Sevilla,España,php,Angular|Laravel,None,1.0,Pregrado,Frontend,$43217
+PER-90466,33,Córdoba,Argentina,php|r,Spring|FastAPI,Scrum Master,2.0,Autodidacta,IA,15142
+PER-90070,29,CDMX,México,Scala|JavaScript,Angular,Cisco CCNA,2.0,Tecnólogo,IA,"$21,090"
+PER-91383,29,Buenos Aires,Argentina,Go|Scala|C#,.NET|Laravel,Cisco CCNA|GCP ACE,2.0,Tecnólogo,Cloud,"$10,571"
+PER-90015,26,Puebla,México,PHP|Java,React|FastAPI,Cisco CCNA,1.0,Autodidacta,Backend,15888
+PER-90505,33,GUADALAJARA,México,Kotlin|PHP,React|Vue,GCP ACE|None,4.0,Posgrado,Backend,$12235
+PER-90835,33,Rosario,Argentina,Scala|PHP|C#,React,AWS CCP,1.0,Tecnólogo,Frontend,US$ 24.433
+PER-90524,34,Santiago,Chile,java,Node.js|Angular,Scrum Master|AWS CCP,1.0,Tecnólogo,Frontend,21626
+PER-90189,29,Sevilla,España,Java|C#,Spark|Django,GCP ACE|Azure Fundamentals ,4.0,Autodidacta,Frontend,$56591
+PER-90932,32,Rosario,Argentina,R|PHP,Spark|Spring,AWS CCP,1.0,Técnico,Cloud,"$17,176"
+PER-90908,28,CDMX,México,swift|scala|typescript,Vue|Spring,GCP ACE,2.0,Pregrado,Ciberseguridad,USD 23610
+PER-90826,28,Rosario,Argentina,Python|C#,Spring,GCP ACE,2.0,Tecnólogo,DevOps,23641
+PER-91372,24,Medellín,Colombia,PHP|Go,Django|Spring,Azure Fundamentals,5.0,Pregrado,Frontend,US$ 13.050
