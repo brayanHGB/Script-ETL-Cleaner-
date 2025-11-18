@@ -1,19 +1,18 @@
-# 🚀 Script ETL Cleaner - TechSkills Analytics
+#  Script ETL Cleaner - TechSkills Analytics
 
 Sistema ETL completo para análisis del mercado laboral tecnológico con minería de datos y exportación a Power BI.
 
-## 📋 Descripción
-
+## Descripción
 **Script ETL Cleaner** es un sistema integral de procesamiento de datos que analiza el mercado laboral tecnológico mediante:
 
-- ✅ **Extracción** de 3 fuentes de datos (empleos, inversiones, perfiles)
-- ✅ **Limpieza** automática con eliminación de duplicados y outliers
-- ✅ **Transformación** con normalización y esquemas unificados
-- ✅ **Minería de datos** con clustering y clasificación ML
-- ✅ **Warehouse consolidado** con 3,145 registros únicos
-- ✅ **Exportación Power BI** con 6 datasets optimizados
+ **Extracción** de 3 fuentes de datos (empleos, inversiones, perfiles)
+- **Limpieza** automática con eliminación de duplicados y outliers
+-  **Transformación** con normalización y esquemas unificados
+- **Minería de datos** con clustering y clasificación ML
+-  **Warehouse consolidado** con 3,145 registros únicos
+-  **Exportación Power BI** con 6 datasets optimizados
 
-## 🎯 Resultados Clave
+##  Resultados Clave
 
 ### Insights Descubiertos:
 - **5 perfiles profesionales** segmentados por geografía y salario
@@ -70,7 +69,7 @@ python src/data_mining.py
 python src/powerbi_export.py
 ```
 
-## 📊 Datasets Generados
+##  Datasets Generados
 
 ### Power BI (6 archivos optimizados):
 - `main_data_powerbi.csv` - 3,145 registros completos
@@ -83,7 +82,7 @@ python src/powerbi_export.py
 ### Warehouse Principal:
 - `TechWarehouse.csv` - Dataset consolidado (566KB, 3,145 registros únicos)
 
-## 🤖 Análisis de Machine Learning
+## Análisis de Machine Learning
 
 ### Clustering (K-Means):
 - **5 clusters profesionales** identificados
@@ -98,7 +97,7 @@ python src/powerbi_export.py
 - **2/4 técnicas exitosas** (clustering + clasificación)
 - **Asociaciones/regresión**: datos insuficientes
 
-## 🗺️ Power BI Dashboard
+## Power BI Dashboard
 
 ### Páginas Incluidas:
 1. **Resumen Ejecutivo** - KPIs principales
@@ -127,7 +126,7 @@ python src/powerbi_export.py
 4. **Vue** (206 menciones) - Frontend
 5. **Flask** (198 menciones) - Python API
 
-## 📈 Métricas de Rendimiento
+## Métricas de Rendimiento
 
 - **Tiempo ejecución**: ~4 segundos
 - **Registros procesados**: 3,145 únicos  
@@ -135,7 +134,7 @@ python src/powerbi_export.py
 - **Éxito minería**: 50% (2/4 técnicas)
 - **Datasets BI**: 100% sin duplicados
 
-## 🌍 Cobertura Geográfica
+## Cobertura Geográfica
 
 ### Países Analizados (7):
 - **USA**: $91,015 promedio (mercado premium)
@@ -148,7 +147,7 @@ python src/powerbi_export.py
 
 ### Ciudades: 36 ciudades identificadas
 
-## ⚡ Características Técnicas
+##  Características Técnicas
 
 - **Arquitectura modular** con separación de responsabilidades
 - **Logging completo** con trazabilidad total
@@ -157,11 +156,11 @@ python src/powerbi_export.py
 - **Optimización Power BI** sin duplicados
 - **Documentación técnica** completa
 
-## 📄 Licencia
+##  Licencia
 
 MIT License - Ver archivo `LICENSE` para detalles.
 
-## 👥 Contribuciones
+## Contribuciones
 
 1. Fork del proyecto
 2. Crear rama feature (`git checkout -b feature/nueva-funcionalidad`)
@@ -169,7 +168,7 @@ MIT License - Ver archivo `LICENSE` para detalles.
 4. Push a rama (`git push origin feature/nueva-funcionalidad`)
 5. Abrir Pull Request
 
-## 📞 Contacto
+##  Contacto
 
 - **Autor**: brayanHGB
 - **Repositorio**: https://github.com/brayanHGB/Script-ETL-Cleaner-
